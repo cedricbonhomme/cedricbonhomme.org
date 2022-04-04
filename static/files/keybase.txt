@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/cedricbonhomme
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.cedricbonhomme.org
+  * I am cedricbonhomme (https://keybase.io/cedricbonhomme) on keybase.
+  * I have a public key with fingerprint 55F5 D60E EFCA 3591 0089  18E7 A1CB 94DE 57B7 A70D
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "55f5d60eefca3591008918e7a1cb94de57b7a70d",
+            "host": "keybase.io",
+            "key_id": "a1cb94de57b7a70d",
+            "kid": "0101a5d52e32979f02fe7cb56c2e8a0c82ca807546c711032e75937d2f60d22ab1f90a",
+            "uid": "1ff200d9708fa88a32132e6cfbc0d400",
+            "username": "cedricbonhomme"
+        },
+        "service": {
+            "hostname": "www.cedricbonhomme.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1421095233,
+    "expire_in": 157680000,
+    "prev": "f1bf3b98618635d51526c55699d6ed9a87be4ec7f3beee5f0fb08809c2073aa0",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtkn9MVVUcwN+DCPlhgSjmJjQviKM9nufe++4vlqMoFHoQuMEsUt+7P86Fi/Du
+877LD3mVJLhBqFGRSclCBTWz6A1UBkbBKhuMFJFYPn0uhpiuHClIoBudx+yPts4/
+Z+f7/Xw/53y/Ow1LAw0BxiODjb4t504sNQ7eFgy5nXi6GxNUaReW7MZ2wMVNVhwF
+UHNqikPHkjGKkimJBhDKIk9SHA4Ay+EsZHhcFDiLBClGYHgGSJgJK1Rd/gqkEXgX
+NCsqiqGDTZFQ9H/4HYsJgAOcpySKgCTBMZwMCBkyokDRIgFZHogsIfIsYCgLLTI4
+DkgCMhRHMhIh00AiCF7AZQ7wSFe6qMNlmQBA4hjAyjzL8iSBoxJalAURSBYA/KAL
+ag6+BCJahJKmiILqKFRLUOAtE4ZyZYoI/YPw9/OYKy8vN/+XNataAXI5NVVXRbUY
+MYW67kz2K/RdzsUaKNge22yC4pDQWFFBGdRciurAknFEirri1+MWAgccRZCkCYMV
+TkWDNsVPUAzNArT818AypJRxQSYFjqVxlibRzHCKoEWKojlOoqHE8SwjQAsUGQRB
+CCkZyAJgWcCJBGBInvc374I7HSqWTKFnRvIFyOlSChy8Xqqh7kPrAlY/YTAGGJ4M
+CvB/DUNoSMS//8XeEWE402Uy9fe+3iuHK/e9FfrytpShe8cbw9gLGTG3pN2NOQ1r
+r76WagjJNtrPZM5uqmw70Pp7/kifqZJ8dX39ZWNMXHeLY8E7FPdSnbf4UjT2+dRT
+Q86B6UNR13IergkIiaYqjlErg8MSSvI+nBj5bnNh8MbcyKZm/bOO28tevEizf6R7
+9geZrZVxwSed1ZlZ/baM1MRre9yhOWD0/NNjp+xhE9PRrUrXL56/g8pXzj1IOfyG
+PbGnurVqXEn0mSdbmmb6ItfZSsKL+LhHeTPGq2uZG7beQE9jZn3z3aPf7wMHbYNL
+pvsLj49uwcJ/DHqu+9blCKCBmhUppxM8bdYbr3xd3J+kuZ+tKQk5NQq2ZoltfR2d
+pt820Sfn4rH8LKPv7J1von0Tx96/klZ+dvlHNu9778SusF/c9sXg9Q0H4rs+8aWO
+df68Ola/247XWiit7nrRm4cT6Evdw6UPhm72WKfGJx+apLqxrSeym8oCBybX/LR9
+o2c7kV4/4K75ODPqZsNRPnD35rTO9QtpR6x7xxsTl72cdDrXxMW8sO0ZcWdlhudT
+pjlvds8q76oMh2u+vX0yagSzB89lLQxnX5j+s8fXUvR20ozba5u+X7UhduzQVO3w
+3oMhpcXKo9D52nMf5Fvno374ct1fdOavbG/Tla6Ir2blqur21m/1e+eXPB+/j2i+
+8+5AkK/zHw==
+=/w4D
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cedricbonhomme
+
+==================================================================
+

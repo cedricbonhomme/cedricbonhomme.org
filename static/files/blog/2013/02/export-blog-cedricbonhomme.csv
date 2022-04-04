@@ -1,0 +1,451 @@
+article_date,article_title,article_content
+,,
+2010-11-02T11:04:56Z,"Tout beau, tout neuf","<p>Vous avez pu constater quun certain nombre de choses ont changé sur mon site hébergé chez free. Qui à terme ne sera plus utilisé (il me..."
+2010-10-29T15:06:01Z,"Ailleurs","<p>Ça se passe <a href=""http://cedric.alwaysdata.net/wiki/blog"">ici</a>.</p>
+<p>Comme expliqué nhésitez surtout pas à me donner des retours..."
+2010-10-25T19:42:57Z,"Simple Art of Steganography","<div align=""center""><a href=""http://en.wikipedia.org/wiki/Easter_egg_(media)""><img src=""http://upload.wikimedia.org/wikipedia/commons/c/c3/Ukrainskie_..."
+2010-10-23T10:21:15Z,"Le MacBook va disparaître","<p>Dun côté c'est une très bonne nouvelle. Dun autre il sera remplacé en quelque sortes par liPad avec le<a href=""http:..."
+2010-10-21T16:08:29Z,"MAS (SMA) et MapReduce","<p>Ces derniers temps je m'intéresse un peu à <a href=""http://en.wikipedia.org/wiki/MapReduce"">MapReduce</a> (les personnes ayant le bon goût..."
+2010-10-21T15:41:10Z,"pyAggr3g470r – Archives","<p>Voilà un exemple d<a href=""http://cedric.bonhomme.free.fr/data/archives_2010-10-21-pyAggr3g470r/"">archives au format HTML</a> quil e..."
+2010-10-18T20:35:33Z,"pyAggr3g470r 2.0 – News","<div align=""center""><a href=""http://www.zooomr.com/photos/cedricbonhomme/9543509/""><img title=""pyAggr3g470r 2.0"" src=""http://static.zooomr.com/images/..."
+2010-10-11T20:41:11Z,"WebM, VP8, Theora et Vorbis","<p>Lobjectif de ce billet est déclaircir un peu les choses à propos des <em>nouveaux</em> formats dont on parle de plus en plus. J&#82..."
+2010-10-06T13:28:39Z,"Stéganô and the Free Software Song","<blockquote><pre>hg clone http://bitbucket.org/cedricbonhomme/stegano/
+cd stegano
+wget http://www.gnu.org/music/free-software-song.ogg
+./lsb-s.py --hi..."
+2010-10-05T10:04:01Z,"Encore plus vite","<p>Ci-dessous une <a href=""http://bitbucket.org/cedricbonhomme/stegano/src/tip/steganalysis-parity.py"">stéganalyse</a> de <a href=""http://www.zooomr...."
+2010-10-04T19:04:40Z,"Photo libre d'Irlande","<p>Petite pause avec la stéganalyse pour tester quelque chose dun peu différent.</p>
+<blockquote>
+<pre>import urllib
+import base64
+from PIL i..."
+2010-10-03T23:01:22Z,"Stéganalyse de la méthode LSB","<p>Comme expliqué dans le <a href=""http://cedric.bonhomme.free.fr/blog/index.php/archives/2010/10/01/lena/"">billet précédent</a> la technique LSB (..."
+2010-10-01T22:22:40Z,"Lena","<p><a href=""http://cedric.bonhomme.free.fr/images/Lenna_LSB.png""><img class=""aligncenter"" title=""Lenna"" src=""http://cedric.bonhomme.free.fr/images/Len..."
+2010-10-01T06:21:17Z,"Lenna","<p><a href=""http://cedric.bonhomme.free.fr/images/Lenna_Simple_Method.png""><img class=""aligncenter"" title=""Lenna"" src=""http://cedric.bonhomme.free.fr/..."
+2010-09-27T21:51:50Z,"Google AI Challenge","<p>Quand le challenge dIA de Google prouve par la pratique que Python est supérieur et que Java est inférieur.</p>
+<p><a href=""http://cedric...."
+2010-09-26T17:18:18Z,"pySecret","<pre>you@debian:~$ hg clone <a href=""http://bitbucket.org/cedricbonhomme/pysecret"">http://bitbucket.org/cedricbonhomme/pysecret</a></pre>
+<pre>you@deb..."
+2010-09-15T15:05:10Z,"Planet Wars","<p>Programmez votre <em>bot</em> et venez vous affronter au <a href=""http://ai-contest.com/starter_packages/python_starter_package.zip"">Google AI Chal..."
+2010-09-13T20:58:11Z,"Sauvegarder les données de valeurs","<p>Le <a href=""http://cedric.bonhomme.free.fr/blog/index.php/archives/2010/09/13/%E2%80%9Cbye-bye-mandriva-let-me-know-when-it%E2%80%99s-fixed%E2%80%9..."
+2010-09-13T06:08:06Z,"“Bye bye Mandriva! let me know when it’s fixed”","<p><a href=""http://fr.wikipedia.org/wiki/Mandriva_Linux""><em>Mandriva Linux</em></a> pour moi c'est:</p>
+<ul>
+<li>une distribution <a href=""http..."
+2010-09-10T15:56:04Z,"I want Python (2.7) and pyAggr3g470r!","<p><a href=""https://bitbucket.org/cedricbonhomme/pyaggr3g470r/wiki/installation"">Lets go.</a></p>"
+2010-09-03T15:08:22Z,"Gestion chronologique des nouvelles","<p>﻿﻿Vous rappelez vous du <a href=""http://cedric.bonhomme.free.fr/blog/index.php/archives/2010/04/16/nuage-de-tags-avec-python/"">billet</a> qui p..."
+2010-09-02T14:31:40Z,"Erreurs URL","<p>Lorsque lon développe une application utilisant des ressources Web il est agréable de pouvoir tester la disponibilité de ces dernières.<..."
+2010-08-25T15:11:49Z,"Récemment","<p>Quelques changements ces derniers temps. Différentes intéressantes activités.</p>
+<ul>
+<li>après une <a href=""http://www.google.com/buzz/kimble..."
+2010-06-30T18:08:09Z,"Petite comparaison des dernières versions de Firefox et Chrome","<p>Environ six mois après lécriture de <a href=""http://cedric.bonhomme.free.fr/blog/index.php/archives/2009/11/21/navigateurs/"">ce billet</a>..."
+2010-06-09T18:04:28Z,"Nouvelles en vidéo de pyAggr3g470r","<p>Pour faire original je me suis dit que serait bien de faire une démonstration en vidéo de <a href=""http://bitbucket.org/cedricbonhomme/pyaggr3g47..."
+2010-05-22T08:05:37Z,"Zooomr versus Flickr","<p>Ah quest-ce que c'est embêtant dessayer de maintenir conjointement un compte <a href=""http://www.zooomr.com/photos/cedricbonho..."
+2010-05-02T08:14:10Z,"pyAggr3g470r 1.2 sur Ubuntu 10.04","<p><img class=""aligncenter"" title=""pyAggr3g470r avec Ubuntu10.04"" src=""http://lh6.ggpht.com/_ZtPyn8ZoyCc/S90p36PFsGI/AAAAAAAABms/KA0bw-8RI5k/s800/pyAg..."
+2010-04-25T09:20:20Z,"Le Web et moi (partie 1)","<p>De temps en temps je vérifie les données me concernant sur le Web. Autant dire tout de suite quil y en a beaucoup. Ça peut faire peur mai..."
+2010-04-16T12:51:12Z,"Nuage de tags avec Python","<p>Rien de plus simple:</p>
+<blockquote>
+<pre>def tag_cloud(tags):
+    """"""
+    Generates a tags cloud.
+    """"""
+    tags.sort(lambda x,y: cmp(x[0], y[0..."
+2010-04-15T12:58:05Z,"pyAggr3g470r et IP-Link – Nouveautés","<p>Bonjour gentils lecteurs!</p>
+<p>Voilà, je me disais que ça fait presque longtemps que je n'ai pas parlé de <a href=""http://bitbucket.org/..."
+2010-03-29T08:09:44Z,"Memo","<ul>
+<li>AnnArbor</li>
+<li>Antibes</li>
+<li>Berkeley</li>
+<li>Berlin</li>
+<li>Boadilla</li>
+<li>CambridgeUS</li>
+<li>Copenhagen</li>
+<li>Dresden</li>
+..."
+2010-03-27T13:31:25Z,"Programme de gestion de Photos","<p>Principale question de cet article: Quutilisez vous comme programme de gestion de photos libre ?</p>
+<p>Personnellement jutilise <a h..."
+2010-03-26T13:49:28Z,"Cadeau Pythonesque","<p>Voilà un mini script que j'ai écrit hier soir en cinq minutes grand maximum.</p>
+<pre>#! /usr/local/bin/python
+#-*- coding: utf-8 -*-
+
+impo..."
+2010-03-22T21:34:47Z,"pyAggr3g470r – Notification par mail","<p><a href=""http://picasaweb.google.com/cedric.photos/PyAggr3g470r#slideshow/5451572296948966050""><img class=""aligncenter"" title=""Mail notification"" s..."
+2010-03-18T12:05:10Z,"some_things_to_do","<ul>
+<li><a href=""http://www.zooomr.com/photos/cedricbonhomme?sortmode=awesomeness"">profiter du temps, se promener et prendre des photos libres</a>;</..."
+2010-03-14T16:21:30Z,"Fini le carnage","<p>Enfin bientôt, jespère !</p>
+<p>Quand je parle de carnage, je parle de <a href=""http://www.zooomr.com/photos/cedricbonhomme?sortmode=aweso..."
+2010-03-08T21:19:01Z,"pyAggr3g470r – Démonstration","<p>Bien que <a href=""http://bitbucket.org/cedricbonhomme/pyaggr3g470r/"">pyAggr3g470r</a> a été développé pour une utilisation personnelle j..."
+2010-02-28T17:01:44Z,"Detection de langues avec Python","<p><a href=""http://cedric.bonhomme.free.fr/images/pyAggr3g470r-lang4.png""></a><a href=""http://cedric.bonhomme.free.fr/images/pyAggr3g470r-lang4.png""><..."
+2010-02-27T16:10:55Z,"Python 3","<p><a href=""http://cedric.bonhomme.free.fr/images/Minesweeper3K.png""><img class=""aligncenter"" title=""Minesweeper 3K"" src=""http://cedric.bonhomme.free...."
+2010-02-24T21:33:26Z,"pyAggr3g470r 0.8 – Changelog","<p>Et voilà la version  0.8 de <a href=""http://bitbucket.org/cedricbonhomme/pyaggr3g470r/"">pyAggr3g470r.</a> Principales modifications:</p>
+<ul>
+<li>..."
+2010-02-18T19:12:35Z,"Google Bu(g|zz)","<p>Voyant la déferlante de plaintes contre le nouveau service Google Buzz je me pose quelques questions. En effet je ne vois pas trop la différence ..."
+2010-02-05T21:11:46Z,"pyAggr3g470r 0.6 – Changelog","<div class=""wp-caption aligncenter""><a href=""http://cedric.bonhomme.free.fr/images/pyAggr3g470r/pyAggr3g470r-1.png""><img class=""      "" title=""pyAggr3..."
+2010-02-01T21:47:33Z,"pyAggr3g470r 0.4","<p>Il arrive que les trajets de train soient assez productifs (parfois&#8230;). (Ah si javais un de ces petits <em>Eee PC</em> avec une autonom..."
+2010-01-29T20:26:30Z,"pyAggr3g470r","<p><a href=""http://cedric.bonhomme.free.fr/images/pyAggr3g470r.png""><img class=""aligncenter"" title=""pyAggr3g470r"" src=""http://cedric.bonhomme.free.fr/..."
+2010-01-26T20:36:16Z,"Gandi","<p>Le changement dadresse va-til avoir lieu plus tôt que &#8220;prévu&#8221; (<em>prévu</em> est un grand mot) ? Je viens de recevoir..."
+2010-01-23T10:34:23Z,"Deux nouveaux plasmoïdes","<p><a href=""http://cedric.bonhomme.free.fr/images/plasmo-gmail.png""><img class=""aligncenter"" title=""plasmo-gmail"" src=""http://cedric.bonhomme.free.fr/..."
+2010-01-23T00:51:38Z,"Plasmoïde pour KDE4 avec Python","<p>Cet article va expliquer comment créer un simple plasmoïde avec Python pour KDE.</p>
+<p>Ce plasmoïde va tout simplement afficher des <a href=""ht..."
+2010-01-22T13:28:13Z,"Warriors of the Net","<p>Envie ou besoin de réviser un peu les bases du modèle de couches <a href=""http://en.wikipedia.org/wiki/Internet_Protocol_Suite"">TCP/IP</a> ?</p>
+..."
+2010-01-19T21:18:05Z,"Carmageddon","<div class=""wp-caption aligncenter""><a href=""http://cedric.bonhomme.free.fr/images/carmageddon3.png""><img class="" "" title=""Carmageddon"" src=""http://ce..."
+2010-01-10T19:26:29Z,"Nouveau thème de blog","<p>Aujourdhui je me suis dit quil serait temps de faire la mise à jour de WordPress vers la version 2.9.1. J'ai donc fais cette m..."
+2010-01-02T11:01:43Z,"Forban","<p><a href=""http://www.foo.be/forban/"">Forban</a> est une application que j'ai découvert hier soir. Cette application permet de créer en 5 sec..."
+2009-12-28T09:36:51Z,"pyChatter, ça avance !","<div id=""_mcePaste"">pyChatter, ça avance !</div>
+<div id=""_mcePaste"">Ces vacances sont plutôt fructueuses étant donné que javance relativem..."
+2009-12-23T19:10:34Z,"pyChatter [is not dead]","<p>Dans <a href=""http://cedric.bonhomme.free.fr/blog/index.php/archives/2009/07/12/pychatter/"">ce billet</a> jannonçais la naissance du proje..."
+2009-12-13T09:34:47Z,"Intégration de Firefox à KDE 4","<p>Finalement lintégration de Firefox avec KDE 4 semble être en bon train. Le projet Fedora sest attelé au problème et a déjà <a h..."
+2009-11-27T20:39:33Z,"FotoWall","<p><a href=""http://www.zooomr.com/z/photos/zoom/8590925/size-16/""><img class=""aligncenter"" title=""Petit test de FotoWall"" src=""http://static.zooomr.co..."
+2009-11-24T14:56:09Z,"Ackermann","<h2>A(4, 2) = ?</h2>
+<p>Indice:</p>
+<pre><a title=""Solution"" href=""http://cedric.bonhomme.free.fr/data/ackermann_4_2"">74f758d95e3ee157e0a51d8cb4dc03b3..."
+2009-11-21T11:50:18Z,"Navigateurs","<p>En quête dun navigateur bien intégré à KDE 4 (depuis mon <a href=""http://cedric.bonhomme.free.fr/blog/index.php/archives/2009/11/15/bye-..."
+2009-11-19T22:06:52Z,"Chromium OS","<p>Voilà lannonce de <a href=""http://www.chromium.org/chromium-os"">Chromium OS</a> est faite et jen pense pas grand chose (de bien).</p..."
+2009-11-15T14:49:17Z,"""Bye bye Firefox! let me know when it's fixed""","<p>Ça fait déjà un peu plus dun an que jy songe: abandonner Firefox. Dans ce billet je vais évoquer les principales motivations de c..."
+2009-10-20T18:30:41Z,"La citation du jour …","<blockquote><p>My Zen teacher once told me that, when people try to do you harm, you should thank them for giving you the opportunity to forgive them...."
+2009-10-14T18:36:59Z,"Statistiques pour cedricbonhomme.zapto.org","<p>Autant dire que pour cette première capture je suis très satisfait du résultat. Elle a durée environ 12 heures.</p>
+<p>Je pensais franchement q..."
+2009-10-13T21:58:07Z,"Magnifique session KDE","<div class=""wp-caption aligncenter""><a href=""http://cedric.bonhomme.free.fr/images/sessionKDE.svg""><img class=""  "" src=""http://cedric.bonhomme.free.fr..."
+2009-10-13T00:46:31Z,"Petit test avec Tor","<p>Voilà comme je travaille de nouveau sur <a href=""http://ip-link.wikidot.com/"">IP-Link</a>, je me suis dit que jallais l'utiliser pour..."
+2009-09-30T22:00:06Z,"La nouvelle vague arrive","<p>Avec Google Wave qui prétend révolutionner le mail :</p>
+<p><a href=""http://cedric.bonhomme.free.fr/images/GoogleWave.png""><img class=""aligncente..."
+2009-09-30T18:07:17Z,"Sécurité de son bureau","<p>Aujourdhui j'ai fais de lordre dans les configurations de mon tout petit réseau et j'ai commencé à écrire quelques ar..."
+2009-09-28T00:24:57Z,"Organisation et archivage des souvenirs","<p>On dit souvent que je suis maniaque avec mes photos. Moi je trouve ça normal. Les photos numériques permettent de faire un tas de choses et la ma..."
+2009-09-07T18:05:49Z,"identi.ca","<p>Une fois de plus je métonne en testant le micro-blogging avec <a title=""identi.ca"" href=""http://identi.ca/cedricbonhomme"">identi.ca</a>.</p..."
+2009-08-19T20:03:03Z,"Membre de l'April","<p>Voilà ma petite fierté du moment.</p>
+<p><img class=""aligncenter"" title=""Cédric Bonhomme - Membre de lApril."" src=""http://cedric.bonhomme.free.f..."
+2009-07-12T19:03:54Z,"pyChatter","<p>Afin de rentabiliser le temps que je perds tout les jours dans le train pour aller bosser, je viens de me lancer dans un petit projet personnel. É..."
+2009-06-30T20:16:44Z,"Mono dans Debian !?","<p>Atroce nouvelle que je viens dapprendre :</p>
+<p>http://www.fsf.org/news/dont-depend-on-mono</p>
+<p>Le projet Debian à lintention d&..."
+2009-06-16T19:40:26Z,"Android et Android Scripting Environment","<p>Décidément Android c'est vraiment la classe. Je me dis de plus en plus que j'ai fais une excellente affaire avec mon Magic.</p>
+<p>Go..."
+2009-05-24T14:12:33Z,"HTC Magic","<p>Nouveau détenteur dun HTC Magic (et plus que satisfait), je suis en train de constituer une <a title=""Android"" href=""http://cedricbonhomme...."
+2009-05-10T16:33:41Z,"Python, Zope et Plone","<p>Voilà, je profite enfin de Python pour mon <a href=""http://cedricbonhomme.zapto.org/"">serveur personnel</a>.</p>
+<p>Ça faisait longtemps que l&#8..."
+2009-03-24T09:16:53Z,"Tuz","<div id=""attachment_220"" class=""wp-caption aligncenter""><a href=""http://cedric.bonhomme.free.fr/blog/wp-content/uploads/linux_tuz.jpg""><img class=""siz..."
+2009-03-17T13:13:37Z,"Analyser votre activité réseau","<p><a href=""http://ip-link.wikidot.com/"">IP-Link</a> vous permet danalyser facilement votre activité réseau :</p>
+<blockquote>
+<pre><code>deb..."
+2009-03-11T11:03:45Z,"IP-Link","<p><a href=""http://ip-link.wikidot.com/"">IP-Link</a> est un programme permettant danalyser les captures <a href=""http://fr.wikipedia.org/wiki/P..."
+2009-02-02T20:01:32Z,"Dive Into Python 3","<p>Bonne nouvelle. <a href=""http://diveintomark.org/"">Mark Pilgrim</a> est en train décrire <a href=""http://diveintopython3.org/"">Dive Into Py..."
+2009-02-01T20:47:23Z,"Démineur Python","<p>Avez vous déjà joué au démineur avec un pingouin ?</p>
+<p>La nouvelle version de <a href=""http://sites.google.com/site/pyminesweeper/"">Mineswee..."
+2009-01-31T15:06:37Z,"Ce site risque d'endommager votre ordinateur","<p>Aujourdhui Google semble avoir quelques petits problèmes.</p>
+<p><a href=""http://www.zooomr.com/z/photos/zoom/6811191/size-32/""><img class=..."
+2009-01-15T21:55:29Z,"Face2book (2)","<p>Je viens de lire <a href=""http://www.le-tigre.net/Marc-L.html"">un article</a> très intéressant du journal <a href=""http://www.le-tigre.net/""><em>..."
+2009-01-14T12:10:23Z,"Tux Droid et vos mails","<p>Vous en avez marre dattendre un mail toute la journée devant votre écran ?</p>
+<p>La solution : utiliser votre Tux Droid pour vous alerter..."
+2009-01-12T09:11:27Z,"Zooomr","<p><a href=""http://fr.wikipedia.org/wiki/Zooomr"">Zooomr</a> est un site site web permettant de partager des <span class=""mw-redirect"">photos numériqu..."
+2008-12-29T14:47:34Z,"Face2book (1)","<p>Voilà un petit script marrant que j'ai écrit vite fait pour <a href=""http://www.facebook.com/"">Facebook</a> :</p>
+<pre><strong>cat <a href=..."
+2008-12-23T22:03:10Z,"PlayOnLinux","<p>Je viens de découvrir aujourdhui un logiciel fantastique : <a href=""http://www.playonlinux.com/"">PlayOnLinux</a>. Mon cadeau de Noël un pe..."
+2008-12-08T20:21:14Z,"Minesweeper","<p><a href=""http://sites.google.com/site/pyminesweeper/"">Minesweeper</a> est une nouvelle implémentation Python du classique jeu du démineur.</p>
+<p..."
+2008-11-24T20:32:52Z,"Tux Droid est arrivé !","<p><a href=""http://www.zooomr.com/z/photos/zoom/6327777/size-4/""><img class=""alignright"" title=""Tux Droid"" src=""http://static.zooomr.com/images/632777..."
+2008-10-31T21:57:26Z,"Chiffrement","<p>Nous utilisons l'informatique au quotidien pour des besoins de plus en plus nombreux et variés. Il est important de protéger nos données c..."
+2008-10-20T20:36:50Z,"hack.lu","<p><a href=""http://wiki.hack.lu/""><img class=""aligncenter"" title=""hack.lu 2008"" src=""http://cedric.bonhomme.free.fr/images/hacklu08.png"" alt=""hack.lu ..."
+2008-10-17T19:23:26Z,"Bonjour tout le monde !","<p>Bienvenue dans WordPress. Ceci est votre premier article. Modifiez-le ou effacez-le, puis lancez-vous !</p>"
+2010-11-03T15:35:46Z,"pyAggr3g470r – Export pour DokuWiki","<p>Depuis mon récent changement dhébergeur et de wiki je profite pleinement des fonctionalités offertes par <a href=""http://www.dokuwiki.org..."
+2010-11-03T16:18:51Z,"Le combat des DVCS","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2010/11/mercurial-vs-git.jpg""><img src=""http://blog.cedricbonhomme.org/..."
+2010-11-07T23:19:47Z,"Agrégateur personnel","<p>Voici un petit <a href=""http://feeds.cedricbonhomme.org/"">agrégateur de flux</a> codé en 10 minutes. Il nest pas tout à fait terminé et ..."
+2010-11-08T20:55:20Z,"Agrégateur personnel (suite)","<p>Je viens de faire un peu évoluer le script dont je parlais hier afin quil fournisse lui-même un flux RSS. Il est maintenant utilisable ave..."
+2010-11-10T22:48:26Z,"Test de reposurgeon","<p>Je viens de tester un peu le nouveau projet <a href=""http://www.catb.org/esr/reposurgeon/"">reposurgeon</a>. reposurgeon permet de réaliser des op�..."
+2010-11-15T17:21:39Z,"HTML5 et les balises input","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2010/11/html5-input-url1.png""><img src=""http://blog.cedricbonhomme.org/..."
+2010-11-18T16:17:10Z,"pyAggr3g470r – Évolutions de l’interface","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2010/11/pyAggr3g470r_main-page.png""><img src=""http://blog.cedricbonhomm..."
+2010-11-21T23:22:45Z,"Calibre","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2010/11/calibre-3.png""><img class=""aligncenter size-large wp-image-1476..."
+2010-11-22T17:56:55Z,"Sacrée surprise!","<p>Venant enfin de me décider à ré-installer Tux Droid avec mes petits scripts pour Kmail (cette fois avec les <i>drivers</i> libres car Kysoh a ce..."
+2010-11-23T17:49:02Z,"pyAggr3g470r – EPUB","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2010/11/pyAggr3g470R-epub-1.png""><img src=""http://blog.cedricbonhomme.o..."
+2010-12-06T22:22:15Z,"Quelques notes sur Chromium OS","<p>Quelques notes sur <a href=""http://wiki.cedricbonhomme.org/doku.php/chromium-os"">Chromium OS</a>.</p>"
+2010-12-07T18:56:00Z,"pyAggr3g470r 2.4","<p><a href=""http://bitbucket.org/cedricbonhomme/pyaggr3g470r/changeset/cefeaa173b61"">Une</a> des versions les plus importantes. Ajouts de fonctionnali..."
+2010-12-08T21:53:52Z,"Diaspora – Télécharger mon XML","<p>Je viens de tester la fonction permettant de récupérer toutes les informations nous concernant sur Diaspora. Vraiment sympa, vraiment. Voici mes ..."
+2010-12-08T16:43:13Z,"Diaspora","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2010/12/diaspora-1.png""><img src=""http://blog.cedricbonhomme.org/wp-con..."
+2010-12-13T21:52:39Z,"Quelques notes sur Diaspora #1","<p>Diaspora est un donc un réseau social décentralisé. Il existe dautres projets ressemblants à Diaspora. Pour Diaspora de <a href=""http://..."
+2010-12-14T11:51:26Z,"Wikipedia","<p>Cet article vous sera peut être utile lors de conversations avec des personnes (habituellement <i>intelligentes</i>) affirmant que Wikipédia n&#8..."
+2010-12-14T21:32:28Z,"Quelques notes sur Python","<p><a href=""http://wiki.cedricbonhomme.org/doku.php/cs_lang:python:things-to-know"">Cool things to know</a>.</p>
+<p>Avec des choses <em>pas jolies</em>..."
+2010-12-16T15:13:08Z,"Petite pause sur les navigateurs","<p>Avec la mise à jour de Minefield dhier, j'ai voulu re-faire quelques tests&#8230; Désolé je n'ai pas le temps de commenter&#8..."
+2010-12-16T14:44:01Z,"La fin","<p>Pour une fois il ne sagit pas dinformatique. Sur ce blog je parle de choses qui mintéressent ou tout simplement qui ne sorten..."
+2010-12-28T16:42:49Z,"153","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2010/12/domyos-ve590.png""><img src=""http://blog.cedricbonhomme.org/wp-c..."
+2011-01-10T16:32:17Z,"La fin (suite)","<p>Et voillà, à la longue liste de <a href=""http://blog.cedricbonhomme.org/2010/12/16/la-fin/"">ce billet</a> nous pouvons ajouter : <a href=""http://..."
+2011-01-12T11:12:15Z,"Ce que je pense de ce que pense Stallman sur le Cloud Computing","<p>Stallman nest pas paranoïaque. Il a raison sur de nombreux points, tous en fait. Des internautes sacrifient leur vie privée sur l’autel ..."
+2011-01-15T15:38:26Z,"Zoom-Zoom","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/01/2010-05-23t112928-mazda_6_2.0_mzr_cd_120.jpg""><img src=""http://..."
+2011-01-12T16:09:57Z,"HadoPy-Data","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/01/hadopi-data_piechart.png""><img src=""http://blog.cedricbonhomme...."
+2011-01-21T15:08:27Z,"Il faut libérer Zooomr","<p>Un <a href=""http://www.zooomr.com/photos/cedricbonhomme/"">Zooomr</a> sous <a href=""http://www.gnu.org/licenses/agpl-3.0.html"">licence AGPL</a>, ça..."
+2011-01-24T22:38:38Z,"HadoPy-Data #2","<p>Je viens de continuer un peu mon petit script HadoPy-Data. Malheureusement il manque le module pylab sur les serveurs AlwaysData. Du coup pour le m..."
+2011-01-30T23:02:08Z,"Une monnaie pour les dons","<p>Peut-être ne connaissez vous pas encore <a href=""http://www.bitcoin.org/"">Bitcoin</a>. Ce nest pas une monnaie pour les dons, mais je vais ..."
+2011-02-03T11:28:04Z,"Anti-Microsoft rap","<div align=""center""></center></div>
+<p>Un sympathique petit rap à propos de Microsoft. Via <a href=""http://www.boingboing.net/2011/02/03/anti-microso..."
+2011-02-01T17:05:11Z,"HadoPy-Data #3 – Google API, heat map, pie chart","<p>La <a href=""http://hadopi-data.cedricbonhomme.org/"">page consacrée aux statistiques sur HADOPI</a> est maintenant un peu plus complète. Les graph..."
+2011-02-08T07:19:40Z,"KDE Wallet et Google Chrome","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/02/chrome-KDEWallet.png""><img src=""http://blog.cedricbonhomme.org/..."
+2011-02-10T16:38:33Z,"L’envolée de Python","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/02/history_Python.png""><img src=""http://blog.cedricbonhomme.org/wp..."
+2011-02-17T20:54:29Z,"Récupérer les données GPS d’Android en temps réel","<p>Un moyen sympa dexploiter le GPS de votre <i>smartphone</i> Android (Garmin ou autre dailleurs) est denregistrer une session d..."
+2011-02-22T22:30:11Z,"GPS, Android & Python","<p>Au lieu de <a href=""http://blog.cedricbonhomme.org/2011/02/17/recuperer-les-donnees-gps-dandroid-en-temps-reel/"">récupérer les données GPS d’A..."
+2011-02-23T16:22:36Z,"Une petite alternative à Google Latitude","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/02/OuEstCharlie.jpg""><img src=""http://blog.cedricbonhomme.org/wp-c..."
+2011-02-25T15:38:32Z,"Projets – Quelques nouvelles","<p>Quelques nouvelles à propos de deux projets, dont un nouveau <img src=""http://blog.cedricbonhomme.org/wp-includes/images/smilies/icon_wink.gif"" al..."
+2011-03-11T21:17:40Z,"PEP 3147","<p>J'aime vraiment lire les <a href=""http://www.python.org/download/releases/3.2/"">notes de versions de Python</a>. Toujours très réjouissante..."
+2011-03-17T19:46:19Z,"Contribuer au Web decentralisé","<p>Grâce à <a href=""http://ladistribution.net/"">La distribution</a> il est très facile dinstaller son serveur <a href=""http://cedricbonhomme..."
+2011-03-23T17:03:14Z,"En vrac (23/03/2011)","<p>Très exceptionnellement, un billet <i>en vrac</i>. </p>
+<h2>pyAggr3g470r</h2>
+<ul>
+<li>la version de pyAggr3g470r pour Python 3 (<a href=""https://..."
+2011-03-23T17:01:37Z,"Confiance envers les CA","<p>En tout cas <a href=""http://hg.mozilla.org/mozilla-central/rev/f6215eef2276"">Mozilla (commit 63436: change to handling of bad certificate)</a> et <..."
+2011-03-24T16:02:00Z,"Elisha","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/03/Elisha-Cuthbert_enc.jpg""><img src=""http://blog.cedricbonhomme.o..."
+2011-03-29T14:20:58Z,"pyAggr3g470r & Diaspora","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/03/pyAggr3g470r-Diaspora.png""><img src=""http://blog.cedricbonhomme..."
+2011-04-02T10:02:15Z,"Réserve naturelle de Montenach","<div><img src=""http://static.zooomr.com/images/9870182_26501b92f3_m.jpg"" title=""Photos prise à la réserve naturelle de Montenach"" /></div>
+<p>J&#821..."
+2011-04-10T14:20:47Z,"Honeycomb","<div align=""center""></div>
+<p>Je n'ai encore jamais essayé (ni été tenté par) une tablette, un <i>kindle</i> ou autre appareil du genre. Mai..."
+2011-04-15T05:21:23Z,"Chacun son Firefox","<p>Dorénavant si tu utilises Firefox tu as vraiment <a href=""http://www.mozilla.com/en-US/firefox/channel/"">le choix</a>. Avec à ce jour la version ..."
+2011-04-16T20:53:25Z,"The Art of Python Programming","<p>Un titre peut-être un peu trop prétentieux pour annoncer la sortie de pyAggr3g470r 2.7 (<a href=""http://freshmeat.net/projects/pyaggr3g470r/relea..."
+2011-04-16T09:21:05Z,"“Native HTML5: First IE10 Platform Preview Available for Download” décrypté par Mark Pilgrim","<p>Larticle <a href=""http://blogs.msdn.com/b/ie/archive/2011/04/12/native-html5-first-ie10-platform-preview-available-for-download.aspx"">Native..."
+2011-04-27T21:25:02Z,"Xoom","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/04/Honeycomb-xoom.jpg""><img src=""http://blog.cedricbonhomme.org/wp..."
+2011-05-05T17:28:05Z,"Archivage à long terme","<div align=""center""><div class=""wp-caption aligncenter""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/05/photos-progression-per-year..."
+2011-05-08T19:33:48Z,"Réserve naturelle de Montenach #2","<div align=""center""><img alt=""Orchidée à la réserve naturelle de Montenach"" src=""http://static.zooomr.com/images/9923297_3f805a8c37.jpg"" title=""Orc..."
+2011-05-19T16:28:40Z,"IP-Link en action","<div align=""center""><a href=""http://cedricbonhomme.org/ip-link/sarssi2011/sarssi2011-ip.png""><img src=""http://cedricbonhomme.org/ip-link/sarssi2011/sa..."
+2011-05-21T20:42:23Z,"BIOS protection","<p><a href=""http://csrc.nist.gov/publications/nistpubs/800-147/NIST-SP800-147-April2011.pdf"">BIOS Protection Guidelines</a>, du NIST. Très intéressa..."
+2011-05-23T15:41:24Z,"And 1 bitcoin!","<p>Thank you <a href=""http://blockexplorer.com/tx/59e367c4007732fa1f48861be8668f28d3a1f5baac74b297e6be91926d596ecf#o1"">14qLRZT5jXiWbR4kxmcwGrzXz48aJeo..."
+2011-05-26T16:34:15Z,"Why Political Liberty Depends on Software Freedom More Than Ever","<blockquote><p>[...] <a href=""http://video.fosdem.org/2011/maintracks/political.xvid.avi"">The really important point now is that code does the work of..."
+2011-06-02T13:33:32Z,"Quand le ciel se couvre","<div align=""center""><a href=""http://www.flickr.com/photos/billnbenj/1320215690/"" title=""Dark clouds over How Tun Woods de billnbenj, sur Flickr""><img ..."
+2011-06-04T11:17:02Z,"“Who does that server really serve?”","<p>Une <a href=""http://www.gnu.org/philosophy/who-does-that-server-really-serve.html"">lecture intéressante</a>.</p>"
+2011-06-07T06:06:42Z,"Webian Shell","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/06/webian-shell.png""><img src=""http://blog.cedricbonhomme.org/wp-c..."
+2011-06-08T06:12:39Z,"Google’s +1 button for pyAggr3g470r","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/06/googlePlus1.png""><img src=""http://blog.cedricbonhomme.org/wp-co..."
+2011-06-08T21:42:28Z,"Naissance de “~/Projects”","<p>Avec mon &#8220;nouveau&#8221; site hébergé par <a href=""https://www.alwaysdata.com/"">AlwaysData</a> je peux héberger <a href=""http://hg.cedricb..."
+2011-06-15T05:49:50Z,"Contribution à Wikimedia","<p>En testant la <a href=""http://images.google.com/"">nouvelle fonctionalité</a> de recherche dimages de <i>Chrome + Google images</i>, je m&#8..."
+2011-06-19T20:39:54Z,"RAW, DNG, PNG ou JPEG","<p>Quel format utilisez vous ? Et pourquoi ?</p>
+<p>J'ai toujours photographié et conservé mes photos au format JPEG. Cependant depuis quelque..."
+2011-06-20T21:00:37Z,"Une nouvelle version de pyAggr3g470r pointe son nez","<p></p>
+<p>De nouveau un peu dactivité pour <a href=""https://bitbucket.org/cedricbonhomme/pyaggr3g470r/"">pyAggr3g470r</a> ces <a href=""https:/..."
+2011-07-02T13:15:26Z,"Et de 20.000 articles","<div align=""center""></div>
+<p>Ça y est <a href=""https://bitbucket.org/cedricbonhomme/pyaggr3g470r/"">pyAggr3g470r</a> a franchi la barre des 20.000 ar..."
+2011-07-06T05:50:58Z,"Données comScore de Mai 2011","<p>Les <a href=""http://www.catb.org/esr/comscore/"">données comScore</a> du mois de Mai 2011 sont toujours aussi rassurantes; WP7 continue de sombrer ..."
+2011-07-12T18:02:32Z,"2D Photography Rube Goldberg","<div align=""center""></div>
+<p>Cette vidéo est énorme.</p>"
+2011-07-12T15:08:52Z,"C, Python & Ocaml ou les plaisirs simples de la vie","<p>Un billet en trois parties qui aborde en premier lieu <a href=""http://wiki.cedricbonhomme.org/cs_lang"">trois beaux langages de programmation</a> bi..."
+2011-07-16T07:52:15Z,"Google Plus","<p>Gentil lecteur, me connaissant un peu tu dois te douter que je n'ai pas pu résister à lappel de Google pour (au moins) tester Google..."
+2011-07-20T16:37:56Z,"Réserve naturelle de Montenach #3","<div align=""center""><a href=""http://www.flickr.com/photos/cedricbonhomme/5957755801/"" title=""20110720T184802 by Cedric Bonhomme, on Flickr""><img src=""..."
+2011-08-11T10:37:52Z,"Zooomr: Une situation délirante prévisible depuis deux ans","<p>chlky0001 wrote<br />
+Posted 3 weeks, 5 days ago</p>
+<blockquote><p>
+most of my uploaded photos do not appear, in my photostream, after page 13 I c..."
+2011-08-14T21:55:43Z,"500px","<div align=""center"">
+<p><a href=""http://500px.com/cedricbonhomme"">cedricbonhomme</a> on <a href=""http://500px.com"">500px</a></p>
+<p></p></div>
+<p>Je t..."
+2011-08-22T19:50:58Z,"Changement d’adresse","<p>Ma gallerie photos principale va changer dadresse à partir du 26 octobre prochain. Vous la retrouverez ici: <a href=""http://118.67.70.140/c..."
+2011-08-26T00:38:18Z,"NoSQL event","<div align=""center""><a href=""http://data.story.lu/2011/07/29/nosql-event-2""><img alt=""NoSQL event #2 in Luxembourg"" src=""https://lh5.googleusercontent..."
+2011-08-25T23:37:28Z,"G – - – +","<p>Suite à <a href=""http://blog.cedricbonhomme.org/2011/07/16/google-plus/"">ce billet</a> voici un petit retour dexpérience de G+. De ce que ..."
+2011-08-25T22:24:38Z,"Répartition de longueurs focales","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/08/focal_length_repartition_vienna.png""><img src=""http://blog.cedr..."
+2011-08-27T11:01:02Z,"HTML 5 Slides Rocks","<p>Jadore HTML 5 Slides, je viens juste de faire <a href=""http://cedricbonhomme.org/slides/pyAggr3g470r/"">un petit test</a> (appuyez sur <i>h</..."
+2011-08-31T20:39:19Z,"Le geek","<p>Ce billet parce que ces derniers temps je constate une explosion de personnes se revendiquant être geek (ou lutilisation de ce terme). Je m..."
+2011-09-01T15:48:16Z,"HadoPy-Data #4","<p><a href=""http://hadopi-data.cedricbonhomme.org/""></a></p>
+<table align=""center"">
+<tr>
+<td><img class=""alignleft"" src=""http://hadopi-data.cedricbonh..."
+2011-09-01T15:16:15Z,"Agrégateur personnel (suite 2)","<p>Ce site agrège de plus en plus d'informations. Le petit script présenté par <a href=""http://blog.cedricbonhomme.org/2010/11/08/agregateur-..."
+2011-09-02T11:40:11Z,"Wikileaking","<p>Et oui, <a href=""http://www.schneier.com/blog/archives/2011/09/unredacted_us_d.html"">les anciennes clés de déchiffrement</a> sont importantes. Ce..."
+2011-09-02T15:41:08Z,"OpenPhoto","<p>Merci à la personne à lorigine de <a href=""http://blog.cedricbonhomme.org/2011/08/22/changement-dadresse/#comment-95"">ce commentaire</a>.<..."
+2011-09-07T18:25:46Z,"hack.lu 2011","<div align=""center""><a href=""http://2011.hack.lu/""><img src=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/09/logo-small.png"" alt="""" title=""h..."
+2011-09-09T09:07:19Z,"flashpost","<p>Depuis que j'ai regardé <a href=""http://www.youtube.com/watch?v=mrEk06XXaAw"">cette vidéo</a> j'ai commencé une <a href=""http://www.d..."
+2011-10-02T21:03:17Z,"En vrac (02/10/2011)","<p>Et en images.</p>
+<h2>cedric@debian:~$ sudo adduser sanga</h2>
+<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/..."
+2011-10-02T09:40:08Z,"Réserve naturelle de Montenach #4","<div align=""center""><a href=""https://plus.google.com/photos/106973022319954455496/albums/5658424733533005953""><img src=""http://blog.cedricbonhomme.org..."
+2011-10-03T21:39:50Z,"Balloon","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/10/balloon.jpg""><img src=""http://blog.cedricbonhomme.org/wp-conten..."
+2011-10-05T20:22:06Z,"Infosuicide de Mark Pilgrim","<p>Ce soir je lisais quelques nouvelles avec mon agrégateur et je remarque quelque chose détrange sur le site <a href=""http://diveintomark.or..."
+2011-10-09T18:32:31Z,"Balloon prend de la hauteur","<p>Depuis <a href=""http://blog.cedricbonhomme.org/2011/10/03/balloon/"">sa création</a> quelques modifications apportés à <a href=""https://bitbucket..."
+2011-10-13T20:07:28Z,"OpenPhoto, ça y est!","<p>Je parlais sur <a href=""http://blog.cedricbonhomme.org/2011/09/02/openphoto/"">ce billet</a> dOpenPhoto. Projet bien sympathique mais que je ..."
+2011-10-19T22:44:13Z,"OpenPhoto, au-delà de mes attentes!","<p>Quand vous découvrez un bon projet libre, il faut le dire et faire son éloge. Surtout sil est génial&#8230;</p>
+<p>Quelques nouvelles à ..."
+2011-10-19T19:23:13Z,"KDE 4.7","<p>Ces derniers temps je retrouve le plaisir à utiliser KDE que javais à lépoque de la version 3.5.9. Et pour cause, la version 4.7 e..."
+2011-11-01T08:37:37Z,"Nouvel ordinateur","<p>Voici les modestes caractéristiques de mon nouvel ordinateur:</p>
+<ul>
+<li>CPU : Intel Core i7-2600 (3.4 Ghz / 3.8 GHz Turbo &#8211; Cache 8Mo &#8..."
+2011-10-29T12:41:08Z,"Client Oauth Python pour l’API OpenPhoto","<p>Comme <a href=""https://github.com/openphoto/openphoto-python"">ce dépôt</a> est désespérément vide, je me suis dit que je devais faire un petit..."
+2011-10-26T20:56:47Z,"Libérez vos photos","<p>Voici <a href=""http://photos.2cv01.com/"">un site OpenPhoto</a> hébergeant déjà plus de 70.000 photos. Et <a href=""http://photos.2cv01.com/tags/l..."
+2011-10-25T08:09:29Z,"pyAggr3g470r – export PDF","<p><a href=""https://bitbucket.org/cedricbonhomme/pyaggr3g470r/"">pyAggr3g470r</a> dispose maintenant d’un export des articles au format PDF. En plus ..."
+2011-10-24T16:33:44Z,"pyAggr3g470r – export journal Web","<p><a href=""https://bitbucket.org/cedricbonhomme/pyaggr3g470r/"">pyAggr3g470r</a> dispose maintenant dun export des articles sous forme de journ..."
+2011-11-07T22:14:15Z,"Pure Python RSA implementation compatible OpenSSL","<pre class=""brush:sh"">
+$ sudo aptitude install python-pyasn1
+$ hg clone https://bitbucket.org/sybren/python-rsa/
+$ cd python-rsa
+$ sudo python setup.p..."
+2011-11-15T20:58:36Z,"Polaroid","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/11/montage_polaroid_px680ColorShade.png""><img src=""http://blog.ced..."
+2011-11-18T20:36:50Z,"Projets: démo Minesweeper 3K","<div align=""center""></div>
+<p>Je fais un peu dordre dans mes projets, documentations et tente de transférer tout ce que j'ai sur bitbuck..."
+2011-11-18T19:48:11Z,"Mercurial et SSH","<p><a href=""http://jehaisleprintemps.net/blog/fr/2009/05/10/mercurial-et-ssh-le-piege-eviter/"">Un billet</a> bien utile qui me permet enfin de faire m..."
+2011-11-21T20:54:08Z,"Stéganô change de page maison","<p>Stéganô a un tout nouveau <a href=""http://projects.cedricbonhomme.org/projects/stegano/wiki"">wiki</a> et <a href=""http://projects.cedricbonhomme...."
+2011-11-21T20:53:05Z,"Tesla Motors","<p>Après le smartphone Android, après la tablette Android, <a href=""http://androidandme.com/2009/04/news/android-races-to-tesla-motors/"">la voiture<..."
+2011-12-04T16:42:47Z,"Django","<p>Ça faisait longtemps que jy pensais, aujourdhui j'ai enfin trouvé la force de le faire. Et c'est plutôt <i>fun</i>. Il..."
+2011-12-07T22:44:46Z,"Nouvelles à propos d’OpenPhoto","<p>Pour ceux que ça intéresse:</p>
+<ul>
+<li><i>release</i> &#8220;stable&#8221; <a href=""http://blog.theopenphotoproject.org/post/13829938381/openph..."
+2011-12-07T22:27:58Z,"“The Web framework for perfectionists with deadlines”","<p>Si javais su que <a href=""https://www.djangoproject.com/"">Django</a> est si rapide dapprentissage, ce blog serait depuis belle lurett..."
+2011-12-13T21:18:41Z,"Stanford crypto class","<p>J'ai complètement oublié <a href=""https://plus.google.com/u/0/113881433443048137993/posts/3jgysX8UxVD"">den</a> parler ici.</p>"
+2011-12-17T13:33:03Z,"Mon cadeau est (enfin) arrivé","<p>Après bien trois mois dattente <a href=""http://www.librarything.com/work/12029086/"">il</a> est enfin arrivé. Et je le <a href=""http://www...."
+2011-12-16T23:09:20Z,"Cadeau de Noël en avance","<div align=""center""><a href=""http://photos.cedricbonhomme.org/photo/2u/view""><img src=""http://cedricbonhomme.org/photos/custom/201110/1319646264-2010-..."
+2012-01-02T11:34:24Z,"7DC","<p>Mon premier <i>commit</i> pour 2012, <a href=""https://bitbucket.org/cedricbonhomme/stegano/changeset/c72548e19b64"">Stéganô 0.4</a>.</p>
+<p>J&#821..."
+2011-12-30T11:48:33Z,"Séquence d’entiers A000217","<p>Un test avec la séquence dentiers <a href=""http://oeis.org/A000217"">A000217</a>.</p>
+<pre class=""brush:sh"">
+$ slsb-set --hide -i examples/p..."
+2011-12-29T11:04:28Z,"Stéganographie avec ensembles en utilisant la fonction identité (avec Jessica Alba)","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2011/12/Jessica_Alba.png""><img src=""http://blog.cedricbonhomme.org/wp-c..."
+2011-12-28T22:13:57Z,"Stéganalyse de la méthode LSB (avec un ensemble de nombres décrit par crible d’Eratosthenes) avec Jennifer Morrison","<p>Tout dabord afin se rafraîchir lesprit, on pourra lire lancien billet <a href=""http://blog.cedricbonhomme.org/2010/10/04/steg..."
+2011-12-28T15:45:28Z,"Stéganographie avec ensembles","<p>Comme <a href=""http://blog.cedricbonhomme.org/2011/11/21/stegano-change-de-page-maison/"">promis</a> voici une première implémenation du module de..."
+2011-12-23T21:22:27Z,"Blood","<p></p>
+<p>Un test de <a href=""http://www.dosbox.com/"">DOSBox</a>, bien pratique pour les anciens jeux.</p>
+<p>Ça fait plaisir de pouvoir toujours jo..."
+2011-12-23T13:20:50Z,"TORCS","<p>Une <a href=""https://plus.google.com/u/0/photos/106973022319954455496/albums/5689301352647940897"">si belle course</a>, ça fait du bien au moral. I..."
+2011-12-22T20:32:24Z,"TAOUP","<p>Une <a href=""http://esr.ibiblio.org/?p=4017#comment-354973"">deuxième édition</a>? Encore un pavé que je naurai que le temps de survoller,..."
+2012-01-06T10:49:10Z,"La fameuse partie de TORCS","<p></p>
+<p>J'aime bien ce jeu, même sil est un peu difficile.</p>"
+2012-01-08T09:25:24Z,"Récupérer facilement les données d’une capture réseau","<p>Suite à une discussion sur le forum de l<a href=""http://www.afpy.org/"">AFPY</a> j'ai voulu écrire un petit script dont le but est de..."
+2012-01-10T18:21:58Z,"Cours de cryptographie de l’université de Stanford","<p>Attention ça ne déconne plus, des cours de Stanford <i>gratis</i>. Mais vous naurez pas de certification. Que pour le plaisir <img src=""ht..."
+2012-01-11T06:30:30Z,"Ma réaction après la grande annonce d’hier","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/01/pigeon.jpg""><img src=""http://blog.cedricbonhomme.org/wp-content..."
+2012-01-15T15:57:10Z,"Un de mes petits combats pour l’année 2012","<div align=""center""><img src=""http://wiki.cedricbonhomme.org/_media/evolution-piscine.png"" width=""100%"" /></div>
+<p>Faire un petit peu plus de sport, ..."
+2012-01-17T06:18:15Z,"La “sécurité” de UEFI","<p><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/01/lca2012_uefi.odp"">Une bonne présentation</a> qui montre que UEFI est au moins a..."
+2012-01-31T22:44:41Z,"pyClique","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/01/pyClique.jpeg""><img src=""http://blog.cedricbonhomme.org/wp-cont..."
+2012-02-05T12:16:09Z,"IP-Link v0.2","<div align=""center""></div>
+<p><a href=""http://ip-link.wikidot.com/"">IP-Link</a> version 0.2 est disponible. Cette version inclue la génération de co..."
+2012-02-04T13:55:32Z,"Sweet Home 3D","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/02/Maison_carole-1.png""><img src=""http://blog.cedricbonhomme.org/w..."
+2012-02-04T08:43:20Z,"Analyse d’une connexion SSH avec IP-Link","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/02/circle-4.png""><img src=""http://blog.cedricbonhomme.org/wp-conte..."
+2012-02-26T11:11:57Z,"OpenPhoto – Nouvelles","<p><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/02/logo-openphoto.png""><img src=""http://blog.cedricbonhomme.org/wp-content/uploads/..."
+2012-02-28T20:54:34Z,"Nouveau thème pour le blog","<p>Je teste de nouveaux thèmes pour mon blog (peut-être avez vous déjà remarqué). Ce nest pas vraiment que je ne veux plus utiliser l&#821..."
+2012-02-29T07:07:18Z,"Des Bucks dans ton Wallet?","<p>Il semble que Google va sinspirer de <a href=""http://www.bitcoin.org/"">bitcoin</a> et avoir sa <a href=""http://news.slashdot.org/story/12/02..."
+2012-03-01T08:59:28Z,"Réponse d’ESR à Hollywood","<p><a href=""http://www.framablog.org/index.php/post/2012/02/29/eric-raymond-hollywood-internet-drm-acta"">Une traduction</a> de <a href=""http://esr.ibi..."
+2012-03-04T00:04:12Z,"pyAggr3g470r: stockage distant des articles avec MongoDB","<p><a href=""https://bitbucket.org/cedricbonhomme/pyaggr3g470r/"">pyAggr3g470r</a> a en ce moment une <a href=""http://hg.cedricbonhomme.org/pyaggr3g470r..."
+2012-03-07T06:40:39Z,"Stanford crypto class","<p>Je lavais annoncé <a href=""http://blog.cedricbonhomme.org/2011/12/13/stanford-crypto-class/"">ici</a>, <a href=""https://www.coursera.org/cry..."
+2012-03-07T06:37:39Z,"Données comScore du mois du Janvier 2012","<p><a href=""http://www.catb.org/esr/comscore/"">Bonne nouvelle pour Android. Moins pour Apple</a>. Apple a culminé en Décembre 2011. En 2012 Apple va..."
+2012-03-15T12:46:46Z,"imposm.parser","<p>J'ai découvert <a href=""http://dev.omniscale.net/imposm.parser/"">ce module</a> Python ce matin. Il est génial.</p>
+<pre class=""brush:python..."
+2012-03-19T23:01:11Z,"pyAggr3g470r: transition vers MongoDB","<p>Depuis <a href=""http://blog.cedricbonhomme.org/2012/03/04/pyaggr3g470r-stockage-distant-des-articles-avec-mongodb/"">lannonce</a> du passage ..."
+2012-03-21T20:44:11Z,"À propos du multiprocessing","<p><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/03/osm-parsing.jpeg""><img src=""http://blog.cedricbonhomme.org/wp-content/uploads/20..."
+2012-03-20T21:18:22Z,"pyAggr3g470r: version 3.2","<p><a href=""https://bitbucket.org/cedricbonhomme/pyaggr3g470r/changesets"">pyAggr3g470r</a> 3.2 est donc prêt. Le <i>merge</i> des branches montre bie..."
+2012-04-01T15:53:31Z,"Sort this messy list","<p>Avec lodrinateur que jutilisais en 2007 le <a href=""http://fr.wikipedia.org/wiki/Tri_à_bulles"">tri à bulles</a> sexécutait ..."
+2012-04-09T15:25:18Z,"Quelques nouvelles à propos d’OpenPhoto","<p>La version 2.0 dOpenPhoto offre un nouveau thème plutôt intéressant (<i>Beisel 2.0</i>). Il est un peu plus moderne et dispose dun..."
+2012-04-18T16:35:28Z,"Le Web, “sécurisé” et libre","<p>Aujourdhui j'ai navigué sur le Web avec le couple <a href=""http://www.gnu.org/software/librejs/"">LibreJS</a> et <a href=""http://noscr..."
+2012-04-20T22:24:19Z,"Mise à jour de Stéganô (cadeau à l’intérieur)","<div align=""center""><a href=""http://photos.cedricbonhomme.org/p/5a""><img src=""http://cedricbonhomme.org/photos/custom/201204/5fc584-20120406T142741_87..."
+2012-05-01T17:14:37Z,"pyAggr3g470r 3.4","<p>Cette nouvelle version de <a href=""https://bitbucket.org/cedricbonhomme/pyaggr3g470r/"">pyAggr3g470r</a> comprend diverses améliorations et correct..."
+2012-04-28T06:55:03Z,"Hartmutt Ziedler","<p><br />
+<br />
+</p>
+<p>En faisant un peu de rangement sur le NAS je suis tombé sur de vieux souvenirs intéressants (pour certains, marrants même)..."
+2012-04-24T20:42:53Z,"Go: Channels et Goroutines","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/04/gophercolor.png""><img src=""http://blog.cedricbonhomme.org/wp-co..."
+2012-05-03T06:04:22Z,"Support Multi-Seat dans Fedora","<p>Très <a href=""https://fedoraproject.org/wiki/Features/ckremoval"">intéressant</a>, il faudrait <a href=""http://0pointer.de/blog/projects/multi-sea..."
+2012-05-03T12:18:29Z,"Inbox.py","<p>La merveilleuse personne à lorigine de <a href=""https://github.com/kennethreitz/requests"">Requests</a> réitère avec <a href=""https://gith..."
+2012-05-03T20:22:01Z,"pyAggr3g470r 3.4: stockage distant des articles avec MongoDB","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/05/pyAggr3g470r-MongoDB.png""><img src=""http://blog.cedricbonhomme...."
+2012-05-08T22:39:09Z,"La voie est libre","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/05/pyitinerary-1.png""><img src=""http://blog.cedricbonhomme.org/wp-..."
+2012-05-10T20:27:56Z,"Tag:junction=roundabout","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/05/pyitinerary-bug-roundabout.png""><img src=""http://blog.cedricbon..."
+2012-05-11T08:01:25Z,"Livre “Data Structures and Algorithms with Object-Oriented Design Patterns in Python “","<p>C'est malin, maintenant grâce à <a href=""http://www.brpreiss.com/books/opus7/"">ce livre</a> je peux recommencer mon implémentation. Merci ..."
+2012-05-22T05:54:45Z,"Marche Gourmande 2012 de Sierck Les Bains","<p><small><a href=""http://g.co/maps/jvvnj"">La carte</a>.</small></p>
+<p>Pour les personnes nayant pu venir, la marche en quelques chiffres:</p>..."
+2012-05-22T21:38:07Z,"J’apprends Haskell et Go","<p>Les deux en mêmes temps <img src=""http://blog.cedricbonhomme.org/wp-includes/images/smilies/icon_wink.gif"" alt="";-)"" class=""wp-smiley"" /> </p>
+<p>..."
+2012-05-22T20:48:59Z,"À lire et à écouter","<p>Voici deux liens intéressants:</p>
+<ol>
+<li><a href=""http://plus.maths.org/content/goumldel-and-limits-logic"">Gödel and the limits of logic</a>;<..."
+2012-05-23T18:37:46Z,"Pontiac Bloc Métal 41","<div align=""center""><a href=""http://cedricbonhomme.org/photos/original/201205/4fbd2c44ae820-20120523T201047.jpg""><img src=""http://blog.cedricbonhomme...."
+2012-05-28T16:23:00Z,"OpenPhoto et OpenStreetMap","<div align=""center""><a href=""http://photos.cedricbonhomme.org/p/5p""><img src=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/05/1bc75b-2012052..."
+2012-05-29T09:10:12Z,"Linux dans l’automobile","<p>Voilà, enfin <a href=""http://www.wired.com/autopia/2012/05/2013-cadillac-xts/"">une voiture correcte</a> utilisant Linux. Mais je ne crois pas que ..."
+2012-06-07T07:40:15Z,"Collusion","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/06/collusion-cedricbonhomme.png""><img src=""http://blog.cedricbonho..."
+2012-06-07T16:01:22Z,"20 Things I Should Have Known at 20","<p>Javais oublié de faire une référence à <a href=""http://inoveryourhead.net/20-things-i-should-have-known-at-20/"">ça</a> ici.</p>"
+2012-06-18T09:58:43Z,"Discours de Linus Torvalds à l’université d’Aalto","<p></p>
+<p>Jaurai vraiment aimer y être. Superbe conférence et <a href=""http://en.wikiquote.org/wiki/Linus_Torvalds#2012"">des citations déj�..."
+2012-06-20T06:19:39Z,"La grande archive de nouvelles mise à jour","<p>À partir de <a href=""http://cedricbonhomme.org/news/"">cette page</a> 36.186 articles extraits de <a href=""https://bitbucket.org/cedricbonhomme/pya..."
+2012-06-20T16:05:22Z,"Leica V-LUX 20","<div align=""center""><a href=""http://photos.cedricbonhomme.org/p/5u""><img src=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/06/6288a6-2012062..."
+2012-06-26T05:46:01Z,"Contribution à Wikimedia (2)","<p>Je parlais sur <a href=""http://blog.cedricbonhomme.org/2011/06/15/contribution-a-wikimedia/"">ce billet</a> de mes petites contributions à Wikimedi..."
+2012-06-28T07:47:28Z,"Les comptes de messagerie sont plus précieux que les comptes bancaires","<p>C'est bien pour <a href=""http://www.schneier.com/blog/archives/2012/06/e-mail_accounts.html"">cette raison</a> que ça me fait toujours sourir..."
+2012-07-02T11:08:15Z,"“Press DEL to enter SETUP”, bye bye?","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/07/AwardBIOS_startup.png""><img src=""http://blog.cedricbonhomme.org..."
+2012-07-02T11:06:43Z,"Arrêtons ce massacre au travail","<p>Récemment sur <a href=""http://www.rouge-cerise.net/blog/"">ce blog</a> bien sympathique j'ai lu <a href=""http://www.rouge-cerise.net/blog/ind..."
+2012-07-02T16:02:05Z,"OpenPhoto: intégration des albums","<p>Il est maintenant possible de créer des <a href=""http://photos.cedricbonhomme.org/albums/list"">albums</a> avec <a href=""https://openphoto.me/"">Ope..."
+2012-07-02T15:50:32Z,"“Leap second”","<div align=""center""><a href=""http://xkcd.com/1061/""><img src=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/07/est.png"" alt="""" title=""est"" wi..."
+2012-07-05T06:01:12Z,"Android 4.1 ~ Jelly Bean","<p>Voici une <a href=""http://www.theverge.com/2012/7/3/3134347/android-4-1-jelly-bean-review"">très bonne revue</a> de la nouvelle version dAnd..."
+2012-07-06T21:01:40Z,"Réparation de l’écran du Nexus S","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/07/L1030328.jpg""><img src=""http://blog.cedricbonhomme.org/wp-conte..."
+2012-07-14T22:58:17Z,"OsmOpenPhoto","<p>Je viens de coder vite fait un petit <i>utilitaire</i> pour utilisateur d<a href=""http://theopenphotoproject.org/"">OpenPhoto</a>. <a href=""h..."
+2012-07-16T21:39:00Z,"Billet à la “En vrac”","<ul>
+<li><a href=""http://www.heroku.com/how"">ça à lair génial</a>. Jattends que c'est gratuit pour tester;</li>
+<li>jado..."
+2012-07-17T06:31:44Z,"Nous deviendrons tous pirate","<p>Aux yeux de létat. Des pirates nuisibles et à surveiller. La fin d'une ère de la sécurité. Les <i>black hat</i> (méchants) ne so..."
+2012-08-09T22:32:33Z,"Éviter les faux signaux GPS","<p><a href=""http://phys.org/news/2012-07-spoofed-gps-countered.html"">Un article</a> à propos des signaux GPS usurpés, très intéressant. LIr..."
+2012-08-09T22:00:46Z,"Batman – dark knight rises","<p></p>
+<p>Vous avez aimé le film, vous aimerez encore plus <a href=""http://www.youtube.com/watch?v=jJ5l5ls0hP4"">Batman Maybe</a>.</p>
+<p>Sinon pour ..."
+2012-07-25T21:49:29Z,"Tomahawk","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/07/demo-tomahawk.png""><img src=""http://blog.cedricbonhomme.org/wp-..."
+2012-07-25T15:34:23Z,"Documentation Sphinx","<p>Si vous utilisez <a href=""http://sphinx.pocoo.org/"">Sphinx</a> (par exemple) pour générer la documentation de vos projets, je vous conseil d&#821..."
+2012-07-24T10:22:57Z,"OsmOpenPhoto (2)","<p>Les lecteurs assidus de ce blog savent que j'aime géolocaliser mes photos. Pour visualiser mes photos depuis mon enfance jutilise deu..."
+2012-07-23T22:13:38Z,"Installation d’Android Jelly Bean 4.1.1","<p>Voici la procédure:</p>
+<ul>
+<li>De lécran principal aller dans <i>Paramètres</i>;</li>
+<li><i>Applications</i>;</li>
+<li><i>Toutes</i>;<..."
+2012-08-16T21:45:58Z,"Mon nouveau périphérique","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/08/20120816T231945.jpg""><img src=""http://blog.cedricbonhomme.org/w..."
+2012-09-03T08:45:21Z,"Un premier projet pour votre Raspberry Pi","<p>Si vous navez pas assez didées de projets pour votre <a href=""http://www.raspberrypi.org/"">Raspberry Pi</a>, voici <a href=""http://w..."
+2012-09-04T05:42:28Z,"hack.lu 2012","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/09/logo-hacklu2012.png""><img src=""http://blog.cedricbonhomme.org/w..."
+2012-09-10T08:14:07Z,"Sécurité et virtualisation (architectures Intel)","<p>Une <a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/09/jt-to-virtualisation_security.pdf"">présentation très intéressante</a> sur..."
+2012-09-11T07:52:31Z,"Sauvegarde MongoDB","<p>Disons que vous voulez sauvegarder la base de données utilisée par <a href=""https://bitbucket.org/cedricbonhomme/pyaggr3g470r/"">pyAggr3g470r</a>...."
+2012-09-12T06:14:09Z,"systemd, init et upstart","<p>Si en ce moment tu es un peu perdu entre systemd, init et upstart (plus udev, D-Bus, DCOP, etc.), je pense que <a href=""http://linuxfr.org/news/le-..."
+2012-09-15T06:26:32Z,"CRIME, l’attaque contre SSL/TLS","<p>Un article intéressant et simple à propos de <a href=""https://blog.torproject.org/blog/some-thoughts-crime-attack"">lattaque CRIME</a> (qui..."
+2012-09-18T16:34:02Z,"Commander une bière, avec ses mains","<p></p>
+<p>Concernant certaines choses il est important de savoir sexprimer, dans nimporte quel contexte. Cette <a href=""http://www.yout..."
+2012-09-20T06:10:37Z,"pyAggr3g470r dans les nuages","<p>Tu veux tester une version de <a href=""https://bitbucket.org/cedricbonhomme/pyaggr3g470r/"">pyAggr3g470r</a> avec près de 40.000 articles dans les ..."
+2012-09-26T07:04:20Z,"Sécurité de la pile graphique","<p><a href=""http://lwn.net/SubscriberLink/517375/6b260ee2152b5332/"">Un article très intéressant</a> (en plus c'est un cadeau, car il est sens�..."
+2012-09-30T11:41:58Z,"TED de Clay Shirky: How the Internet will (one day) transform government","<p>Encore un excellent discours <a href=""http://www.ted.com/"">TED</a>, <i>How the Internet will (one day) transform government</i>. Cette fois-ci de <..."
+2012-09-28T17:44:01Z,"Au revoir EC2","<p>Mon instance EC2 va fêter son premier anniversaire dans quelques jours. Ça devrait être la fête. Malheureusement je vais devoir la tuer (oui ap..."
+2012-10-01T21:01:02Z,"Quelques benchmarks avec Ackermann","<p>Un billet qui va peut-être intéresser quelquun et répondre à une question que je me pose.</p>
+<pre class=""brush:shell"">
+$ gcc -Wall ./ac..."
+2012-10-02T21:18:15Z,"Learn programming by visualizing code execution","<p>J'aime beaucoup <a href=""http://pythontutor.com/"">cette idée</a>. Ça peut être pratique pour des étudiants.</p>"
+2012-10-16T05:57:21Z,"Le Raspberry Pi modèle B avec 512 Mo de RAM","<p>Le modèle B du Raspberry Pi <a href=""http://www.raspberrypi.org/archives/2180"">passe à 512 Mo de RAM</a>. Plus vite jaurai le mien, plus v..."
+2012-10-16T05:53:51Z,"The Lydia Bennet – Miss Me Yet?","<p></p>
+<p>Encore un épisode bien marrant de <a href=""http://www.youtube.com/user/TheLydiaBennet"">The Lydia Bennet</a>. Je crois que je vais lancer u..."
+2012-10-16T05:47:13Z,"KDE 4.9.2 – Akonadi","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/10/akonadigoogle.png""><img src=""http://blog.cedricbonhomme.org/wp-..."
+2012-10-17T06:28:36Z,"A gentle introduction to Steganography","<p>J'ai tout récemment commencé à rassembler ce que <a href=""http://blog.cedricbonhomme.org/tag/steganography/"">j'ai déjà expériment..."
+2012-10-31T22:51:09Z,"Quelques benchmarks avec Ackermann sur un Raspberry Pi","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/10/raspberrypi.jpg""><img alt=""Raspberry Pi Model B - 512 Mo"" src=""..."
+2012-11-08T17:13:05Z,"Un ordinateur solaire","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/11/20121108T182943.jpg""><img alt="""" src=""http://blog.cedricbonhomm..."
+2012-11-08T22:14:31Z,"Portage de pyAggr3g470r vers Python 3.2","<p>Je viens de commencer le portage de pyAggr3g470r vers Python 3.2. Il risque d’y avoir du travail et beaucoup de tests à effectuer. Ce serait dom..."
+2012-11-19T20:41:58Z,"Window 8","<p>Les quelques articles que j’ai pu lire à propos de Window 8 me laissent conclure que l’interface de ce système est une belle bouse. On pourra..."
+2012-11-18T18:57:27Z,"Algorithme des k-moyennes avec pyAggr3g470r","<p><em>Ou comment trier ses flux de manière intelligente et automatique.</em></p>
+<p>Ces derniers temps je m’amuse avec de petits algorithmes de <i..."
+2012-11-22T22:36:20Z,"pyAggr3g470r va utiliser Mako","<p>Je suis et ai toujours été mauvais en développement Web, même si en ce moment j’utilise plutôt beaucoup <a href=""http://flask.pocoo.org/"">Fl..."
+2012-11-26T23:13:58Z,"Utilisation de l’interface Python d’OpenCV","<p><video controls=""controls"" width=""100%""><br/>
+<source src=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/11/OpenCV-Python.ogv"" type=""video..."
+2012-11-27T06:46:45Z,"Upstart et systemd","<p>Une autre manière de voir les différences entre <a href=""http://www.thefreedictionary.com/upstart"">Upstart</a> et <a href=""http://www.urbandictio..."
+2012-11-29T07:57:57Z,"Une première augmentation de prix pour la Tesla","<p>Le prix de la Tesla S va augmenter. Malheureusement pour les personnes ne l’ayant pas encore commandé. Heureusement pour moi c’est déjà fait..."
+2012-11-30T20:15:16Z,"Fisherman’s Friend StrongmanRun","<p></p>
+<p>Une amie à moi est dans cette foule. L’année prochaine j’espère bien pouvoir en faire partie.</p>"
+2012-11-30T21:18:05Z,"Avancement de mon premier projet avec le Raspberry Pi","<p>Maintenant que je sais récupérer les données générées par le système embarqué d’une voiture via l’<a href=""http://en.wikipedia.org/wiki..."
+2012-12-01T10:56:43Z,"Une fin d’année le nez dans le code","<div align=""center""><a href=""http://www.ohloh.net/accounts/112331?ref=Detailed""><img alt=""Ohloh profile for Cedric Bonhomme"" height=""35"" src=""http://w..."
+2012-12-01T11:07:59Z,"Important","<p>Avez-vous bien fait votre <a href=""https://dons.wikimedia.fr/deduction-fiscale"">bonne action</a> de fin d’année? Si oui, en passant pourquoi ne ..."
+2012-12-02T22:52:40Z,"pyAggr3g470r: détection de flux inactifs","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2012/12/pyAggr3g470r-inactive-feeds.png""><img alt="""" src=""http://blog.c..."
+2012-12-03T18:32:07Z,"Article Why I’m No Metrosexual","<p>Encore <a href=""http://kyrobeshay.com/post/37101801643/why-im-no-metrosexual"">un article</a> qui confirme ce que <a href=""http://blog.cedricbonhomm..."
+2012-12-04T20:14:25Z,"Cours Arduino","<p>Si tu veux aussi apprendre à faire des bidouilles sympas avec <a href=""http://en.wikipedia.org/wiki/Arduino"">Arduino</a> voici <a href=""http://lea..."
+2012-12-16T23:27:18Z,"Installation simple et rapide de Stéganô (avec Ginnifer Goodwin)","<div align=""center""><a href=""http://blog.cedricbonhomme.org/?attachment_id="" rel=""attachment wp-att-4600""><img alt=""Ginnifer Goodwin"" src=""http://blog..."
+2012-12-26T11:13:34Z,"Apprentissage Arduino","<div align=""center""><a href=""http://blog.cedricbonhomme.org/2012/12/26/apprentissage-arduino/20121226t122300/"" rel=""attachment wp-att-4626""><img alt=""..."
+2012-12-30T09:13:58Z,"pyAggr3g470r version 3.7","<p>La <a href=""http://freecode.com/projects/pyaggr3g470r/releases/350970"">version 3.7 de pyAggr3g470r</a> est publiée. Voici la liste des changements..."
+2013-01-08T13:29:22Z,"Fritzing: un logiciel de prototypage de circuits","<div align=""center""><a href=""http://blog.cedricbonhomme.org/2013/01/08/fritzing-un-logiciel-de-prototypage-de-circuits/fritzing/"" rel=""attachment wp-a..."
+2013-01-10T22:54:50Z,"Un peu de code et encore un peu plus d’améliorations","<div align=""center""><a href=""http://blog.cedricbonhomme.org/2013/01/10/un-peu-de-code-et-encore-un-peu-plus-dameliorations/pyaggr3g470r-3-8/"" rel=""att..."
+2013-01-10T22:47:35Z,"Article When EC2 Hardware Changes Underneath You…","<p>Lorsque le <i>cloud</i> trouve ces limites dans l’abstraction du matériel. <a href=""http://blog.picloud.com/2013/01/08/when-ec2-hardware-changes..."
+2013-01-11T06:51:29Z,"Espionnage de masse sur les Européens","<p>Le <a href=""http://fr.wikipedia.org/wiki/USA_PATRIOT_Act"">Patriot Act</a> permet déjà depuis octobre 2001 aux États-Unis de récupérer des donn..."
+2013-01-16T21:21:32Z,"Juste une citation","<blockquote><p>“<a href=""https://www.youtube.com/watch?feature=player_detailpage&amp;v=MShbP3OpASA#t=747s"">I have never in my life done any web prog..."
+2013-01-19T12:17:58Z,"La grande archive de nouvelles mise à jour (2)","<p>Dorénavant 45.668 articles de mes flux sont disponibles à <a href=""http://cedricbonhomme.org/news/"">cette page</a>. Avec tout de même plus de <a..."
+2013-01-21T21:01:59Z,"Blink-182 – All The Small Things","<p></p>
+<p>Une nouvelle rubrique pour te divertir cher lecteur. On essaiera d’avoir une vidéo avec une musique. Je vais essayer de ne pas trop post..."
+2013-01-21T20:39:04Z,"Performances de Haskell et C","<p><a href=""http://jacquesmattheij.com/when-haskell-is-not-faster-than-c"">Un article</a> hautement intéressant sur les performances d’Haskell et C...."
+2013-01-24T14:32:03Z,"Python devient fainéant","<p>Python 3 est un peu plus fainéant. Voyez:</p>
+<pre class=""brush:python"">
+&gt;&gt;&gt; r = range(10)
+&gt;&gt;&gt; print(r)
+range(0, 10)
+&gt;&gt;&gt..."
+2013-01-24T21:27:47Z,"Garbage – Only Happy When It Rains","<p></p>
+<p>J’adore. Je réécoute pas mal ce titre depuis quelques temps.</p>"
+2013-01-24T21:25:40Z,"Writing Idiomatic Python","<p>Je suis d’accord avec tout ce qui est dit <a href=""http://www.jeffknupp.com/blog/2012/10/04/writing-idiomatic-python/"">ici</a>. De cette manière..."
+2013-01-24T21:24:55Z,"The Cardigans – Been It","<p></p>
+<p>Encore une bonne vieille chanson que j’aime.</p>
+<p>Ne vous inquiétez pas. Quand j’aurai partagé un certain nombre de musiques je me ..."
+2013-01-24T21:14:22Z,"Module de manipulation d’URL de Python 3","<p>Avez-vous remarqué que le module <a href=""http://docs.python.org/3/library/urllib.html"">urllib</a> de Python 3 a été découpé en plusieurs part..."
+2013-01-29T22:34:54Z,"pyAggr3g470r: détection de langue","<div align=""center""><a href=""http://blog.cedricbonhomme.org/wp-content/uploads/2013/01/pyaggr3g470r-languages.png""><img alt=""pyaggr3g470r-languages"" s..."
+2013-01-29T22:31:29Z,"Linkin Park – Rolling In The Deep","<p></p>
+<p>Autant je n’aime pas la version originale, autant je trouve cette interprétation superbe.</p>"

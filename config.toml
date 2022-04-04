@@ -1,0 +1,122 @@
+baseURL = "https://www.cedricbonhomme.org"
+languageCode = "en-us"
+title = "Cédric Bonhomme's website"
+description = "Father, pianist, hacker, novice photographer and lifelong free software supporter."
+canonifyURLs = false
+
+# theme as git submodule
+theme = "anatole"
+doNotLoadAnimations = true
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+rssLimit = 20
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe=true
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+
+[params]
+title = "Cedric's website"
+author = "Cédric Bonhomme"
+description = "A computer scientist, intensely interested in computer security and privacy."
+profilePicture = "images/cedric-profile.jpg"
+displayMode = "dark"
+doNotLoadAnimations = true
+copyright = "Cédric Bonhomme 2008-{{ YEAR }}"
+contact = true
+rssFullContent = true
+postSectionName = "post"
+contentratio = 0.7
+relatedPosts = true
+numberOfRelatedPosts = 3
+
+[related]
+    includeNewer = true
+    threshold = 80
+    toLower = true
+  [[related.indices]]
+    name = 'keywords'
+    weight = 100
+  [[related.indices]]
+    name = 'tags'
+    weight = 80
+
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    identifier = "home"
+    weight = 100
+    url = "/"
+
+  [[menu.main]]
+    name = "About"
+    weight = 200
+    identifier = "about"
+    url = "/about/"
+
+  [[menu.main]]
+  name = "Blog"
+  weight = 300
+  identifier = "posts"
+  url = "/post/"
+
+
+  [[menu.main]]
+  name = "Software"
+  weight = 400
+  identifier = "software"
+  url = "/software/"
+
+  [[menu.main]]
+  name = "Photography"
+  weight = 500
+  identifier = "photography"
+  url = "/photography/"
+
+[permalinks]
+  post = '/:year/:month/:day/:slug/'
+
+
+[outputs]
+  home = ["HTML"]
+  about = ["HTML"]
+  posts = ["HTML", "RSS"]
+  software = ["HTML"]
+  photography = ["HTML"]
+
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Code on GitHub"
+url = "https://github.com/cedricbonhomme"
+
+[[params.socialIcons]]
+icon = "fab fa-flickr"
+title = "Photos on Flickr"
+url = "https://www.flickr.com/photos/cedricbonhomme"
+
+[[params.socialIcons]]
+icon = "fab fa-mastodon"
+title = "Toots on Mastodon"
+url = "https://fosstodon.org/@cedric"
+
+[[params.socialIcons]]
+icon = "fas fa-book-reader"
+title = "Books on LibraryThing"
+url = "https://www.librarything.com/profile/cedricbonhomme"
