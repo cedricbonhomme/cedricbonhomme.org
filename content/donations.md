@@ -15,7 +15,9 @@ who donate their time.
 
 [Donations via LiberaPay](https://liberapay.com/cedricbonhomme)
 
-- https://liberapay.com/fosstodon - recurrent (€2.30/week), since 2021
+- https://liberapay.com/fosstodon
+  - recurrent (€10/month), since 2021/06
+  - recurrent (€15/month), since 2022/05
 - https://liberapay.com/SirCmpwn - recurrent (€2.30/week), since 2019
 - https://liberapay.com/Liberapay - recurrent (€1.00/week), since 2021
 

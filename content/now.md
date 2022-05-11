@@ -1,11 +1,11 @@
 +++
 title = "Now"
 description = "What I am doing now"
-date = "2022-02-21"
+date = "2022-05-10"
 author = "Cédric Bonhomme"
 +++
 
-Here's what I do now, when this page was updated on February 21, 2022.
+Here's what I do now, when this page was updated on May 10, 2022.
 
 
 ## Life
@@ -32,7 +32,8 @@ Let's prepare some kind of formation with Élisabeth and her
 
 ## Reading
 
-Reading [Premier sang](https://www.librarything.com/work/26967806/book/210046864).
+Finished “[Premier sang](https://www.librarything.com/work/26967806)”.
+Now reading “[Une auberge dans la tempête](https://www.librarything.com/work/28133662)”.
 
 
 ## Misc
@@ -41,4 +42,4 @@ Thinking about planning next holidays. As per usual.
 
 Re-writing my website with Hugo.
 
-Thinking about working out. As per usual.
+Thinking about working out more. As per usual.

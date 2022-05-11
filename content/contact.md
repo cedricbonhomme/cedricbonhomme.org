@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 description = "Contact me"
-date = "2022-02-25"
+date = "2022-05-10"
 author = "Cédric Bonhomme"
 +++
 
@@ -23,6 +23,12 @@ Use the dedicated issue tracker.
 ## IRC
 
 'cedric' on Libera.Chat, usually in #python, #python-fr and some other channels.
+
+
+## Instant messaging
+
+I only communicate my [Matrix](https://matrix.org) identifier with relatives.
+But you can still request.
 
 
 ## … or just follow

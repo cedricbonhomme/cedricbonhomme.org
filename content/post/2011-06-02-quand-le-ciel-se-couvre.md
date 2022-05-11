@@ -105,7 +105,7 @@ On pourra lire également [ceci][13].
  [3]: http://www.google.com/chromebook/#
  [4]: {{< ref "/post/2011-01-12-ce-que-je-pense-de-ce-que-pense-stallman-sur-le-cloud-computing.md" >}}
  [5]: http://news.ycombinator.com/item?id=2482712
- [6]: http://www.electronista.com/articles/11/05/13/dropbox.accused.of.using.deceptive.trade.practices/
+ [6]: https://web.archive.org/web/20110605220747/http://www.electronista.com/articles/11/05/13/dropbox.accused.of.using.deceptive.trade.practices/
  [7]: http://news.ycombinator.com/item?id=389304
  [8]: http://it.slashdot.org/story/11/04/08/1838220/Dropbox-Authentication-Insecure-By-Design
  [9]: http://searchengineland.com/google-smartphone-contacts-social-graphs-eric-schmidt-creepy-line-77921

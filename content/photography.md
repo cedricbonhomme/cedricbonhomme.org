@@ -8,9 +8,9 @@ author = "Cédric Bonhomme"
 Photography has been a passion as far as I can remember.
 You can take a look at some of the photos I shared:
 
-- [Flickr](https://www.flickr.com/photos/cedricbonhomme)
 - [PixelFed](https://pixelfed.social/cedric)
 - [my personal gallery](https://photos.cedricbonhomme.org)
+- [Flickr](https://www.flickr.com/photos/cedricbonhomme)
 - [500px](https://500px.com/cedricbonhomme)
 
 Most of these photos are under
