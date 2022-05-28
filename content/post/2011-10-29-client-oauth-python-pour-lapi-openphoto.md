@@ -73,6 +73,6 @@ genre:
 GET http://photos.cedricbonhomme.org/photos/tags-ireland/list.json | tr ',{' '\n' | grep -i Original
 ```
 
-Mais voilà, je trouve la syntaxe de Python très esthétique (sans compter quavec _POST_ ce sera tout de suite autre chose en ligne de commande 😉 ).
+Mais voilà, je trouve la syntaxe de Python très esthétique (sans compter qu'avec _POST_ ce sera tout de suite autre chose en ligne de commande 😉 ).
 
  [1]: https://github.com/openphoto/openphoto-python

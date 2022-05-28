@@ -49,4 +49,4 @@ Post lié: [_Stéganalyse de la méthode LSB (avec un ensemble de nombres décri
  [4]: http://projects.cedricbonhomme.org/projects/stegano/repository/entry/stegano/generators.py#L111
  [5]: http://fr.wikipedia.org/wiki/Conjecture_de_Syracuse
  [6]: http://upload.wikimedia.org/wikipedia/fr/math/c/9/2/c92885687a71c3ee85904b81e6661673.png
- [7]: http://blog.cedricbonhomme.org/2011/12/28/steganalyse-de-la-methode-lsb-avec-un-ensemble-de-nombres-decrit-par-crible-deratosthenes-avec-jennifer-morrison/
+ [7]: {{< ref "/post/2011-12-28-steganalyse-de-la-methode-lsb-avec-un-ensemble-de-nombres-decrit-par-crible-deratosthenes-avec-jennifer-morrison.md" >}}

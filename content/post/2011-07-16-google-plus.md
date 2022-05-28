@@ -10,7 +10,7 @@ tags:
   - privacy
 
 ---
-Gentil lecteur, me connaissant un peu tu dois te douter que je n'ai pas pu résister à lappel de Google pour (au moins) tester Google Plus: <https://cedricbonhomme.org/+>.
+Gentil lecteur, me connaissant un peu tu dois te douter que je n'ai pas pu résister à l'appel de Google pour (au moins) tester Google Plus: <https://cedricbonhomme.org/+>.
 
 Ce billet est la suite de _[Le Web et moi (partie 1)][1]_. Sauf que maintenant il s'agit du Web, moi et Google.
 
@@ -28,7 +28,7 @@ Je n'ai jamais utilisé FB. Je teste G+. Pourquoi? En partie pour [ces raisons][
 
 ## Lidentité virtuelle
 
-On voit quavec G+ tout est clairement orienté vers lidentité (les comptes avec pseudonymes devraient être supprimés). Je pense que FB a moins soigné cela. Lidentité virtuelle c'est très à la mode. Pour le moment on a différentes possibilités:
+On voit qu'avec G+ tout est clairement orienté vers lidentité (les comptes avec pseudonymes devraient être supprimés). Je pense que FB a moins soigné cela. Lidentité virtuelle c'est très à la mode. Pour le moment on a différentes possibilités:
 
   * la centralisation (plus.google.com/id, identi.ca/id, flickr.com/id, etc.). Voir lancien billet intitulé _[Le Web et moi (partie 1)][1]_;
   * la décentralisation (POD diaspora personnel, OpenID, [lidée de Mozilla basée sur le mail][5], domaine personnel, etc.);

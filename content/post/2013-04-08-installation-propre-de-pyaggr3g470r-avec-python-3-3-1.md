@@ -69,7 +69,7 @@ cp cfg/pyAggr3g470r.cfg-sample cfg/pyAggr3g470r.cfg
 exit 0
 </pre>
 
-Le script est tenu à jour [ici][5]. Vous verrez quavec Python 3.3.1 les performances sont relativement bonnes, surtout avec une base contenant beaucoup d'articles.
+Le script est tenu à jour [ici][5]. Vous verrez qu'avec Python 3.3.1 les performances sont relativement bonnes, surtout avec une base contenant beaucoup d'articles.
 
  [1]: https://git.sr.ht/~cedric/pyAggr3g470r
  [2]: http://www.python.org/

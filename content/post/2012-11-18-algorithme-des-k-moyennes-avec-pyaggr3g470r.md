@@ -27,7 +27,7 @@ quelques algorithmes de _clustering_. J'ai donc commencé par tester un algorith
 de _K-means clustering_ assez simple à écrire en Python. Cela en utilisant la fonction
 de Pearson qui mesure la dépendance linéaire (corrélation) de 2 vecteurs. Les tests
 avec [Tanimoto][3] sont moins concluants je trouve. Par contre, la distance
-[Euclidienne][4] fournie dassez bons résultats. Mais moins bons quavec Pearson.
+[Euclidienne][4] fournie dassez bons résultats. Mais moins bons qu'avec Pearson.
 
 Ci-dessous, voici donc le résultat avec la [corrélation de Pearson][5]:
 

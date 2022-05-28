@@ -11,7 +11,7 @@ tags:
   - pyAggr3g470r
 
 ---
-Voulant tester les performances d'une structure de donnée basée sur un arbre binaire ordonné pour [pyAggr3g470r][1], je maperçois que les opérations sur les itérateurs sont drôlement plus lentes avec Python 3.2.3 quavec Python 2.7.3. Je le soupçonnais déjà, mais pas à ce point.
+Voulant tester les performances d'une structure de donnée basée sur un arbre binaire ordonné pour [pyAggr3g470r][1], je maperçois que les opérations sur les itérateurs sont drôlement plus lentes avec Python 3.2.3 qu'avec Python 2.7.3. Je le soupçonnais déjà, mais pas à ce point.
 
 Voici donc la [petite implémentation darbre binaire ordonné][2] que j'ai ajouté à pyAggr3g470r. Rien de bien spécial, niveau licence informatique je crois. Le script [que voici][3] soccupe:
 
@@ -157,7 +157,7 @@ Le tableau ci-dessous montre l'essentiel.
 </table>
 
 Le script s'exécute environ 3 fois plus vite avec Python 2.7.3 malgré une
-génération de l'arbre binaire 2 secondes plus longue quavec Python 3.2.3.
+génération de l'arbre binaire 2 secondes plus longue qu'avec Python 3.2.3.
 La version 2.7.3 lemporte de loin grâce à la phase de chargement de la base
 MongoDB qui utilise des [itérateurs avec PyMongo][4]. Si on enlève le chargement
 de la base (on pourrait par exemple sérialiser un objet) Python 3.2.3 serait

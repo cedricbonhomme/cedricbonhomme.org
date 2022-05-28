@@ -31,12 +31,10 @@ Rien de bien compliqué ici. Il s'agit juste de montrer comme
 [il est simple d'ajouter des générateurs][2].  
 J'ai aussi ajouté de nouveaux exemples plutôt intéressants, comme [celui-ci][3].
 
-Merci aussi à [Vincent][4] qui a répondu à lappel à l'aide du [billet précédent][55].
-
-Ce post n'est pas assez important pour mériter une photo de Sarah. Mais ne vous inquiétez pas, elle va y passer.
+Merci aussi à [Vincent][4] qui a répondu à l'appel à l'aide du [billet précédent][5].
 
  [1]: http://oeis.org/A000217
  [2]: http://projects.cedricbonhomme.org/projects/stegano/repository/revisions/63186da927c2
  [3]: http://projects.cedricbonhomme.org/projects/stegano/repository/entry/examples/example3.sh
  [4]: http://lita.sciences.univ-metz.fr/~demange/
- [5]: http://blog.cedricbonhomme.org/2011/12/29/steganographie-avec-ensembles-en-utilisant-la-fonction-identite-avec-jessica-alba/
+ [5]: {{< ref "/post/2011-12-29-steganographie-avec-ensembles-en-utilisant-la-fonction-identite-avec-jessica-alba.md" >}}
