@@ -12,7 +12,7 @@ I really like this car and sometimes I say I will keep it forever.
 
 I'm a computer scientist, intensely interested in computer security and privacy.
 I’m a minimalist and a low-tech.  
-I appreciate the art of computer programming since my childhood.
+I appreciate the art of computer programming since my childhood.  
 Here is an outdated
 [resume](/files/resume_cedric-bonhomme.pdf) if you care.
 
@@ -62,7 +62,7 @@ choice are Emacs and Kate, depending on the mood.
 
 I am desperate by the growing capitalist alternative of the Web.
 
-I say yes to the [Small Web](https://small-tech.org).
+I support to the [Small Web](https://small-tech.org).
 
 
 ### It's all about open source

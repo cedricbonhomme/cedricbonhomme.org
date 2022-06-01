@@ -20,6 +20,6 @@ Un export spécialement prévu pour mon Wiki.
 
 Voyez le résultat: <http://wiki.cedricbonhomme.org/doku.php/news-archives#blog>
 
- [1]: http://www.dokuwiki.org/
- [2]: http://bitbucket.org/cedricbonhomme/pyaggr3g470r/
+ [1]: http://www.dokuwiki.org
+ [2]: http://bitbucket.org/cedricbonhomme/pyaggr3g470r
  [3]: http://www.dokuwiki.org/namespaces

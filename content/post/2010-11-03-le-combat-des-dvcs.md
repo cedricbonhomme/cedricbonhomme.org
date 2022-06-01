@@ -40,7 +40,7 @@ Une licence [AGPL][9].
 Finalement on se trompe peut être de combat. Il s'agit plutôt d'un combat de
 services d'hébergement de code source.
 
-Il ne faut pas oublier que **le code est roi**. Limportant reste toujours de
+Il ne faut pas oublier que **le code est roi**. L'important reste toujours de
 développer ces logiciels ouvertement. Qu'il s'agit d'un dépôt Mercurial ou Git,
 le dépôt doit être ouvert et le code doit être sous licence libre. Et le service
 Web de préférence doit utiliser une licence libre, comme le fait gitorious.
