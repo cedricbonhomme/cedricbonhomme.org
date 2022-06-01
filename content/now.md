@@ -1,33 +1,36 @@
 +++
 title = "Now"
 description = "What I am doing now"
-date = "2022-05-10"
+date = "2022-06-01"
 author = "Cédric Bonhomme"
 +++
 
-Here's what I do now, when this page was updated on May 10, 2022.
+Here's what I do now, when this page was updated on June 1, 2022.  
+This page is inspired by [a good idea from Derek Sivers](https://nownownow.com/about).
 
 
 ## Life
 
 Taking care of my family.
 
-Finishing, slowly, [this house]({{< ref "/tags/maison/" >}}).
+Finishing, slowly, [this house]({{< ref "/tags/maison/" >}}). Currently mainly working
+in the garden.
 
 
 ## Work
 
 Working on various open-source projects (personally and professionally).
 
-Refactoring the code of [Freshermeat](https://git.sr.ht/~cedric/freshermeat).
+Released an important update for [Freshermeat](https://git.sr.ht/~cedric/freshermeat).
 
 
 ## Music
 
-Having fun everyday playing piano.  
+Having fun playing piano.  
 Let's prepare some kind of formation with Élisabeth and her
 [double bass](https://pixelfed.social/p/cedric/406707864129893909)
-(we will be ready in a few years... or months for an early test).
+We will be ready in a few years… or months for an early test. For the moment we try
+to practice everyday. At least, it's what I do ;-)
 
 
 ## Reading
@@ -38,8 +41,10 @@ Now reading “[Une auberge dans la tempête](https://www.librarything.com/work/
 
 ## Misc
 
-Thinking about planning next holidays. As per usual.
+Just planed the next holidays for this summer !
 
-Re-writing my website with Hugo.
+Ramping up my workouts like I never did.
 
-Thinking about working out more. As per usual.
+Thinking about a brand new website… it's a surprise.
+
+Almost stopped watching TV (Netflix and all the rest…) since months.
