@@ -62,7 +62,7 @@ choice are Emacs and Kate, depending on the mood.
 
 I am desperate by the growing capitalist alternative of the Web.
 
-I support to the [Small Web](https://small-tech.org).
+I support the [Small Web](https://small-tech.org).
 
 
 ### It's all about open source
