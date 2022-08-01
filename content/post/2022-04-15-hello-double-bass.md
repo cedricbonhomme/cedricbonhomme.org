@@ -18,7 +18,7 @@ way better than me.
 
 Until recently, she could only practice with the one of the music school. I find it a
 little amusing to see a 7 year old child with an instrument of this
-size. A 1/8 bass... Long live!
+size. A 1/8 bass… Long live!
 
 And [happy birthday]({{< ref "/post/2015-04-25-sudo-adduser-elisabeth.md" >}})
 Élisabeth !
