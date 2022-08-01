@@ -10,6 +10,7 @@ tags:
   - canon
   - EOS_500D
   - photography
+  - travel
 
 ---
 ![What is love? – Brussels Belgium, October 7th 2017 – Canon EOS 500D, 44mm ƒ/4](/images/blog/2018/02/20171007T140455.jpg)

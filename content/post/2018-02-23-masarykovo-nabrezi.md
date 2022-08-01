@@ -9,6 +9,7 @@ categories:
 tags:
   - photography
   - Prague
+  - travel
 format: image
 
 ---

@@ -11,6 +11,7 @@ tags:
   - Night
   - photography
   - Scotland
+  - travel
 
 ---
 ![Sur la route d'Inverness, octobre 2014](/images/blog/2016/10/20141019T182935.jpg)
