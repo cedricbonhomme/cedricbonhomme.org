@@ -12,12 +12,17 @@ tags:
 
 ![Hiking somewhere in France](/images/blog/2022/07/20220731003700-6969cbba-la.jpg)
 
-We are back from our 2 weeks trip in South West of France. It was really nice. 
+We are back from our 2 weeks trip in South West of France.
+It was really nice.
+I just got back to my normal life today with various work related stuff to deal with.
+It's also nice ;-)
+But this post is to tell you about the holidays of course.
+So let's start.
 
 We visited many places and drove approximately 3000 km by car.
-This year, it worked perfectly, no technical problems.
-Finally the car was not 6 months in the garage for nothing.
-We consumed an average of 5.9 liters of fuel per 100 km.
+Towards Spain.
+This year, the Mazda worked perfectly, no technical problems (so it was not 6 months in the garage for nothing).
+We consumed an average of 5.9 liters of fuel per 100 km. That's really good.
 But I admit that it requires a disciplined driving (it's a 175 hp engine…).
 I am still convinced to keep this car forever.
 
