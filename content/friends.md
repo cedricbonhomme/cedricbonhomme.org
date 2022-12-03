@@ -1,35 +1,42 @@
 +++
 title = "Friends from memory"
 description = "Friends from memory"
-date = "2022-02-25"
+date = "2021-07-01"
 author = "Cédric Bonhomme"
 +++
 
-The goal of this project is to write down all friends, in the broad sense,
-you ever had. It's about:
+The goal of this project is to write down all friends, in the broad sense, you ever had.
+This lovely idea is from Derek Sivers.
 
-- current friends;
+It's about:
+
+- your current friends;
 - childhood friends you haven’t seen since you were a kid;
+- old crushes (romantic or not);
 - teachers;
-- old crushes;
 - random encounters with great conversations;
 - … all those that made an impact.
 
 You can do the same. You must only use your memory.
-
+The list does not necessarily need to be fixed.
+It's important to keep making new friends as you get older.  
 You might have forgotten some, and some might have forgotten you.
-I did this many times in my head.  
+Remember all those people you met and connected with that made a difference in your life.
+
+
 So here is the list of people who have permanently affected me. It is sorted
 chronologically.
-
-If you find this some day when Googling your name, [drop me an email](/contact).
 
 - Mathieu Stumpf
 - Fabrice Brun
 - Amandine Gross
 - Steve Goddard
 - Mickael Gerne
+- Magali Gantheil
+- Nadège Klose
+- Gilles Bourg
 - Gaëlle Doré
+- Jean-Pierre Rauch
 - Vincent Demange
 - Christophe Goessen
 - Alexandre Dulaunoy
@@ -37,3 +44,10 @@ If you find this some day when Googling your name, [drop me an email](/contact).
 - Jean-Sébastien Sottet
 - Sascha Rommelfangen
 - Emmanuelle Michaux
+
+Best friends, old friends, distant friends, new friends. If you're listed, I
+remember you off the top of my head.
+
+If you find this some day when Googling your name, [drop me an email](/contact).
+
+Last edited: 2021-07-01

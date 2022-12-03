@@ -87,6 +87,12 @@ numberOfRelatedPosts = 3
   identifier = "photography"
   url = "/photography/"
 
+  [[menu.main]]
+  name = "Contact"
+  weight = 600
+  identifier = "contact"
+  url = "/contact/"
+
 [permalinks]
   post = '/:year/:month/:day/:slug/'
 
@@ -111,10 +117,16 @@ icon = "fa fa-camera-retro"
 title = "Photos on PixelFed"
 url = "https://pixelfed.social/cedric"
 
+
 [[params.socialIcons]]
 icon = "fab fa-mastodon"
 title = "Toots on Mastodon"
 url = "https://fosstodon.org/@cedric"
+
+[[params.socialIcons]]
+icon = "fab fa-mastodon"
+title = "social.circl.lu (infosec)"
+url = "https://social.circl.lu/@cedric"
 
 [[params.socialIcons]]
 icon = "fas fa-book-reader"
