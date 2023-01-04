@@ -132,3 +132,8 @@ url = "https://social.circl.lu/@cedric"
 icon = "fas fa-book-reader"
 title = "Books on LibraryThing"
 url = "https://www.librarything.com/profile/cedricbonhomme"
+
+[[params.socialIcons]]
+icon = "fas fa-rss"
+title = "News via RSS"
+url = "https://www.cedricbonhomme.org/post/index.xml"
