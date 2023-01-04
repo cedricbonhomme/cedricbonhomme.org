@@ -12,7 +12,7 @@ I have the huge chance to develop open source software in a professional context
 I do not really prefer a specific programming language, despite the fact that I
 like Python and OCaml.  
 I appreciate the art of computer programming since my childhood.
-Here is an outdated [resume](/files/resume_cedric-bonhomme.pdf) if you care.
+Here is a [resume](/files/resume_cedric-bonhomme.pdf) if you care.
 
 Outside of computers, I’m interested in photography and I play piano, a lot.
 I also read books, but not as much as I would like.
