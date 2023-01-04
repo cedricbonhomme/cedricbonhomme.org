@@ -1,15 +1,15 @@
 +++
 title = "Photography"
 description = "Photography"
-date = "2022-01-30"
+date = "2023-01-04"
 author = "Cédric Bonhomme"
 +++
 
-Photography has been a passion as far as I can remember.
-You can take a look at some of the photos I shared:
+As far back as I can remember, I have always had an affection for photography.
+You can take a look at some of the photos I shared on various places:
 
-- [PixelFed](https://pixelfed.social/cedric)
 - [my personal gallery](https://photos.cedricbonhomme.org)
+- [PixelFed](https://pixelfed.social/cedric)
 - [Flickr](https://www.flickr.com/photos/cedricbonhomme)
 - [500px](https://500px.com/cedricbonhomme)
 
@@ -21,5 +21,5 @@ I almost never post-process my photos. I like photos when they are
 Straight Out of the Camera (SOOC). Once you press the shutter, it's done.
 
 I do not really care about the technology and quality equipment in photography
-(cameras, lenses, etc.). I think the use of expensive professional tools is
+(cameras, lenses, etc.) and think the use of expensive professional tools is
 overestimated. 
