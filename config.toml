@@ -134,6 +134,11 @@ title = "Books on LibraryThing"
 url = "https://www.librarything.com/profile/cedricbonhomme"
 
 [[params.socialIcons]]
+icon = "fa-brands fa-linkedin-in"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/cedricbonhomme"
+
+[[params.socialIcons]]
 icon = "fas fa-rss"
 title = "News via RSS"
 url = "https://www.cedricbonhomme.org/post/index.xml"
