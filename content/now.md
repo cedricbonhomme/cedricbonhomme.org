@@ -5,7 +5,7 @@ date = "2022-06-01"
 author = "Cédric Bonhomme"
 +++
 
-Here's what I do now, when this page was updated on June 1, 2022.  
+Here's what I do now, when this page was updated on April 27, 2023.  
 This page is inspired by [a good idea from Derek Sivers](https://nownownow.com/about).
 
 
@@ -21,8 +21,6 @@ in the garden.
 
 Working on various open-source projects (personally and professionally).
 
-Released an important update for [Freshermeat](https://git.sr.ht/~cedric/freshermeat).
-
 
 ## Music
 
@@ -35,16 +33,12 @@ to practice everyday. At least, it's what I do ;-)
 
 ## Reading
 
-Finished “[Premier sang](https://www.librarything.com/work/26967806)”.
-Now reading “[Une auberge dans la tempête](https://www.librarything.com/work/28133662)”.
+Mainly reading erotic books.
 
 
 ## Misc
 
-Just planed the next holidays for this summer !
+Reverved our next holidays in Scotland !
 
-Ramping up my workouts like I never did.
+Hiking more and more with a friend.
 
-Thinking about a brand new website… it's a surprise.
-
-Almost stopped watching TV (Netflix and all the rest…) since months.
