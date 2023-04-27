@@ -44,10 +44,11 @@ chronologically.
 - Jean-Sébastien Sottet
 - Sascha Rommelfangen
 - Emmanuelle Michaux
+- Vanessa Naretto
 
 Best friends, old friends, distant friends, new friends. If you're listed, I
 remember you off the top of my head.
 
 If you find this some day when Googling your name, [drop me an email](/contact).
 
-Last edited: 2021-07-01
+Last edited: 2023-04-27
