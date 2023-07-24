@@ -3,7 +3,7 @@
 public.tar.gz
 
 resources/_gen/
-themes/anatole/
+# themes/anatole/
 
 ## OS Files
 # Windows
