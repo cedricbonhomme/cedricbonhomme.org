@@ -20,7 +20,7 @@ Bref, ce qui à lair bien:
 
   * les données nous suivent partout, plus sur notre portable mais _ailleurs_ et _en &#8220;sécurité_&#8220;;
   * 7 secondes pour _booter_ c'est bien, surtout par rapport à mon PC ;-);
-  * le système qui vérifie lintégrité du noyau et le re-télécharge en cas de problème est une bonne idée. On peut changer de machine et récupérer toutes les données. Et tout ça de manière transparente. Ce qui serait cool ce serait d'utiliser quelque chose comme une puce [TPM][3] (d'ailleurs un de ces quatres je vais mettre en ligne un mini tutoriel pour samuser avec les TPM sur un T500) pour l'authentification, mais là c'est plus embêtant pour changer de machine;
+  * le système qui vérifie l'intégrité du noyau et le re-télécharge en cas de problème est une bonne idée. On peut changer de machine et récupérer toutes les données. Et tout ça de manière transparente. Ce qui serait cool ce serait d'utiliser quelque chose comme une puce [TPM][3] (d'ailleurs un de ces quatres je vais mettre en ligne un mini tutoriel pour samuser avec les TPM sur un T500) pour l'authentification, mais là c'est plus embêtant pour changer de machine;
   * données utilisateurs chiffrées (encore heureux). Par contre malheur à celui qui égarera son ordinateur et qui a un faible mot de passe pour se connecter à son compte Google (et c'est encore pire avec un téléphone Android).
 
 Pas bien:

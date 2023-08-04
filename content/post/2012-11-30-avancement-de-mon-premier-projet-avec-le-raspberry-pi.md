@@ -14,7 +14,7 @@ tags:
 ---
 Maintenant que je sais récupérer les données générées par le système embarqué d'une voiture via l[interface OBD][1] je vais pouvoir faire des choses plus intéressantes avec le Raspberry. Je m'intéresse particulièrement au projet [pyob2read][2] qui me permet de récupérer un tas de données. Voici une [petite liste de codes][3] (_trouble codes_) pour Mazda. Cependant beaucoup de codes sont génériques et il ne me semble pas trop compliqué de faire une application qui fonctionne correctement avec d'autres marques de voitures.
 
-La première phase du projet a consisté à réutiliser le code que j'ai déjà brièvement évoqué sur [ce billet][4]. En gros un simple algorithme de [Dijkstra][5] et un chouilla de JavaScript. Le tout est très léger et est en Python. On pourra y ajouter un petit serveur HTTP. Mais lidéal est d'avoir une connexion SIM (HSPA+ ou autres, _via_ un _smartphone_).
+La première phase du projet a consisté à réutiliser le code que j'ai déjà brièvement évoqué sur [ce billet][4]. En gros un simple algorithme de [Dijkstra][5] et un chouilla de JavaScript. Le tout est très léger et est en Python. On pourra y ajouter un petit serveur HTTP. Mais l'idéal est d'avoir une connexion SIM (HSPA+ ou autres, _via_ un _smartphone_).
 
 Maintenant il faut surtout intégrer le code de pyob2read afin de récupérer les données du tableau de bord. Sans affichage pour le moment car je n'ai pas encore trouvé l'écran adapté (prix, capacité et taille pour rentrer là où je limagine). Cette phase va prendre le plus de temps, car il faut faire des tests et je voudrai surtout tester d'autres modules.
 

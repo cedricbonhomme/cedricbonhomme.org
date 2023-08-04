@@ -24,7 +24,7 @@ Certes, l'accélération n'est pas aussi foudroyante que celle du model S de
 Tesla. Mais le plaisir au volant est vraiment à la hauteur. Visuellement elle
 peut paraître lourde (mais je trouve a une ligne très _dynamique_). Elle est
 cependant plus légère et bien plus souple sur la route que [cette version][3]
-(qui me manque un peu). Et dire qu'à lépoque, ce fameux vendredi, je pensais
+(qui me manque un peu). Et dire qu'à l'époque, ce fameux vendredi, je pensais
 prendre une Mazda 2. Merci papa de mavoir aidé à faire le bon choix.  
 Et niveau sécurité, je ne vais pas faire la liste mais les progrès sont énormes.
 

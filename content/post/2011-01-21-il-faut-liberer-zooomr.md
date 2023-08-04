@@ -17,7 +17,7 @@ tags:
 ---
 Un [Zooomr][1] sous [licence AGPL][2], ça ne serait pas super?
 
-Cela fait maintenant plus d'un an que Zooomr na plus été mis à jour. Ni ajout de fonctionnalités, ni correction de _bugs_. C'est vraiment dommage. Surtout quand on se rappel toute la motivation de [Kristopher Tate][3] jusquen 2008. À lépoque le [blog de Zooomr][4] avait encore une utilité. Les évolutions étaient fréquentes et la communauté excité. Puis, assez brutalement (je trouve) le mouvement sest essoufflé.  
+Cela fait maintenant plus d'un an que Zooomr na plus été mis à jour. Ni ajout de fonctionnalités, ni correction de _bugs_. C'est vraiment dommage. Surtout quand on se rappel toute la motivation de [Kristopher Tate][3] jusquen 2008. À l'époque le [blog de Zooomr][4] avait encore une utilité. Les évolutions étaient fréquentes et la communauté excité. Puis, assez brutalement (je trouve) le mouvement sest essoufflé.  
 Plus de communications, plus de petites évolutions. Et petit à petit la communauté se lasse. Certains anciens membres (de bon photographes) utilisent dorénavant exclusivement Flickr, comme par exemple David Chu ([Zooomr][5], [Flickr][6]) ou Thomas Hawk ([Zooomr][7], [Flickr][8]). Et d'autres.  
 Les inscriptions sont fermés depuis maintenant un an malgré ce message: &#8220;[We look forward to reopening registrations in the first quarter of 2010 and hope to see you back at Zooomr in the near future. Thank-you for your cooperation.][9]&#8220;. En effet, plus rien n'est à jour. Mais le fondateur utilise toujours [son compte][10] (en passant, je naime pas le [food porn][11]).
 

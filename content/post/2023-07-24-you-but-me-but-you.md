@@ -9,7 +9,7 @@ tags:
   - love
 ---
 
-I have friends, of course.
+I have [friends](/friends), of course.
 But today, two people in this world are granted a deep access (read and write)  to my soul.
 One, always with me, is a little lady with fire and love in her heart.
 The other is a secret person.
