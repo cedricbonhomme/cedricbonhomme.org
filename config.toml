@@ -43,6 +43,8 @@ rssLimit = 20
     contentratio = 0.7
     relatedPosts = true
     numberOfRelatedPosts = 3
+    customCss = ["css/custom.css"]
+    capitalization = false
 
 [related]
     includeNewer = true
