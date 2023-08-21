@@ -30,7 +30,8 @@ You can have a look at my own [donations](/donations).
 - [Stegano](https://sr.ht/~cedric/stegano): a pure Python Steganography module.
 - [Guardian](https://sr.ht/~cedric/guardian): monitor the status of a set of
   services.
-- [pyHIDS](https://gitlab.com/cedric/pyHIDS): a simple HIDS.
+- [pyHIDS](https://sr.ht/~cedric/pyHIDS): a simple HIDS for verifying the
+  integrity of a system.
 
 
 ## Visualization
