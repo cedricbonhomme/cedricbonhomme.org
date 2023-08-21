@@ -1,5 +1,5 @@
 baseURL = "https://www.cedricbonhomme.org"
-languageCode = "en-us"
+languageCode = "en-US"
 title = "Cédric Bonhomme's website"
 description = "Father, pianist, hacker, novice photographer and lifelong free software supporter."
 canonifyURLs = false
@@ -29,19 +29,20 @@ rssLimit = 20
     tag = "tags"
 
 [params]
-title = "Cedric's website"
-author = "Cédric Bonhomme"
-description = "A computer scientist, intensely interested in computer security and privacy."
-profilePicture = "images/cedric-profile.jpg"
-displayMode = "dark"
-doNotLoadAnimations = true
-copyright = "Cédric Bonhomme 2008-{{ YEAR }}"
-contact = true
-rssFullContent = true
-postSectionName = "post"
-contentratio = 0.7
-relatedPosts = true
-numberOfRelatedPosts = 3
+    title = "Cedric's website"
+    author = "Cédric Bonhomme"
+    description = "A computer scientist, intensely interested in computer security and privacy."
+    profilePicture = "images/cedric-profile.jpg"
+    displayMode = "dark"
+    doNotLoadAnimations = true
+    copyright = "Cédric Bonhomme 2008-{{ YEAR }}"
+    contact = true
+    rssFullContent = true
+    postSectionName = "blog"
+    mainSections = ["post"]
+    contentratio = 0.7
+    relatedPosts = true
+    numberOfRelatedPosts = 3
 
 [related]
     includeNewer = true
@@ -71,8 +72,8 @@ numberOfRelatedPosts = 3
   [[menu.main]]
   name = "Blog"
   weight = 300
-  identifier = "posts"
-  url = "/post/"
+  identifier = "blog"
+  url = "/blog/"
 
 
   [[menu.main]]
@@ -94,13 +95,13 @@ numberOfRelatedPosts = 3
   url = "/contact/"
 
 [permalinks]
-  post = '/:year/:month/:day/:slug/'
+  blog = '/:year/:month/:day/:slug/'
 
 
 [outputs]
   home = ["HTML"]
   about = ["HTML"]
-  posts = ["HTML", "RSS"]
+  blog = ["HTML", "RSS"]
   software = ["HTML"]
   photography = ["HTML"]
 
@@ -141,4 +142,4 @@ url = "https://www.linkedin.com/in/cedricbonhomme"
 [[params.socialIcons]]
 icon = "fas fa-rss"
 title = "News via RSS"
-url = "https://www.cedricbonhomme.org/post/index.xml"
+url = "https://www.cedricbonhomme.org/blog/index.xml"
