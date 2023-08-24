@@ -75,7 +75,7 @@ Developed for the Netherlands Red Cross. The official instance is available
   with OCaml.
 - [MONARC](https://github.com/monarc-project): an Optimised Risk Assessment
   Methodology.
-- [MOSP](https://github.com/CASES-LU/MOSP): a user friendly platform for
+- [MOSP](https://github.com/NC3-LU/MOSP): a user friendly platform for
   creating, editing and sharing JSON objects.
 - [PRIMO](http://siis.cse.psu.edu/primo).
 - [pyChatter](https://hg.sr.ht/~cedric/pychatter): an instant messaging software
