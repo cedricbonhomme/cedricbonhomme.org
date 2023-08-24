@@ -42,7 +42,10 @@ toc = true
 - motorization: diesel;
 - tax horsepower: 9;
 - 175 hp;
+- engine size: 2189 cm3;
+- number of valves: 16;
 - maximum speed: 216 km/h;
+- 0-100 km/h: 8.4 sec.
 - 6-speed automatic;
 - 5-door;
 - length: 4,870 mm;
