@@ -34,7 +34,7 @@ But you can still request.
 ## … or just follow
 
 You can follow me using [Mastodon](https://fosstodon.org/@cedric), or
-[RSS](/post/index.xml). 
+[RSS](/blog/index.xml). 
 
 I might not reply to social media DMs and eventually via IRC (unless you get my
 attention).
