@@ -13,7 +13,7 @@ tags:
   - Security
 
 ---
-[Ceci][1] me fait un peu penser à [cette affaire][2]. Qui peut encore croire que l'objectif de `md5` (par exemple) est de fabriquer des secrets ou de garder lanonymat?
+[Ceci][1] me fait un peu penser à [cette affaire][2]. Qui peut encore croire que l'objectif de `md5` (par exemple) est de fabriquer des secrets ou de garder l'anonymat?
 
  [1]: https://bpjmleak.neocities.org
  [2]: https://www.schneier.com/blog/archives/2014/06/risks_of_not_un.html

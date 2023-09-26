@@ -12,8 +12,8 @@ tags:
   - web
 
 ---
-Je vais tenir à jour [une petite liste][1] permettant d'augmenter les chances de ne pas être espionné sur le Web. Il y a des points techniques et des bonnes pratiques. Lobjectif aussi est de garder un certain confort et de ne pas devenir un Amish.
+Je vais tenir à jour [une petite liste][1] permettant d'augmenter les chances de ne pas être espionné sur le Web. Il y a des points techniques et des bonnes pratiques. L'objectif aussi est de garder un certain confort et de ne pas devenir un Amish.
 
-Jessaye moi-même de respecter cette liste.
+J'essaye moi-même de respecter cette liste.
 
  [1]: https://wiki.cedricbonhomme.org/security:privacy

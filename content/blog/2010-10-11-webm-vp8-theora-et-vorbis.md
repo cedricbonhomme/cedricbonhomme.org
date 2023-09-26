@@ -15,7 +15,7 @@ tags:
   - WebM
 
 ---
-Lobjectif de ce billet est déclaircir un peu les choses à propos des _nouveaux_ formats
+L'objectif de ce billet est déclaircir un peu les choses à propos des _nouveaux_ formats
 dont on parle de plus en plus. J'espère qu'il vous sera utile, il l'est pour moi.
 _Lets go_.
 

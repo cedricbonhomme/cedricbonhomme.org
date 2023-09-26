@@ -16,7 +16,7 @@ tags:
 ---
 Une attaque, [une injection JavaScript][1], affecte les utilisateurs de Tor utilisant Windows et Firefox (version 17 et antérieure).
 
-Je pense que la porté de cette attaque est limité car la plupart des utilisateurs de Tor devraient utiliser un Firefox à jour avec lextension [NoScript][2]. Avec du recul je constate que le fait de désactiver JavaScript par défaut permet déviter de nombreuses attaques. D'autres extensions, certainement aussi utilisées par les utilisateurs de Tor, vous aideront à garder lanonymat et naviguer en sécurité. Vous pouvez lire mes recommandations sur ce [billet][3]. J'ajouterai juste que depuis quelques semaines je n'utilise plus Ghostery.
+Je pense que la porté de cette attaque est limité car la plupart des utilisateurs de Tor devraient utiliser un Firefox à jour avec lextension [NoScript][2]. Avec du recul je constate que le fait de désactiver JavaScript par défaut permet déviter de nombreuses attaques. D'autres extensions, certainement aussi utilisées par les utilisateurs de Tor, vous aideront à garder l'anonymat et naviguer en sécurité. Vous pouvez lire mes recommandations sur ce [billet][3]. J'ajouterai juste que depuis quelques semaines je n'utilise plus Ghostery.
 
 En plus des extensions Firefox à utiliser, il est important de vérifier la configuration de votre navigateur. Y compris pour les autres navigateurs, par exemple [Rekonq][4] que j'aime bien. La capture suivante présente mes configurations en ce qui concerne la gestion des _cookies_:
 
