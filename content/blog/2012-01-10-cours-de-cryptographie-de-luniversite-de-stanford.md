@@ -11,7 +11,7 @@ tags:
 
 ---
 Attention ça ne déconne plus, des cours de Stanford _gratis_.
-Mais vous naurez pas de certification. Que pour le plaisir 😉
+Mais vous n'aurez pas de certification. Que pour le plaisir 😉
 
 Il y a maintenant une date plus précise.
 Les cours commenceront le 23 janvier 2012, en ce qui concerne la cryptographie.
