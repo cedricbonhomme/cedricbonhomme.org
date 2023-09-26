@@ -15,7 +15,7 @@ tags:
 ExcludeExitNodes {fr}, {fx}, {gf}, {pf}, {tf}
 ```
 
-Je vous conseil dajouter cette ligne dans votre fichier **torrc**.
+Je vous conseil d'ajouter cette ligne dans votre fichier **torrc**.
 Éviter les noeuds de sortie est suffisant.
 Il est par contre inutile et même déconseillé déviter les noeuds relais
 (afin de ne pas limiter les possibilités de circuits).

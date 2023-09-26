@@ -11,7 +11,7 @@ tags:
 
 ---
 Et donc je le donne aux utilisateurs de pyAggr3g470r, comme la liberté.
-Ainsi il est dorénavant possible dajouter un flux de nouvelles de trois manières
+Ainsi il est dorénavant possible d'ajouter un flux de nouvelles de trois manières
 différentes:
 
 - via le traditionnel formulaire Web;

@@ -16,7 +16,7 @@ tags:
 
 Pourquoi ne pas ajouter la fonction identité
 (![][1] avec son [implémentation en générateur][2]) à la liste des générateurs
-permettant dengendrer les ensembles?  
+permettant d'engendrer les ensembles?  
 On pourrait ensuite vérifier si on peut retrouver le message avec loutil slsb
 classique. Faisons le test:
 
@@ -36,17 +36,9 @@ La surprise qui veut dire que ce n'est quand même pas codé n'importe comment �
 Heureusement d'autres générateurs d'ensembles sont disponibles.
 Voici la [liste des générateurs déjà implémenté][3].
 
-Appel à l'aide. Si vous avez une implémentation un peu voir beaucoup plus
-performante que [la mienne][4] pour [Syracuse][5], elle serait la bienvenue!
-Mais j'en doute… Syracuse:  
-![][6] 
-
-Post lié: [_Stéganalyse de la méthode LSB (avec un ensemble de nombres décrit par crible d’Eratosthenes) avec Jennifer Morrison_][7]
+Post lié: [_Stéganalyse de la méthode LSB (avec un ensemble de nombres décrit par crible d’Eratosthenes) avec Jennifer Morrison_][4]
 
  [1]: http://upload.wikimedia.org/wikipedia/fr/math/5/2/e/52e674df1c5007c4f92edaac5c8403f9.png
- [2]: http://projects.cedricbonhomme.org/projects/stegano/repository/entry/stegano/generators.py#L29
- [3]: http://projects.cedricbonhomme.org/projects/stegano/repository/entry/stegano/generators.py
- [4]: http://projects.cedricbonhomme.org/projects/stegano/repository/entry/stegano/generators.py#L111
- [5]: http://fr.wikipedia.org/wiki/Conjecture_de_Syracuse
- [6]: http://upload.wikimedia.org/wikipedia/fr/math/c/9/2/c92885687a71c3ee85904b81e6661673.png
- [7]: {{< ref "/blog/2011-12-28-steganalyse-de-la-methode-lsb-avec-un-ensemble-de-nombres-decrit-par-crible-deratosthenes-avec-jennifer-morrison.md" >}}
+ [2]: https://github.com/cedricbonhomme/Stegano/blob/11348dda9a0f3a15dcaf7cfb656ad8c0347a4731/stegano/lsb/generators.py#L34
+ [3]: https://github.com/cedricbonhomme/Stegano/blob/11348dda9a0f3a15dcaf7cfb656ad8c0347a4731/stegano/lsb/generators.py
+ [4]: {{< ref "/blog/2011-12-28-steganalyse-de-la-methode-lsb-avec-un-ensemble-de-nombres-decrit-par-crible-deratosthenes-avec-jennifer-morrison.md" >}}

@@ -15,7 +15,7 @@ Quelques _récentes_ vidéos que je pense de temps en temps à partager avec vou
 - une session questions/réponses bien sympathique avec [Linus Torvalds][1] à
   DebConf14;
 - un _talk_ TED de [Richard Matthew Stallman][2]. Une présentation de RMS d'un
-  quart dheure, ça vaut toujours le coup;
+  quart d'heure, ça vaut toujours le coup;
 - et [un cadeau][3].
 
 Voilà, c'est fait.

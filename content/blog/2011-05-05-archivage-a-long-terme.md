@@ -16,7 +16,7 @@ tags:
 Aujourd'hui je remédie enfin à un vieux problème de plusieurs années.
 Le [problème des sauvegardes][1]. Enfin en partie, car je ne le résoud toujours
 pas vraiment à long-terme. Le graphique ci-dessus illustre bien la situation,
-on y voit lexplosion de photos qua provoqué l'achat de mon Canon 😉
+on y voit l'explosion de photos qua provoqué l'achat de mon Canon 😉
 Le problème se pose aussi pour les projets, la musique, mes mails, mes factures
 et relevés bancaires, etc.
 

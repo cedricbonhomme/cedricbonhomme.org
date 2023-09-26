@@ -11,7 +11,7 @@ This page is inspired by [a good idea from Derek Sivers](https://nownownow.com/a
 
 ## Life
 
-Trying to survive a big loss.
+You have no idea.
 
 
 ## Work

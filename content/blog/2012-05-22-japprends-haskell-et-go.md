@@ -15,13 +15,13 @@ tags:
 ---
 Les deux en mêmes temps 😉
 
-[Haskell][1] mavait été [conseillé][2] suite à mon premier billet sur le langage [Go][3] (que je tente également de découvrir). Le seul langage fonctionnel que je maîtrise _assez_ bien est [Objective Caml][4]. Il est donc intéressant d'apprendre un nouveau afin de comparer et peut être avoir un nouveau langage _fétiche_. À mon niveau jobserve surtout des points communs entre OCaml et Haskell ([[1][5]], [[2][6]]). Je n'ai pas encore étudié des choses comme [les monads][7]. Pour l'instant je préfère OCaml.
+[Haskell][1] m'avait été [conseillé][2] suite à mon premier billet sur le langage [Go][3] (que je tente également de découvrir). Le seul langage fonctionnel que je maîtrise _assez_ bien est [Objective Caml][4]. Il est donc intéressant d'apprendre un nouveau afin de comparer et peut être avoir un nouveau langage _fétiche_. À mon niveau jobserve surtout des points communs entre OCaml et Haskell ([[1][5]], [[2][6]]). Je n'ai pas encore étudié des choses comme [les monads][7]. Pour l'instant je préfère OCaml.
 
 Je fais aussi [mon petit bout de chemin][8] avec le langage Go. Il est vrai qu'on peut le situer entre le C et [Python][9]. La rapidité de développement semble correcte, compilation rapide et simple.
 
 Bref, rien de bien transcendant pour le moment du côté de ces deux langages. Je vous tiens au courant de mon évolution. Au passage, si vous cherchez un bon livre pour Haskell: [Learn You a Haskell for Great Good!][10]. Avec de très belles illustrations.
 
-En tout cas, ce que je suis certain, c'est que pour moi aucun de ces langages est aussi bon que Python en ce qui concerne la rapidité de développement et la facilité de maintien du code (à mon humble avis). Avec Python il n'y a aucune barrière technique ennuyeuse à franchir avant dattaquer un problème. J'ai toujours l'impression de coder l'essentiel.
+En tout cas, ce que je suis certain, c'est que pour moi aucun de ces langages est aussi bon que Python en ce qui concerne la rapidité de développement et la facilité de maintien du code (à mon humble avis). Avec Python il n'y a aucune barrière technique ennuyeuse à franchir avant d'attaquer un problème. J'ai toujours l'impression de coder l'essentiel.
 
  [1]: http://www.haskell.org
  [2]: http://blog.cedricbonhomme.org/2012/04/24/go-channels-et-goroutines/#comment-200

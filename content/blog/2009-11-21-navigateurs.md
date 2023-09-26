@@ -87,7 +87,7 @@ Mon bilan provisoire est:
   2. Konqueror;
   3. Arora.
 
-Chrome est disqualifié (aucune intégration et pas libre). Dans ce classement, un Firefox plus léger et mieux intégré à KDE prendrait la première place. Daprès mon [précédent classement][1], Konqueror devrait être en première place puisquil est mieux intégré à KDE. Il aurait la première place si son affichage des pages était aussi bon que celui de reKonq. J'ai hésité à donner la première place à reKonq car même si l'intégration de reKonq est bonne elle n'est que partielle. Mais je pense que tout ça va très rapidement saméliorer (on en a récemment parlé [ici][8] et [là][9] entre autres).
+Chrome est disqualifié (aucune intégration et pas libre). Dans ce classement, un Firefox plus léger et mieux intégré à KDE prendrait la première place. Daprès mon [précédent classement][1], Konqueror devrait être en première place puisquil est mieux intégré à KDE. Il aurait la première place si son affichage des pages était aussi bon que celui de reKonq. J'ai hésité à donner la première place à reKonq car même si l'intégration de reKonq est bonne elle n'est que partielle. Mais je pense que tout ça va très rapidement s'améliorer (on en a récemment parlé [ici][8] et [là][9] entre autres).
 
 Aurais-je oublié un bon navigateur pour KDE (pas Dolphin…) ?
 

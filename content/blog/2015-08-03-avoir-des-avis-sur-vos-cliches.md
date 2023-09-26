@@ -13,11 +13,11 @@ tags:
 ---
 La solution semble simple: faire partie d'un club ou utiliser un service Web social dédié à la photo. Dans un club les interactions sont de meilleure qualité. Tandis que le Web offre plus de visibilité et donc de connexions potentielles. Mais avec un tas de problèmes techniques et liés à nos droits.
 
-J'ai testé Zooomr, Flickr, 500px et Google+. Parallèlement, je me suis penché sur des solutions auto-hebergées comme Piwogo et Trovebox. Pour la simple raison qui est de vouloir garder le contrôle de mes photos et utiliser un logiciel avec une licence libre (par exemple AGPL). Je me suis déjà bien assez expliqué à ce propos sur ce blog.
+J'ai testé Zooomr, Flickr, 500px et Google+. Parallèlement, je me suis penché sur des solutions auto-hebergées comme Piwigo et Trovebox. Pour la simple raison qui est de vouloir garder le contrôle de mes photos et utiliser un logiciel avec une licence libre (par exemple AGPL). Je me suis déjà bien assez expliqué à ce propos sur ce blog.
 
 J'étais très satisfait de Zooomr les 5 premières années. Puis le service a commencé à se [dégrader][1]. Je pense que je pourrais toujours utiliser Zooomr. Même si les fonctionnalités seraient restées figées.
 
-Malgré limmense communauté et toutes les fonctionnalités (surtout les groupes), je n'ai jamais vraiment apprécié Flickr. L'interface ne me convient plus depuis environ deux ans (j'ai cependant l'impression qu'il y a de récentes améliorations). C'est dommage, car cela mempêche un peu de suivre certaines personnes. Aussi, je ne veux pas devoir me créer un compte Yahoo! uniquement pour utiliser Flickr.
+Malgré l'immense communauté et toutes les fonctionnalités (surtout les groupes), je n'ai jamais vraiment apprécié Flickr. L'interface ne me convient plus depuis environ deux ans (j'ai cependant l'impression qu'il y a de récentes améliorations). C'est dommage, car cela mempêche un peu de suivre certaines personnes. Aussi, je ne veux pas devoir me créer un compte Yahoo! uniquement pour utiliser Flickr.
 
 [Google+][2] est certainement aussi un endroit intéressant pour avoir des retours. J'ai souvent des commentaires sur ce réseau. Et mon cercle «Photo» est plutôt cool. Mais Google+ n'est pas très bon pour suivre un flux de photos, l'interface n'est pas assez spécialisée pour cela.
 

@@ -17,8 +17,8 @@ Quelques changements ces derniers temps. Différentes intéressantes activités.
   * j'ai relu lexcellent article sur Xen du MISC numéro 42. Suite à cela j'ai commencé à mintéresser de plus près au sujet (enfin!);
   * si intéressant que je suis en train de lire [The Book Of XEN][2]. Excellent livre, pratique et ne se contente pas de survoler le sujet;
   * si vous jouez avec Xen, vous jouerez bien avec [Qubes][3];
-  * j'ai toujours eu un niveau de débutant avec HTML. On va saméliorer pour HTML5. À ce qui paraît ce n'est [pas dur][4]. En plus il existe aussi de [bons livres][5] pour ça;
-  * lIrlande est un [très beau pays][6] (tiens à ce sujet je dois encore répondre à un mail ;-);
+  * j'ai toujours eu un niveau de débutant avec HTML. On va s'améliorer pour HTML5. À ce qui paraît ce n'est [pas dur][4]. En plus il existe aussi de [bons livres][5] pour ça;
+  * l'Irlande est un [très beau pays][6] (tiens à ce sujet je dois encore répondre à un mail ;-);
   * [nouvelle fonctionnalité][7] de [pyAggr3g470r][8];
   * à partir de vendredi je reprends la piscine;
   * afin de conserver une certaine virginité j'ai décidé aujourd'hui de changer de nom à une fréquence d'environ cinq ans.

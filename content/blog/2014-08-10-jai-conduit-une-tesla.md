@@ -53,7 +53,7 @@ vous vous approchez de la voiture. Ça peut faire un peu gadget, mais j'ai bien
 aimé. Avant de rentrer dans la voiture, on sait à quoi s'attendre.
 
 Finalement ce fût une très bonne expérience. Je remercie le sympathique guide
-qui nous a tout expliqué et aussi [bnj][3] qui mavait envoyé le lien pour
+qui nous a tout expliqué et aussi [bnj][3] qui m'avait envoyé le lien pour
 m'inscrire à cet événement.  
 En bref, une superbe voiture. Tout comme [celle-ci][4].
 

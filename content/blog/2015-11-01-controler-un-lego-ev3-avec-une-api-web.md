@@ -26,7 +26,7 @@ afin de définir quelques _endpoints_ correspondants aux différentes actions
 (avancer, reculer, tourner à droite, tourner à gauche et stopper).
 
 Le [README][2] explique les quelques étapes nécessaires pour l'installation
-ainsi que l'utilisation. C'est vraiment simple. Lexemple ci-dessous ordonnera
+ainsi que l'utilisation. C'est vraiment simple. L'exemple ci-dessous ordonnera
 au robot d'avancer indéfiniment.
 
 ```bash

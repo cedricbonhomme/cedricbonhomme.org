@@ -96,7 +96,7 @@ if __name__ == "__main__":
 Il télécharge le fichier XML, le charge dans une liste dobjets de témoignagnes
 et pour l'instant crée ce _piechart_. On peut faire encore pleins d'autres
 graphes (histogrammes, Circos, etc.) en utilisant les autres données. Il suffit
-dajouter une fonction à chaque fois. Bon ce n'est pas optimisé, _but it works!_
+d'ajouter une fonction à chaque fois. Bon ce n'est pas optimisé, _but it works!_
 
  [1]: http://www.numerama.com/magazine/17766-un-premier-outil-libre-et-open-source-pour-hadopi-data.html
- [2]: http://www.hadopi-data.fr/
+ [2]: http://www.hadopi-data.fr

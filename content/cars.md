@@ -9,7 +9,12 @@ toc = true
 
 ## Tesla Model Y - 2023 Long Range
 
-![Tesla Model Y](/images/cars/tesla-y.jpg)
+
+{{< image src="/images/cars/tesla-y.jpg"
+    width="50%"
+    alt="Tesla Model Y"
+    caption="Tesla Model Y" >}}
+
 
 - first registration: 2023-08-11;
 - owner from 2023-08-11 to today;
@@ -30,7 +35,12 @@ toc = true
 
 ## Mazda 6 SKYACTIV-D 2.2 175
 
-![Mazda 6 SKYACTIV-D 2.2 175](/images/cars/mazda6_20140731_144225.jpg)
+{{< image src="/images/cars/mazda6_20140731_144225.jpg"
+    width="50%"
+    alt="Mazda 6 SKYACTIV-D 2.2 175"
+    caption="Mazda 6 SKYACTIV-D 2.2 175" >}}
+
+Tesla Model Y
 
 - first registration: 2013-02-19;
 - owner from 2014-07-29 to 2023-08-17;

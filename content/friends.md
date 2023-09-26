@@ -1,16 +1,16 @@
 +++
 title = "Friends from memory"
 description = "Friends from memory"
-date = "2021-07-01"
+date = "2023-04-27"
 author = "Cédric Bonhomme"
 +++
 
 The goal of this project is to write down all friends, in the broad sense, you ever had.
-This lovely idea is from Derek Sivers.
+This lovely idea is from [Derek Sivers](https://sive.rs).
 
 It's about:
 
-- your current friends;
+- your current friends and loves;
 - childhood friends you haven’t seen since you were a kid;
 - old crushes (romantic or not);
 - teachers;
@@ -36,14 +36,18 @@ chronologically.
 - Nadège Klose
 - Gilles Bourg
 - Gaëlle Doré
+- Régis Wack
 - Jean-Pierre Rauch
 - Vincent Demange
 - Christophe Goessen
 - Alexandre Dulaunoy
 - Alain Vagner
 - Jean-Sébastien Sottet
+- Quinn Norton
 - Sascha Rommelfangen
+- Gérard Wagener
 - Emmanuelle Michaux
+- Jérôme Lombardi
 - Vanessa Naretto
 
 Best friends, old friends, distant friends, new friends. If you're listed, I
