@@ -12,7 +12,7 @@ tags:
 
 ---
 Je teste de nouveaux thèmes pour mon blog (peut-être avez vous déjà remarqué).
-Ce n'est pas vraiment que je ne veux plus utiliser lancien, mais il se fait
+Ce n'est pas vraiment que je ne veux plus utiliser l'ancien, mais il se fait
 vieux et aura bientôt des problèmes de compatibilité avec le moteur de
 _WordPress_. J'avais investi un certain temps afin d'avoir quelque chose de
 simple et _efficace_. Maintenant je veux un un thème simple, efficace et

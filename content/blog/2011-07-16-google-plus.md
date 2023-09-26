@@ -30,7 +30,7 @@ Je n'ai jamais utilisé FB. Je teste G+. Pourquoi? En partie pour [ces raisons][
 
 On voit qu'avec G+ tout est clairement orienté vers lidentité (les comptes avec pseudonymes devraient être supprimés). Je pense que FB a moins soigné cela. Lidentité virtuelle c'est très à la mode. Pour le moment on a différentes possibilités:
 
-  * la centralisation (plus.google.com/id, identi.ca/id, flickr.com/id, etc.). Voir lancien billet intitulé _[Le Web et moi (partie 1)][1]_;
+  * la centralisation (plus.google.com/id, identi.ca/id, flickr.com/id, etc.). Voir l'ancien billet intitulé _[Le Web et moi (partie 1)][1]_;
   * la décentralisation (POD diaspora personnel, OpenID, [lidée de Mozilla basée sur le mail][5], domaine personnel, etc.);
   * il y a aussi des solutions hybrides ouvertes. Le fait d'être sur un noeud Diaspora (par exemple joindiaspora.com).
 
@@ -41,7 +41,7 @@ J'attends donc l'API. Je pourrais alors écrire ici et faire du bruit sur G+ com
 
 ## Les + de G+
 
-Finalement, quest-ce que je trouve bien à ce n-ième _réseau_ social (hormis le fait qu'il va <del datetime="2011-07-14T19:32:59+00:00">défoncer</del> fracturer FB) ? Sans étonnement (pour vous, mais pour moi avec) il s'agit des cercles. Au départ je métais dit &#8220;ben quoi, il s'agit de groupes FB en cercles? En gros pareil que sur Diaspora.&#8221; Mais ces cercles sont plutôt bien pensés.
+Finalement, qu'est-ce que je trouve bien à ce n-ième _réseau_ social (hormis le fait qu'il va <del datetime="2011-07-14T19:32:59+00:00">défoncer</del> fracturer FB) ? Sans étonnement (pour vous, mais pour moi avec) il s'agit des cercles. Au départ je métais dit &#8220;ben quoi, il s'agit de groupes FB en cercles? En gros pareil que sur Diaspora.&#8221; Mais ces cercles sont plutôt bien pensés.
 
 D'abord il faut savoir qu'en fait un groupe de personnes avec qui on partage peut être:
 

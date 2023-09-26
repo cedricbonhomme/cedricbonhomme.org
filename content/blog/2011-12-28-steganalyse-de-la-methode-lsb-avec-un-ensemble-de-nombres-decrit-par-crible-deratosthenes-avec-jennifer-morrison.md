@@ -12,7 +12,7 @@ tags:
   - steganography
 
 ---
-Tout d'abord afin se rafraîchir l'esprit, on pourra lire lancien billet
+Tout d'abord afin se rafraîchir l'esprit, on pourra lire l'ancien billet
 [_Stéganalyse de la méthode LSB_][1]. Il sagissait d'usiter la méthode dite
 _Least Significant Beat_ puis de comparer la stéganalyse du fichier original
 et du fichier avec un message caché. La conclusion était que grâce à la

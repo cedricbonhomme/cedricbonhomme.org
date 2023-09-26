@@ -12,7 +12,7 @@ tags:
   - Zooomr
 
 ---
-Ah quest-ce que c'est embêtant d'essayer de maintenir conjointement un compte [Zooomr][1] et un [Flickr][2]. Surtout lorsque lun a plus de 700 photos et l'autre 66 . En y ajoutant mon magnifique débit montant dont je nose même pas parler, le choses ne sarrangent pas. Zooomr comme Flickr présentent lun et l'autre des avantages et des inconvénients, certes. Cependant pour des raisons que mon coeur conscent et que ma raison nexplique pas tout fait, je préfère Zooomr (voilà une réplique digne de moi, bien pourrie).
+Ah qu'est-ce que c'est embêtant d'essayer de maintenir conjointement un compte [Zooomr][1] et un [Flickr][2]. Surtout lorsque lun a plus de 700 photos et l'autre 66 . En y ajoutant mon magnifique débit montant dont je nose même pas parler, le choses ne sarrangent pas. Zooomr comme Flickr présentent lun et l'autre des avantages et des inconvénients, certes. Cependant pour des raisons que mon coeur conscent et que ma raison nexplique pas tout fait, je préfère Zooomr (voilà une réplique digne de moi, bien pourrie).
 
 Avantages Zooomr (pour moi):
 

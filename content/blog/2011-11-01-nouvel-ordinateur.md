@@ -22,8 +22,8 @@ Voici les modestes caractéristiques de mon nouvel ordinateur:
 - GPU: NVIDIA GeForce GT 545 &#8211; 1.5Go;
 - DD: HDD de 2To &#8211; Serial ATA 3Gb/s (SATA II).
 
-Autant dire que ça change comparé à lancien, je commençais à en avoir un peu marre…  
-C'est surtout le premier ordinateur de bureau que je machète (et que j'ai choisi)! Je n'ai donc pas hésiter à prendre un i7 (histoire de le garder au moins 5 ans en tant quordinateur principal).
+Autant dire que ça change comparé à l'ancien, je commençais à en avoir un peu marre…  
+C'est surtout le premier ordinateur de bureau que je m'achète (et que j'ai choisi)! Je n'ai donc pas hésité à prendre un i7 (histoire de le garder au moins 5 ans en tant quordinateur principal).
 
 Niveau connectique, c'est pas mal: USB 3.0 (quantité: beaucoup trop), DVI/VGA/HDMI femelles, etc.
 
@@ -32,7 +32,7 @@ Concernant le clavier j'ai pris un Logitech assez classique avec touches &#8220;
 L'écran est un [ViewSonic VX2453mh-LED][1] 24 pouces. Également une révolution dans ma vie. Je n'ai jamais eu un écran de plus de 16 pouces. Pour la carte graphique, je ne sais absolument pas ce quelle vaut. Mais elle est largement suffisante pour afficher un bureau KDE (en ce moment jusite même de plus en plus XFCE).  
 Je n'ai pas encore de haut-parleurs (inutiles pour le moment).
 
-Pour information voici les caractéristiques de lancien ordinateur:
+Pour information voici les caractéristiques de l'ancien ordinateur:
 
   * CPU: AMD Athlon(tm) XP 2600+. Je ne sais pas comment c'est possible, mais c'est vraiment lent;
   * RAM: 1024 Mo. Je dirai bien que c'est suffisant… Mais voilà, les nouveaux bureaux, Firefox, aKonadi, Kontact, etc.;
@@ -44,7 +44,7 @@ De plus, cette fois-ci le changement se fait très facilement, car depuis que j'
 Ce nouvel ordinateur, pour faire quoi?
 
   * pour KVM notamment (très simplement avec _virt-manager_). Un critère de choix important était la présence des options VT-x et [VT-d][2]. Xen 4.1 améliore beaucoup le support de VT-d (non para-virtualisé), tout est bien expliqué sur [cette page][3]. VT-d c'est aussi la [technologie cassée][4] ([post associé][5]) par Joanna Rutkowska. C'est un papier récent, mais les premières attaques dates de 2008 je crois (ça fait déjà longtemps me direz vous…). Là je ne retrouve plus le lien de la vidéo sur lattaque dIntel trusted execution à Black Hat (qui heureusement est sur mon NAS), mais pour vous consoler voici [une vidéo][6] et [une autre][7] de Joanna. On remarquera que Joanna est toujours très classe;
-  * un peu de traitement sur les photos. Hugin fait presque planter lancien ordinateur, HDR: dans tes rêves, détections des visages: plus de 5 heures (15 minutes avec le portable de Carole) pour toutes mes photos. Il y a aussi l'écran pour enfin avoir de jolies couleurs. Lors de mon dernier déplacement je me suis rendu compte qu'avec l'ordinateur dans la chambre dhôtel mes photos étaient bien plus jolies (couleurs moins fade). J'étais un peu blasé;
+  * un peu de traitement sur les photos. Hugin fait presque planter l'ancien ordinateur, HDR: dans tes rêves, détections des visages: plus de 5 heures (15 minutes avec le portable de Carole) pour toutes mes photos. Il y a aussi l'écran pour enfin avoir de jolies couleurs. Lors de mon dernier déplacement je me suis rendu compte qu'avec l'ordinateur dans la chambre d'hôtel mes photos étaient bien plus jolies (couleurs moins fade). J'étais un peu blasé;
   * pour faire tourner plus vite quelques algorithmes de cryptographie/stéganographie. Mais aussi [pyAggr3g470r][8] et sa base de 60Mo 😉 Plus divers programmes;
   * pour que Firefox ne prenne plus environ 11 secondes pour se lancer à froid. Et je nexagère pas. Surtout que sur ce même ordinateur Chrome se lance en maximum 5 secondes. Bref, une fluidité général du système, même si chargé;
   * pour que le client [bitcoin][9] me rende la main sur la machine de temps en temps.

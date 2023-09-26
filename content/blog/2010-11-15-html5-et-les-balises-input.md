@@ -17,7 +17,7 @@ tags:
 HTML5 c'est vraiment bien. J'ai une utilisation vraiment basique du langage
 HTML, cependant jessaye toujours d'avoir un code moderne et respectueux des
 standards. Dans [mon bon livre][1], je viens de voir les nouvelles
-[balises _input_][2] dHTML5. Et quest-ce que c'est bien fait! Il y a maintenant
+[balises _input_][2] dHTML5. Et qu'est-ce que c'est bien fait! Il y a maintenant
 une balise _input_ de type [URL][3] qui permet de vérifier si la donnée saisie
 est au bon format (de même pour les adresses e-mail). Si le format est incorrect
 le formulaire n'est pas soumis. [Cette expression][4] régulière est maintenant
