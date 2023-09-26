@@ -70,7 +70,6 @@ Quelque chose dans le genre.
 
 # Sommeil
 
-
 Il faut que je dorme plus. En moyenne, je suis à 5h30 de sommeil par nuit en semaine.
 Et je fais déjà quelques efforts. 7 h le week-end, parfait. Il faudrait au moins 6 heures en semaine.
 J’ai aussi des données sur le sommeil, mais les données de fréquence cardiaque seules donnent déjà de bonnes indications.
