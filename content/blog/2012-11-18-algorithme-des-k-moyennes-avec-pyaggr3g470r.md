@@ -33,7 +33,7 @@ Ci-dessous, voici donc le résultat avec la [corrélation de Pearson][5]:
 
 ![mds2d](/images/blog/2012/11/mds2d1.jpg)
 
-Et voici les _clusters_ que lon peut voir avec cette représentation 2D:
+Et voici les _clusters_ que l'on peut voir avec cette représentation 2D:
 
   1. AdulauWikiDiary, Python News, Free Software Foundation
   2. Schneier on Security, LWN.net, Linux Kernel Newbies, dive into mark, Matt Blazes Exhaustive Search, cr0 blog, Handcrafted Games, etbe &#8211; Russell Coker, quuxlabs, The History of Python, Lennart Poettering, Victor Stinner, Neopythonic, sysc.tl, KDE.news, Fetchez le Python, linux kernel monkey log, Spafs Thoughts, Armed and Dangerous, Linus blog, Jeffersons Wheel, The Invisible Things Labs blog

@@ -13,8 +13,10 @@ tags:
   - wikimedia
 
 ---
-Je parlais sur [ce billet][1] de mes petites contributions à Wikimedia, particulièrement d'une photo de la [mairie de Paris][2] prise un peu _à larrache_. Et bien voilà [où je la retrouve][3] maintenant. Sur le site du [parti socialiste][4]! Heureusement que ce n'est pas pour un autre parti politique.  
-Voici [une autre photo][5] que j'ai prise le même jour et qui a également un peu de succés. En regardant les données Exif sur Wikimedia on voit que j'ai réalisé ces photos le 16 avril 2008 à 14:03 pour lune et 14:13 pour l'autre avec [cet appareil][6]. Lune [ici][7] et l'autre juste à [côté][8].
+Je parlais sur [ce billet][1] de mes petites contributions à Wikimedia, particulièrement d'une photo de la [mairie de Paris][2] prise un peu _à larrache_.
+Et bien voilà [où je la retrouve][3] maintenant. Sur le site du [parti socialiste][4]! Heureusement que ce n'est pas pour un autre parti politique.  
+Voici [une autre photo][5] que j'ai prise le même jour et qui a également un peu de succés.
+En regardant les données Exif sur Wikimedia on voit que j'ai réalisé ces photos le 16 avril 2008 à 14:03 pour lune et 14:13 pour l'autre avec [cet appareil][6]. Lune [ici][7] et l'autre juste à [côté][8].
 
 Je vais envoyer d'autres photographies au projet Wikimedia pour témoigner ma reconnaissance.
 

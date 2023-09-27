@@ -98,7 +98,7 @@ Impossible to detect message.
 ```
 
 La conclusion évidente est donc qu'il est préférable de ne pas utiliser des
-pixels se suivants mais un ensemble de pixels bien réparti que lon pourra
+pixels se suivants mais un ensemble de pixels bien réparti que l'on pourra
 retrouver afin de récupérer le message caché. Ici lidée était donc de générer
 des ensembles via des générateurs de nombres entiers. La qualité de la
 répartition va donc dépendre de la suite choisie. On aurait très bien pu

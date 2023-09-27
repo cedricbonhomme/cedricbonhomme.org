@@ -29,7 +29,7 @@ La [version 1.2 est sortie][2] avec pleins de choses géniales:
 
 Si vous désirez tester:
 
-  * il est possible d'essayer ici: http://signup.openphoto.me en sélectionnant S3+Dropbox à létape 2. D'ici fin novembre un premier service sera fourni (gratuit ou payant je pense, cela dépend de ce que lon choisira lors de la configuration pour lhébergement);
+  * il est possible d'essayer ici: http://signup.openphoto.me en sélectionnant S3+Dropbox à létape 2. D'ici fin novembre un premier service sera fourni (gratuit ou payant je pense, cela dépend de ce que l'on choisira lors de la configuration pour lhébergement);
   * le mieux est de linstaller sur son serveur: _git clone https://github.com/openphoto/frontend.git_, puis configuration via le navigateur (classique).
 
 C'est donc un peu comme WordPress. On a la possibilité d’héberger sur son serveur ou d'avoir une adresse compte.openphoto.me. Mais dans les deux cas on contrôle où se trouve les données! 

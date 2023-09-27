@@ -7,7 +7,7 @@ tags:
   - RaspberryPi
 
 ---
-Si vous navez pas assez didées de projets pour votre [Raspberry Pi][1],
+Si vous navez pas assez d'idées de projets pour votre [Raspberry Pi][1],
 voici [un cours très sympathique][2].
 
  [1]: http://www.raspberrypi.org/

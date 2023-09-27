@@ -16,7 +16,7 @@ tags:
 Lorsque je regarde [cette vidéo][1] je me dis que mes extensions Firefox protègent quand
 même bien ma vie privée. Le graphe ci-dessus représente deux semaines de navigation.
 
-Jusite en autres, [Ghostery][2], [NoScript][3] et [Adblock Plus][4]. [GNU LibreJS][5]
+J'usite en autres, [Ghostery][2], [NoScript][3] et [Adblock Plus][4]. [GNU LibreJS][5]
 est aussi intéressant.
 
  [1]: http://www.ted.com/talks/gary_kovacs_tracking_the_trackers.html

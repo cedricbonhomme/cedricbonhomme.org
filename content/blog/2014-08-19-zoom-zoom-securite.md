@@ -16,7 +16,7 @@ En ce moment je publie un billet par jour. Et en quittant le travail j'ai promis
 En fait il faut savoir que pour sortir de ce parking il faut se rapprocher d'une barrière qui souvre automatiquement à lapproche d'un véhicule. J'ai pris lhabitude de ne plus vraiment marrêter mais de rouler tout doucement le temps quelle monte. Donc ma voiture est pendant un court instant assez proche de cette barrière.  
 Voilà, je pense que vous avez compris.
 
-Pour continuer, dans la suite nous allons passer en revue quelques technologies liées à la sécurité que lon peut trouver dans les véhicules modernes (sous les dénominations de Mazda). Si vous désirez approfondir consultez [cette section][2] du site Mazda.  
+Pour continuer, dans la suite nous allons passer en revue quelques technologies liées à la sécurité que l'on peut trouver dans les véhicules modernes (sous les dénominations de Mazda). Si vous désirez approfondir consultez [cette section][2] du site Mazda.  
 Je ne parlerai pas aujourd'hui des technologies pour [l'environnement][3] comme [i-Stop][4] et [i-Eloop][5].
 
 En cadeau vous trouverez à la toute fin une nouvelle photo.

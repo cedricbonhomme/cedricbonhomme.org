@@ -16,7 +16,7 @@ tags:
   <a href="/images/blog/2013/08/hurd1.png"><img width="100%" title="hurd" src="/images/blog/2013/08/hurd1.png" alt="hurd" /></a>
 </div>
 
-[Hurd][1] me semble plutôt stable par rapport à ce que lon en dit généralement.
+[Hurd][1] me semble plutôt stable par rapport à ce que l'on en dit généralement.
 
 P.S.: Ce billet a été envoyé depuis [Blogillo][2].
 

@@ -13,7 +13,7 @@ tags:
   - newspipe
 
 ---
-Lorsque lon développe une application utilisant des ressources Web il est
+Lorsque l'on développe une application utilisant des ressources Web il est
 agréable de pouvoir tester la disponibilité de ces dernières.  
 Dans le cas d'un agrégateur ne pas tester les codes erreurs du module
 [urllib2][1] peut faire perdre du temps au lecteur. En effet il arrive que

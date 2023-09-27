@@ -11,7 +11,7 @@ tags:
 ---
 Récemment sur [ce blog][1] bien sympathique j'ai lu [ce billet][2]. Ça ma fait
 un grand plaisir car ce genre dexpression et le _franglais_ commencent doucement
-à membêter (il faut imaginer ce que ça peut donner lorsque lon travail dans
+à membêter (il faut imaginer ce que ça peut donner lorsque l'on travail dans
 l'informatique). Pour moi le mieux, c'était encore lorsque un enseignant à
 luniversité avait dit:
 &#8220;Tu me passes le folder qui est sur la table?&#8221;. Pour le boulot,

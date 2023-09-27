@@ -23,7 +23,7 @@ il semble.
 
 [bzr is dying; Emacs needs to move][2], 02 Jan 2014. 
 
-J'avais commencé par apprendre Mercurial (_parce que Python_), puis Git. Je préfère également l'interface utilisateur de Mercurial et trouve Mercurial un peu plus simple d'utilisation. Tout comme _esr_ jaccepte la victoire de Git, qui est indéniablement un excellent DVCS. Techniquement Git a effectivement quelques avantages. Je vois surtout la gestion des branches qui est certainement mieux pensée et la zone de _transit_ (ou _staging_, que lon peut retrouver avec [DirState][3] en utilisant Mercurial).
+J'avais commencé par apprendre Mercurial (_parce que Python_), puis Git. Je préfère également l'interface utilisateur de Mercurial et trouve Mercurial un peu plus simple d'utilisation. Tout comme _esr_ jaccepte la victoire de Git, qui est indéniablement un excellent DVCS. Techniquement Git a effectivement quelques avantages. Je vois surtout la gestion des branches qui est certainement mieux pensée et la zone de _transit_ (ou _staging_, que l'on peut retrouver avec [DirState][3] en utilisant Mercurial).
 
 Les statistiques Ohloh confirment la victoire de [Git][4] sur [Mercurial][5]. [La décision][6] de léquipe de Bitbucket en 2011 de supporter Git était donc judicieuse afin de sécuriser leur avenir.
 

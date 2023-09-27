@@ -15,7 +15,7 @@ tags:
 ---
 Aux yeux de l'état. Des pirates nuisibles et à surveiller. La fin d'une ère de la
 sécurité. Les _black hat_ (méchants) ne sont plus une priorité depuis un bon moment.
-J'aimerai voir ce [monde de surveillance][1] dans 15 ans. Lorsque lon ne verra plus les
+J'aimerai voir ce [monde de surveillance][1] dans 15 ans. Lorsque l'on ne verra plus les
 caméras et autres systèmes de surveillance. Nous serons alors tous des délinquants, à
 qui il ne faut faire confiance et trop idiots.
 

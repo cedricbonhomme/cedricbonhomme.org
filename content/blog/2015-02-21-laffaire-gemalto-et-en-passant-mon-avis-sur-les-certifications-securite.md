@@ -16,7 +16,7 @@ tags:
 De grandes entreprises [se][1] [font][2] [dérober][3] en masse des informations très
 sensibles par la NSA pour le GCHQ.
 
-À en croire que même lorsque lon en a les moyens, les certifications en sécurité ne
+À en croire que même lorsque l'on en a les moyens, les certifications en sécurité ne
 servent à rien. Si, à faire du fric.
 
 Nous savons bien qu'une certification (comme la 27001) na pas forcément à répondre aux

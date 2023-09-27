@@ -60,7 +60,7 @@ Le groupe semble faire un peu dans le FUD:
 
 
 
-Il faut faire attention aux idioties que lon peut trouver sur [ce genre de site][4]
+Il faut faire attention aux idioties que l'on peut trouver sur [ce genre de site][4]
 (je naime pas vraiment le journalisme IT) et le flux Twitter de Lizard Squad.
 
 Par contre, le problème est bien expliqué [ici][5]. Je vous conseil de lire toute la
