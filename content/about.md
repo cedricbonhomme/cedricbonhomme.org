@@ -151,3 +151,13 @@ See [my “now” page](/now).
 ## Contact me
 
 See [my “contact” page](/contact).
+
+
+## Colophon
+
+Enough about me. Let's talk about this website.
+The source code is available in a
+[Git repository](https://git.sr.ht/~cedric/cedricbonhomme.org).
+
+This site is built with [Hugo](https://gohugo.io) with the theme
+[Anatole](https://github.com/lxndrblz/anatole).
