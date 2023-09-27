@@ -15,7 +15,7 @@ tags:
 Il s'agit d'une forge composée de différents outils connectés.
 Sourcehut est sous licence _GNU Affero General Public License_.
 Principalement programmé en [Python][4] (avec le micro-_framework_ [Flask][5]).
-L'interface Web n'utilise pas JavaScript et nen est pas moins agréable à usiter sur
+L'interface Web n'utilise pas JavaScript et n'en est pas moins agréable à usiter sur
 différents types d'écrans.
 
 De prime abord le service peu paraître déroutant et austère.

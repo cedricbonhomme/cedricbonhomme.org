@@ -15,7 +15,7 @@ tags:
 ![pyAggr3g470r-20141002](/images/blog/2014/10/pyAggr3g470r-20141002.png)
 
 J'ai volontairement omis de parler des dernières versions mineures de
-[pyAggr3g470r][1]. Les modifications nen sont pas moins intéressantes.
+[pyAggr3g470r][1]. Les modifications n'en sont pas moins intéressantes.
 Parmi lesquelles nous pouvons citer: des corrections de _bugs_ apparus avec la
 dernière version de SQLAlchemy, quelques améliorations succinctes de l'interface
 et une importante amélioration de la vitesse de génération des pages

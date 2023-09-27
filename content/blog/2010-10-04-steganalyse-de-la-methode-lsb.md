@@ -14,7 +14,7 @@ tags:
 ---
 Comme expliqué dans le [billet précédent][1] la technique LSB
 (Least Significant Bit) est aisément attaquable. En effet si pour loeil modifier
-le bit de poids faible est invisible il nen est pas de même pour un script
+le bit de poids faible est invisible il n'en est pas de même pour un script
 [Python][2]. Nous allons donc utiliser une technique qui consiste tout
 simplement à remplacer les composantes pairs des pixels par 0 et les composantes
 impairs par 255. Ce qui veut dire que le pixel (132, 247, 123) deviendrait

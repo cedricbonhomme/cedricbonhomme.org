@@ -19,11 +19,11 @@ Un billet en trois parties qui aborde en premier lieu [trois beaux langages de p
 Je trouve qu'il est plutôt drôle de les comparer. Python semble sur certains points se situer entre le C et Objective Caml. Enfin c'est mon avis et ce que je constate parfois.
 
 Pour [Guido Van Rossum][2], Python devait être entre un language de script (interprété comme Shell) et le C (compilé) et ainsi tenter de réunir expressivité et performances avec des structures de données évoluées (dictionnaires, tuples, listes, etc.).  
-Python est donc un language impératif héritant de léducation de Guido Van Rossum et sur ce point est proche de C. Cependant il a un typage dynamique fortement typé (inutile de définir de manière explicite le type d'une variable, mais une fois fixé le type a souvent de limportance). Au contraire le C a un typage très fort.
+Python est donc un language impératif héritant de l'éducation de Guido Van Rossum et sur ce point est proche de C. Cependant il a un typage dynamique fortement typé (inutile de définir de manière explicite le type d'une variable, mais une fois fixé le type a souvent de limportance). Au contraire le C a un typage très fort.
 
 Cependant des fonctions comme [map][3] ou les [listes en compréhensions][4] lui donne quelques traits de languages fonctionnels, comme OCaml (preuve que Guido a l'esprit ouvert). Biensûr sur ce point il narrive pas à la cheville dOCaml et c'est normal.
 
-Ce qui est vraiment génial avec Python, c'est la liberté et lexpressivité du langage. Ce qui fait qu'on peut faire facilement à peu près ce que l'on souhaite. Voici par exemple deux petites comparaisons:
+Ce qui est vraiment génial avec Python, c'est la liberté et l'expressivité du langage. Ce qui fait qu'on peut faire facilement à peu près ce que l'on souhaite. Voici par exemple deux petites comparaisons:
 
   * [Ocaml et Python][5]  
     Sans être vraiment un langage fonctionnel Python de par son expressivité définit cette fonction dincrémentation quasiment aussi simplement que OCaml. Grâce au listes en compréhension il peut même faire [mieux parfois][6];
@@ -31,7 +31,7 @@ Ce qui est vraiment génial avec Python, c'est la liberté et lexpressivité du 
     En le comparant à C on comprend de suite lavante du typage dynamique (qui peut être dangereux), mais il sera parfois moins performant pour des calculs plus complexes (par exemple en cryptographie ou pour traiter des longues chaînes de caractères). Voici encore un excellent [exemple][8].
 
 Il y a donc évidemment plusieurs styles pour écrire du Python. Un(e) _Pythonien(ne)_ reconnaîtra le bon.  
-Lorsque l'on sait un petit peu développer on sent facilement quel langage est le plus adapté dans une situation. Hormis pour des raisons de performances je nutilisera plus le C pour calculer un PGCD, Fibonacci ou encore jouer avec une liste mais plutôt Ocaml. Je le faisais avant, je nen ai plus besoin. Par dessus OCaml pour les listes je préfère de loin Python, parfois aussi pour des fonctions mathématiques. Pour des traitements sur des fichiers, chaînes de caractères, le C. Bref, mes trois langages favoris qui permettent de tout faire très bien.
+Lorsque l'on sait un petit peu développer on sent facilement quel langage est le plus adapté dans une situation. Hormis pour des raisons de performances je n'utiliserai plus le C pour calculer un PGCD, Fibonacci ou encore jouer avec une liste mais plutôt Ocaml. Je le faisais avant, je n'en ai plus besoin. Par dessus OCaml pour les listes je préfère de loin Python, parfois aussi pour des fonctions mathématiques. Pour des traitements sur des fichiers, chaînes de caractères, le C. Bref, mes trois langages favoris qui permettent de tout faire très bien.
 
 La première partie très plaisante de ce billet se termine sur cette question: De votre côté, comment situez vous C, Python et OCaml?
 
@@ -52,7 +52,7 @@ Pour finir passons à une autre catégorie de développeur, [le fanatique][9]. O
   * écrire des scripts afin dautomatiser des tâches système;
   * divers problèmes scientifiques ([hadoop][16], [mapreduce][17], [factorisation de matrices][18], [numpy][19], etc.)
   * prototyper des interfaces ou développer carrément un [jeu][20];
-  * prendre l[apéro][21].
+  * prendre l'[apéro][21].
 
 Ah zut, je crois qu'il y a un problème avec la liste. Vous pouvez [chercher][22] pour moi?  
 Certains au lieu de Python choisirons Perl. D'autres Java. Mais ces derniers, ont-ils vraiment choisi? 
