@@ -14,4 +14,4 @@ Une nouvelle rubrique pour te divertir cher lecteur. On essaiera d'avoir une vid
 
 J'aime bien certains aspects des État-Unis.
 
- [1]: http://blog.cedricbonhomme.org/category/music-2/
+ [1]: https://www.cedricbonhomme.org/tags/music/

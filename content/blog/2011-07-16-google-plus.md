@@ -18,7 +18,7 @@ Ce billet est la suite de _[Le Web et moi (partie 1)][1]_. Sauf que maintenant i
 
 Je n'ai jamais utilisé FB. Je teste G+. Pourquoi? En partie pour [ces raisons][2]. Mais aussi car:
 
-  * [Marissa Mayer][3] est sur G+ et y poste de très belles photos delle;
+  * [Marissa Mayer][3] est sur G+ et y poste de très belles photos d'elle;
   * Google sait déjà plus qu'il ne le faudrait sur moi. Et G+ ne donne pas plus d'informations sur ma vie pour le moment;
   * j'ai bien compris le _business model_ de Google. Je suis conscient des enjeux liés à la problématique de la vie privée (ce n'est pas vraiment le sujet du billet). Google ne vendra pas mon carnet de contacts ou la liste des sites que je fréquente. Sur ce point je doute de FB et Google est au moins clairs sur ces intentions;
   * je naime les connexions FB entre les sites internet. Les connexions de la sphère Google ne me dérangent pas;
@@ -26,9 +26,9 @@ Je n'ai jamais utilisé FB. Je teste G+. Pourquoi? En partie pour [ces raisons][
   * j'ai envie de profiter au maximum de ce que moffre la vie, notamment des expériences comme _hangout_ grâce à [jingle XEP-0166/167][4] (qui est le futur daprès Google);
   * pour les raisons que je vais citer plus bas.
 
-## Lidentité virtuelle
+## L'identité virtuelle
 
-On voit qu'avec G+ tout est clairement orienté vers lidentité (les comptes avec pseudonymes devraient être supprimés). Je pense que FB a moins soigné cela. Lidentité virtuelle c'est très à la mode. Pour le moment on a différentes possibilités:
+On voit qu'avec G+ tout est clairement orienté vers l'identité (les comptes avec pseudonymes devraient être supprimés). Je pense que FB a moins soigné cela. L'identité virtuelle c'est très à la mode. Pour le moment on a différentes possibilités:
 
   * la centralisation (plus.google.com/id, identi.ca/id, flickr.com/id, etc.). Voir l'ancien billet intitulé _[Le Web et moi (partie 1)][1]_;
   * la décentralisation (POD diaspora personnel, OpenID, [lidée de Mozilla basée sur le mail][5], domaine personnel, etc.);
