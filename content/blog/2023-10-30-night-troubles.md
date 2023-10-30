@@ -35,4 +35,4 @@ tags:
 >     
 > -- Night troubles - Cédric Bonhomme - October 2023
 
-At least, I tried. Tell me it's bad. I could not are less ;-)
+At least, I tried. Tell me it's bad. I could not care less ;-)
