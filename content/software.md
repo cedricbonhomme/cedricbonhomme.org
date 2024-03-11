@@ -17,9 +17,9 @@ You can have a look at my own [donations](/donations).
 
 ## Communications and Internet
 
-- [Newspipe](https://sr.ht/~cedric/newspipe): a web-based news aggregator and
+- [Newspipe](https://github.com/cedricbonhomme/newspipe): a web-based news aggregator and
   reader.
-- [Freshermeat](https://sr.ht/~cedric/freshermeat): an open source software
+- [Freshermeat](https://github.com/cedricbonhomme/freshermeat): an open source software
   directory and release tracker.
 - [Grenouille](https://gitlab.com/cedric/Grenouille): an online service for
   weather data.
@@ -27,16 +27,16 @@ You can have a look at my own [donations](/donations).
 
 ## Security
 
-- [Stegano](https://sr.ht/~cedric/stegano): a pure Python Steganography module.
+- [Stegano](https://github.com/cedricbonhomme/Stegano): a pure Python Steganography module.
 - [Guardian](https://sr.ht/~cedric/guardian): monitor the status of a set of
   services.
-- [pyHIDS](https://sr.ht/~cedric/pyHIDS): a simple HIDS for verifying the
+- [pyHIDS](https://github.com/cedricbonhomme/pyHIDS): a simple HIDS for verifying the
   integrity of a system.
 
 
 ## Visualization
 
-- [IP-Link](https://git.sr.ht/~cedric/ip-link): the goal of IP-Link is to see
+- [IP-Link](https://github.com/cedricbonhomme/IP-Link): the goal of IP-Link is to see
   the relationships between different IP from network traffic capture.
 
 
