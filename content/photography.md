@@ -17,8 +17,7 @@ You can take a look at some of the photos I shared on various places:
 
 Most of these photos are under
 [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-license.
-Most of these photos are under Attribution-ShareAlike 4.0 International license. Feel free to use them.
+license. Feel free to use them.
 
 I rarely indulge in post-processing my photos; I prefer them Straight Out of the Camera (SOOC).
 For me, the moment captured in a click is final, unaltered by editing.
