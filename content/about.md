@@ -6,22 +6,16 @@ author = "Cédric Bonhomme"
 +++
 
 I'm a computer scientist, intensely interested in computer security and privacy.  
-Open-source software (OSS) is important for me.
-I try to share and contribute in this world to the extent of my knowledge.
-I have the huge chance to develop open source software in a professional context.
+I try to share and contribute in this world to the extent of my knowledge and
+I have the huge chance to develop open source software in a professional context.  
+I appreciate the art of computer programming since my childhood.
 I do not really prefer a specific programming language, despite the fact that I
 like Python and OCaml.  
-I appreciate the art of computer programming since my childhood.
+
 Here is a [resume](/files/resume_cedric-bonhomme_web-version.pdf) if you care.
 
-Outside of computers, I’m interested in photography and I play piano, a lot.
+Outside of computers, I’m interested in [photography](/photography) and I play piano, a lot.
 I also read books, but not as much as I would like.
-
-I have two wonderful children. I like to say that I am father by day and hacker
-by night (I don't sleep much, so its almost literally the case).
-Despite my work and passion for computer science, I do my best to spend a lot
-of time with them. To teach them everything I can and of course to have fun
-together. I am quite proud of this.
 
 
 ## More about me
@@ -30,7 +24,6 @@ together. I am quite proud of this.
 
 I’m a minimalist and a low-tech guy. Passionate by computer science.
 Secretly I do not like modern technology.
-I prefer basic phones, simple cars, watches and so on.
 I like books, pen, papers and photos. I hate e-readers and “smart” devices.
 Of all the things I own, the most important for me is probably my piano.
 
@@ -38,6 +31,18 @@ This principle is also valid when it comes to my tastes in software development
 and with hardware.
 My favorite programming languages are Python and OCaml and text editors of
 choice are Emacs and Kate, depending on the mood.
+
+
+### It's all about open source
+
+I try to dedicate a significant part of my life to promoting knowledge sharing
+mainly, but not only, in the field of computer science. This is why my
+[software projects](/software) and ideas are public and under copyleft licenses.
+You can share, use and remix my work.  
+I think it's also important to make [donations](/donations) to the projects
+I am relying on.
+
+I am desperate by the growing capitalist alternative of the Web and I support the Small Web.
 
 
 ### Introvert
@@ -58,18 +63,6 @@ could be an example, just by *doing*. And at worse, you did something.
 People should be more individualist and altruistic, in the same time.
 It's a matter of balance.
 For me it's totally fine to create something without putting my name on it.
-
-
-### It's all about open source
-
-I try to dedicate a significant part of my life to promoting knowledge sharing
-mainly, but not only, in the field of computer science. This is why my
-[software projects](/software) and ideas are public and under copyleft licenses.
-You can share, use and remix my work.  
-I think it's also important to make [donations](/donations) to the projects
-I am relying on.
-
-I am desperate by the growing capitalist alternative of the Web and I support the Small Web.
 
 
 ### Piano
@@ -93,14 +86,21 @@ most of my time creating and thinking. Not consuming products. Our world do not
 need more audience, but more creation.
 
 
-### I like when it's hard
+## Parenting
+
+Despite my work and passion for computer science, I do my best to spend a lot
+of time with them. Which can be chalenging nowadays. I try to teach them
+everything I can and of course to have fun together.
+
+
+### It's fine if it's hard
 
 I always valued efforts. Even when I was a teenager (a bit weird no ?).
 Later when I was at the university. Today I tend as well to specifically value
 more what has endured.
 A watch that you are using since 10 years will be probably ready for another
 decade. Same for cars, I do not change a working car. Do not buy a brand new
-camera but try to make great [photos](/photography) with your current equipment.
+camera but try to make great photos with your current equipment.
 Look for new ideas, techniques, skills, new places. It's more work but rewarding.
 
 Hard effort is good for the body. Discomfort makes you stronger. Comfort makes
@@ -114,21 +114,6 @@ Thanks to books you will keep the brain of a child. If you are constantly learni
 you do not age.
 
 
-### Local
-
-I am local. Physically, I mean. My community is close to me geographically.
-This is something important that I learned thanks to my children and then thanks
-to my friends. In this order. This is quite fun.
-
-I am not against being global. But as I value effort, I prefer to be local.
-There are too much communities nowadays. Communities relying on wire and
-optical fiber. Those communities are often effortless, not resilient and finally
-illusion. Betting on social media to improve the society is an error.
-"Think Globally, Act Locally". Global communities and social media tend to upset us,
-divide and make us feel bad. I ignore these networks with peace of mind. There's
-no effort to puke on Twitter every day like Elon Musk does.
-
-
 ### Passionate
 
 I always tried to do everything with passion and I think long-term.
@@ -136,8 +121,7 @@ As much in my private life as in my work.
 If I feel that something out of my control is about to threaten my plans, I am
 ready to take appropriate decisions to change this or to adjust the plan.
 Most of the time it's not easy, but it's necessary. It's always better to put
-more effort.
-This is how to be honest and respectful to others.
+more effort. This is how to be honest and respectful to others.
 
 Finally, it's about enjoying life and doing what you love. 
 
