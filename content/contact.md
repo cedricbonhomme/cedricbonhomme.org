@@ -27,8 +27,8 @@ Use the dedicated issue tracker.
 
 ## Instant messaging
 
-I only communicate my [Matrix](https://matrix.org) identifier with relatives.
-But you can still request.
+I only communicate my [Matrix](https://matrix.org) and [Signal](https://signal.org)
+identifiers with relatives. But you can still request.
 
 
 ## … or just follow

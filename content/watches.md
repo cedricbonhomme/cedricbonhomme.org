@@ -1,7 +1,7 @@
 ---
 title: 'Watches'
-draft: false
 description: 'My watches'
+draft: false
 ---
 
 {{% box info %}}

@@ -42,7 +42,7 @@ You can have a look at my own [donations](/donations).
 
 ## Robotic
 
-- [EV3WebController](https://git.sr.ht/~cedric/EV3WebController): provides a
+- [EV3WebController](https://github.com/cedricbonhomme/EV3WebController): provides a
   Web interface in order to control the motors of the EV3 robot.
 
 
@@ -69,6 +69,7 @@ Developed for the Netherlands Red Cross. The official instance is available
 
 ## Various contributions
 
+- [cve-search](https://github.com/cve-search/) project.
 - a [crossword generator](https://git.sr.ht/~cedric/crossword-generator)
   written in Ocaml.
 - [Iterated Function Systems](https://github.com/cedricbonhomme/iterated-function-systems)

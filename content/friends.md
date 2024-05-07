@@ -8,7 +8,7 @@ author = "Cédric Bonhomme"
 The goal of this project is to write down all friends, in the broad sense, you ever had.
 This lovely idea is from [Derek Sivers](https://sive.rs).
 
-It's about:
+It's not only about friends in the conventional sense. It's about:
 
 - your current friends and loves;
 - childhood friends you haven’t seen since you were a kid;
@@ -34,6 +34,7 @@ chronologically.
 - Mickael Gerne
 - Magali Gantheil
 - Nadège Klose
+- Carole Niesel
 - Gilles Bourg
 - Gaëlle Doré
 - Régis Wack
