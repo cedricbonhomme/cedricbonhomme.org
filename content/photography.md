@@ -23,6 +23,4 @@ I rarely indulge in post-processing my photos; I prefer them Straight Out of the
 For me, the moment captured in a click is final, unaltered by editing.
 Once I press the shutter, the essence is preserved.
 
-I do not really care about the technology and quality equipment in photography
-(cameras, lenses, etc.) and think the use of expensive professional tools is often
-overestimated. You're welcome to browse through the various [cameras](/cameras) in my collection.
+You're welcome to browse through the various [cameras](/cameras) in my collection.

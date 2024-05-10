@@ -88,7 +88,7 @@ The rich can't buy this. Lazy people can't steal it. You can use it alone,
 in duo or being part of a group.
 
 
-## Parenting
+### Parenting
 
 Despite my work and passion for computer science, I do my best to spend a lot
 of time with them. Which can be chalenging nowadays. I try to teach them
@@ -143,7 +143,7 @@ See [my “contact” page](/contact).
 
 Enough about me. Let's talk about this website.
 The source code is available in a
-[Git repository](https://git.sr.ht/~cedric/cedricbonhomme.org).
+[Git repository](https://github.com/cedricbonhomme/cedricbonhomme.org).
 
 This site is built with [Hugo](https://gohugo.io) with the theme
 [Anatole](https://github.com/lxndrblz/anatole).
