@@ -20,7 +20,5 @@ Most of these photos are under
 license. Feel free to use them.
 
 I rarely indulge in post-processing my photos; I prefer them Straight Out of the Camera (SOOC).
-For me, the moment captured in a click is final, unaltered by editing.
-Once I press the shutter, the essence is preserved.
 
 You're welcome to browse through the various [cameras](/cameras) in my collection.
