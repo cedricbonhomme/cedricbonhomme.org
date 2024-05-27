@@ -19,6 +19,6 @@ Most of these photos are under
 [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 license. Feel free to use them.
 
-I rarely indulge in post-processing my photos; I prefer them Straight Out of the Camera (SOOC).
+I rarely post-process my photos; I prefer them Straight Out of the Camera (SOOC).
 
 You're welcome to browse through the various [cameras](/cameras) in my collection.

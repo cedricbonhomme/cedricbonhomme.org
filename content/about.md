@@ -5,10 +5,15 @@ date = "2022-01-30"
 author = "Cédric Bonhomme"
 +++
 
-I'm a computer scientist, intensely interested in computer security and privacy.  
-I try to share and contribute in this world to the extent of my knowledge and
-I have the chance to develop open source software in a professional context.
+
+I'm a computer scientist, intensely interested in computer security and privacy.
+I strive to dedicate a significant portion of my life to contributing to open-source software.
 I appreciate the art of computer programming since my childhood.
+
+During the day, I work in the field of information security as part of a
+Computer Emergency Response Team (CERT), where I have the chance to work
+on exciting projects and assist with incident response alongside
+[this awesome team](https://www.circl.lu/team).  
 Here is a [resume](/files/resume_cedric-bonhomme_web-version.pdf) if you care.
 
 Outside of computers, I’m interested in [photography](/photography).
@@ -19,9 +24,22 @@ I play piano, a lot. I also read books, but not as much as I would like.
 
 ## More about me
 
+### It's all about open source
+
+I [contribute](/software) to various open-source projects mainly, but not only, in the infosec field.
+I also develop open-source software in a [professional context](https://github.com/CIRCL).
+I do not really prefer a specific programming language, despite the fact that I
+enjoy using Python and OCaml.  
+
+I think it's also important to make [donations](/donations) to the projects
+I am relying on.
+
+I am desperate by the growing capitalist alternative of the Web and I support the Small Web.
+
+
 ### Minimalist
 
-I’m a minimalist and a low-tech guy. Passionate by \[computer\] science.
+I’m a minimalist and a low-tech guy.
 Secretly I do not like modern technology.
 I like books, pen, papers and photos. I hate e-readers and “smart” devices.
 Of all the things I own, the most important for me is probably my piano.
@@ -30,21 +48,6 @@ This principle is also valid when it comes to my tastes in software development
 and with hardware.
 My favorite programming languages are Python and OCaml and text editors of
 choice are Emacs and Kate, depending on the project and my mood.
-
-
-### It's all about open source
-
-I try to dedicate a significant part of my life to promoting knowledge sharing
-mainly, but not only, in the field of computer science. This is why my
-[software projects](/software) and ideas are public and under copyleft licenses.
-You can share, use and remix my work.
-I do not really prefer a specific programming language, despite the fact that I
-like Python and OCaml.  
-
-I think it's also important to make [donations](/donations) to the projects
-I am relying on.
-
-I am desperate by the growing capitalist alternative of the Web and I support the Small Web.
 
 
 ### Independent
@@ -56,6 +59,16 @@ I also do not want to depend to much on the banking system (I avoid having debts
 and useless insurances. I hate subscription services because I want to spend
 most of my time creating and thinking. Not consuming products. Our world do not
 need more audience, but more creation.
+
+
+### Piano
+
+I might have already said it: I love my piano. An instrument of music is the
+only expensive thing you can buy and do not feel stupid. It works without
+electricity, without subscription, without software. It just needs you and you
+can enjoy it your entire life. To be good at it you need to learn and practice.
+The rich can't buy this. Lazy people can't steal it. You can use it alone,
+in duo or being part of a group.
 
 
 ### Introvert
@@ -76,16 +89,6 @@ You could be an example, just by *doing*. And at worse, you did something.
 
 People should be more individualist and altruistic, in the same time.
 It's a matter of balance.
-
-
-### Piano
-
-I might have already said it: I love my piano. An instrument of music is the
-only expensive thing you can buy and do not feel stupid. It works without
-electricity, without subscription, without software. It just needs you and you
-can enjoy it your entire life. To be good at it you need to learn and practice.
-The rich can't buy this. Lazy people can't steal it. You can use it alone,
-in duo or being part of a group.
 
 
 ### Parenting

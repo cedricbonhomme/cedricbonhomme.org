@@ -5,11 +5,11 @@ date = "2024-05-07"
 author = "Cédric Bonhomme"
 +++
 
+This page lists the photographic equipment I have acquired throughout my life.
+
 I do not really care about the technology and quality equipment in
 photography (cameras, lenses, etc.) and think the use of expensive
 professional tools is often overestimated. 
-
-This page lists the photographic equipment I have acquired throughout my life.
 
 
 ## Primary
