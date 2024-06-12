@@ -69,7 +69,7 @@ Developed for the Netherlands Red Cross. The official instance is available
 
 ## Various contributions
 
-- [cve-search](https://github.com/cve-search/) project.
+- [Vulnerability Lookup](https://github.com/cve-search/vulnerability-lookup) project.
 - a [crossword generator](https://git.sr.ht/~cedric/crossword-generator)
   written in Ocaml.
 - [Iterated Function Systems](https://github.com/cedricbonhomme/iterated-function-systems)
