@@ -16,13 +16,16 @@ You have no idea.
 
 ## Work
 
-Working on various open-source projects (personally and professionally).
+Working on various open-source projects (personally and professionally), mainly on
+[Vulnerability Lookup](https://github.com/cve-search/vulnerability-lookup)
 
 
 ## Music
 
-Having fun playing piano.  
+Having fun playing piano.
 
 
 ## Reading
+
+Un homme dangereux written by Alexandre Kauffmann.
 

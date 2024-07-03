@@ -47,13 +47,22 @@ chronologically.
 - Quinn Norton
 - Sascha Rommelfangen
 - Gérard Wagener
-- Emmanuelle Michaux
+- Christian Studer
+- Sami Mokaddem
+- Andras Iklody
+- Déborah Servili
+- Michael Hamm
+- Aurélien Thirion
+- Jean-Louis Huynen
 - Jérôme Lombardi
+- Emmanuelle Michaux
+- Luciano Righetti
 - Vanessa Naretto
+- David Cruciani
 
 Best friends, old friends, distant friends, new friends. If you're listed, I
 remember you off the top of my head.
 
 If you find this some day when Googling your name, [drop me an email](/contact).
 
-Last edited: 2023-04-27
+Last edited: 2024-03-27
