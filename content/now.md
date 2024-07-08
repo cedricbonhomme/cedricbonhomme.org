@@ -5,19 +5,20 @@ date = "2022-06-01"
 author = "Cédric Bonhomme"
 +++
 
-Here's what I do now, when this page was updated on August 9, 2023.  
+Here's what I do now, when this page was updated on July 8, 2024.  
 This page is inspired by [a good idea from Derek Sivers](https://nownownow.com/about).
 
 
 ## Life
 
-You have no idea.
+[I](https://pixelfed.social/i/web/post/688628885056102492) am now 40 years old !
 
 
 ## Work
 
 Working on various open-source projects (personally and professionally), mainly on
-[Vulnerability Lookup](https://github.com/cve-search/vulnerability-lookup)
+[Vulnerability Lookup](https://github.com/cve-search/vulnerability-lookup) and on
+[Newspipe](https://github.com/cedricbonhomme/newspipe).
 
 
 ## Music
