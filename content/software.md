@@ -63,8 +63,7 @@ at creating a platform to collect and share with the widest possible audience,
 key information on humanitarian shelters, including the contacts of the
 organizations behind them.
 
-Developed for the Netherlands Red Cross. The official instance is available
-[here](https://shelter-database.org).
+Developed for the Netherlands Red Cross.
 
 
 ## Various contributions
