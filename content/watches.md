@@ -13,7 +13,17 @@ Powermatic 80 - T099.407.11.048.00
     width="50%"
     alt="Tissot - Chemin Des Tourelles"
     caption="Tissot - Chemin Des Tourelles" >}}
+
+My children's Flik Flak watches:
+
+{{< image src="https://pxscdn.com/public/m/_v2/1646/0fca8ea69-e1c06b/vHDZgy3EsIEV/IYxn3s9p8WgWwciQMzwwmpfSTFPjOXA9D4gDVCSA.jpg"
+    width="50%"
+    alt="Tissot - Chemin Des Tourelles"
+    caption="Tissot - Chemin Des Tourelles" >}}
 {{% /box %}}
+
+
+
 
 {{% box info %}}
 **Swatch Sistem 51**
@@ -34,8 +44,13 @@ LAKE YIS420
 
 
 {{% box info %}}
-**Festina Chronograh**  
-
+**Festina Chronograh**
 
 F14 OS 60
+
+{{< image src="https://pixelfed.social/storage/m/d6eeff88aa0c9af7fd5f87cd6431a14d929d049b/7255f45f4d71984a9fef61c4db1bb3326604357c/oyDEybZVqs7spctwAVVFmIrH9P4Hg8yLDKZPipBX.jpeg"
+    width="50%"
+    alt="Festina Chronograh"
+    caption="Tissot - Festina Chronograh" >}}
+
 {{% /box %}}
