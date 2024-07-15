@@ -36,6 +36,9 @@ LAKE YIS420
     caption="Tissot - Chemin Des Tourelles" >}}
 {{% /box %}}
 
+This is my first mechanical watch. I really like it.
+I bought it in 2020.
+
 {{% box info %}}
 **Fossil FS4682**
 
