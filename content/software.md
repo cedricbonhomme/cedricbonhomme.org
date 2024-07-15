@@ -69,8 +69,9 @@ Developed for the Netherlands Red Cross.
 ## Various contributions
 
 - [Vulnerability Lookup](https://github.com/cve-search/vulnerability-lookup) project.
-  Fast vulnerability lookup correlation from different sources, independent vulnerability ID and
-  easily manage coordinated vulnerability disclosure (CVD). 
+  Fast vulnerability lookup correlation from different sources
+  (MITRE, NIST, GitHub, CSAF, Pysec, VARIoT), independent vulnerability ID and
+  easily manage Coordinated Vulnerability Disclosure (CVD). 
 - a [crossword generator](https://git.sr.ht/~cedric/crossword-generator)
   written in Ocaml.
 - [Iterated Function Systems](https://github.com/cedricbonhomme/iterated-function-systems)
