@@ -109,12 +109,11 @@ camera but try to make great photos with your current equipment.
 Look for new ideas, techniques, skills, new places. It's more work but rewarding.
 
 Hard effort is good for the body. Discomfort makes you stronger. Comfort makes
-you age faster. I really started doing more sport when I was 32.
+you age faster. I really started doing more sport when I was 32 and
 I quickly felt stronger than at the age of 20.
 
 Reading books is good for you. Big companies do not forget to remind us to
 finish a movie, watch a video, read Twitter. Who remind you to read books ?
-
 Thanks to books you will keep the brain of a child. If you are constantly learning,
 you do not age.
 
