@@ -81,11 +81,10 @@ like me.
 I make friends quite easily. I remember and still love [all of them](/friends).
 I am fine when I am alone, so I know I have the best friends.
 
-I do not fight against people with antagonist principles. Trying to fix the
-society this way is a waste of time. It's extremely hard to
-change people. I think that it's better to spend time for positive things, to create and
-enjoy your transient life.
-You could be an example, just by *doing*. And at worse, you did something.
+I don’t engage in battles against those with opposing beliefs, as trying
+to change others in this way often proves futile. Instead, I focus on
+positive actions, creating, and enjoying the fleeting moments of life.
+By simply doing, you can lead by example. And at the very least, you've made a contribution.
 
 People should be more individualist and altruistic, in the same time.
 It's a matter of balance.
@@ -93,24 +92,22 @@ It's a matter of balance.
 
 ### Parenting
 
-Despite my work and passion for computer science, I do my best to spend a lot
-of time with them. Which can be chalenging nowadays. I try to teach them
-everything I can and of course to have fun together.
+Even with my deep commitment to computer science, I make it a priority to spend
+quality time with my children. In today's fast-paced world, this can be
+challenging, but I do my best to teach them as much as I can while ensuring
+we have fun together.
 
 
 ### It's fine if it's hard
 
-I always valued efforts. Even when I was a teenager (a bit weird no ?).
-Later when I was at the university. Today I tend as well to specifically value
-more what has endured.
+I always valued efforts. Hard effort is good for the body.
+Discomfort makes you stronger and comfort makes you age faster.
+I really started doing more sport when I was 32 and I quickly felt stronger than at the age of 20.
+Today I tend as well to specifically value more what has endured.
 A watch that you are using since 10 years will be probably ready for another
 decade. Same for cars, I do not change a working car. Do not buy a brand new
 camera but try to make great photos with your current equipment.
 Look for new ideas, techniques, skills, new places. It's more work but rewarding.
-
-Hard effort is good for the body. Discomfort makes you stronger. Comfort makes
-you age faster. I really started doing more sport when I was 32 and
-I quickly felt stronger than at the age of 20.
 
 Reading books is good for you. Big companies do not forget to remind us to
 finish a movie, watch a video, read Twitter. Who remind you to read books ?
