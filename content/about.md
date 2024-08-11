@@ -92,7 +92,7 @@ It's a matter of balance.
 
 ### Parenting
 
-Even with my deep commitment to computer science, I make it a priority to spend
+Even with my commitment to computer science, I make it a priority to spend
 quality time with my children. In today's fast-paced world, this can be
 challenging, but I do my best to teach them as much as I can while ensuring
 we have fun together.

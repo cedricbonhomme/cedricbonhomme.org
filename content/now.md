@@ -11,7 +11,8 @@ This page is inspired by [a good idea from Derek Sivers](https://nownownow.com/a
 
 ## Life
 
-[I](https://pixelfed.social/i/web/post/688628885056102492) am now 40 years old !
+[I am](https://pixelfed.social/i/web/post/728163567326126383) now 40 years old.
+Not doing too badly!
 
 I try to find time for photography and I even publish various shots
 on [my Instagram account](https://www.instagram.com/_ecbo_/).
