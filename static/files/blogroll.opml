@@ -1,0 +1,11 @@
+<opml version="2.0">
+<head>
+<dateCreated>Fri,17 Aug 2024 01:07:00 UTC</dateCreated>
+</head>
+<body>
+<outline text="Blogs">
+  <outline text="Censorine" type="rss" xmlUrl="https://censorine.com/saturn/feed" htmlUrl="https://censorine.com" title="Censorine"/>
+  <outline text="Censorine" type="rss" xmlUrl="https://vanschklift.com/blog/feed/atom" htmlUrl="https://vanschklift.com" title="Vanschklift"/>
+</outline>
+</body>
+</opml>

@@ -1,0 +1,7 @@
+<ul>
+  {{ $opmlJson := index .Site.Data.opml "opml" "body" "outline" "outline" }}
+  {{ range sort $opmlJson "_title" "asc" }}
+  <li><a href="{{ ._htmlUrl }}" target="_blank">{{ ._title }}</a> (<a href="{{ ._xmlUrl }}" target="_blank">feed</a>)</li>
+  {{ end }}
+</ul>
+
