@@ -96,6 +96,27 @@ rssLimit = 20
   identifier = "contact"
   url = "/contact/"
 
+  [[menu.main]]
+  name = "More"
+  weight = 700
+  identifier = "more"
+  url = ""
+
+[[menu.main]]
+name = "Blogroll"
+parent = "more"
+weight = 100
+identifier = "blogroll"
+url = "/blogroll/"
+
+[[menu.main]]
+name = "Now"
+parent = "more"
+weight = 100
+identifier = "now"
+url = "/now/"
+
+
 [permalinks]
   blog = '/:year/:month/:day/:slug/'
 

@@ -5,7 +5,7 @@ date = "2022-06-01"
 author = "Cédric Bonhomme"
 +++
 
-Here's what I do now, when this page was updated on July 8, 2024.  
+Here's what I do now, when this page was updated on August 24, 2024.  
 This page is inspired by [a good idea from Derek Sivers](https://nownownow.com/about).
 
 
@@ -16,6 +16,9 @@ Not doing too badly!
 
 I try to find time for photography and I even publish various shots
 on [my Instagram account](https://www.instagram.com/_ecbo_/).
+
+I’m trying to exercise more and can now easily run 10 km in under an hour!
+You can connect with [me on Strava](https://www.strava.com/athletes/cedricbonhomme).
 
 ## Work
 

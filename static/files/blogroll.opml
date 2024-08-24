@@ -1,11 +1,14 @@
 <opml version="2.0">
 <head>
-<dateCreated>Fri,17 Aug 2024 01:07:00 UTC</dateCreated>
+<dateCreated>Fri,24 Aug 2024 01:07:00 UTC</dateCreated>
 </head>
 <body>
 <outline text="Blogs">
   <outline text="Censorine" type="rss" xmlUrl="https://censorine.com/saturn/feed" htmlUrl="https://censorine.com" title="Censorine"/>
-  <outline text="Censorine" type="rss" xmlUrl="https://vanschklift.com/blog/feed/atom" htmlUrl="https://vanschklift.com" title="Vanschklift"/>
+  <outline text="Vanschklift" type="rss" xmlUrl="https://vanschklift.com/blog/feed/atom" htmlUrl="https://vanschklift.com" title="Vanschklift"/>
+  <outline text="Redisdead" type="rss" xmlUrl="https://weblog.redisdead.net/main/feed/atom" htmlUrl="https://weblog.redisdead.net" title="Redisdead"/>
+  <outline text="Alexandre Dulaunoy" type="rss" xmlUrl="https://www.foo.be/feed.xml" htmlUrl="https://www.foo.be" title="Alexandre Dulaunoy"/>
+  <outline text="classstruggle.tech" type="rss" xmlUrl="https://classstruggle.tech/feed" htmlUrl="https://classstruggle.tech" title="classstruggle.tech"/>
 </outline>
 </body>
 </opml>
