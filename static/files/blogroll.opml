@@ -10,5 +10,8 @@
   <outline text="Alexandre Dulaunoy" type="rss" xmlUrl="https://www.foo.be/feed.xml" htmlUrl="https://www.foo.be" title="Alexandre Dulaunoy"/>
   <outline text="classstruggle.tech" type="rss" xmlUrl="https://classstruggle.tech/feed" htmlUrl="https://classstruggle.tech" title="classstruggle.tech"/>
 </outline>
+<outline text="Books">
+  <outline text="Le Sillon Fictionnel" type="rss" xmlUrl="https://sillon-fictionnel.club/atom.xml" htmlUrl="https://sillon-fictionnel.club" title="Le Sillon Fictionnel"/>
+</outline>
 </body>
 </opml>

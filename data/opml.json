@@ -40,7 +40,14 @@
                       "_xmlUrl": "https://classstruggle.tech/feed",
                       "_htmlUrl": "https://classstruggle.tech",
                       "_title": "classstruggle.tech"
-                  }
+                  },
+                  {
+                    "_text": "Le Sillon Fictionnel",
+                    "_type": "rss",
+                    "_xmlUrl": "https://sillon-fictionnel.club/index.xml",
+                    "_htmlUrl": "https://sillon-fictionnel.club",
+                    "_title": "Le Sillon Fictionnel"
+                }
               ],
               "_text": "Blogs"
           }

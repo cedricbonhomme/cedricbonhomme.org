@@ -112,9 +112,16 @@ url = "/blogroll/"
 [[menu.main]]
 name = "Now"
 parent = "more"
-weight = 100
+weight = 200
 identifier = "now"
 url = "/now/"
+
+[[menu.main]]
+name = "Watches"
+parent = "more"
+weight = 300
+identifier = "watches"
+url = "/watches/"
 
 
 [permalinks]
