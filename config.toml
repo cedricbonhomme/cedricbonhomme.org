@@ -116,13 +116,6 @@ weight = 200
 identifier = "now"
 url = "/now/"
 
-[[menu.main]]
-name = "Watches"
-parent = "more"
-weight = 300
-identifier = "watches"
-url = "/watches/"
-
 
 [permalinks]
   blog = '/:year/:month/:day/:slug/'
