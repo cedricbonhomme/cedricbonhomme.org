@@ -158,6 +158,11 @@ title = "Books on LibraryThing"
 url = "https://www.librarything.com/profile/cedricbonhomme"
 
 [[params.socialIcons]]
+icon = "fab fa-strava"
+title = "Activity on Strava"
+url = "https://www.strava.com/athletes/cedricbonhomme"
+
+[[params.socialIcons]]
 icon = "fa-brands fa-linkedin-in"
 title = "LinkedIn"
 url = "https://www.linkedin.com/in/cedricbonhomme"
