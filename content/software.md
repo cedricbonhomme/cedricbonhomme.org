@@ -9,8 +9,11 @@ author = "Cédric Bonhomme"
 You can find on this page some notable projects to which I contributed.
 
 If you wish and if you like one of these projects, you can donate via
-[GitHub](https://github.com/sponsors/cedricbonhomme) or
-[Liberapay](https://liberapay.com/cedricbonhomme). Thank you !
+[GitHub](https://github.com/sponsors/cedricbonhomme),
+[Liberapay](https://liberapay.com/cedricbonhomme), or Bitcoin to this address:  
+[bc1q56u6sj7cvlwu58v5lemljcvkh7v2gc3tv8mj0e](bitcoin:BC1Q56U6SJ7CVLWU58V5LEMLJCVKH7V2GC3TV8MJ0E?label=Open%20Source%20projects)
+
+Thank you !
 
 You can have a look at my own [donations](/donations).
 
