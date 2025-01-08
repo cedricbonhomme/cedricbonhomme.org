@@ -5,9 +5,9 @@ date = "2023-01-04"
 author = "Cédric Bonhomme"
 +++
 
-I'm just an amateur photographer but as far back as I can remember,
-I have always had an affection for photography.  
-You can take a look at some of the photos I shared on various places:
+I’m an amateur photographer with a lifelong passion for capturing moments through the lens.
+Photography has always held a special place in my heart, ever since I can remember.
+Feel free to explore some of my photos shared across different platforms:
 
 - [my personal gallery](https://photos.cedricbonhomme.org)
 - [Flickr](https://www.flickr.com/photos/cedricbonhomme)

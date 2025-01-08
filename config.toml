@@ -19,45 +19,44 @@ pygmentsCodefencesGuessSyntax = true
 rssLimit = 20
 
 [markup]
-    [markup.goldmark]
-        [markup.goldmark.renderer]
-        unsafe=true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe=true
 
 [taxonomies]
-    category = "categories"
-    series = "series"
-    tag = "tags"
+  category = "categories"
+  series = "series"
+  tag = "tags"
 
 [params]
-    title = "Cedric's website"
-    author = "Cédric Bonhomme"
-    description = "A computer scientist, intensely interested in computer security and privacy."
-    profilePicture = "images/cedric-profile.jpg"
-    displayMode = "dark"
-    disableTitleCapitalization = true
-    disableArchiveTitleStyling  = true
-    doNotLoadAnimations = true
-    copyright = "Cédric Bonhomme 2008-{{ YEAR }}"
-    contact = true
-    rssFullContent = true
-    postSectionName = "blog"
-    mainSections = ["post"]
-    contentratio = 0.7
-    relatedPosts = true
-    numberOfRelatedPosts = 3
-    customCss = ["css/custom.css"]
-    capitalization = false
+  title = "Cedric's website"
+  author = "Cédric Bonhomme"
+  description = "A computer scientist, intensely interested in computer security and privacy."
+  profilePicture = "images/cedric-profile.jpg"
+  displayMode = "dark"
+  disableTitleCapitalization = true
+  disableArchiveTitleStyling  = true
+  doNotLoadAnimations = true
+  copyright = "Cédric Bonhomme 2008-{{ YEAR }}"
+  contact = true
+  rssFullContent = true
+  postSectionName = "blog"
+  mainSections = ["post"]
+  contentratio = 0.7
+  relatedPosts = true
+  numberOfRelatedPosts = 3
+  customCss = ["css/custom.css"]
 
 [related]
-    includeNewer = true
-    threshold = 80
-    toLower = true
-  [[related.indices]]
-    name = 'keywords'
-    weight = 100
-  [[related.indices]]
-    name = 'tags'
-    weight = 80
+  includeNewer = true
+  threshold = 80
+  toLower = true
+[[related.indices]]
+  name = 'keywords'
+  weight = 100
+[[related.indices]]
+  name = 'tags'
+  weight = 80
 
 
 [menu]
