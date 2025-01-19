@@ -1,7 +1,7 @@
 {
   "opml": {
       "head": {
-          "dateCreated": "Fri,24 Aug 2024 01:07:00 UTC"
+          "dateCreated": "Sun, 19 Jan 2025 10:50:00 UTC"
       },
       "body": {
           "outline": {
@@ -37,8 +37,8 @@
                   {
                       "_text": "classstruggle.tech",
                       "_type": "rss",
-                      "_xmlUrl": "https://classstruggle.tech/feed",
-                      "_htmlUrl": "https://classstruggle.tech",
+                      "_xmlUrl": "https://blog.classstruggle.tech/rss/",
+                      "_htmlUrl": "https://blog.classstruggle.tech",
                       "_title": "classstruggle.tech"
                   },
                   {
