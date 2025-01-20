@@ -1,7 +1,7 @@
 +++
 title = "Friends from memory"
 description = "Friends from memory"
-date = "2023-04-27"
+date = "2025-01-20"
 author = "Cédric Bonhomme"
 +++
 
