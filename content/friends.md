@@ -43,8 +43,10 @@ chronologically.
 - Christophe Goessen
 - Alexandre Dulaunoy
 - Alain Vagner
+- Raphaël Vinot
 - Jean-Sébastien Sottet
 - Quinn Norton
+- Ange Albertini
 - Sascha Rommelfangen
 - Gérard Wagener
 - Christian Studer
@@ -59,10 +61,11 @@ chronologically.
 - Luciano Righetti
 - Vanessa Naretto
 - David Cruciani
+- Jean Linis-Dinco
 
 Best friends, old friends, distant friends, new friends. If you're listed, I
 remember you off the top of my head.
 
 If you find this some day when Googling your name, [drop me an email](/contact).
 
-Last edited: 2024-03-27
+Last edited: 2025-01-20

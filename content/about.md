@@ -11,9 +11,9 @@ I strive to dedicate a significant portion of my life to contributing to open-so
 I appreciate the art of computer programming since my childhood.
 
 During the day, I work in the field of information security as part of a
-Computer Emergency Response Team (CERT), where I have the chance to work
-on exciting projects and assist with incident response alongside
-[this awesome team](https://www.circl.lu/team).  
+Computer Emergency Response Team (CERT).
+My role allows me to collaborate on exciting projects, respond to incidents,
+and learn alongside an [incredible team](https://www.circl.lu/team).  
 Here is a [resume](/files/resume_cedric-bonhomme_web-version.pdf) if you care.
 
 Outside of computers, I’m interested in [photography](/photography).
@@ -39,80 +39,33 @@ I am desperate by the growing capitalist alternative of the Web and I support th
 
 ### Minimalist
 
-I’m a minimalist and a low-tech guy.
-Secretly I do not like modern technology.
-I like books, pen, papers and photos. I hate e-readers and “smart” devices.
-Of all the things I own, the most important for me is probably my piano.
+I’m disheartened by the increasing commercialization of the web and support initiatives like the Small Web. As a minimalist and low-tech enthusiast, I prefer simpler, more sustainable solutions. I value tangible, enduring tools like books, pens, and paper over digital alternatives like e-readers and "smart" devices. Among all my possessions, my piano holds a special place—it’s timeless, requires no technology, and offers a lifetime of joy and growth through practice.
 
-This principle is also valid when it comes to my tastes in software development
-and with hardware.
-My favorite programming languages are Python and OCaml and text editors of
-choice are Emacs and Kate, depending on the project and my mood.
+This minimalist approach extends to my software and hardware preferences. I favor lightweight tools like Emacs and Kate for text editing and cherish the freedom of avoiding dependence on big tech companies, online services, and unnecessary subscriptions.
 
 
 ### Independent
 
-I do not want to depend on big tech companies, I avoid online services, the
-cloud and try to run what I can myself. Or partly myself.
-
-I also do not want to depend to much on the banking system (I avoid having debts),
-and useless insurances. I hate subscription services because I want to spend
-most of my time creating and thinking. Not consuming products. Our world do not
-need more audience, but more creation.
-
-
-### Piano
-
-I might have already said it: I love my piano. An instrument of music is the
-only expensive thing you can buy and do not feel stupid. It works without
-electricity, without subscription, without software. It just needs you and you
-can enjoy it your entire life. To be good at it you need to learn and practice.
-The rich can't buy this. Lazy people can't steal it. You can use it alone,
-in duo or being part of a group.
-
-
-### Introvert
-
-I am a kind of introvert and I like to think, slowly, about many aspects of the
-world. However, I am very comfortable when I am surrounded by people, for example,
-at conferences. I don't feel the need to show, to be liked and I ignore those who don't
-like me.
-
-I make friends quite easily. I remember and still love [all of them](/friends).
-I am fine when I am alone, so I know I have the best friends.
-
-I don’t engage in battles against those with opposing beliefs, as trying
-to change others in this way often proves futile. Instead, I focus on
-positive actions, creating, and enjoying the fleeting moments of life.
-By simply doing, you can lead by example. And at the very least, you've made a contribution.
-
-People should be more individualist and altruistic, in the same time.
-It's a matter of balance.
+I strive for independence in both my personal and professional life.
+I avoid unnecessary debts, minimize reliance on the banking system,
+and focus on spending time creating rather than consuming.
+For me, the world needs more creation and thoughtfulness—not just audiences.
 
 
 ### Parenting
 
-Even with my commitment to computer science, I make it a priority to spend
-quality time with my children. In today's fast-paced world, this can be
-challenging, but I do my best to teach them as much as I can while ensuring
-we have fun together.
+Despite my commitments, I make quality time with my children a top priority.
+In a fast-paced world, I do my best to teach them, enjoy our moments together, and encourage their curiosity.
 
 
-### It's fine if it's hard
+### The Value of Effort
+I’ve always believed in the importance of effort and embracing challenges.
+Discomfort makes you stronger, and hard work is rewarding.
+I began focusing more on physical activity at 32 and quickly felt stronger than I did in my 20s.
+This principle also guides my approach to material possessions—I value enduring items over
+constant upgrades, whether it’s a watch, a car, or a camera.
 
-I always valued efforts. Hard effort is good for the body.
-Discomfort makes you stronger and comfort makes you age faster.
-I really started doing more sport when I was 32 and I quickly felt stronger than at the age of 20.
-Today I tend as well to specifically value more what has endured.
-A watch that you are using since 10 years will be probably ready for another
-decade. Same for cars, I do not change a working car. Do not buy a brand new
-camera but try to make great photos with your current equipment.
-Look for new ideas, techniques, skills, new places. It's more work but rewarding.
-
-Reading books is good for you. Big companies do not forget to remind us to
-finish a movie, watch a video, read Twitter. Who remind you to read books ?
-Thanks to books you will keep the brain of a child. If you are constantly learning,
-you do not age.
+Reading is another cornerstone of my philosophy. While modern platforms push us to consume movies or social media, books help keep the mind sharp and foster lifelong learning.
 
 
 ### Passionate
@@ -124,7 +77,7 @@ ready to take appropriate decisions to change this or to adjust the plan.
 Most of the time it's not easy, but it's necessary. It's always better to put
 more effort. This is how to be honest and respectful to others.
 
-Finally, it's about enjoying life and doing what you love. 
+Ultimately, life is about doing what you love, contributing meaningfully, and finding joy in the journey.
 
 ---
 
