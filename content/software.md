@@ -71,7 +71,7 @@ Developed for the Netherlands Red Cross.
 
 ## Various contributions
 
-- [Vulnerability-Lookup](https://github.com/cve-search/vulnerability-lookup)
+- [Vulnerability-Lookup](https://github.com/vulnerability-lookup/vulnerability-lookup)
   facilitates quick correlation of vulnerabilities from various sources
   (NIST, GitHub, CSAF, PySec, VARIoT, etc.), independent of vulnerability IDs, and
   streamlines the management of Coordinated Vulnerability Disclosure (CVD)
