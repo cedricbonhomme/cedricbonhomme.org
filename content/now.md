@@ -19,7 +19,7 @@ You can connect with [me on Strava](https://www.strava.com/athletes/cedricbonhom
 ## Work
 
 Working on various open-source projects (personally and professionally), mainly on
-[Vulnerability-Lookup](https://github.com/cve-search/vulnerability-lookup) and on
+[Vulnerability-Lookup](https://github.com/vulnerability-lookup/vulnerability-lookup) and on
 [Newspipe](https://github.com/cedricbonhomme/newspipe).  
 You should have a look at Vulnerability-Lookup!
 
