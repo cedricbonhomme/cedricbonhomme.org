@@ -86,20 +86,26 @@ rssLimit = 20
   url = "/software/"
 
   [[menu.main]]
-  name = "Photography"
+  name = "Publications"
   weight = 500
+  identifier = "publications"
+  url = "/publications/"
+
+  [[menu.main]]
+  name = "Photography"
+  weight = 600
   identifier = "photography"
   url = "/photography/"
 
   [[menu.main]]
   name = "Contact"
-  weight = 600
+  weight = 700
   identifier = "contact"
   url = "/contact/"
 
   [[menu.main]]
   name = "More"
-  weight = 700
+  weight = 800
   identifier = "more"
   url = ""
 
