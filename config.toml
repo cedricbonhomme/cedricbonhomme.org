@@ -154,11 +154,6 @@ title = "Toots on Mastodon"
 url = "https://fosstodon.org/@cedric"
 
 [[params.socialIcons]]
-icon = "fab fa-mastodon"
-title = "social.circl.lu (infosec)"
-url = "https://social.circl.lu/@cedric"
-
-[[params.socialIcons]]
 icon = "fas fa-book-reader"
 title = "Books on LibraryThing"
 url = "https://www.librarything.com/profile/cedricbonhomme"
