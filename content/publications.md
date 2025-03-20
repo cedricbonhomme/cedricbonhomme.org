@@ -10,7 +10,7 @@ author = "Cédric Bonhomme"
 
 - Cédric Bonhomme, Alexandre Dulaunoy, "**[Correlating security advisories with Vulnerability-Lookup](https://www.csaf.io/communitydays/)**", in CSAF Community Days 2024, {{< fixedtime `13th December 2024` `Correlation between CSAF and CVEs` `20241223T0845` >}}, Munich Germany. [[PDF](https://www.vulnerability-lookup.org/files/events/2024/20241213-CSAF-Community-Days-2024.pdf)]
 
-- Cédric Bonhomme, "**[Vulnerability Lookup - An Open Source Tool to Support CVD Processes](https://www.first.org/events/colloquia/valencia2024)**", in Valencia 2024 UNDP/UNICC/FIRST Technical Colloquium, {{< fixedtime `8th October 2024` `Valencia 2024 UNDP/UNICC/FIRST Technical Colloquium` `20241008T0845` >}}, Valencia Spain. [[PDF](https://www.vulnerability-lookup.org/files/events/2024/20241008-FIRST-Technical-Colloquium.pdf)]
+- Cédric Bonhomme, "**[Vulnerability-Lookup - An Open Source Tool to Support CVD Processes](https://www.first.org/events/colloquia/valencia2024)**", in Valencia 2024 UNDP/UNICC/FIRST Technical Colloquium, {{< fixedtime `8th October 2024` `Valencia 2024 UNDP/UNICC/FIRST Technical Colloquium` `20241008T0845` >}}, Valencia Spain. [[PDF](https://www.vulnerability-lookup.org/files/events/2024/20241008-FIRST-Technical-Colloquium.pdf)]
 
 - Cédric Bonhomme, "**[Improving the CVD Process](https://pretalx.com/hack-lu-2024/talk/TGV7MK/)**", in Hack.lu 2024, {{< fixedtime `24th October 2024` `Hack.lu 2024` `20241024T1150` >}}, Dommeldange, Luxembourg. [[PDF](https://pretalx.com/media/hack-lu-2024/submissions/TGV7MK/resources/Vulnerability-Lookup_Hacklu-2024_hhRh16w.pdf)]
 
@@ -22,7 +22,7 @@ author = "Cédric Bonhomme"
 
 ### 2012
 
-- C. Bonhomme, G. Arnould, D. Khadraoui, "**Dynamic Carpooling Mobility Services based on Secure Multi-Agent Platform**", in Global Information Infrastructure and Networking Symposium 2012 (GIIS'12), Choroni, Venezuela, December 2012. [PDF](https://www.researchgate.net/publication/233946164_Dynamic_Carpooling_Mobility_Services_based_on_Secure_Multi-Agent_Platform)
+- C. Bonhomme, G. Arnould, D. Khadraoui, "**Dynamic Carpooling Mobility Services based on Secure Multi-Agent Platform**", in Global Information Infrastructure and Networking Symposium 2012 (GIIS'12), Choroni, Venezuela, December 2012. [[PDF](https://www.researchgate.net/publication/233946164_Dynamic_Carpooling_Mobility_Services_based_on_Secure_Multi-Agent_Platform)]
 
 
 ### 2011
@@ -46,4 +46,4 @@ author = "Cédric Bonhomme"
 
 - P. Schmitt, C. Bonhomme, and B. Gâteau, "**Easy programming of Agent based Electronic Institution with UTOPIA**", in the 10th international conference on New Technologies of Distributed Systems (NOTERE 2010), Tozeur - Tunisia, May 31 - June 2, 2010. [IEEE Xplore](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5536694)
 
-- C. Feltus, D. Khadraoui, and C. Bonhomme, "**Electric blackout prevention: Toward a computer-mediated weather alert broadcasting solution**", in International Conference on Society and Information Technologies (ICSIT 2010), Orlando, 2010, pp. 45-50. [IIIS](http://www.iiis.org/CDs2010/CD2010IMC/ICSIT_2010/index.asp?id=0&area=1), [[PDF]](https://www.researchgate.net/publication/202033092_Electric_Blackout_Prevention_Toward_a_Computer-Mediated_Weather_Alert_Broadcasting_Solution)
+- C. Feltus, D. Khadraoui, and C. Bonhomme, "**Electric blackout prevention: Toward a computer-mediated weather alert broadcasting solution**", in International Conference on Society and Information Technologies (ICSIT 2010), Orlando, 2010, pp. 45-50. [IIIS](http://www.iiis.org/CDs2010/CD2010IMC/ICSIT_2010/index.asp?id=0&area=1), [[PDF](https://www.researchgate.net/publication/202033092_Electric_Blackout_Prevention_Toward_a_Computer-Mediated_Weather_Alert_Broadcasting_Solution)]

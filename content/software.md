@@ -30,6 +30,11 @@ You can have a look at my own [donations](/donations).
 
 ## Security
 
+- [Vulnerability-Lookup](https://github.com/vulnerability-lookup/vulnerability-lookup)
+  facilitates quick correlation of vulnerabilities from various sources
+  (NIST, GitHub, CSAF, PySec, VARIoT, etc.), independent of vulnerability IDs, and
+  streamlines the management of Coordinated Vulnerability Disclosure (CVD)
+  easily manage Coordinated Vulnerability Disclosure (CVD).
 - [Stegano](https://github.com/cedricbonhomme/Stegano): a pure Python Steganography module.
 - [Guardian](https://sr.ht/~cedric/guardian): monitor the status of a set of
   services.
@@ -70,12 +75,7 @@ Developed for the Netherlands Red Cross.
 
 
 ## Various contributions
-
-- [Vulnerability-Lookup](https://github.com/vulnerability-lookup/vulnerability-lookup)
-  facilitates quick correlation of vulnerabilities from various sources
-  (NIST, GitHub, CSAF, PySec, VARIoT, etc.), independent of vulnerability IDs, and
-  streamlines the management of Coordinated Vulnerability Disclosure (CVD)
-  easily manage Coordinated Vulnerability Disclosure (CVD). 
+ 
 - a [crossword generator](https://git.sr.ht/~cedric/crossword-generator)
   written in Ocaml.
 - [Iterated Function Systems](https://github.com/cedricbonhomme/iterated-function-systems)
