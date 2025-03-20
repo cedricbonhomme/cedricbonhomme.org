@@ -5,10 +5,9 @@ date = "2022-02-07"
 author = "Cédric Bonhomme"
 +++
 
-An important part of my life is dedicated to write libre software.
-But I also want to contribute financially because I consider important to
-support projects I am relying on and I want to be grateful to the developers
-who donate their time.
+An important part of my life is dedicated to writing libre software.
+I also want to contribute financially, as I believe it’s essential to support
+the projects I rely on and to show gratitude to the developers who generously donate their time.
 
 
 ## LiberaPay
