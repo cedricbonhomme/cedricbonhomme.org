@@ -5,7 +5,6 @@ date = "2025-01-07"
 author = "Cédric Bonhomme"
 +++
 
-I’m an amateur photographer with a lifelong passion for capturing moments through the lens.
 Photography has always held a special place in my heart, ever since I can remember.
 Feel free to explore some of my photos shared across different platforms:
 
@@ -20,4 +19,3 @@ license. Feel free to use them.
 
 I rarely post-process my photos; I prefer them Straight Out of the Camera (SOOC).
 
-You're welcome to browse through the various [cameras](/cameras) in my collection.

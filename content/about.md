@@ -5,7 +5,6 @@ date = "2025-01-20"
 author = "Cédric Bonhomme"
 +++
 
-
 I'm a computer scientist, intensely interested in computer security and privacy.
 I strive to dedicate a significant portion of my life to contributing to open-source software.
 I appreciate the art of computer programming since my childhood.
@@ -17,7 +16,6 @@ and learn alongside an [incredible team](https://www.circl.lu/team).
 Here is a [resume](/files/resume_cedric-bonhomme_web-version.pdf) if you care.
 
 I [contribute](/software) to various open-source projects mainly, but not only, in the infosec field.
-I also develop open-source software in a [professional context](https://github.com/CIRCL).
 My favorite programming languages are Python and OCaml.
 
 Outside of computers, I’m interested in [photography](/photography).

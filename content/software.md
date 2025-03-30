@@ -2,7 +2,7 @@
 title = "Software"
 description = "Some notable projects"
 date = "2022-01-30"
-aliases = ["projects", "software"]
+aliases = ["projects"]
 author = "Cédric Bonhomme"
 +++
 
@@ -24,8 +24,8 @@ Thank you ! (my own [donations](/donations))
   streamlines the management of Coordinated Vulnerability Disclosure (CVD)
   easily manage Coordinated Vulnerability Disclosure (CVD).
 - [Stegano](https://github.com/cedricbonhomme/Stegano): a pure Python Steganography module.
-- [Guardian](https://sr.ht/~cedric/guardian): monitor the status of a set of
-  services.
+- [Guardian](https://github.com/cedricbonhomme/guardian): monitor the status of a set of
+services.
 - [pyHIDS](https://github.com/cedricbonhomme/pyHIDS): a simple HIDS for verifying the
   integrity of a system.
 

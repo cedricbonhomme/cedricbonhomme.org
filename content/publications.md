@@ -3,7 +3,7 @@ title = "Publications"
 description = "Publications"
 date = "2022-01-30"
 tags = ["articles", "publications"]
-aliases = ["articles", "publications"]
+aliases = ["articles"]
 author = "Cédric Bonhomme"
 +++
 
