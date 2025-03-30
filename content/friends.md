@@ -31,6 +31,7 @@ chronologically.
 - Fabrice Brun
 - Amandine Gross
 - Steve Goddard
+- Christine Brenon
 - Mickael Gerne
 - Magali Gantheil
 - Nadège Klose
