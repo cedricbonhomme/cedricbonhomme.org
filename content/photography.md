@@ -9,9 +9,9 @@ I’m an amateur photographer with a lifelong passion for capturing moments thro
 Photography has always held a special place in my heart, ever since I can remember.
 Feel free to explore some of my photos shared across different platforms:
 
-- [my personal gallery](https://photos.cedricbonhomme.org)
 - [Flickr](https://www.flickr.com/photos/cedricbonhomme)
 - [PixelFed](https://pixelfed.social/cedric)
+- [my personal gallery](https://photos.cedricbonhomme.org)
 - [500px](https://500px.com/cedricbonhomme)
 
 Most of these photos are under

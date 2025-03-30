@@ -127,13 +127,10 @@ url = "/now/"
 [permalinks]
   blog = '/:year/:month/:day/:slug/'
 
-
 [outputs]
   home = ["HTML"]
-  about = ["HTML"]
-  blog = ["HTML", "RSS"]
-  software = ["HTML"]
-  photography = ["HTML"]
+  section = ["HTML", "RSS"]  # This applies to all sections like blog, software, etc.
+  page = ["HTML"]
 
 
 ## Social links

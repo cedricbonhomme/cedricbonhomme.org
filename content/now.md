@@ -5,23 +5,28 @@ date = "2022-06-01"
 author = "Cédric Bonhomme"
 +++
 
-Here's what I do now, when this page was updated on August 24, 2024.  
+Here's what I do now, when this page was updated on March 30, 2025.  
 This page is inspired by [a good idea from Derek Sivers](https://nownownow.com/about).
 
 
 ## Life
 
-I am now 40 years old. Not doing too badly!
+I am now 40 years old. Not doing too badly. I’d even say I've never been this strong!
 
-I’m trying to exercise more and can now easily run 10 km in under an hour!
+I’m trying to exercise more and can now easily run 15 km!
 You can connect with [me on Strava](https://www.strava.com/athletes/cedricbonhomme).
+
+Gardening more because it helps me clear my mind.
+
 
 ## Work
 
-Working on various open-source projects (personally and professionally), mainly on
+Working on various open-source projects, mainly on
 [Vulnerability-Lookup](https://github.com/vulnerability-lookup/vulnerability-lookup) and on
 [Newspipe](https://github.com/cedricbonhomme/newspipe).  
 You should have a look at Vulnerability-Lookup!
+
+I am trying to write more papers and attend more conferences.
 
 
 ## Music
@@ -31,5 +36,5 @@ Having fun playing piano.
 
 ## Reading
 
-Un homme dangereux written by Alexandre Kauffmann.
+Haunted Houses Creak, by M. H. Altis.
 

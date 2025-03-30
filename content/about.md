@@ -16,21 +16,15 @@ My role allows me to collaborate on exciting projects, respond to incidents,
 and learn alongside an [incredible team](https://www.circl.lu/team).  
 Here is a [resume](/files/resume_cedric-bonhomme_web-version.pdf) if you care.
 
-Outside of computers, I’m interested in [photography](/photography).
-As far back as I can remember, I have always had an affection for photography.
-I received my first camera when I was 8 years old.
-I play piano, a lot. I also read books, but not as much as I would like.
-
 I [contribute](/software) to various open-source projects mainly, but not only, in the infosec field.
 I also develop open-source software in a [professional context](https://github.com/CIRCL).
-I do not really prefer a specific programming language, despite the fact that I
-enjoy using Python and OCaml.  
+My favorite programming languages are Python and OCaml.
 
-I think it's also important to make [donations](/donations) to the projects
-I am relying on.
-
-
----
+Outside of computers, I’m interested in [photography](/photography).
+As far back as I can remember, I have always had an affection for it.
+I received my first camera when I was 8 years old.
+I play the piano a lot. I also read books, though not as much as I would like.
+Finally, I enjoy running in nature.
 
 ## What am I doing now?
 

@@ -2,6 +2,7 @@
 title = "Publications"
 description = "Some notable publications"
 date = "2022-01-30"
+tags = ["articles", "publications"]
 aliases = ["articles", "publications"]
 author = "Cédric Bonhomme"
 +++

@@ -34,9 +34,9 @@ chronologically.
 - Mickael Gerne
 - Magali Gantheil
 - Nadège Klose
+- Gaëlle Doré
 - Carole Niesel
 - Gilles Bourg
-- Gaëlle Doré
 - Régis Wack
 - Jean-Pierre Rauch
 - Vincent Demange
