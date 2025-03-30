@@ -9,9 +9,9 @@ author = "Cédric Bonhomme"
 
 ### 2024
 
-- Cédric Bonhomme, Alexandre Dulaunoy, "**[Correlating security advisories with Vulnerability-Lookup](https://web.archive.org/web/20250320071905/https://www.csaf.io/communitydays/)**", in CSAF Community Days 2024, {{< fixedtime `13th December 2024` `Correlation between CSAF and CVEs` `20241223T0845` >}}, Munich Germany. [[PDF](https://www.vulnerability-lookup.org/files/events/2024/20241213-CSAF-Community-Days-2024.pdf)]
+- Cédric Bonhomme, Alexandre Dulaunoy, "**[Correlating security advisories with Vulnerability-Lookup](https://web.archive.org/web/20250320071905/https://www.csaf.io/communitydays/)**", in CSAF Community Days 2024, {{< fixedtime `13th December 2024` `Correlation between CSAF and CVEs` `20241223T0845` >}}, Munich, Germany. [[PDF](https://www.vulnerability-lookup.org/files/events/2024/20241213-CSAF-Community-Days-2024.pdf)]
 
-- Cédric Bonhomme, "**[Vulnerability-Lookup - An Open Source Tool to Support CVD Processes](https://www.first.org/events/colloquia/valencia2024)**", in Valencia 2024 UNDP/UNICC/FIRST Technical Colloquium, {{< fixedtime `8th October 2024` `Valencia 2024 UNDP/UNICC/FIRST Technical Colloquium` `20241008T0845` >}}, Valencia Spain. [[PDF](https://www.vulnerability-lookup.org/files/events/2024/20241008-FIRST-Technical-Colloquium.pdf)]
+- Cédric Bonhomme, "**[Vulnerability-Lookup - An Open Source Tool to Support CVD Processes](https://www.first.org/events/colloquia/valencia2024)**", in Valencia 2024 UNDP/UNICC/FIRST Technical Colloquium, {{< fixedtime `8th October 2024` `Valencia 2024 UNDP/UNICC/FIRST Technical Colloquium` `20241008T0845` >}}, Valencia, Spain. [[PDF](https://www.vulnerability-lookup.org/files/events/2024/20241008-FIRST-Technical-Colloquium.pdf)]
 
 - Cédric Bonhomme, "**[Improving the CVD Process](https://pretalx.com/hack-lu-2024/talk/TGV7MK/)**", in Hack.lu 2024, {{< fixedtime `24th October 2024` `Hack.lu 2024` `20241024T1150` >}}, Dommeldange, Luxembourg. [[PDF](https://pretalx.com/media/hack-lu-2024/submissions/TGV7MK/resources/Vulnerability-Lookup_Hacklu-2024_hhRh16w.pdf)]
 
