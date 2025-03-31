@@ -1,6 +1,6 @@
 baseURL = "https://www.cedricbonhomme.org"
 languageCode = "en-US"
-title = "Cédric Bonhomme's website"
+title = "Cédric Bonhomme"
 description = "A computer scientist, intensely interested in computer security and privacy."
 canonifyURLs = false
 
@@ -29,10 +29,10 @@ rssLimit = 20
   tag = "tags"
 
 [params]
-  title = "Cedric's website"
+  title = "Cédric Bonhomme"
   author = "Cédric Bonhomme"
   description = "A computer scientist, intensely interested in computer security and privacy."
-  profilePicture = "images/cedric-profile.jpg"
+  profilePicture = "images/profile-picture.jpg"
   displayMode = "dark"
   disableTitleCapitalization = true
   disableArchiveTitleStyling  = true
@@ -45,7 +45,7 @@ rssLimit = 20
   contentratio = 0.7
   relatedPosts = true
   numberOfRelatedPosts = 3
-#   customCss = ["css/custom.css"]
+  customCss = ["css/custom.css"]
 
 [related]
   includeNewer = true
