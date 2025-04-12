@@ -1,12 +1,9 @@
 baseURL = "https://www.cedricbonhomme.org"
 languageCode = "en-US"
-title = "Cédric Bonhomme"
-description = "A computer scientist, intensely interested in computer security and privacy."
 canonifyURLs = false
 
 # theme as git submodule
 theme = "anatole"
-doNotLoadAnimations = true
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
@@ -42,7 +39,7 @@ rssLimit = 20
   rssFullContent = true
   postSectionName = "blog"
   mainSections = ["post"]
-  contentratio = 0.7
+  contentratio = 0.4
   relatedPosts = true
   numberOfRelatedPosts = 3
   customCss = ["css/custom.css"]
@@ -147,7 +144,7 @@ url = "https://pixelfed.social/cedric"
 
 [[params.socialIcons]]
 icon = "fab fa-mastodon"
-title = "Toots on Mastodon"
+title = "Posts on Mastodon"
 url = "https://fosstodon.org/@cedric"
 
 [[params.socialIcons]]
