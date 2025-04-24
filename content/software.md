@@ -24,20 +24,16 @@ Thank you ! (my own [donations](/donations))
   streamlines the management of Coordinated Vulnerability Disclosure (CVD)
   easily manage Coordinated Vulnerability Disclosure (CVD).
 - [Stegano](https://github.com/cedricbonhomme/Stegano): a pure Python Steganography module.
-- [Guardian](https://github.com/cedricbonhomme/guardian): monitor the status of a set of
-services.
-- [pyHIDS](https://github.com/cedricbonhomme/pyHIDS): a simple HIDS for verifying the
-  integrity of a system.
+- [Guardian](https://github.com/cedricbonhomme/guardian): monitor the status of a set of services.
+- [pyHIDS](https://github.com/cedricbonhomme/pyHIDS): a simple HIDS for verifying the integrity of a system.
 
   
 ## Communications and Internet
 
-- [Newspipe](https://github.com/cedricbonhomme/newspipe): a web-based news aggregator and
-  reader.
+- [Newspipe](https://github.com/cedricbonhomme/newspipe): a web-based news aggregator and reader.
 - [Freshermeat](https://github.com/cedricbonhomme/freshermeat): an open source software
   directory and release tracker.
-- [Grenouille](https://gitlab.com/cedric/Grenouille): an online service for
-  weather data.
+- [Grenouille](https://github.com/cedricbonhomme/Grenouille): an online service for weather data.
 
 
 ## Visualization
@@ -74,15 +70,12 @@ Developed for the Netherlands Red Cross.
 
 ## Various contributions
  
-- packages published [on PyPi](https://pypi.org/user/cedricbonhomme)
-- a [crossword generator](https://git.sr.ht/~cedric/crossword-generator)
-  written in Ocaml.
-- [Iterated Function Systems](https://github.com/cedricbonhomme/iterated-function-systems)
-  with OCaml.
-- [MONARC](https://github.com/monarc-project): an Optimised Risk Assessment
-  Methodology.
-- [MOSP](https://github.com/NC3-LU/MOSP): a user friendly platform for
-  creating, editing and sharing JSON objects.
+- packages published [on PyPi](https://pypi.org/user/cedricbonhomme).
+- a [crossword generator](https://git.sr.ht/~cedric/crossword-generator) written in Ocaml.
+- [Iterated Function Systems](https://github.com/cedricbonhomme/iterated-function-systems) with OCaml.
+- [MONARC](https://github.com/monarc-project): an Optimised Risk Assessment Methodology.
+- [MOSP](https://github.com/NC3-LU/MOSP): a user friendly platform for creating,
+  editing and sharing JSON objects.
 - [PRIMO](http://siis.cse.psu.edu/primo).
 - [pyChatter](https://hg.sr.ht/~cedric/pychatter): an instant messaging software
   written in Python. The architecture of pyChatter is based on the

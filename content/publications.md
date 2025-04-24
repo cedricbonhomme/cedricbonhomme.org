@@ -9,11 +9,11 @@ author = "Cédric Bonhomme"
 
 ### 2025
 
-- Cédric Bonhomme, Alexandre Dulaunoy, "**[Scoring vulnerabilities by leveraging activity data from the Fediverse](https://www.first.org/conference/firstcti25)**", in FIRST Cyber Threat Intelligence Conference 2025, {{< fixedtime `22th April 2025` `Correlation between CSAF and CVEs` `20250422T1330` >}}, Berlin, Germany. [[PDF](/files/publications/2025/FIRST-CTI-Berlin_Scoring-vulnerabilities-by-leveraging-activity-data-from-the-Fediverse.pdf)] [[Presentation](/files/publications/2025/FIRST-CTI-Berlin_Scoring-vulnerabilities-by-leveraging-activity-data-from-the-Fediverse_presentation.pdf)]
+- Cédric Bonhomme, Alexandre Dulaunoy, "**[Scoring Vulnerabilities by Leveraging Activity Data from the Fediverse](https://www.first.org/conference/firstcti25)**", in FIRST Cyber Threat Intelligence Conference 2025, {{< fixedtime `22th April 2025` `Correlation between CSAF and CVEs` `20250422T1330` >}}, Berlin, Germany. [[PDF](/files/publications/2025/FIRST-CTI-Berlin_Scoring-vulnerabilities-by-leveraging-activity-data-from-the-Fediverse.pdf)] [[Presentation](/files/publications/2025/FIRST-CTI-Berlin_Scoring-vulnerabilities-by-leveraging-activity-data-from-the-Fediverse_presentation.pdf)]
 
 ### 2024
 
-- Cédric Bonhomme, Alexandre Dulaunoy, "**[Correlating security advisories with Vulnerability-Lookup](https://web.archive.org/web/20250320071905/https://www.csaf.io/communitydays/)**", in CSAF Community Days 2024, {{< fixedtime `13th December 2024` `Correlation between CSAF and CVEs` `20241223T0845` >}}, Munich, Germany. [[PDF](https://www.vulnerability-lookup.org/files/events/2024/20241213-CSAF-Community-Days-2024.pdf)]
+- Cédric Bonhomme, Alexandre Dulaunoy, "**[Correlating Security Advisories with Vulnerability-Lookup](https://web.archive.org/web/20250320071905/https://www.csaf.io/communitydays/)**", in CSAF Community Days 2024, {{< fixedtime `13th December 2024` `Correlation between CSAF and CVEs` `20241223T0845` >}}, Munich, Germany. [[PDF](https://www.vulnerability-lookup.org/files/events/2024/20241213-CSAF-Community-Days-2024.pdf)]
 
 - Cédric Bonhomme, "**[Vulnerability-Lookup - An Open Source Tool to Support CVD Processes](https://www.first.org/events/colloquia/valencia2024)**", in Valencia 2024 UNDP/UNICC/FIRST Technical Colloquium, {{< fixedtime `8th October 2024` `Valencia 2024 UNDP/UNICC/FIRST Technical Colloquium` `20241008T0845` >}}, Valencia, Spain. [[PDF](https://www.vulnerability-lookup.org/files/events/2024/20241008-FIRST-Technical-Colloquium.pdf)]
 
