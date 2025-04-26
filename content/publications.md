@@ -9,25 +9,25 @@ author = "Cédric Bonhomme"
 
 ### 2025
 
-- Cédric Bonhomme, Alexandre Dulaunoy, "**[Scoring Vulnerabilities by Leveraging Activity Data from the Fediverse](https://www.first.org/conference/firstcti25)**", in FIRST Cyber Threat Intelligence Conference 2025, {{< fixedtime `22th April 2025` `Correlation between CSAF and CVEs` `20250422T1330` >}}, Berlin, Germany. [[PDF](/files/publications/2025/FIRST-CTI-Berlin_Scoring-vulnerabilities-by-leveraging-activity-data-from-the-Fediverse.pdf)] [[Presentation](/files/publications/2025/FIRST-CTI-Berlin_Scoring-vulnerabilities-by-leveraging-activity-data-from-the-Fediverse_presentation.pdf)]
+- Cédric Bonhomme, Alexandre Dulaunoy, "**[Scoring Vulnerabilities by Leveraging Activity Data from the Fediverse](https://www.first.org/conference/firstcti25)**", in FIRST Cyber Threat Intelligence Conference 2025, {{< fixedtime `22th April 2025` `Correlation between CSAF and CVEs` `20250422T1330` >}}, Berlin, Germany. [[Paper](/files/publications/2025/FIRST-CTI-Berlin_Scoring-vulnerabilities-by-leveraging-activity-data-from-the-Fediverse.pdf)] [[Presentation](/files/publications/2025/FIRST-CTI-Berlin_Scoring-vulnerabilities-by-leveraging-activity-data-from-the-Fediverse_presentation.pdf)]
 
 ### 2024
 
-- Cédric Bonhomme, Alexandre Dulaunoy, "**[Correlating Security Advisories with Vulnerability-Lookup](https://web.archive.org/web/20250320071905/https://www.csaf.io/communitydays/)**", in CSAF Community Days 2024, {{< fixedtime `13th December 2024` `Correlation between CSAF and CVEs` `20241223T0845` >}}, Munich, Germany. [[PDF](https://www.vulnerability-lookup.org/files/events/2024/20241213-CSAF-Community-Days-2024.pdf)]
+- Cédric Bonhomme, Alexandre Dulaunoy, "**[Correlating Security Advisories with Vulnerability-Lookup](https://web.archive.org/web/20250320071905/https://www.csaf.io/communitydays/)**", in CSAF Community Days 2024, {{< fixedtime `13th December 2024` `Correlation between CSAF and CVEs` `20241223T0845` >}}, Munich, Germany. [[Paper](https://www.vulnerability-lookup.org/files/events/2024/20241213-CSAF-Community-Days-2024.pdf)]
 
-- Cédric Bonhomme, "**[Vulnerability-Lookup - An Open Source Tool to Support CVD Processes](https://www.first.org/events/colloquia/valencia2024)**", in Valencia 2024 UNDP/UNICC/FIRST Technical Colloquium, {{< fixedtime `8th October 2024` `Valencia 2024 UNDP/UNICC/FIRST Technical Colloquium` `20241008T0845` >}}, Valencia, Spain. [[PDF](https://www.vulnerability-lookup.org/files/events/2024/20241008-FIRST-Technical-Colloquium.pdf)]
+- Cédric Bonhomme, "**[Vulnerability-Lookup - An Open Source Tool to Support CVD Processes](https://www.first.org/events/colloquia/valencia2024)**", in Valencia 2024 UNDP/UNICC/FIRST Technical Colloquium, {{< fixedtime `8th October 2024` `Valencia 2024 UNDP/UNICC/FIRST Technical Colloquium` `20241008T0845` >}}, Valencia, Spain. [[Paper](https://www.vulnerability-lookup.org/files/events/2024/20241008-FIRST-Technical-Colloquium.pdf)]
 
-- Cédric Bonhomme, "**[Improving the CVD Process](https://pretalx.com/hack-lu-2024/talk/TGV7MK/)**", in Hack.lu 2024, {{< fixedtime `24th October 2024` `Hack.lu 2024` `20241024T1150` >}}, Dommeldange, Luxembourg. [[PDF](https://pretalx.com/media/hack-lu-2024/submissions/TGV7MK/resources/Vulnerability-Lookup_Hacklu-2024_hhRh16w.pdf)]
+- Cédric Bonhomme, "**[Improving the CVD Process](https://pretalx.com/hack-lu-2024/talk/TGV7MK/)**", in Hack.lu 2024, {{< fixedtime `24th October 2024` `Hack.lu 2024` `20241024T1150` >}}, Dommeldange, Luxembourg. [[Paper](https://pretalx.com/media/hack-lu-2024/submissions/TGV7MK/resources/Vulnerability-Lookup_Hacklu-2024_hhRh16w.pdf)]
 
 
 ### 2018
 
-- Fabien Mathey, Cédric Bonhomme, Juan Rocha, Jérôme Lombardi, Benjamin Joly, "**Risk Assessment Optimisation with MONARC**", in *hack.lu 2018*, 2018. [[PDF](https://www.monarc.lu/assets/files/publications/2018-HACK.LU-CASES.pdf)]
+- Fabien Mathey, Cédric Bonhomme, Juan Rocha, Jérôme Lombardi, Benjamin Joly, "**Risk Assessment Optimisation with MONARC**", in *hack.lu 2018*, 2018. [[Paper](https://www.monarc.lu/assets/files/publications/2018-HACK.LU-CASES.pdf)]
 
 
 ### 2012
 
-- C. Bonhomme, G. Arnould, D. Khadraoui, "**Dynamic Carpooling Mobility Services based on Secure Multi-Agent Platform**", in Global Information Infrastructure and Networking Symposium 2012 (GIIS'12), Choroni, Venezuela, December 2012. [[PDF](https://www.researchgate.net/publication/233946164_Dynamic_Carpooling_Mobility_Services_based_on_Secure_Multi-Agent_Platform)]
+- C. Bonhomme, G. Arnould, D. Khadraoui, "**Dynamic Carpooling Mobility Services based on Secure Multi-Agent Platform**", in Global Information Infrastructure and Networking Symposium 2012 (GIIS'12), Choroni, Venezuela, December 2012. [[Paper](https://www.researchgate.net/publication/233946164_Dynamic_Carpooling_Mobility_Services_based_on_Secure_Multi-Agent_Platform)]
 
 
 ### 2011
@@ -51,4 +51,4 @@ author = "Cédric Bonhomme"
 
 - P. Schmitt, C. Bonhomme, and B. Gâteau, "**Easy programming of Agent based Electronic Institution with UTOPIA**", in the 10th international conference on New Technologies of Distributed Systems (NOTERE 2010), Tozeur - Tunisia, May 31 - June 2, 2010. [IEEE Xplore](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5536694)
 
-- C. Feltus, D. Khadraoui, and C. Bonhomme, "**Electric blackout prevention: Toward a computer-mediated weather alert broadcasting solution**", in International Conference on Society and Information Technologies (ICSIT 2010), Orlando, 2010, pp. 45-50. [IIIS](http://www.iiis.org/CDs2010/CD2010IMC/ICSIT_2010/index.asp?id=0&area=1), [[PDF](https://www.researchgate.net/publication/202033092_Electric_Blackout_Prevention_Toward_a_Computer-Mediated_Weather_Alert_Broadcasting_Solution)]
+- C. Feltus, D. Khadraoui, and C. Bonhomme, "**Electric blackout prevention: Toward a computer-mediated weather alert broadcasting solution**", in International Conference on Society and Information Technologies (ICSIT 2010), Orlando, 2010, pp. 45-50. [IIIS](http://www.iiis.org/CDs2010/CD2010IMC/ICSIT_2010/index.asp?id=0&area=1), [[Paper](https://www.researchgate.net/publication/202033092_Electric_Blackout_Prevention_Toward_a_Computer-Mediated_Weather_Alert_Broadcasting_Solution)]
