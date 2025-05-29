@@ -39,7 +39,7 @@ chronologically.
 - Carole Niesel
 - Gilles Bourg
 - Régis Wack
-- Jean-Pierre Rauch
+- Pierre Rauch
 - Vincent Demange
 - Christophe Goessen
 - Alexandre Dulaunoy
