@@ -120,6 +120,13 @@ weight = 200
 identifier = "now"
 url = "/now/"
 
+[[menu.main]]
+name = "Sitemap"
+parent = "more"
+weight = 200
+identifier = "sitemap"
+url = "/sitemap/"
+
 
 [permalinks]
   blog = '/:year/:month/:day/:slug/'

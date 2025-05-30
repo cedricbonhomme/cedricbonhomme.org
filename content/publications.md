@@ -1,7 +1,7 @@
 +++
 title = "Publications"
 description = "Publications"
-date = "2022-01-30"
+date = "2025-05-30"
 tags = ["articles", "publications"]
 aliases = ["articles"]
 author = "Cédric Bonhomme"
@@ -10,6 +10,7 @@ author = "Cédric Bonhomme"
 ### 2025
 
 - Cédric Bonhomme, Alexandre Dulaunoy, "**[Scoring Vulnerabilities by Leveraging Activity Data from the Fediverse](https://www.first.org/conference/firstcti25)**", in FIRST Cyber Threat Intelligence Conference 2025, {{< fixedtime `22th April 2025` `Correlation between CSAF and CVEs` `20250422T1330` >}}, Berlin, Germany. [[Paper](/files/publications/2025/FIRST-CTI-Berlin_Scoring-vulnerabilities-by-leveraging-activity-data-from-the-Fediverse.pdf)] [[Presentation](/files/publications/2025/FIRST-CTI-Berlin_Scoring-vulnerabilities-by-leveraging-activity-data-from-the-Fediverse_presentation.pdf)]
+
 
 ### 2024
 

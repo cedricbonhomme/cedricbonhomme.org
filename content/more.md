@@ -1,7 +1,7 @@
 +++
 title = "More"
 description = "and more stuff…"
-date = "2024-08-19"
+date = "2024-05-30"
 author = "Cédric Bonhomme"
 +++
 
@@ -9,3 +9,4 @@ author = "Cédric Bonhomme"
 
 - [Blogroll](/blogroll)
 - [Watches](/watches)
+- [Sitemap](/sitemap)

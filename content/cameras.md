@@ -1,11 +1,11 @@
 +++
 title = "Cameras"
 description = "My cameras"
-date = "2024-05-07"
+date = "2025-05-30"
 author = "Cédric Bonhomme"
 +++
 
-This page lists the photographic equipment I have acquired throughout my life.
+This page liss the photographic equipment I have acquired throughout my life.
 
 I do not really care about the technology and quality equipment in
 photography (cameras, lenses, etc.) and think the use of expensive

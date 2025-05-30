@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 description = "Contact me"
-date = "2022-05-10"
+date = "2025-05-30"
 author = "Cédric Bonhomme"
 +++
 
@@ -15,9 +15,10 @@ My email address is: cedric@cedricbonhomme.org
 55F5 D60E EFCA 3591 0089 18E7 A1CB 94DE 57B7 A70D
 ```
 
-I love hearing from people. But please, do not contact me in order to ask for
-help or about an issue concerning one of my projects. It takes me too much time.
-Use the dedicated issue tracker.
+I really enjoy hearing from people. However, if you have a question or issue
+related to one of my projects, please use the dedicated issue tracker instead
+of reaching out to me directly. Handling support requests personally takes more
+time than I can afford — the tracker helps keep things organized and manageable.
 
 
 ## IRC
@@ -27,8 +28,7 @@ Use the dedicated issue tracker.
 
 ## Instant messaging
 
-I only communicate my [Matrix](https://matrix.org) and [Signal](https://signal.org)
-identifiers with relatives. But you can still request.
+You can contact me via [Matrix](https://matrix.org): @cedric:matrix.circl.lu
 
 
 ## … or just follow

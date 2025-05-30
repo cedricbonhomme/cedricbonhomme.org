@@ -1,8 +1,9 @@
----
-title: 'Watches'
-description: 'My watches'
-draft: false
----
++++
+title = "Watches"
+description = "My watches"
+date = "2025-05-23"
+author = "Cédric Bonhomme"
++++
 
 {{% box info %}}
 **Tissot - Chemin Des Tourelles**
