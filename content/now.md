@@ -1,11 +1,11 @@
 +++
 title = "Now"
 description = "What I am doing now"
-date = "2022-06-01"
+date = "2025-05-30"
 author = "Cédric Bonhomme"
 +++
 
-Here's what I do now, when this page was updated on March 30, 2025.  
+Here's what I do now, when this page was updated on May 30, 2025.  
 This page is inspired by [a good idea from Derek Sivers](https://nownownow.com/about).
 
 
@@ -25,6 +25,8 @@ Working on various open-source projects, mainly on
 [Vulnerability-Lookup](https://github.com/vulnerability-lookup/vulnerability-lookup) and on
 [Newspipe](https://github.com/cedricbonhomme/newspipe).  
 You should have a look at Vulnerability-Lookup!
+
+Learning “AI”.
 
 I am trying to write more papers and attend more conferences.
 
