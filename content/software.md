@@ -1,7 +1,7 @@
 +++
 title = "Software"
 description = "Some notable projects"
-date = "2022-01-30"
+date = "2025-06-11"
 aliases = ["projects"]
 author = "Cédric Bonhomme"
 +++
@@ -18,11 +18,9 @@ Thank you ! (my own [donations](/donations))
 
 ## Security
 
-- [Vulnerability-Lookup](https://github.com/vulnerability-lookup/vulnerability-lookup)
-  facilitates quick correlation of vulnerabilities from various sources
-  (NIST, GitHub, CSAF, PySec, VARIoT, etc.), independent of vulnerability IDs, and
-  streamlines the management of Coordinated Vulnerability Disclosure (CVD)
-  easily manage Coordinated Vulnerability Disclosure (CVD).
+- [Vulnerability-Lookup](https://github.com/vulnerability-lookup/vulnerability-lookup):
+  Facilitates quick correlation of vulnerabilities from various sources, and
+  streamlines the management of Coordinated Vulnerability Disclosure (CVD).
 - [Stegano](https://github.com/cedricbonhomme/Stegano): a pure Python Steganography module.
 - [Guardian](https://github.com/cedricbonhomme/guardian): monitor the status of a set of services.
 - [pyHIDS](https://github.com/cedricbonhomme/pyHIDS): a simple HIDS for verifying the integrity of a system.
@@ -31,8 +29,7 @@ Thank you ! (my own [donations](/donations))
 ## Communications and Internet
 
 - [Newspipe](https://github.com/cedricbonhomme/newspipe): a web-based news aggregator and reader.
-- [Freshermeat](https://github.com/cedricbonhomme/freshermeat): an open source software
-  directory and release tracker.
+- [Freshermeat](https://github.com/cedricbonhomme/freshermeat): an open source software directory and release tracker.
 - [Grenouille](https://github.com/cedricbonhomme/Grenouille): an online service for weather data.
 
 
