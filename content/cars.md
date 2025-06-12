@@ -1,7 +1,7 @@
 +++
 title = "Cars"
 description = "The cars I owned"
-date = "2023-08-21"
+date = "2025-06-11"
 author = "Cédric Bonhomme"
 toc = true
 +++
@@ -40,7 +40,7 @@ toc = true
     alt="Mazda 6 SKYACTIV-D 2.2 175"
     caption="Mazda 6 SKYACTIV-D 2.2 175" >}}
 
-Tesla Model Y
+The best car I ever owned.
 
 - first registration: 2013-02-19;
 - owner from 2014-07-29 to 2023-08-17;
