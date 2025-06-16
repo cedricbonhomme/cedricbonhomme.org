@@ -1,7 +1,7 @@
 +++
 title = "About"
 description = "A bit about myself"
-date = "2025-05-20"
+date = "2025-05-30"
 author = "Cédric Bonhomme"
 +++
 
