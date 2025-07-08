@@ -1,13 +1,15 @@
 +++
 title = "Publications"
 description = "Publications"
-date = "2025-05-30"
+date = "2025-07-08"
 tags = ["articles", "publications"]
 aliases = ["articles"]
 author = "Cédric Bonhomme"
 +++
 
 ### 2025
+
+- Cédric Bonhomme, Alexandre Dulaunoy, "**[VLAI: A RoBERTa-Based Model for Automated Vulnerability Severity Classification](https://arxiv.org/abs/2507.03607)**", Preprint for the [25V4C-TC: 2025 Vulnerability Forecasting Technical Colloquia](https://easychair.org/cfp/25-V4CTC). Darwin College Cambridge, UK, September 25-26, 2025
 
 - Cédric Bonhomme, Alexandre Dulaunoy, "**[Scoring Vulnerabilities by Leveraging Activity Data from the Fediverse](https://www.first.org/conference/firstcti25)**", in FIRST Cyber Threat Intelligence Conference 2025, {{< fixedtime `22th April 2025` `Correlation between CSAF and CVEs` `20250422T1330` >}}, Berlin, Germany. [[Paper](/files/publications/2025/FIRST-CTI-Berlin_Scoring-vulnerabilities-by-leveraging-activity-data-from-the-Fediverse.pdf)] [[Presentation](/files/publications/2025/FIRST-CTI-Berlin_Scoring-vulnerabilities-by-leveraging-activity-data-from-the-Fediverse_presentation.pdf)]
 
