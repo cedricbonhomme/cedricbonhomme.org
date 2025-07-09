@@ -1,7 +1,7 @@
 +++
 title = "Publications"
 description = "Publications"
-date = "2025-07-08"
+date = "2025-07-09"
 tags = ["articles", "publications"]
 aliases = ["articles"]
 author = "Cédric Bonhomme"
@@ -45,9 +45,9 @@ author = "Cédric Bonhomme"
 
 - T. Schaberreiter, C. Bonhomme, J. Aubert, C. Incoul, “**Support Tool Development for Real-Time Risk Prediction in Interdependent Critical Infrastructures**”, in *International Workshop on Risk and Trust in Extended Enterprises (RTEE’2010)*, San Jose, CA, USA, November 1–4, 2010.
 
-- C. Bonhomme, C. Feltus, D. Khadraoui, “**A Multi-Agent Based Decision Mechanism for Incident Reaction in Telecommunication Network**” (poster), in *ACS/IEEE International Conference on Computer Systems and Applications (AICCSA 2010)**, Hammamet, Tunisia. [[ACM](https://dl.acm.org/doi/10.1109/AICCSA.2010.5587036)]
+- C. Bonhomme, C. Feltus, D. Khadraoui, “**A Multi-Agent Based Decision Mechanism for Incident Reaction in Telecommunication Network**” (poster), in *ACS/IEEE International Conference on Computer Systems and Applications (AICCSA 2010)*, Hammamet, Tunisia. [[ACM](https://dl.acm.org/doi/10.1109/AICCSA.2010.5587036)]
 
-- P. Schmitt, C. Bonhomme, J. Aubert, B. Gâteau, “**Programming Electronic Institutions with UTOPIA**”, in **Demo Session of the 22nd International Conference on Advanced Information Systems Engineering (CAiSE’10)*, 2010. [[Springer](https://link.springer.com/chapter/10.1007/978-3-642-17722-4_9)]
+- P. Schmitt, C. Bonhomme, J. Aubert, B. Gâteau, “**Programming Electronic Institutions with UTOPIA**”, in *Demo Session of the 22nd International Conference on Advanced Information Systems Engineering (CAiSE’10)*, 2010. [[Springer](https://link.springer.com/chapter/10.1007/978-3-642-17722-4_9)]
 
 - P. Schmitt, C. Bonhomme, B. Gâteau, “**Easy Programming of Agent-Based Electronic Institution with UTOPIA**”, in *10th International Conference on New Technologies of Distributed Systems (NOTERE 2010)*, Tozeur, Tunisia, May 31 – June 2, 2010. [[IEEE Xplore](https://ieeexplore.ieee.org/document/5536694)]
 
