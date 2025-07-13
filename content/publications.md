@@ -7,6 +7,8 @@ aliases = ["articles"]
 author = "Cédric Bonhomme"
 +++
 
+My [articles on arXiv](https://arxiv.org/a/bonhomme_c_1.html), see also [ORCID](https://orcid.org/0009-0003-7679-0109).
+
 ### 2025
 
 - Cédric Bonhomme, Alexandre Dulaunoy, “**VLAI: A RoBERTa-Based Model for Automated Vulnerability Severity Classification**”, preprint for the *[25V4C-TC: 2025 Vulnerability Forecasting Technical Colloquia](https://easychair.org/cfp/25-V4CTC)*, Darwin College, Cambridge, UK, September 25–26, 2025. [[arXiv](https://arxiv.org/abs/2507.03607)] [[Hugging Face](https://huggingface.co/papers/2507.03607)]
