@@ -1,7 +1,7 @@
 +++
 title = "Software"
 description = "Some notable projects"
-date = "2025-06-11"
+date = "2025-07-21"
 aliases = ["projects"]
 author = "Cédric Bonhomme"
 +++
@@ -19,8 +19,7 @@ Thank you ! (my own [donations](/donations))
 ## Security
 
 - [Vulnerability-Lookup](https://github.com/vulnerability-lookup/vulnerability-lookup):
-  Facilitates quick correlation of vulnerabilities from various sources, and
-  streamlines the management of Coordinated Vulnerability Disclosure (CVD).
+  Unifies multi-source vulnerability data and streamlines Coordinated Vulnerability Disclosure workflows.
 - [Stegano](https://github.com/cedricbonhomme/Stegano): a pure Python Steganography module.
 - [Guardian](https://github.com/cedricbonhomme/guardian): monitor the status of a set of services.
 - [pyHIDS](https://github.com/cedricbonhomme/pyHIDS): a simple HIDS for verifying the integrity of a system.

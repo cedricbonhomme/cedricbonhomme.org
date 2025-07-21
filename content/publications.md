@@ -1,13 +1,13 @@
 +++
 title = "Publications"
 description = "Publications"
-date = "2025-07-09"
+date = "2025-07-21"
 tags = ["articles", "publications"]
 aliases = ["articles"]
 author = "Cédric Bonhomme"
 +++
 
-My [articles on arXiv](https://arxiv.org/a/bonhomme_c_1.html), see also [ORCID](https://orcid.org/0009-0003-7679-0109).
+My articles on [arXiv](https://arxiv.org/a/bonhomme_c_1.html), see also [ORCID](https://orcid.org/0009-0003-7679-0109).
 
 ### 2025
 
