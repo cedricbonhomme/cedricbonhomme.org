@@ -1,7 +1,7 @@
 +++
 title = "Donations"
 description = "My donations"
-date = "2025-07-09"
+date = "2025-08-25"
 author = "Cédric Bonhomme"
 aliases = ["social-impact"]
 +++
@@ -26,9 +26,10 @@ the projects I rely on and to show gratitude to the developers who generously do
 
 [Donations via GitHub](https://github.com/cedricbonhomme?tab=sponsoring)
 
-- https://github.com/bagder - monthly, since 2020
-- https://github.com/nijel - monthly, since 2020
-- https://github.com/cmars - monthly, since 2021
+- https://github.com/bagder - monthly, from 2020 to 2023
+- https://github.com/nijel - monthly, from 2020 to 2023
+- https://github.com/cmars - monthly, from 2021 to 2023
+- https://github.com/baimard - $10 in 2023
 
 
 ## Direct donations
@@ -42,3 +43,9 @@ the projects I rely on and to show gratitude to the developers who generously do
 
 - https://www.actioncontrelafaim.org - monthly, since 2010
 - https://www.croix-rouge.fr - time to time (last: March 2022 - €90 for Ukraine)
+
+
+## Journalism
+
+- 404 Media - $100 in 2025
+
