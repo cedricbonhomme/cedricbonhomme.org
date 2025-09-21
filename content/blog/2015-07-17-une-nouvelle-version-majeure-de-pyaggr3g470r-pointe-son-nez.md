@@ -43,7 +43,7 @@ Les _favicons_ des flux sont récupérés. Par soucis de respect de la vie priv�
 
 Voilà, et je ne parlerai pas ici de toutes les améliorations du code (notamment du _crawler_ client qui utilise l'API).
 
- [1]: https://bitbucket.org/cedricbonhomme/pyaggr3g470
+ [1]: https://git.sr.ht/~cedric/pyAggr3g470r
  [2]: /images/blog/2015/07/feed-filters.png
  [3]: https://pyaggr3g470r.herokuapp.com/about
  [4]: /images/blog/2015/07/add-a-feed.png

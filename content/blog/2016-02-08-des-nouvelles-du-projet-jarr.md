@@ -46,4 +46,4 @@ Pour mémoire, voici la [première version][5].
  [2]: https://github.com/jaesivsm
  [3]: https://www.python.org/dev/peps/pep-0492/
  [4]: https://jarr.herokuapp.com/signup
- [5]: https://blog.cedricbonhomme.org/2010/01/29/pyaggr3g470r/
+ [5]: https://www.cedricbonhomme.org/2010/01/29/pyaggr3g470r/

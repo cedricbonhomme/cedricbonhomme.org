@@ -28,11 +28,11 @@ Pas bien:
   * il faut toujours avoir internet ([HADOPI][4]) et une bonne connexion ([SPDY][5] ?). Déjà que même en France il n'y a pas encore lADSL partout;
   * open-source, mais la licence des &#8220;exécutables&#8221; ?;
   * les logiciels ne nous appartiennent pas (le **source** de Chromium est sous BSD, lexécutable sous licence &#8220;Google&#8221;);
-  * bien sûr Google (comme Microsoft) nont jamais de problèmes techniques;
+  * bien sûr Google (comme Microsoft) n'ont jamais de problèmes techniques;
   * pas l'impression qu'on puisse faire pareil avec notre propre serveur;
   * on ne pourra même plus avoir plusieurs noyaux ?!
 
-Finalement ce que je me demande c'est pourquoi il nont pas poussé le vice jusqu'à mettre le navigateur dans le cloud ? 😉
+Finalement ce que je me demande c'est pourquoi il n'ont pas poussé le vice jusqu'à mettre le navigateur dans le cloud ? 😉
 
 Et vous, qu'en pensez vous ?
 

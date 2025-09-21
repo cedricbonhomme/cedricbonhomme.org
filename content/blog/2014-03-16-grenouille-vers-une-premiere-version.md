@@ -17,5 +17,5 @@ Il est ainsi dorénavant possible denvoyer via une requête HTTP POST les donné
 
 L'authentification est effectuée en HTTPS et la clé pour l'API est envoyée dans les données (JSON). Il faut également envoyer l'identifiant de la station (chaque personne peut avoir plusieurs stations) et évidemment les données météorologiques.
 
- [1]: https://bitbucket.org/cedricbonhomme/grenouille/src/2879dcf021f7bb5b0ac32112b17b0d62efea8e17/README.rst?at=master#rst-header-send-measures
+ [1]: https://github.com/cedricbonhomme/Grenouille?tab=readme-ov-file#send-measures
  [2]: https://petite-grenouille.herokuapp.com/station/1/

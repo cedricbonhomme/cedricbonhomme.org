@@ -21,8 +21,8 @@ Globalement le portage sest fait facilement avec [2to3][6] et quelques modificat
 Pour mémoire, nous avions déjà vu comment cacher des messages en utilisant des générateurs densembles dentiers avec [Jennifer Morrison][7]. Lavantage d'utiliser une suite (_bien_ répartie) est de compliquer un peu la stéganalyse de l'image contenant le secret. Je ne fais pas durer le suspense et vous donne les quelques instructions nécessaires afin de trouver le secret de Selena.
 
 ```bash
-$ hg clone https://git.sr.ht/~cedric/stegano
-$ cd stegano/stegano/
+$ git clone https://github.com/cedricbonhomme/Stegano
+$ cd Stegano/stegano/
 $ wget /images/blog/2013/03/Selena-Gomez.png
 $ python3.2 slsbset.py --reveal -i ./Selena-Gomez.png --generator OEIS_A000217
 Impossible to detect message.
@@ -37,7 +37,7 @@ N'oubliez pas le [tutoriel][8] qui explique plus en détail le fonctionnement.
 
  [1]: /series/steganography/
  [2]: http://fr.wikipedia.org/wiki/Selena_Gomez
- [3]: https://bitbucket.org/cedricbonhomme/stegano/
+ [3]: https://github.com/cedricbonhomme/Stegano
  [4]: https://pypi.python.org/pypi/Pillow/
  [5]: http://www.pythonware.com/products/pil/
  [6]: http://docs.python.org/2/library/2to3.html

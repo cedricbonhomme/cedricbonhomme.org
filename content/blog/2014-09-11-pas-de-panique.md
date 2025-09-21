@@ -22,6 +22,6 @@ Mais surtout car je veux participer à la généralisation d'un Web plus sécuri
 
  [1]: https://www.cacert.org
  [2]: http://www.cacert.org/certs/root.crt
- [3]: https://blog.cedricbonhomme.org
+ [3]: https://www.cedricbonhomme.org
  [4]: https://wiki.cedricbonhomme.org
- [5]: https://blog.cedricbonhomme.org/2014/02/26/comment-encore-avoir-un-semblant-de-vie-privee-sur-le-web/ "Comment encore avoir un semblant de vie privée sur le Web"
+ [5]: https://www.cedricbonhomme.org/2014/02/26/comment-encore-avoir-un-semblant-de-vie-privee-sur-le-web/ "Comment encore avoir un semblant de vie privée sur le Web"

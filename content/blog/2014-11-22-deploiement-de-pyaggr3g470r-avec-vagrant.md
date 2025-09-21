@@ -15,4 +15,4 @@ tags:
 Vous avez dorénavant la possibilité de déployer pyAggr3g470r en utilisant [Vagrant][1]. Le [README][2] explique comment procéder. Tout sera configuré automatiquement, vous n'aurez plus qu'à utiliser pyAggr3g470r.
 
  [1]: https://www.vagrantup.com
- [2]: https://bitbucket.org/cedricbonhomme/pyaggr3g470r/src/659ceb7f7fa9292d46f1d096bc28589fcc2a79b5/README.rst?at=master
+ [2]: https://git.sr.ht/~cedric/pyAggr3g470r/tree/659ceb7f7fa9292d46f1d096bc28589fcc2a79b5/item/README.rst

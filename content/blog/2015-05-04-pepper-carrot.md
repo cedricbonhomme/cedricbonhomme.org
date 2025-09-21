@@ -13,5 +13,5 @@ tags:
 [Pepper & Carrot][1], un joli _webcomic_ sous licence [CC BY 3.0][2] et financé
 par ses lecteurs. Cerise sur le gâteau, disponible en Français!
 
- [1]: http://www.peppercarrot.com
+ [1]: https://www.peppercarrot.com
  [2]: https://creativecommons.org/licenses/by/3.0/

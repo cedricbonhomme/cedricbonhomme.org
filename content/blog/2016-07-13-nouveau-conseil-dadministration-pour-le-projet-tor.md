@@ -18,7 +18,7 @@ Après le [scandale Appelbaum][7] (que je suis de près), ça ne peut que faire 
 
 Je m’étais volontairement abstenu de parler de l’affaire Appelbaum sur ce blog. Malheureusement, je ne me fais plus d’idées depuis quelques semaines. Ma déception est gigantesque. C’est aussi l’erreur d’avoir mis une personne à la lumière des projecteurs et qui est devenue à la longue une véritable rockstar. Bref.
 
- [1]: http://www.nytimes.com/2016/07/14/technology/tor-project-a-digital-privacy-group-reboots-with-new-board.html
+ [1]: https://www.nytimes.com/2016/07/14/technology/tor-project-a-digital-privacy-group-reboots-with-new-board.html
  [2]: https://blog.torproject.org/blog/tor-project-elects-new-board%C2%A0-directors
  [3]: https://www.schneier.com
  [4]: https://www.eff.org

@@ -10,7 +10,7 @@ tags:
   - Google
 
 ---
-J'ai surtout une chose à dire: heureux les utilisateurs qui nont pas eu le
+J'ai surtout une chose à dire: heureux les utilisateurs qui n'ont pas eu le
 temps de pré-commander le Nexus 6.
 
 Le fait qu'on puisse littéralement avoir **besoin** (chercher par exemple sur

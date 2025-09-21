@@ -13,7 +13,7 @@ tags:
 ---
 ![St Andrews Castle](/images/blog/2014/10/St_Andrews_Castle.jpg)
 
-Voici quelques [photographies dÉcosse][1]. Je partage pour le moment uniquement
+Voici quelques [photographies d'Écosse][1]. Je partage pour le moment uniquement
 ces quelques clichés car je n'ai pas terminé de tout filtrer/trier. À mon goût,
 ce sont les plus belles prises que je peux rendre publics. En général j'évite de
 partager des portraits ou photos érotiques.

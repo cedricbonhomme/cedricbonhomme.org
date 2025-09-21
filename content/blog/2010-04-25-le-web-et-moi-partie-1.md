@@ -52,10 +52,6 @@ des changements de conditions d'utilisation d'un service.
   * qa.mandriva.com/
   * Google Doc et Google Calendar
 
-### Amazon
-
-  * amazon.fr/gp/registry/registry.html?ie=UTF8&type=wishlist&id=24H9I568HV7E5
-
 ### Arts
 
 #### Programmation
