@@ -16,7 +16,7 @@ tags:
 ---
 Pour les personnes n'ayant pu venir, la marche en quelques chiffres:
 
-- distance totale : 10,39 km (et même un peu plus car je n'ai pas commencé lenregistrement au tout début);
+- distance totale : 10,39 km (et même un peu plus car je n'ai pas commencé l'enregistrement au tout début);
 - vitesse moyenne : 2,44 km/h (oui c'est juste une marche, pas un marathon);
 - durée totale : 4:15:38 (donc forcément il faut un peu plus de temps);
 - durée du déplacement : 2:13:34 (et avec des pauses bien arrosées);

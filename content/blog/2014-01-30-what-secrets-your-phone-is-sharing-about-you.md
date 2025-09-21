@@ -16,4 +16,4 @@ tags:
 
 Par soucis déconomie de la batterie je désactive généralement toutes les connexions sans fils. Avoir la sélection du réseau GSM en mode manuel doit aussi être une bonne chose.
 
- [1]: http://online.wsj.com/news/articles/SB10001424052702303453004579290632128929194
+ [1]: https://www.wsj.com/articles/SB10001424052702303453004579290632128929194

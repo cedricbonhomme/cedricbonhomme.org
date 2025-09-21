@@ -22,6 +22,6 @@ Bref, encore trois jours à attendre et une partie de ma vie va être révolutio
 Le seul regret c'est que niveau [bidouillabilité][3], ça tend vers zéro. À moins que je trouve quelque chose dintéressant… C'est un des gros problème de lautomobile (en plus des sites à la con des constructeurs). Concernant les ordinateurs embarqués, la plupart des logiciels sont propriétaires, on a parfois accès à un mode &#8220;mécano&#8221; qui peut impressionner un _Windowsien_, éventuellement. D'ailleurs je crois (ce n'est pas une info fraîche) que Ford utilise des logiciels Microsoft pour léconomie dénergie. On est mal.  
 De même la difficulté de trouver un lecteur pour Vorbis (ce qui membête beaucoup car sur mon ordinateur il n'y a pas de MP3, ni sur mon _smartphone_). J'espère pouvoir remédier au moins à ce problème.
 
- [1]: http://blog.cedricbonhomme.org/2010/12/16/la-fin/
+ [1]: https://www.cedricbonhomme.org/2010/12/16/la-fin/
  [2]: http://fr.wikipedia.org/wiki/Joint_de_Cardan
  [3]: http://fr.wikipedia.org/wiki/Bidouillabilit%C3%A9

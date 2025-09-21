@@ -53,8 +53,8 @@ $ zip test.zip test.txt
 $ cat Stop_And_Stare.ogg test.zip > Stop_And_Stare-1.ogg</pre>
 ```
 
-Vous pourrez toujours écouter votre musique. En renommant lextension vous retrouverez
-le fichier texte. En gros, c'est du au fait que votre logiciel se contente dinterpréter
+Vous pourrez toujours écouter votre musique. En renommant l'extension vous retrouverez
+le fichier texte. En gros, c'est du au fait que votre logiciel se contente d'interpréter
 les données qu'il attend (_tar_/_zip_ décodent les données compressées).
 Je préfère de loin
 [les méthodes évoquées précédemment sur ce blog]({{< ref "/blog/2010-10-01-lena.md" >}}).

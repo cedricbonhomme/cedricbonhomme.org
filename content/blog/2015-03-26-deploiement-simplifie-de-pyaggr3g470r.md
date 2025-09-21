@@ -24,4 +24,4 @@ Vous pouvez utiliser SQLite au lieu de PostgreSQL.
 
 Vous trouverez [ici][1] les différentes méthodes de déploiement.
 
- [1]: https://pyaggr3g470r.readthedocs.org/en/latest/deployment.html
+ [1]: https://git.sr.ht/~cedric/pyAggr3g470r/tree/master/item/documentation/deployment.rst

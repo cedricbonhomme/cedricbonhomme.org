@@ -26,5 +26,5 @@ Un autre problème est que pour naviguer correctement avec un navigateur il faut
 ajouter __*.google.com__ à la liste blanche de LibreJS. C'est bien dommage et ça fait
 peur.
 
- [1]: http://www.gnu.org/software/librejs/
- [2]: http://noscript.net
+ [1]: https://www.gnu.org/software/librejs/
+ [2]: https://noscript.net

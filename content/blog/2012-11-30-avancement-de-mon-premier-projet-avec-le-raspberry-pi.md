@@ -26,10 +26,10 @@ Dans léventualité qu'un jour jarrive au stade de l'écran je pense que la solu
 
 À suivre!
 
- [1]: http://en.wikipedia.org/wiki/On-board_diagnostics
- [2]: http://code.google.com/p/pyob2read/
+ [1]: https://en.wikipedia.org/wiki/On-board_diagnostics
+ [2]: https://code.google.com/p/pyob2read/
  [3]: http://www.obd-codes.com/trouble_codes/mazda/
- [4]: http://blog.cedricbonhomme.org/2012/05/10/tagjunctionroundabout/
+ [4]: https://www.cedricbonhomme.org/2012/05/10/tagjunctionroundabout/
  [5]: https://bitbucket.org/cedricbonhomme/pyclique/src/e117667e9b8b2ae4fe0fb70db618182fd98c1df7/dijkstra.py
- [6]: http://www.android.com/
- [7]: http://www.raspbian.org/
+ [6]: https://www.android.com
+ [7]: https://www.raspbian.org

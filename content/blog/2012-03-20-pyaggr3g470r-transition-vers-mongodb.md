@@ -21,7 +21,7 @@ Côté code, rien à signaler. La transition ne pose aucun problème, les articl
 
 Et voilà, un peu plus de 30.000 articles dans une base MongoDB toute neuve!
 
- [1]: http://blog.cedricbonhomme.org/2012/03/04/pyaggr3g470r-stockage-distant-des-articles-avec-mongodb/
+ [1]: https://www.cedricbonhomme.org/2012/03/04/pyaggr3g470r-stockage-distant-des-articles-avec-mongodb/
  [2]: https://git.sr.ht/~cedric/pyAggr3g470r
  [3]: https://bitbucket.org/cedricbonhomme/pyaggr3g470r/src/d5511a960ba5/sqlite2mongo.py
  [4]: http://stackoverflow.com/questions/4399068/mongodb-too-much-data-for-sort-with-no-index-error

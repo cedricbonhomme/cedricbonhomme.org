@@ -47,8 +47,8 @@ Léchelle de notation du test HTML5 ayant un peu changée (normal en fait), il n
 
 Pour ce qui est des tests HTML5, je vous conseil de voir le détail par [vous-même][5]. Ces chiffres ne valent pas grand chose sans analyse…
 
- [1]: http://blog.cedricbonhomme.org/2010/11/15/html5-et-les-balises-input/
- [2]: http://blog.cedricbonhomme.org/2010/06/30/petite-comparaison-des-dernieres-versions-de-firefox-et-chrome/
- [3]: http://blog.cedricbonhomme.org/2009/11/21/navigateurs/
+ [1]: https://www.cedricbonhomme.org/2010/11/15/html5-et-les-balises-input/
+ [2]: https://www.cedricbonhomme.org/2010/06/30/petite-comparaison-des-dernieres-versions-de-firefox-et-chrome/
+ [3]: https://www.cedricbonhomme.org/2009/11/21/navigateurs/
  [4]: http://diveintohtml5.org/detect.html#input-types
  [5]: http://beta.html5test.com/

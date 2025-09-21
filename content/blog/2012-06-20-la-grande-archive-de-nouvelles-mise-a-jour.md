@@ -25,6 +25,6 @@ Posts liés:
  [1]: http://cedricbonhomme.org/news/
  [2]: https://git.sr.ht/~cedric/pyAggr3g470r
  [3]: http://www.mongodb.org/
- [4]: http://cedricbonhomme.org/news/39f95ebadcce51a9c14cacc9457c1f93fba28eb5/
- [5]: http://blog.cedricbonhomme.org/2012/05/03/pyaggr3g470r-3-4-stockage-distant-des-articles-avec-mongodb/
- [6]: http://blog.cedricbonhomme.org/2012/03/20/pyaggr3g470r-transition-vers-mongodb/
+ [4]: https://cedricbonhomme.org/news/39f95ebadcce51a9c14cacc9457c1f93fba28eb5/
+ [5]: https://www.cedricbonhomme.org/2012/05/03/pyaggr3g470r-3-4-stockage-distant-des-articles-avec-mongodb/
+ [6]: https://www.cedricbonhomme.org/2012/03/20/pyaggr3g470r-transition-vers-mongodb/

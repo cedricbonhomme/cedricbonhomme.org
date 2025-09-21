@@ -15,4 +15,4 @@ tags:
 Par contre je suis étonné pour OCaml. Mon [petit test][2] avec Ackermann montrait que OCaml était bien supérieur à Haskell. J'admets évidemment qu'un simple test avec une fonction mathématique récursive ne puisse pas être une référence.
 
  [1]: http://jacquesmattheij.com/when-haskell-is-not-faster-than-c
- [2]: http://blog.cedricbonhomme.org/2012/10/01/quelques-benchmarks-avec-ackermann/
+ [2]: https://www.cedricbonhomme.org/2012/10/01/quelques-benchmarks-avec-ackermann/

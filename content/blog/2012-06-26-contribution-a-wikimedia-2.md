@@ -20,7 +20,7 @@ En regardant les données Exif sur Wikimedia on voit que j'ai réalisé ces phot
 
 Je vais envoyer d'autres photographies au projet Wikimedia pour témoigner ma reconnaissance.
 
- [1]: http://blog.cedricbonhomme.org/2011/06/15/contribution-a-wikimedia/
+ [1]: https://www.cedricbonhomme.org/2011/06/15/contribution-a-wikimedia/
  [2]: http://fr.wikipedia.org/wiki/Hôtel_de_ville_de_Paris
  [3]: http://www.parti-socialiste.fr/articles/mardi-15-mai-venez-assister-la-visite-du-president-de-la-republique-lhotel-de-ville
  [4]: http://www.parti-socialiste.fr/

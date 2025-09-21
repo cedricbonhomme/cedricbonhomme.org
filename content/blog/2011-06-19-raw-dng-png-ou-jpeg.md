@@ -39,6 +39,6 @@ Voilà, c'est quand même flagrant. Surtout pour moi qui déteste le post-traite
 
  [1]: http://www.digikam.org/
  [2]: http://en.wikipedia.org/wiki/Digital_Negative
- [3]: http://blog.cedricbonhomme.org/2011/05/05/archivage-a-long-terme/
+ [3]: http://www.cedricbonhomme.org/2011/05/05/archivage-a-long-terme/
  [4]: http://www.libraw.org/
  [5]: http://www.kipi-plugins.org/

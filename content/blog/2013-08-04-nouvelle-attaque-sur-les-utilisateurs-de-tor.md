@@ -26,8 +26,8 @@ Cela peut paraître un peu restrictif mais une fois que vous aurez listé vos si
 
  [1]: https://news.ycombinator.com/item?id=6154246
  [2]: https://addons.mozilla.org/fr/firefox/addon/noscript/
- [3]: http://blog.cedricbonhomme.org/2013/02/19/naviguer-sur-le-web-avec-un-minimum-danonymat/
+ [3]: https://www.cedricbonhomme.org/2013/02/19/naviguer-sur-le-web-avec-un-minimum-danonymat/
  [4]: http://rekonq.kde.org/
  [5]: /images/blog/2013/08/cookies-firefox.png
  [6]: http://www.kde.org/applications/internet/blogilo/
- [7]: http://blog.cedricbonhomme.org/2013/06/12/utiliser-tor-de-maniere-transparente/
+ [7]: https://www.cedricbonhomme.org/2013/06/12/utiliser-tor-de-maniere-transparente/

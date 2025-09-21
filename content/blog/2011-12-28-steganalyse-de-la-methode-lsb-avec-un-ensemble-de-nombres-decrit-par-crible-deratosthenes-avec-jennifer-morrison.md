@@ -32,7 +32,7 @@ $ slsb-set --hide -i ./Jennifer_Morrison-original.png -o ./Jennifer_Morrison-enc
 # Stéganalyse du fichier résultant 
 $ steganalysis-parity -i ./Jennifer_Morrison-enc-gen.png -o ./Jennifer_Morrison-en-gen-steg.png
 
-# Cache le contenu de secret.txt dans Jennifer_Morrison-original.png via la méthode <a href="http://blog.cedricbonhomme.org/2010/10/01/lena/">LSB classique</a>
+# Cache le contenu de secret.txt dans Jennifer_Morrison-original.png via la méthode <a href="https://www.cedricbonhomme.org/2010/10/01/lena/">LSB classique</a>
 $ slsb --hide -i ./Jennifer_Morrison-original.png -o ./Jennifer_Morrison-enc.png  -f ./secret.txt 
 # Stéganalyse du fichier résultant
 $ steganalysis-parity -i ./Jennifer_Morrison-enc.png -o ./Jennifer_Morrison-en-steg.png 

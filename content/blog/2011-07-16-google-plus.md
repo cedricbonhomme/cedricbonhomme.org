@@ -85,7 +85,7 @@ Mon retour d'expérience sur ce réseau social sera pour un autre billet.
 
 À plus!
 
- [1]: http://blog.cedricbonhomme.org/2010/04/25/le-web-et-moi-partie-1/
+ [1]: https://www.cedricbonhomme.org/2010/04/25/le-web-et-moi-partie-1/
  [2]: http://esr.ibiblio.org/?p=3472
  [3]: https://plus.google.com/u/0/118207880179234484610/posts
  [4]: http://xmpp.org/extensions/xep-0166.html

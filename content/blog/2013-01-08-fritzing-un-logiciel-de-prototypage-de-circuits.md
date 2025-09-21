@@ -14,7 +14,7 @@ tags:
 
 ---
 <div align="center">
-  <a href="http://blog.cedricbonhomme.org/2013/01/08/fritzing-un-logiciel-de-prototypage-de-circuits/fritzing/" rel="attachment wp-att-4647"><img src="/images/blog/2013/01/Fritzing.png" alt="Fritzing" width="100%" /></a>
+  <a href="https://www.cedricbonhomme.org/2013/01/08/fritzing-un-logiciel-de-prototypage-de-circuits/fritzing/" rel="attachment wp-att-4647"><img src="/images/blog/2013/01/Fritzing.png" alt="Fritzing" width="100%" /></a>
 </div>
 
 [Fritzing][1] est un logiciel sous licence [GPLv3][2] de prototypage de circuits parfait si vous utilisez [Arduino][3].

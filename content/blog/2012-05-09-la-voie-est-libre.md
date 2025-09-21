@@ -33,7 +33,7 @@ Ingrédients:
   * un petit [serveur Web CherryPy][5] avec vraiment un peu de JavaScript ([OpenLayers][6]).
 
  [1]: http://planet.osm.org/
- [2]: http://blog.cedricbonhomme.org/2012/03/15/imposm-parser/
+ [2]: https://www.cedricbonhomme.org/2012/03/15/imposm-parser/
  [3]: http://www.python.org/doc/essays/graphs.html
  [4]: http://www-m3.ma.tum.de/twiki/pub/MN0506/WebHome/dijkstra.pdf
  [5]: http://cherrypy.org/

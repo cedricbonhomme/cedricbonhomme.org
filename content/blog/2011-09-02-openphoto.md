@@ -20,7 +20,7 @@ Pour le moment j'ai choisi de tout (le code PHP, les photos et la base de donné
 
 J'espère bientôt pouvoir me désinscrire de certains services Web…
 
- [1]: http://blog.cedricbonhomme.org/2011/08/22/changement-d'adresse/#comment-95
+ [1]: https://www.cedricbonhomme.org/2011/08/22/changement-d'adresse/#comment-95
  [2]: https://github.com/openphoto
  [3]: https://github.com/openphoto/frontend/tree/master/documentation/guides
  [4]: http://aws.amazon.com

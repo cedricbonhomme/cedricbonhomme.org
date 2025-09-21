@@ -24,7 +24,7 @@ Bref, rien de bien transcendant pour le moment du côté de ces deux langages. J
 En tout cas, ce que je suis certain, c'est que pour moi aucun de ces langages est aussi bon que Python en ce qui concerne la rapidité de développement et la facilité de maintien du code (à mon humble avis). Avec Python il n'y a aucune barrière technique ennuyeuse à franchir avant d'attaquer un problème. J'ai toujours l'impression de coder l'essentiel.
 
  [1]: http://www.haskell.org
- [2]: http://blog.cedricbonhomme.org/2012/04/24/go-channels-et-goroutines/#comment-200
+ [2]: https://www.cedricbonhomme.org/2012/04/24/go-channels-et-goroutines/#comment-200
  [3]: http://golang.org/
  [4]: http://caml.inria.fr/ocaml/
  [5]: http://wiki.cedricbonhomme.org/cs_lang:ocaml#parity

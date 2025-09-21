@@ -21,7 +21,7 @@ Autant dire que l'export intégral d'une base de 25.000 articles peut prendre un
 certain temps.
 
  [1]: https://git.sr.ht/~cedric/pyAggr3g470r
- [2]: http://blog.cedricbonhomme.org/2010/11/23/pyaggr3g470r-epub/
- [3]: http://blog.cedricbonhomme.org/2011/10/24/pyaggr3g470r-export-journal-web/
+ [2]: https://www.cedricbonhomme.org/2010/11/23/pyaggr3g470r-epub/
+ [3]: https://www.cedricbonhomme.org/2011/10/24/pyaggr3g470r-export-journal-web/
  [4]: /images/blog/2011/10/2011-10-01_111952.pdf
  [5]: /images/blog/2011/10/2011-06-02_133332.pdf

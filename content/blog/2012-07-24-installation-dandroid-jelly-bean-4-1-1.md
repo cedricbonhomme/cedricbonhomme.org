@@ -43,4 +43,4 @@ Bref, [nouvel écran][4] et nouveau système. 😉
  [1]: http://android.clients.google.com/packages/ota/google_crespo/9ZGgDXDi.zip
  [2]: http://fr.wikipedia.org/wiki/Grosbliederstroff
  [3]: http://fr.wikipedia.org/wiki/Woustviller
- [4]: http://blog.cedricbonhomme.org/2012/07/06/reparation-de-lecran-du-nexus-s/
+ [4]: https://www.cedricbonhomme.org/2012/07/06/reparation-de-lecran-du-nexus-s/

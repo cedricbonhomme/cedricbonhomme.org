@@ -22,8 +22,8 @@ Voyons avec ce couple :
 On voit donc bien la boucle sur 127.0.0.1 (sur le port 8116 en fait) pour
 privoxy. Puis l'ordinateur contacte ces deux serveurs Tor :
 
-- 217.20.127.15 ;
-- 62.241.240.82.
+- 217.20.127.15
+- 62.241.240.82
 
 Via torstatus on peut récupérer le fingerprint RSA et ensuite les informations
 générales du premier noeud :
