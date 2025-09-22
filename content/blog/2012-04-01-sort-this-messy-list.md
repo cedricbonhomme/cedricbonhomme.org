@@ -78,4 +78,4 @@ kernel : 3.0.0-17-generic
 model name	: Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz
 ```
 
- [1]: http://fr.wikipedia.org/wiki/Tri_à_bulles
+ [1]: https://fr.wikipedia.org/wiki/Tri_à_bulles

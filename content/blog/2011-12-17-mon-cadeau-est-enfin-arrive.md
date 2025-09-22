@@ -13,7 +13,7 @@ tags:
   - technology
 
 ---
-Après bien trois mois dattente [il][1] est enfin arrivé.
+Après bien trois mois d'attente [il][1] est enfin arrivé.
 Et je le [recommande][2] vivement!
 
 Juste à temps pour Noël (oui je me fais des cadeaux).

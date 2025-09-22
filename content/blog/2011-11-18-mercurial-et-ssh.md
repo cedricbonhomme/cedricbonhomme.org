@@ -26,5 +26,5 @@ publier un billet avec Git+SSH. Il faudrait tester des logiciels de [ce genre][2
 La ligne de commande est bien supérieure à ces interfaces à la noix de coco
 toutes moches et même pas sécurisées.
 
- [1]: http://jehaisleprintemps.net/blog/fr/2009/05/10/mercurial-et-ssh-le-piege-eviter/
+ [1]: https://jehaisleprintemps.net/blog/fr/2009/05/10/mercurial-et-ssh-le-piege-eviter/
  [2]: https://github.com/elliottcable/git-blog
