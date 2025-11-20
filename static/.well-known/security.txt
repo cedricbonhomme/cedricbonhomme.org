@@ -1,0 +1,6 @@
+# Security Contact
+Contact: cedric@cedricbonhomme.org
+
+# OpenPGP Key
+Encryption: https://pgp.circl.lu/pks/lookup?op=get&search=0x55f5d60eefca3591008918e7a1cb94de57b7a70d
+
