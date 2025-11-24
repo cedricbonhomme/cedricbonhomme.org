@@ -1,11 +1,11 @@
 +++
 title = "Now"
 description = "What I am doing now"
-date = "2025-11-23"
+date = "2025-11-24"
 author = "Cédric Bonhomme"
 +++
 
-Here's what I do now, when this page was updated on November 23, 2025.  
+Here's what I do now, when this page was updated on November 24, 2025.  
 This page is inspired by [a good idea from Derek Sivers](https://nownownow.com/about).
 
 
@@ -18,7 +18,7 @@ You can connect with [me on Strava](https://www.strava.com/athletes/cedricbonhom
 
 Gardening and working more outside because it helps me clear my mind.
 
-Maybe getting rid of alcohol. I haven’t had a drop of alcohol for a couple of weeks now. I’m a moderate drinker, but I think I should just stop.
+Maybe getting rid of alcohol. I haven’t had a drop of alcohol for a couple of weeks now. I’m a moderate drinker, but I think I should just stop. Drinking alcohol feels so old-school nowadays.
 
 
 ## Work
@@ -28,7 +28,8 @@ I still love my job. It’s exciting, diverse, full of opportunities, and brings
 Working on various open-source projects, mainly on
 [Vulnerability-Lookup](https://github.com/vulnerability-lookup/vulnerability-lookup) and on
 [Newspipe](https://github.com/cedricbonhomme/newspipe).  
-You should have a look at Vulnerability-Lookup!
+You should have a look at Vulnerability-Lookup!  
+I will release a major update of Newspipe before Christmas. I am working on this project since 2010.
 
 Learning “AI” and forecasting mathematical models. Because why not.
 
@@ -44,5 +45,5 @@ My daughter has been playing the double bass for three years now. And my son jus
 
 ## Reading
 
-Haunted Houses Creak, by M. H. Altis.
+The Galdrabók, by Stephen E Flowers.
 
