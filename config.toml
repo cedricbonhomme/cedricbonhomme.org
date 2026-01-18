@@ -145,6 +145,11 @@ title = "Code on GitHub"
 url = "https://github.com/cedricbonhomme"
 
 [[params.socialIcons]]
+icon = "fab fa-google-scholar"
+title = "Publications on Google Scholar"
+url = "https://scholar.google.fr/citations?user=V34x_oUAAAAJ"
+
+[[params.socialIcons]]
 icon = "fab fa-orcid"
 title = "Publications on ORCID"
 url = "https://orcid.org/0009-0003-7679-0109"
