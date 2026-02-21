@@ -1,5 +1,20 @@
-<ul>
-{{ range site.RegularPages }}
-<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-{{ end }}
-</ul>
+<div class="sitemap-table">
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Section</th>
+        <th>Last Updated</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range sort site.RegularPages ".Lastmod" "desc" }}
+      <tr>
+        <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+        <td>{{ .Section | humanize | title }}</td>
+        <td class="sitemap-date">{{ .Lastmod.Format "2 Jan 2006" }}</td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>
