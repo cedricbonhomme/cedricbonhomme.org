@@ -43,6 +43,7 @@ rssLimit = 20
   relatedPosts = true
   numberOfRelatedPosts = 3
   customCss = ["css/custom.css"]
+  images = ["/images/profile-picture.jpg"]
 
 [related]
   includeNewer = true
