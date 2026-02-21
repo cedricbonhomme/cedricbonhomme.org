@@ -1,7 +1,19 @@
+{{ $opml := readFile "static/files/blogroll.opml" | transform.Unmarshal }}
+{{ $categories := $opml.body.outline }}
+{{/* Ensure categories is always a slice (single category produces a map) */}}
+{{ if not (reflect.IsSlice $categories) }}
+  {{ $categories = slice $categories }}
+{{ end }}
+{{ range $categories }}
+<h3>{{ index . "-text" }}</h3>
 <ul>
-  {{ $opmlJson := index .Site.Data.opml "opml" "body" "outline" "outline" }}
-  {{ range sort $opmlJson "_title" "asc" }}
-  <li><a href="{{ ._htmlUrl }}" target="_blank">{{ ._title }}</a> (<a href="{{ ._xmlUrl }}" target="_blank">feed</a>)</li>
+  {{ $entries := .outline }}
+  {{/* Ensure entries is always a slice (single-entry categories produce a map) */}}
+  {{ if not (reflect.IsSlice $entries) }}
+    {{ $entries = slice $entries }}
+  {{ end }}
+  {{ range sort $entries "-title" "asc" }}
+  <li><a href="{{ index . "-htmlUrl" }}" target="_blank">{{ index . "-title" }}</a> (<a href="{{ index . "-xmlUrl" }}" target="_blank">feed</a>)</li>
   {{ end }}
 </ul>
-
+{{ end }}
