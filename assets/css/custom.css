@@ -49,3 +49,9 @@
 .theme--dark .sitemap-table tbody tr:hover {
   background-color: #333;
 }
+
+/* Share button in post footer */
+.post__share {
+  margin-top: 12px;
+  font-size: 1.4rem;
+}
