@@ -6,6 +6,9 @@ date: 2009-10-14T18:36:59+00:00
 tags:
   - ip-link
   - network
+categories:
+  - Programming
+  - Internet
 
 ---
 Autant dire que pour cette première capture je suis très satisfait du résultat.

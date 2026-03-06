@@ -5,7 +5,7 @@ author: Cédric Bonhomme
 type: post
 date: 2012-06-26T05:46:01+00:00
 categories:
-  - photography
+  - Photography
 tags:
   - paris
   - parti-socialiste

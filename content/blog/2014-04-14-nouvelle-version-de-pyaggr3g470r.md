@@ -7,8 +7,8 @@ categories:
   - Programming
 tags:
   - python
-  - Heroku
-  - pyAggr3g470r
+  - heroku
+  - pyaggr3g470r
 
 ---
 La version 4.8 de [pyAggr3g470r][1] est sortie hier et apporte dimportantes améliorations. Avec la [base de test][2] les performances sur mon ordinateur sont excellentes (avec deux utilisateurs et environ 100.000 articles). Évidemment sur Heroku avec mon compte limité les performances sont un peu moins bonnes.

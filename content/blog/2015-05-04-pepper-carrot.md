@@ -8,6 +8,9 @@ tags:
   - art
   - reading
   - webcomic
+categories:
+  - Books
+  - Art
 
 ---
 [Pepper & Carrot][1], un joli _webcomic_ sous licence [CC BY 3.0][2] et financé

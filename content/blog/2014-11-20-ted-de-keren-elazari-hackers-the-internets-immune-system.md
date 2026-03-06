@@ -7,9 +7,9 @@ date: 2014-11-20T18:09:43+00:00
 categories:
   - Liberty
 tags:
-  - Keren_Elazari
+  - keren-elazari
   - liberty
-  - Security
+  - security
   - ted
 
 ---

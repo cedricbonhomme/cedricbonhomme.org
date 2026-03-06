@@ -9,8 +9,8 @@ categories:
   - Security
 tags:
   - anonymity
-  - Privacy
-  - Web
+  - privacy
+  - web
 
 ---
 Quelques conseils techniques (simples et non contraignants) pour une navigation sur le Web plus anonyme:

@@ -6,6 +6,9 @@ date: 2009-11-21T11:50:18+00:00
 tags:
   - browser
   - kde
+categories:
+  - Linux
+  - Web
 
 ---
 En quête d'un navigateur bien intégré à KDE 4 (depuis mon [récent départ de Firefox][1]) mon système devient une plateforme de tests de butineurs.

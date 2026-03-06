@@ -5,8 +5,10 @@ author: Cédric Bonhomme
 type: post
 date: 2009-12-23T19:10:34+00:00
 tags:
-  - pyChatter
-  - Python
+  - pychatter
+  - python
+categories:
+  - Programming
 
 ---
 Dans [ce billet][1] jannonçais la naissance du projet [pyChatter][2], une messagerie

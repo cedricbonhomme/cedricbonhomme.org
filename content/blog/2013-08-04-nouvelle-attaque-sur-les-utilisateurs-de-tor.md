@@ -8,10 +8,10 @@ categories:
   - Privacy
   - Security
 tags:
-  - Browser
-  - Firefox
-  - Security
-  - Tor
+  - browser
+  - firefox
+  - security
+  - tor
 
 ---
 Une attaque, [une injection JavaScript][1], affecte les utilisateurs de Tor utilisant Windows et Firefox (version 17 et antérieure).

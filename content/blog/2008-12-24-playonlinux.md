@@ -5,7 +5,10 @@ type: post
 date: 2008-12-23T22:03:10+00:00
 tags:
   - game
+  - linux
+categories:
   - Linux
+  - Games
 
 ---
 Je viens de découvrir aujourd'hui un logiciel fantastique : [PlayOnLinux][1].

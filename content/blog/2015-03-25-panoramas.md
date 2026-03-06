@@ -4,7 +4,7 @@ author: Cédric Bonhomme
 type: post
 date: 2015-03-25T17:49:13+00:00
 categories:
-  - photography
+  - Photography
 tags:
   - panorama
   - photography

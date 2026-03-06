@@ -4,11 +4,13 @@ author: Cédric Bonhomme
 type: post
 date: 2010-02-24T21:33:26+00:00
 tags:
-  - CherryPy
+  - cherrypy
   - python
   - feedparser
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
 
 ---
 Et voilà la version 0.8 de [pyAggr3g470r](https://git.sr.ht/~cedric/pyAggr3g470r).

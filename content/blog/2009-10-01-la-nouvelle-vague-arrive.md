@@ -4,8 +4,9 @@ author: Cédric Bonhomme
 type: post
 date: 2009-09-30T22:00:06+00:00
 categories:
-  - Google
-  - Web 2.0
+  - Web
+tags:
+  - google
 
 ---
 Avec Google Wave qui prétend révolutionner le mail :

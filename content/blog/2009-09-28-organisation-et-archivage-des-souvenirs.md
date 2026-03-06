@@ -5,8 +5,10 @@ author: Cédric Bonhomme
 type: post
 date: 2009-09-28T00:24:57+00:00
 tags:
-  - archivage
+  - archiving
   - photos
+categories:
+  - Photography
 
 ---
 On dit souvent que je suis maniaque avec mes photos. Moi je trouve ça normal.

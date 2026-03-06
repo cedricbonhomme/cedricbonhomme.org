@@ -6,8 +6,11 @@ type: post
 date: 2014-06-21T06:05:41+00:00
 tags:
   - heroku
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
+  - Cloud
 
 ---
 Et c'est une très bonne nouvelle.

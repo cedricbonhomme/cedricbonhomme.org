@@ -9,6 +9,9 @@ tags:
   - nexus
   - samsung
   - smartphone
+categories:
+  - Internet
+  - Technology
 
 ---
 ![Nexus S](/images/blog/2012/07/L1030328.jpg)

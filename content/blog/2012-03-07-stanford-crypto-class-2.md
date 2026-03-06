@@ -4,10 +4,10 @@ author: Cédric Bonhomme
 type: post
 date: 2012-03-07T06:40:39+00:00
 categories:
-  - cryptography
+  - Cryptography
 tags:
   - cryptography
-  - Mathematics
+  - mathematics
   - science
 
 ---

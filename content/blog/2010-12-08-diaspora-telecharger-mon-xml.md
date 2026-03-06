@@ -6,8 +6,12 @@ type: post
 date: 2010-12-08T21:53:52+00:00
 tags:
   - diaspora
-  - foss
+  - floss
   - freedom
+categories:
+  - Internet
+  - Liberty
+  - FLOSS
 
 ---
 Je viens de tester la fonction permettant de récupérer toutes les informations

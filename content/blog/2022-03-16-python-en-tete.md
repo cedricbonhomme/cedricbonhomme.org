@@ -7,6 +7,8 @@ type: post
 tags:
   - python
   - tiobe
+categories:
+  - Programming
 ---
 ![TIOBE Index - March 2022](/images/blog/2022/03/tiobe-2022-03.png)
 

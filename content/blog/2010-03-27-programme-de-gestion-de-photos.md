@@ -5,11 +5,11 @@ type: post
 date: 2010-03-27T13:31:25+00:00
 categories:
   - Linux
-  - photography
-  - Technologie
+  - Photography
+  - Technology
 tags:
-  - digiKam
-  - KDE
+  - digikam
+  - kde
   - photography
 
 ---

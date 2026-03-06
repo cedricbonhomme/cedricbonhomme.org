@@ -7,6 +7,8 @@ type: post
 tags:
   - music
   - piano
+categories:
+  - Music
 ---
 {{< peertube peertube.co.uk kPMbewmpP2zbNP4rmLzw5m >}}
 

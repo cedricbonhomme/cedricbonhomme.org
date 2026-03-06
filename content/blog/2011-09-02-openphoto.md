@@ -8,6 +8,9 @@ tags:
   - photo-sharing
   - photography
   - sharing
+categories:
+  - Photography
+  - Cloud
 
 ---
 Merci à la personne à l'origine de [ce commentaire][1].

@@ -7,9 +7,12 @@ date: 2010-10-03T23:01:22+00:00
 series: ["Steganography"]
 tags:
   - python
-  - LSB
+  - lsb
   - steganalyse
   - steganography
+categories:
+  - Programming
+  - Steganography
 
 ---
 Comme expliqué dans le [billet précédent][1] la technique LSB

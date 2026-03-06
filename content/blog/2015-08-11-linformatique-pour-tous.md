@@ -5,11 +5,12 @@ author: Cédric Bonhomme
 type: post
 date: 2015-08-11T17:15:30+00:00
 categories:
-  - Computer
+  - Technology
   - Science
 tags:
-  - computer_science
+  - computer-science
   - learning
+  - computer
 
 ---
 J'ai commencé une petite liste de [ressources en ligne sur l'informatique][1].

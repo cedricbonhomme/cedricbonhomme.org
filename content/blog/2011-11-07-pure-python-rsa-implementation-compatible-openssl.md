@@ -7,6 +7,9 @@ tags:
   - cryptography
   - python
   - rsa
+categories:
+  - Programming
+  - Cryptography
 
 ---
 ```bash

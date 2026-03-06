@@ -9,8 +9,8 @@ categories:
 tags:
   - ie
   - microsoft
-  - piece_of_shit
-  - Web
+  - piece-of-shit
+  - web
 
 ---
 L'article [Native HTML5: First IE10 Platform Preview Available for Download][1] décrypté par [Mark Pilgrim][2] (pour bien se _fendre la pipe_). Exemples:

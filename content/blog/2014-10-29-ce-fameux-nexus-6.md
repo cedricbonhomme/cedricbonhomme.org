@@ -6,8 +6,8 @@ date: 2014-10-29T21:48:38+00:00
 categories:
   - Life
 tags:
-  - Android
-  - Google
+  - android
+  - google
 
 ---
 J'ai surtout une chose à dire: heureux les utilisateurs qui n'ont pas eu le

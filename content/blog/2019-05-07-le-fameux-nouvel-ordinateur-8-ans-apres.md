@@ -8,8 +8,8 @@ categories:
   - Technology
 tags:
   - keyboard
-  - RAM
-  - SSD
+  - ram
+  - ssd
 
 ---
 Et bien [il est toujours aussi bien][1]. Et même encore mieux, voyez:

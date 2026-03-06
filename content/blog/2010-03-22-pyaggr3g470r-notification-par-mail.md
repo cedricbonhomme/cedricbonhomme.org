@@ -5,11 +5,11 @@ author: Cédric Bonhomme
 type: post
 date: 2010-03-22T21:34:47+00:00
 categories:
-  - Python
+  - Programming
 tags:
   - python
   - feedparser
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
 
 ---

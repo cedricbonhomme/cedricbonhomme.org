@@ -7,7 +7,7 @@ categories:
   - Sport
 tags:
   - fitness
-  - QuantifiedSelf
+  - quantified-self
   - sport
 
 ---

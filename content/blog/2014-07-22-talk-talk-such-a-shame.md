@@ -8,7 +8,7 @@ categories:
 tags:
   - 1984
   - music
-  - Talk talk
+  - talk-talk
 
 ---
 Such a beautiful song.

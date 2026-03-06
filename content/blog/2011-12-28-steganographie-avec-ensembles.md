@@ -10,6 +10,10 @@ tags:
   - security
   - stegano
   - steganography
+categories:
+  - Programming
+  - Security
+  - Steganography
 
 ---
 Comme [promis][1] voici une première implémenation du module de Stegano

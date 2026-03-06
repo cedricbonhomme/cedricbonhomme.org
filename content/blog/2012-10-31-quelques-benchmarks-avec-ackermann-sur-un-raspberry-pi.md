@@ -4,13 +4,12 @@ author: Cédric Bonhomme
 type: post
 date: 2012-10-31T22:51:09+00:00
 categories:
-  - Bidouillability
-  - Hardware
-  - Raspberry Pi
+  - Technology
 tags:
   - arm
   - hardware
-  - Raspberry Pi
+  - raspberry-pi
+  - hackability
 
 ---
 ![Raspberry Pi Model B - 512 Mo](/images/blog/2012/10/raspberrypi.jpg)

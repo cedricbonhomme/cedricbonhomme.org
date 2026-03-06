@@ -10,6 +10,9 @@ tags:
   - steganalyse
   - stegano
   - steganography
+categories:
+  - Programming
+  - Steganography
 
 ---
 Tout d'abord afin se rafraîchir l'esprit, on pourra lire l'ancien billet

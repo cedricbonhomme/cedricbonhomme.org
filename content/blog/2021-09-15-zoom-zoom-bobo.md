@@ -5,7 +5,7 @@ author: Cédric Bonhomme
 type: post
 date: 2021-09-15T21:04:46+00:00
 categories:
-  - cars
+  - Cars
 tags:
   - cars
   - mazda

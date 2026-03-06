@@ -7,10 +7,13 @@ date: 2008-11-24T20:32:52+00:00
 tags:
   - fun
   - hack
-  - Linux
+  - linux
   - robot
   - toy
   - tux
+categories:
+  - Linux
+  - Technology
 
 ---
 Tux Droid est enfin arrivé.

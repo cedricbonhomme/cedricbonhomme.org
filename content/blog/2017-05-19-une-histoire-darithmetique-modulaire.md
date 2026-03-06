@@ -5,11 +5,11 @@ author: Cédric Bonhomme
 type: post
 date: 2017-05-19T00:11:22+00:00
 categories:
-  - cryptography
+  - Cryptography
 tags:
   - cryptography
   - rsa
-  - WannaCry
+  - wannacry
 
 ---
 Bob était amoureux d'Alice. Il voulait lui envoyer une déclaration d'amour.

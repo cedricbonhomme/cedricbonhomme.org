@@ -4,11 +4,12 @@ author: Cédric Bonhomme
 type: post
 date: 2012-06-20T06:19:39+00:00
 categories:
-  - Python
+  - Programming
 tags:
   - information
   - news
-  - pyAggr3g470r
+  - pyaggr3g470r
+  - python
 
 ---
 À partir de [cette page][1] 36.186 articles extraits de [mon agrégateur][2] sont disponibles. La génération de toutes ces pages HTML dure environ une minute sur un _ancien_ ordinateur.

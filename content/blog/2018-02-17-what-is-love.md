@@ -5,10 +5,10 @@ author: Cédric Bonhomme
 type: post
 date: 2018-02-17T21:26:11+00:00
 categories:
-  - photography
+  - Photography
 tags:
   - canon
-  - EOS_500D
+  - canon-eos-500d
   - photography
   - travel
 

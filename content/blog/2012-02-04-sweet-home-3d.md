@@ -7,6 +7,8 @@ tags:
   - architecture
   - home
   - software
+categories:
+  - Life
 
 ---
 ![Maison_carole-1](/images/blog/2012/02/Maison_carole-1.png)

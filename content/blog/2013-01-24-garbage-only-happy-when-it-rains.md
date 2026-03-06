@@ -6,7 +6,7 @@ date: 2013-01-24T21:27:47+00:00
 categories:
   - Music
 tags:
-  - Garbage
+  - garbage
   - music
 
 ---

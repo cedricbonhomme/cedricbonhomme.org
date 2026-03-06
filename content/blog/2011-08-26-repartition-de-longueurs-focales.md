@@ -5,8 +5,8 @@ author: Cédric Bonhomme
 type: post
 date: 2011-08-25T22:24:38+00:00
 categories:
-  - photography
-  - Python
+  - Photography
+  - Programming
 tags:
   - python
   - exif

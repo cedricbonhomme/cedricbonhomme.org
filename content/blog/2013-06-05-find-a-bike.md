@@ -7,7 +7,7 @@ categories:
   - Internet
   - Life
 tags:
-  - API
+  - api
   - bikes
   - python
   - environment

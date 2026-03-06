@@ -7,6 +7,8 @@ date: 2010-10-23T10:21:15+00:00
 tags:
   - apple
   - freedom
+categories:
+  - Liberty
 
 ---
 D'un côté c'est une très bonne nouvelle.

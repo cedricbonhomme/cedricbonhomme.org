@@ -4,13 +4,13 @@ author: Cédric Bonhomme
 type: post
 date: 2011-10-05T20:22:06+00:00
 categories:
-  - blog
+  - Blog
   - Privacy
   - Web
 tags:
   - diveintomark
   - infosuicide
-  - Mark_Pilgrim
+  - mark-pilgrim
 
 ---
 Ce soir je lisais quelques nouvelles avec mon agrégateur et je remarque quelque chose détrange sur le site [diveintomark.org][1]. Le problème dure un certain temps. Je vais consulter son twitter (c'est à la mode d'utiliser ce service en ce moment, je ferai un billet sur ça) pour de plus amples informations sur le problème: <http://twitter.com/diveintomark>. Plus de twitter. Je vais donc sur sa page Wikipédia et dans [lhistorique][2] je trouve ça: &#8220;_In 2011, Mark Pilgrim removed some or all of his on-line presence, including his personal Web site and all of the &#8220;Dive into…&#8221; reference Web sites.[1] After a brief storm of Internet interest, police confirmed that Pilgrim was alive and well_&#8220;. Un peu soulagé car avant daller sur Wikipédia je redoutais de lire simplement _suicide_.  

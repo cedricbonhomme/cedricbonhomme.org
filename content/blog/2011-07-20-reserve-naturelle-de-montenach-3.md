@@ -5,12 +5,12 @@ author: Cédric Bonhomme
 type: post
 date: 2011-07-20T16:37:56+00:00
 categories:
-  - photography
+  - Photography
 tags:
   - macro
-  - nature_reserve
+  - nature-reserve
   - photography
-  - Zooomr
+  - zooomr
 
 ---
 Quelque chose me dit que je vais bientôt pouvoir continuer [cette page][1].

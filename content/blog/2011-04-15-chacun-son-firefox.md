@@ -7,8 +7,8 @@ categories:
   - Internet
   - Web
 tags:
-  - Browser
-  - Firefox
+  - browser
+  - firefox
 
 ---
 Dorénavant si tu utilises Firefox tu as vraiment [le choix][1].

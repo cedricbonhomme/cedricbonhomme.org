@@ -9,6 +9,10 @@ tags:
   - python
   - data
   - google
+categories:
+  - Programming
+  - Internet
+  - Technology
 
 ---
 Ce sont vos données, il est donc normal que vous puissiez y accéder.

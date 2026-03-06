@@ -4,11 +4,14 @@ author: Cédric Bonhomme
 type: post
 date: 2011-05-26T16:34:15+00:00
 tags:
-  - born_to_code
+  - born-to-code
   - code
   - floss
   - liberty
   - revolution
+categories:
+  - Liberty
+  - FLOSS
 
 ---
 > […] The really important point now is that code does the work of law and the work of the state. And code does the work of revolution against the state. And code does all the work that the state does trying to retain its power in revolutionary situations.</p> 

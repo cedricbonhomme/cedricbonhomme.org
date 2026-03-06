@@ -7,8 +7,8 @@ categories:
   - Privacy
 tags:
   - liberty
-  - Loi renseignement
-  - Privacy
+  - loi-renseignement
+  - privacy
 
 ---
 C'est dans ce contexte que j'ajoute [cette nouvelle section][1] à la liste de

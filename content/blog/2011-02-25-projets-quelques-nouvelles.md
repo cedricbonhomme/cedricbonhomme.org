@@ -7,9 +7,11 @@ date: 2011-02-25T15:38:32+00:00
 tags:
   - python
   - gps
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
   - tracking
+categories:
+  - Programming
 
 ---
 Quelques nouvelles à propos de deux projets, dont un nouveau 😉

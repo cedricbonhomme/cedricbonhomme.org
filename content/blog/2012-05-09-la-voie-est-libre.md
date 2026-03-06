@@ -5,12 +5,11 @@ type: post
 date: 2012-05-08T22:39:09+00:00
 categories:
   - Programming
-  - Python
 tags:
   - python
   - dijkstra
   - map
-  - OpenStreetMap
+  - openstreetmap
   - osm
 
 ---

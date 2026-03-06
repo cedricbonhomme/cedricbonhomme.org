@@ -4,10 +4,12 @@ author: Cédric Bonhomme
 type: post
 date: 2014-12-26T23:24:34+00:00
 tags:
-  - Lizard_Squad
-  - Sybil_attack
-  - Tor
+  - lizard-squad
+  - sybil-attack
+  - tor
   - privacy
+categories:
+  - Privacy
 
 ---
 Tor est actuellement victime d'une attaque, dite _Sybil attack_, provenant du groupe de

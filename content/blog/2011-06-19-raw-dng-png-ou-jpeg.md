@@ -4,7 +4,7 @@ author: Cédric Bonhomme
 type: post
 date: 2011-06-19T20:39:54+00:00
 categories:
-  - photography
+  - Photography
 tags:
   - dng
   - jpeg

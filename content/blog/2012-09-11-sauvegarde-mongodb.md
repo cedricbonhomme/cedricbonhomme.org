@@ -7,9 +7,11 @@ date: 2012-09-11T07:52:31+00:00
 tags:
   - backup
   - database
-  - MongoDB
-  - pyAggr3g470r
+  - mongodb
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
 
 ---
 Disons que vous voulez sauvegarder la base de données utilisée par

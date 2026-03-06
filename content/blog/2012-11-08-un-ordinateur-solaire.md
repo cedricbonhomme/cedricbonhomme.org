@@ -7,8 +7,10 @@ date: 2012-11-08T17:13:05+00:00
 tags:
   - computer
   - environment
-  - RaspberryPi
+  - raspberry-pi
   - solar
+categories:
+  - Technology
 
 ---
 ![Solar computer](/images/blog/2012/11/20121108T182943.jpg)

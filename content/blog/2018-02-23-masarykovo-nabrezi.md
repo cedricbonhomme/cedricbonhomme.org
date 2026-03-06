@@ -5,10 +5,10 @@ author: Cédric Bonhomme
 type: post
 date: 2018-02-23T21:29:43+00:00
 categories:
-  - photography
+  - Photography
 tags:
   - photography
-  - Prague
+  - prague
   - travel
 format: image
 

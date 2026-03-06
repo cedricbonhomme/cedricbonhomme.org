@@ -7,6 +7,9 @@ date: 2008-10-31T21:57:26+00:00
 tags:
   - cryptography
   - privacy
+categories:
+  - Cryptography
+  - Privacy
 
 ---
 Nous utilisons l'informatique au quotidien pour des besoins de plus en plus

@@ -5,11 +5,11 @@ author: Cédric Bonhomme
 type: post
 date: 2016-08-31T19:56:08+00:00
 categories:
-  - games
+  - Games
 tags:
-  - Flying-Oak-Games
+  - flying-oak-games
   - games
-  - NeuroVoider
+  - neurovoider
   - steam
 
 ---

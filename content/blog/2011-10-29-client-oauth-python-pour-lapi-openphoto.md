@@ -5,10 +5,10 @@ author: Cédric Bonhomme
 type: post
 date: 2011-10-29T12:41:08+00:00
 categories:
-  - photography
-  - Python
+  - Photography
+  - Programming
 tags:
-  - API
+  - api
   - python
   - json
   - oauth

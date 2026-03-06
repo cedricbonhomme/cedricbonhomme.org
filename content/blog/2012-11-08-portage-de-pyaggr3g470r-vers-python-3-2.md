@@ -6,11 +6,10 @@ type: post
 date: 2012-11-08T22:14:31+00:00
 categories:
   - Programming
-  - Python
 tags:
   - 2to3
   - python
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
 
 ---

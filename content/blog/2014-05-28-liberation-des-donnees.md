@@ -6,8 +6,10 @@ type: post
 date: 2014-05-28T05:30:44+00:00
 tags:
   - python
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
 
 ---
 [pyAggr3g470r][1] permet maintenant l'export et l'import de compte utilisateur

@@ -7,7 +7,7 @@ date: 2016-07-13T21:32:43+00:00
 categories:
   - Privacy
 tags:
-  - Tor
+  - tor
 
 ---
 Le projet Tor [renouvelle][1] son [conseil dadministration][2]. Et ce n’est pas un moindre remaniement. Les membres Roger Dingledine, Nick Mathewson, Meredith Hoban Dunn, Ian Goldberg, Julius Mittenzwei, Rabbi Rob Thomas et Wendy Seltzer ne font plus parti du conseil. Le nouveau conseil est constitué de Bruce Schneier, Matt Blaze, Gabriella Colemn et Linus Nordberg. Je suis très content de la présence de [Bruce Schneier][3] (aussi membre de l[EFF][4]) et [Matt Blaze][5]. Je suis lecteur de longue date de leurs blogs. Deux personnes avec de longues et sérieuses carrières. Qui ont déjà énormément donné.

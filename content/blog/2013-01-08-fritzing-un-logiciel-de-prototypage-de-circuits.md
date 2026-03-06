@@ -4,7 +4,7 @@ author: Cédric Bonhomme
 type: post
 date: 2013-01-08T13:29:22+00:00
 categories:
-  - Hardware
+  - Technology
 tags:
   - arduino
   - fritzing

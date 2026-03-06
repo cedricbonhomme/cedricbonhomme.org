@@ -5,10 +5,13 @@ type: post
 date: 2016-08-24T06:20:38+00:00
 tags:
   - cryptography
-  - FIDO
+  - fido
   - security
-  - U2F
-  - Yubikey
+  - u2f
+  - yubikey
+categories:
+  - Security
+  - Cryptography
 
 ---
 Ça fait quelque temps maintenant que je teste la Yubikey Neo.

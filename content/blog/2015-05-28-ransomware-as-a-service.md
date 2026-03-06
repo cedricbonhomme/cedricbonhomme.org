@@ -8,7 +8,7 @@ categories:
 tags:
   - cybercrime
   - ransomware
-  - Tor
+  - tor
   - tox
   - virus
 

@@ -8,7 +8,7 @@ categories:
   - Music
 tags:
   - music
-  - The-Crooks
+  - the-crooks
 
 ---
 Un peu de publicité pour le premier EP du groupe

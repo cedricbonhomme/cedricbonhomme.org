@@ -5,12 +5,12 @@ author: Cédric Bonhomme
 type: post
 date: 2010-03-08T21:19:01+00:00
 categories:
-  - Python
+  - Programming
 tags:
-  - CherryPy
+  - cherrypy
   - python
   - feedparser
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
 
 ---

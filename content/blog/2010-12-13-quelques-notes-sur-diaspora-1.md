@@ -9,8 +9,8 @@ categories:
 tags:
   - diaspora
   - freedom
-  - Privacy
-  - Web
+  - privacy
+  - web
 
 ---
 Diaspora est un donc un réseau social décentralisé. Il existe d'autres projets

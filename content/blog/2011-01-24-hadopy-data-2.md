@@ -5,7 +5,7 @@ author: Cédric Bonhomme
 type: post
 date: 2011-01-24T22:38:38+00:00
 categories:
-  - Vie privée
+  - Privacy
 tags:
   - python
   - hadopi

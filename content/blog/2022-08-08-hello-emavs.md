@@ -8,7 +8,8 @@ tags:
   - music
   - school
   - doublebass
-  - piano
+categories:
+  - Music
 ---
 
 Une fois n'est pas coutume, ce billet est une petite publicité pour la jeune

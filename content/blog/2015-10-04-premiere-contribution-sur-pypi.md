@@ -6,9 +6,12 @@ type: post
 date: 2015-10-04T21:38:51+00:00
 tags:
   - python
-  - PyPI
+  - pypi
   - stegano
   - steganography
+categories:
+  - Programming
+  - Steganography
 
 ---
 Et voici [ma première contribution][1] sur le «Python Package Index».

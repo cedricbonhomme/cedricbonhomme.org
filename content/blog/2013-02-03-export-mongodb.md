@@ -4,12 +4,12 @@ author: Cédric Bonhomme
 type: post
 date: 2013-02-03T16:51:47+00:00
 categories:
-  - MongoDB
+  - Programming
 tags:
   - backup
   - database
-  - MongoDB
-  - pyAggr3g470r
+  - mongodb
+  - pyaggr3g470r
   - newspipe
 
 ---

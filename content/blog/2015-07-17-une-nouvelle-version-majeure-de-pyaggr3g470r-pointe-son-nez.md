@@ -8,7 +8,7 @@ categories:
   - Programming
 tags:
   - python
-  - pyAggr3g470r
+  - pyaggr3g470r
 
 ---
 [pyAggr3g470r][1] a vraiment bien évolué ces dernières semaines. Ceci grâce à dexcellentes contributions. Je dois dire que je suis très content de la tournure de ce projet. Il a atteint un très bon niveau de maturité avec une base de code bien structurée et solide. Et par-dessus tout, il s'agit d'un projet avec des contributions externes conséquentes.

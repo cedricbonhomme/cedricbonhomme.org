@@ -4,7 +4,7 @@ author: Cédric Bonhomme
 type: post
 date: 2016-05-16T16:17:56+00:00
 categories:
-  - photography
+  - Photography
 tags:
   - I-1
   - impossible

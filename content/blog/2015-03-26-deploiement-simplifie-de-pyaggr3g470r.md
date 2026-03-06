@@ -6,8 +6,10 @@ type: post
 date: 2015-03-26T18:30:29+00:00
 tags:
   - python
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
 
 ---
 ```bash

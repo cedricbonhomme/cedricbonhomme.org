@@ -6,7 +6,7 @@ type: post
 date: 2011-01-21T15:08:27+00:00
 categories:
   - FLOSS
-  - photography
+  - Photography
 tags:
   - agpl
   - floss

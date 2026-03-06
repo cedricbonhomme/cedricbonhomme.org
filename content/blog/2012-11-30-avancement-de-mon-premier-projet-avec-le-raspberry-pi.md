@@ -8,8 +8,8 @@ categories:
 tags:
   - cars
   - python
-  - OBD
-  - Raspberry Pi
+  - obd
+  - raspberry-pi
 
 ---
 Maintenant que je sais récupérer les données générées par le système embarqué d'une voiture via l[interface OBD][1] je vais pouvoir faire des choses plus intéressantes avec le Raspberry. Je m'intéresse particulièrement au projet [pyob2read][2] qui me permet de récupérer un tas de données. Voici une [petite liste de codes][3] (_trouble codes_) pour Mazda. Cependant beaucoup de codes sont génériques et il ne me semble pas trop compliqué de faire une application qui fonctionne correctement avec d'autres marques de voitures.

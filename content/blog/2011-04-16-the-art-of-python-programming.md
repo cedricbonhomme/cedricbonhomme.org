@@ -5,11 +5,10 @@ type: post
 date: 2011-04-16T20:53:25+00:00
 categories:
   - Programming
-  - Python
 tags:
   - python
   - forban
-  - P2P
+  - p2p
 
 ---
 Un titre peut-être un peu trop prétentieux pour annoncer la sortie de pyAggr3g470r 2.7 ([infomations de _release_][1] pour les détails) et de Stegano 0.3 ([informations de _release_][2] pour les détails). Il est maintenant possible dinstaller Stegano comme un module Python classique.

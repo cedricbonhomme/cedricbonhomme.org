@@ -8,7 +8,7 @@ categories:
 tags:
   - python
   - hids
-  - pyHIDS
+  - pyhids
   - security
 
 ---

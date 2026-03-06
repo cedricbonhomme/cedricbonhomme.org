@@ -7,9 +7,9 @@ date: 2014-09-22T09:30:37+00:00
 categories:
   - Privacy
 tags:
-  - Privacy
-  - Security
-  - Web
+  - privacy
+  - security
+  - web
 
 ---
 La [page fournissant des conseils][1] pour naviguer sur le Web discrètement a

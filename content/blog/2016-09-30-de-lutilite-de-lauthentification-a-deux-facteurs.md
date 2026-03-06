@@ -7,7 +7,7 @@ date: 2016-09-30T21:30:32+00:00
 categories:
   - Security
 tags:
-  - 2FA
+  - 2fa
   - attack
   - impersonalization
   - security

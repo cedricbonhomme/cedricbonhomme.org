@@ -8,6 +8,10 @@ tags:
   - cryptography
   - mathematics
   - security
+categories:
+  - Security
+  - Cryptography
+  - Science
 
 ---
 Attention ça ne déconne plus, des cours de Stanford _gratis_.

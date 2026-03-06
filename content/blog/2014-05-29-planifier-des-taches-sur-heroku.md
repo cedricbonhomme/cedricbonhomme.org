@@ -6,9 +6,12 @@ type: post
 date: 2014-05-29T09:49:15+00:00
 tags:
   - python
-  - Heroku
-  - pyAggr3g470r
+  - heroku
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
+  - Cloud
 
 ---
 Voici comment utiliser l'extension [Heroku Scheduler][1].

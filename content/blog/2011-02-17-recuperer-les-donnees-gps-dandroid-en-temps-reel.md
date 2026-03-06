@@ -7,7 +7,7 @@ date: 2011-02-17T20:54:29+00:00
 categories:
   - Technology
 tags:
-  - Android
+  - android
   - bluetooth
   - python
   - garmin

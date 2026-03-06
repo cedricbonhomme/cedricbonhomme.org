@@ -5,8 +5,10 @@ author: Cédric Bonhomme
 type: post
 date: 2012-01-15T15:57:10+00:00
 tags:
-  - piscine
+  - pool
   - sport
+categories:
+  - Sport
 
 ---
 Faire un petit peu plus de sport, histoire de garder une certaine forme. J'ai

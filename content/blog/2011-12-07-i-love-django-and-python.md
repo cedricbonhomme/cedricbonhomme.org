@@ -4,11 +4,11 @@ author: Cédric Bonhomme
 type: post
 date: 2011-12-07T22:27:58+00:00
 categories:
-  - Python
+  - Programming
 tags:
   - python
   - django
-  - Web
+  - web
 
 ---
 Si j'avais su que [Django][1] est si rapide dapprentissage, ce blog serait depuis belle lurette en Python. Un vrai plaisir, en plus avec Python… c'est encore plus que bon!

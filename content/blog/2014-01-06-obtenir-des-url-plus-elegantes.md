@@ -9,6 +9,9 @@ tags:
   - tip
   - urlparse
   - web
+categories:
+  - Programming
+  - Web
 
 ---
 Voici une astuce pour obtenir des URL plus _esthétiques_.

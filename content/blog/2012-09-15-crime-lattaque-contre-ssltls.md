@@ -7,7 +7,7 @@ categories:
   - Security
 tags:
   - attack
-  - CRIME
+  - crime-attack
   - infosec
   - security
 

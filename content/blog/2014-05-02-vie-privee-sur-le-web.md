@@ -8,9 +8,9 @@ categories:
   - Privacy
 tags:
   - eff
-  - Privacy
-  - Security
-  - Web
+  - privacy
+  - security
+  - web
 
 ---
 Je viens de mettre à jour [la liste de recommandations][1] permettant de ne plus être traqué sur le Web.

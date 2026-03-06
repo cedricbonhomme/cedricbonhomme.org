@@ -9,6 +9,9 @@ tags:
   - python
   - stegano
   - steganography
+categories:
+  - Programming
+  - Steganography
 
 ---
 Un test avec la séquence dentiers [A000217][1].

@@ -7,6 +7,9 @@ tags:
   - browser
   - internet
   - web
+categories:
+  - Web
+  - Internet
 
 ---
 ![Webian Shell](/images/blog/2011/06/webian-shell.png)

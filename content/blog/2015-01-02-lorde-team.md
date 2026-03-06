@@ -7,7 +7,7 @@ date: 2015-01-02T19:48:41+00:00
 categories:
   - Music
 tags:
-  - Lorde
+  - lorde
   - music
   - vinyl
 

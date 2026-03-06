@@ -10,7 +10,7 @@ tags:
   - python
   - flask
   - socket.io
-  - WebSocket
+  - websocket
 
 ---
 ```python

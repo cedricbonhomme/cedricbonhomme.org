@@ -8,6 +8,8 @@ tags:
   - android
   - comScorce
   - smartphone
+categories:
+  - Technology
 
 ---
 Les [données comScore][1] du mois de Mai 2011 sont toujours aussi rassurantes;

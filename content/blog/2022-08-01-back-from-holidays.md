@@ -7,7 +7,9 @@ date: 2022-08-01T18:52:02+02:00
 tags:
   - photography
   - france
-  - travel
+categories:
+  - Photography
+  - Life
 ---
 
 ![Hiking somewhere in France](/images/blog/2022/07/20220731003700-6969cbba-la.jpg)

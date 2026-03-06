@@ -6,10 +6,10 @@ date: 2011-03-23T17:01:37+00:00
 categories:
   - Security
 tags:
-  - CA
+  - ca
   - certificate
   - infosec
-  - Security
+  - security
   - x509
 
 ---

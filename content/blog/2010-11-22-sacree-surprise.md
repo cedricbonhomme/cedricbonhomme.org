@@ -5,7 +5,7 @@ author: Cédric Bonhomme
 type: post
 date: 2010-11-22T17:56:55+00:00
 categories:
-  - floss
+  - FLOSS
 
 ---
 Venant enfin de me décider à ré-installer Tux Droid avec mes petits scripts pour

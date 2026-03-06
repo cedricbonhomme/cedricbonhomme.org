@@ -8,7 +8,9 @@ tags:
   - python
   - grenouille
   - weather
-  - weather_station
+  - weather-station
+categories:
+  - Programming
 
 ---
 La première version bêta approche rapidement. Les fonctionnalités de base sont disponibles. Maintenant il reste surtout à rendre le service plus robuste et faire des tests.

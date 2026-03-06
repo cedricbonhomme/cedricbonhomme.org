@@ -7,6 +7,8 @@ tags:
   - firefox
   - memory
   - trick
+categories:
+  - Web
 
 ---
 J'utilise cette technique lorsque j'entends le ventilateur de mon X220 tourner

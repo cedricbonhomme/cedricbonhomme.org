@@ -7,6 +7,9 @@ date: 2015-11-19T16:44:29+00:00
 tags:
   - privacy
   - security
+categories:
+  - Security
+  - Privacy
 
 ---
 ![Security versus Privacy](/images/blog/2015/11/security-privacy.jpg)

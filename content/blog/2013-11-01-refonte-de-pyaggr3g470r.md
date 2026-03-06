@@ -5,10 +5,9 @@ type: post
 date: 2013-11-01T21:00:56+00:00
 categories:
   - Programming
-  - Python
 tags:
   - python
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
 
 ---

@@ -7,7 +7,7 @@ categories:
   - Music
 tags:
   - music
-  - Summer wine
+  - summer-wine
 
 ---
 J'aime beaucoup cette reprise.

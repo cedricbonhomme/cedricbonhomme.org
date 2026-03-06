@@ -5,11 +5,14 @@ author: Cédric Bonhomme
 type: post
 date: 2012-02-29T07:07:18+00:00
 categories:
-  - Google
+  - Privacy
+  - Internet
+  - Liberty
 tags:
   - currency
   - liberty
-  - Privacy
+  - privacy
+  - google
 
 ---
 Il semble que Google va sinspirer de [bitcoin][1] et avoir sa [propre monnaie][2]: Google Bucks.

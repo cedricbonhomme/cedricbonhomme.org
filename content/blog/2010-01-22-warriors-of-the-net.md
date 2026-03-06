@@ -6,6 +6,8 @@ date: 2010-01-22T13:28:13+00:00
 tags:
   - internet
   - network
+categories:
+  - Internet
 
 ---
 Envie ou besoin de réviser un peu les bases du modèle de couches [TCP/IP][1] ?

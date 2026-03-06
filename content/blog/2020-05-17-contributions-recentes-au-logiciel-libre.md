@@ -9,7 +9,7 @@ categories:
   - Programming
 tags:
   - python
-  - foss
+  - floss
   - freshermeat
   - newspipe
   - pyenigma

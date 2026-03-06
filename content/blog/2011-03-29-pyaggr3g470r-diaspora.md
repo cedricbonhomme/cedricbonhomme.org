@@ -5,11 +5,11 @@ author: Cédric Bonhomme
 type: post
 date: 2011-03-29T14:20:58+00:00
 categories:
-  - Python
+  - Programming
 tags:
   - python
   - diaspora
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
 
 ---

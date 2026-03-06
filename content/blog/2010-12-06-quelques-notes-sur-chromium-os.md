@@ -9,7 +9,7 @@ categories:
   - Web
 tags:
   - cloud
-  - Google
+  - google
 
 ---
 Quelques notes sur [Chromium OS][1].

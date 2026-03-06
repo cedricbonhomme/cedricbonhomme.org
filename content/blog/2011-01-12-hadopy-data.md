@@ -4,7 +4,7 @@ author: Cédric Bonhomme
 type: post
 date: 2011-01-12T16:09:57+00:00
 categories:
-  - Vie privée
+  - Privacy
 tags:
   - python
   - freedom

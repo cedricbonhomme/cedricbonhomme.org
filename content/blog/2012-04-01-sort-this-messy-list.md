@@ -6,6 +6,8 @@ date: 2012-04-01T15:53:31+00:00
 tags:
   - algorithm
   - python
+categories:
+  - Programming
 
 ---
 Avec l'odrinateur que j'utilisais en 2007 le [tri à bulles][1] s'exécutait

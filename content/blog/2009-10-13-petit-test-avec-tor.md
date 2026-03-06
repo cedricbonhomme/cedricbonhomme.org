@@ -7,6 +7,9 @@ date: 2009-10-13T00:46:31+00:00
 tags:
   - network
   - ip-link
+categories:
+  - Programming
+  - Internet
 
 ---
 Voilà comme je travaille de nouveau sur [IP-Link][1], je me suis dit que

@@ -6,11 +6,10 @@ type: post
 date: 2014-01-29T21:44:31+00:00
 categories:
   - Programming
-  - Python
 tags:
   - python
-  - Programming
-  - pyAggr3g470r
+  - programming
+  - pyaggr3g470r
 
 ---
 La nouvelle version simplifie enfin l'installation.

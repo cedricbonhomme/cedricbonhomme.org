@@ -9,7 +9,7 @@ categories:
 tags:
   - python
   - proxy
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
 
 ---

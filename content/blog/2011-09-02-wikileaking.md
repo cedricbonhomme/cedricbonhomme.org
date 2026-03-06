@@ -9,9 +9,8 @@ categories:
 tags:
   - cryptography
   - fail
-  - Security
-  - Wikileaking
-  - WikiLeaks
+  - security
+  - wikileaks
 
 ---
 Et oui, [les anciennes clés de déchiffrement][1] sont importantes.

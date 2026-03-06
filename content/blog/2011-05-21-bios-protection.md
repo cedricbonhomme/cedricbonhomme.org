@@ -9,7 +9,7 @@ categories:
 tags:
   - bios
   - nist
-  - Security
+  - security
 
 ---
 [BIOS Protection Guidelines][1], du NIST.

@@ -6,9 +6,12 @@ type: post
 date: 2013-06-12T12:34:44+00:00
 tags:
   - anonymity
-  - Privoxy
+  - privoxy
+  - security
+  - tor
+categories:
   - Security
-  - Tor
+  - Privacy
 
 ---
 Voici la procédure si vous désirez que toutes vos applications clientes

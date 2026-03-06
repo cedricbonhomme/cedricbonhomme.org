@@ -7,7 +7,7 @@ date: 2011-07-12T15:08:52+00:00
 categories:
   - Programming
 tags:
-  - computer_science
+  - computer-science
   - c
   - ocaml
   - python

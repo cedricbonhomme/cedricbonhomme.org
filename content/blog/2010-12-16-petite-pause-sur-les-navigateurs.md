@@ -6,7 +6,7 @@ date: 2010-12-16T15:13:08+00:00
 categories:
   - Web
 tags:
-  - Browser
+  - browser
 
 ---
 Avec la mise à jour de Minefield dhier, j'ai voulu re-faire quelques tests… Désolé je n'ai pas le temps de commenter…

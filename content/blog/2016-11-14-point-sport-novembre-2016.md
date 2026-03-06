@@ -6,6 +6,8 @@ type: post
 date: 2016-11-14T15:47:23+00:00
 tags:
   - sport
+categories:
+  - Sport
 
 ---
 Je tiens toujours l’objectif que je me suis fixé au mois d’août.

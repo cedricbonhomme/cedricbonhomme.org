@@ -5,7 +5,7 @@ author: Cédric Bonhomme
 type: post
 date: 2016-04-18T21:43:14+00:00
 categories:
-  - cryptography
+  - Cryptography
   - Security
 tags:
   - cryptography

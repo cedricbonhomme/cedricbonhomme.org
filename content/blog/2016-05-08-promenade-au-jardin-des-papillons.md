@@ -5,9 +5,12 @@ author: Cédric Bonhomme
 type: post
 date: 2016-05-08T19:53:20+00:00
 tags:
-  - jardin
+  - garden
   - macro
   - photography
+categories:
+  - Photography
+  - Life
 
 ---
 ![Promenade au jardin des papillons.](/images/blog/2016/05/20160505T130442.jpg)

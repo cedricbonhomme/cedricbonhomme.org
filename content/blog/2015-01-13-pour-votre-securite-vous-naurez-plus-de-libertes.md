@@ -6,7 +6,7 @@ type: post
 date: 2015-01-13T17:04:55+00:00
 categories:
   - Liberty
-  - Surveillance
+  - Security
 tags:
   - liberty
   - surveillance

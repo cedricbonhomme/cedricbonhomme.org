@@ -6,10 +6,10 @@ date: 2014-10-12T21:12:06+00:00
 categories:
   - Security
 tags:
-  - Android
+  - android
   - cryptography
-  - Privacy
-  - Security
+  - privacy
+  - security
 
 ---
 [TextSecure][1] a complètement remplacé, sur mon _smartphone_, l'application SMS par défaut. L'application marie très bien sécurité et utilisabilité. Bortzmeyer [en parle déjà très bien][2].

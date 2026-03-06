@@ -7,6 +7,8 @@ date: 2016-03-31T13:32:01+00:00
 tags:
   - easter
   - photography
+categories:
+  - Photography
 
 ---
 ![Première chasse d'Élisabeth](/images/blog/2016/03/20160326T165247.jpg)

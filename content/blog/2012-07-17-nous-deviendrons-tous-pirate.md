@@ -8,7 +8,7 @@ categories:
   - Privacy
 tags:
   - liberty
-  - Privacy
+  - privacy
   - scanning
   - surveillance
 

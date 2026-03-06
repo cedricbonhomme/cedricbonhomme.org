@@ -6,6 +6,9 @@ date: 2008-12-08T20:21:14+00:00
 tags:
   - python
   - game
+categories:
+  - Programming
+  - Games
 
 ---
 [Minesweeper][1] est une nouvelle implémentation Python du classique jeu du

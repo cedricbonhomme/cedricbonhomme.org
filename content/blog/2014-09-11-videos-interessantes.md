@@ -5,9 +5,12 @@ author: Cédric Bonhomme
 type: post
 date: 2014-09-11T20:00:43+00:00
 tags:
-  - GNU
-  - Linux
+  - gnu
+  - linux
   - video
+categories:
+  - Linux
+  - FLOSS
 
 ---
 Quelques _récentes_ vidéos que je pense de temps en temps à partager avec vous:

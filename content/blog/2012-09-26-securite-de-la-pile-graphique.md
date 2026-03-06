@@ -5,12 +5,14 @@ author: Cédric Bonhomme
 type: post
 date: 2012-09-26T07:04:20+00:00
 tags:
-  - Qubes-OS
-  - SELinux
+  - qubes-os
+  - selinux
   - wayland
   - weston
   - x
   - security
+categories:
+  - Security
 
 ---
 [Un article très intéressant][1] (en plus c'est un cadeau, car il est sensé être restreint) à propos de la sécurité de la pile graphique. On y parle évidemment du [serveur X][2] et de [Wayland][3] (qui devrait remplacer X).

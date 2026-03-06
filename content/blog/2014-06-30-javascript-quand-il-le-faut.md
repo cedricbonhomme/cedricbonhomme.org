@@ -7,8 +7,10 @@ date: 2014-06-30T18:27:18+00:00
 tags:
   - javascript
   - python
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
 
 ---
 Un  [peu plus][1] (trop?) de JavaScript afin de rendre pyAggr3g470r un

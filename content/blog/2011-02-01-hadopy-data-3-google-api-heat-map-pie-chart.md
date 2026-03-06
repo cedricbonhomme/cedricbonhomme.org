@@ -5,13 +5,13 @@ author: Cédric Bonhomme
 type: post
 date: 2011-02-01T17:05:11+00:00
 categories:
-  - Google
-  - Vie privée
+  - Privacy
 tags:
   - python
   - hadopi
   - heatmap
   - piechart
+  - google
 
 ---
 La [page consacrée aux statistiques sur HADOPI][1] est maintenant un peu plus

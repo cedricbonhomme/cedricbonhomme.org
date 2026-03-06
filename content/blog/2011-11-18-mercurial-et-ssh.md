@@ -8,7 +8,7 @@ categories:
 tags:
   - git
   - hg
-  - Security
+  - security
   - ssh
 
 ---

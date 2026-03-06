@@ -5,11 +5,11 @@ author: Cédric Bonhomme
 type: post
 date: 2011-04-02T10:02:15+00:00
 categories:
-  - photography
+  - Photography
 tags:
   - canon
   - montenach
-  - nature_reserve
+  - nature-reserve
   - photography
 
 ---

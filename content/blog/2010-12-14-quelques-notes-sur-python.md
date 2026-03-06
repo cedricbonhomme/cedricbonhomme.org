@@ -4,11 +4,10 @@ author: Cédric Bonhomme
 type: post
 date: 2010-12-14T21:32:28+00:00
 categories:
-  - Python
+  - Programming
 tags:
   - python
   - notes
-  - Python
 
 ---
 [Cool things to know][1].

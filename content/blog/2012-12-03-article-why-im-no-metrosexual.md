@@ -5,7 +5,7 @@ author: Cédric Bonhomme
 type: post
 date: 2012-12-03T18:32:07+00:00
 categories:
-  - En vrac
+  - Life
 tags:
   - microsoft
   - ui

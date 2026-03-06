@@ -9,6 +9,9 @@ tags:
   - python
   - network
   - ip-link
+categories:
+  - Programming
+  - Internet
 
 ---
 [IP-Link](https://git.sr.ht/~cedric/ip-link) vous permet d'analyser facilement

@@ -5,10 +5,12 @@ type: post
 date: 2016-02-08T22:30:26+00:00
 tags:
   - python
-  - JARR
-  - pyAggr3g470r
+  - jarr
+  - pyaggr3g470r
   - newspipe
   - react
+categories:
+  - Programming
 
 ---
 Alors, quoi de neuf ?

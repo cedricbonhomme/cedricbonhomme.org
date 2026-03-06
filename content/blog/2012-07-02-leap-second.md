@@ -8,7 +8,7 @@ categories:
   - Linux
 tags:
   - leap_second
-  - Linux
+  - linux
   - time
 
 ---

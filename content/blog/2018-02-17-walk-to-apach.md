@@ -4,10 +4,10 @@ author: Cédric Bonhomme
 type: post
 date: 2018-02-17T21:40:02+00:00
 categories:
-  - photography
+  - Photography
 tags:
   - canon
-  - EOS_6D_MARKII
+  - canon-eos-6d-mark-ii
   - photography
 
 ---

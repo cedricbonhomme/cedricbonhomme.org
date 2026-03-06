@@ -5,12 +5,12 @@ author: Cédric Bonhomme
 type: post
 date: 2011-06-08T06:12:39+00:00
 categories:
-  - Python
+  - Programming
   - Web
 tags:
   - python
   - google
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
 
 ---

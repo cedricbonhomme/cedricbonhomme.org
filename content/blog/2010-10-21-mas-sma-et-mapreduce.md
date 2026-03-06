@@ -7,7 +7,9 @@ date: 2010-10-21T16:08:29+00:00
 tags:
   - python
   - mapreduce
-  - MAS
+  - mas
+categories:
+  - Programming
 
 ---
 Ces derniers temps je m'intéresse un peu à [MapReduce][1]

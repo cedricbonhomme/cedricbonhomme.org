@@ -6,7 +6,9 @@ type: post
 date: 2012-11-26T23:13:58+00:00
 tags:
   - python
-  - OpenCV
+  - opencv
+categories:
+  - Programming
 
 ---
 {{< peertube peertube.co.uk q3kU9ZWPzNnyykvVzGG9Xk >}}

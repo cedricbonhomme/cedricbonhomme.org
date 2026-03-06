@@ -5,7 +5,7 @@ author: Cédric Bonhomme
 type: post
 date: 2012-02-28T20:54:34+00:00
 categories:
-  - blog
+  - Blog
 tags:
   - blog
   - wordpress

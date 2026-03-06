@@ -8,7 +8,9 @@ tags:
   - python
   - grenouille
   - weather
-  - weather_station
+  - weather-station
+categories:
+  - Programming
 
 ---
 [La nouvelle version][1] est disponible depuis hier.

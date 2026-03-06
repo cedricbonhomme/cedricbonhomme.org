@@ -6,9 +6,9 @@ type: post
 date: 2011-06-04T11:17:02+00:00
 categories:
   - FLOSS
-  - Réseau
+  - Network
 tags:
-  - cloud-computing
+  - cloud
   - floss
   - fsf
   - saas

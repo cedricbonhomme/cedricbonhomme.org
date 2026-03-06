@@ -7,6 +7,9 @@ date: 2010-04-25T09:20:20+00:00
 tags:
   - security
   - privacy
+categories:
+  - Security
+  - Privacy
 
 ---
 De temps en temps je vérifie les données me concernant sur le Web.

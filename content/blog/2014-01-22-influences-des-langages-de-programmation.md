@@ -4,8 +4,10 @@ author: Cédric Bonhomme
 type: post
 date: 2014-01-22T09:49:44+00:00
 tags:
-  - computer_science
+  - computer-science
   - programming
+categories:
+  - Programming
 
 ---
 ![Relations between programming languages](/images/blog/2014/01/programminglanguages-label.png)

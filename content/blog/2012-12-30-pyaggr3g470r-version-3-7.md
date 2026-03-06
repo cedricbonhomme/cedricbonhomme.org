@@ -6,8 +6,10 @@ type: post
 date: 2012-12-30T09:13:58+00:00
 tags:
   - python
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
 
 ---
 La [version 3.7 de pyAggr3g470r][1] est publiée. Voici la liste des changements:

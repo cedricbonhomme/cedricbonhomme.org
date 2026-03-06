@@ -5,9 +5,11 @@ author: Cédric Bonhomme
 type: post
 date: 2011-02-23T16:22:36+00:00
 tags:
-  - flick-management
+  - flickr-management
   - gps
   - privacy
+categories:
+  - Privacy
 
 ---
 ![Où est Charlie?](/images/blog/2011/02/OuEstCharlie.jpg)

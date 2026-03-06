@@ -5,10 +5,9 @@ type: post
 date: 2011-11-01T08:37:37+00:00
 categories:
   - Technology
-  - Virtualization
 tags:
   - i7
-  - intel_i7
+  - intel-i7
   - virtualization
   - VT-d
 

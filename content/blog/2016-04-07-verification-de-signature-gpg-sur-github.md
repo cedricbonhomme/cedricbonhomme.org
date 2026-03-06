@@ -7,7 +7,7 @@ date: 2016-04-07T09:37:53+00:00
 categories:
   - Security
 tags:
-  - GitHub
+  - github
   - gpg
   - security
 

@@ -6,8 +6,10 @@ date: 2012-11-22T22:36:20+00:00
 tags:
   - python
   - mako
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
 
 ---
 Je suis et ai toujours été mauvais en développement Web, même si en ce moment

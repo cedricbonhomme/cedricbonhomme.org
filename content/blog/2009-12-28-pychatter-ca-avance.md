@@ -5,11 +5,11 @@ author: Cédric Bonhomme
 type: post
 date: 2009-12-28T09:36:51+00:00
 categories:
-  - Python
-  - Réseau
+  - Programming
+  - Network
 tags:
   - cryptography
-  - pyChatter
+  - pychatter
   - python
 
 ---

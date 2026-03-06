@@ -11,7 +11,7 @@ categories:
 tags:
   - javascript
   - freedom
-  - LibreJS
+  - librejs
 
 ---
 Aujourd'hui j'ai navigué sur le Web avec le couple [LibreJS][1] et [NoScript][2].

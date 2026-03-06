@@ -6,10 +6,9 @@ type: post
 date: 2013-06-25T05:32:29+00:00
 categories:
   - Programming
-  - Python
 tags:
   - python
-  - pyAggr3g470r
+  - pyaggr3g470r
   - whoosh
   - newspipe
 

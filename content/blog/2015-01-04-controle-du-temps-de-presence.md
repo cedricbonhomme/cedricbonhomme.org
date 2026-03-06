@@ -7,6 +7,8 @@ date: 2015-01-04T09:52:15+00:00
 tags:
   - python
   - dsk
+categories:
+  - Programming
 
 ---
 C'est l'année des cadeaux. Voici aujourd'hui un petit script qui va permettre

@@ -4,7 +4,7 @@ author: Cédric Bonhomme
 type: post
 date: 2015-01-28T22:29:14+00:00
 categories:
-  - games
+  - Games
 tags:
   - python
   - games

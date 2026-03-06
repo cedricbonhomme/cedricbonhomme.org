@@ -5,7 +5,7 @@ author: Cédric Bonhomme
 type: post
 date: 2010-09-13T20:58:11+00:00
 categories:
-  - Technologie
+  - Technology
 tags:
   - backup
   - data

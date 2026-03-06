@@ -4,7 +4,7 @@ author: Cédric Bonhomme
 type: post
 date: 2010-11-10T22:48:26+00:00
 categories:
-  - Python
+  - Programming
   - Technology
 tags:
   - bzr

@@ -6,13 +6,16 @@ type: post
 date: 2014-03-15T10:33:36+00:00
 tags:
   - python
-  - Flask
+  - flask
   - grenouille
-  - Heroku
-  - PostgreSQL
+  - heroku
+  - postgresql
   - weather
-  - weather_station
-  - Yoctopuce
+  - weather-station
+  - yoctopuce
+categories:
+  - Programming
+  - Cloud
 
 ---
 Aujourd'hui je vous présente un [nouveau projet][1].

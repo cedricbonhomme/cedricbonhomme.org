@@ -10,6 +10,9 @@ tags:
   - logic
   - open-source
   - science
+categories:
+  - FLOSS
+  - Science
 
 ---
 Voici deux liens intéressants:

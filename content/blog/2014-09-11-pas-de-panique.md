@@ -7,9 +7,9 @@ categories:
   - Security
 tags:
   - https
-  - Privacy
-  - Security
-  - Tor
+  - privacy
+  - security
+  - tor
 
 ---
 Vous êtes en zone sécurisée. Ce site dispose maintenant d'un certificat à la norme X.509 certifié par lautorité de certification [CAcert.org][1] que votre navigateur ne connaît peut-être pas. Donc ne paniquez pas si vous voyez un message dalerte. Vérifiez lempreinte du certificat et [acceptez le][2] (si vous voulez).

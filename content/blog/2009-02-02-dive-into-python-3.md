@@ -4,7 +4,7 @@ author: Cédric Bonhomme
 type: post
 date: 2009-02-02T20:01:32+00:00
 categories:
-  - Python
+  - Programming
 tags:
   - books
   - python

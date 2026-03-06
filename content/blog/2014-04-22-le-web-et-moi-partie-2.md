@@ -8,7 +8,7 @@ categories:
   - Privacy
   - Web
 tags:
-  - Google
+  - google
   - privacy
   - web
 

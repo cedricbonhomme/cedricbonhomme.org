@@ -5,10 +5,10 @@ author: Cédric Bonhomme
 type: post
 date: 2012-03-15T12:46:46+00:00
 categories:
-  - Python
+  - Programming
 tags:
   - python
-  - OpenStreetMap
+  - openstreetmap
   - osm
 
 ---

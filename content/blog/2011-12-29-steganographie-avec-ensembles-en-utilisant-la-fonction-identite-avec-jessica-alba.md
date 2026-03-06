@@ -10,6 +10,10 @@ tags:
   - security
   - stegano
   - steganography
+categories:
+  - Programming
+  - Security
+  - Steganography
 
 ---
 ![Jessica Alba](/images/blog/2011/12/Jessica_Alba.png)

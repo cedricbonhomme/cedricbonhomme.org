@@ -9,6 +9,9 @@ tags:
   - floss
   - fosdem
   - mazda
+categories:
+  - Cars
+  - FLOSS
 
 ---
 Et voillà, à la longue liste de [ce billet][1] nous pouvons ajouter : [cardan][2] cassé. La voiture avance toujours, mais ça devient dangereux à une certaine vitesse (50 km/h). Feu ma petite 106.

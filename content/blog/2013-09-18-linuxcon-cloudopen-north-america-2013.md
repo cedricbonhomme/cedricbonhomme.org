@@ -8,8 +8,8 @@ categories:
   - Linux
 tags:
   - linus
-  - Linux
-  - LinuxCon
+  - linux
+  - linuxcon
 
 ---
 [Voici][1] [mes][2] [moments][3] [préférés][4].

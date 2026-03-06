@@ -4,10 +4,13 @@ author: Cédric Bonhomme
 type: post
 date: 2011-04-10T14:20:47+00:00
 tags:
-  - Android
-  - Google
+  - android
+  - google
   - honeycomb
   - pad
+categories:
+  - Internet
+  - Technology
 
 ---
 Je n'ai encore jamais essayé (ni été tenté par) une tablette, un _kindle_ ou autre

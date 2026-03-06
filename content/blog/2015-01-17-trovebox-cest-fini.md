@@ -5,7 +5,7 @@ author: Cédric Bonhomme
 type: post
 date: 2015-01-17T09:43:29+00:00
 categories:
-  - photography
+  - Photography
   - Web
 tags:
   - photos

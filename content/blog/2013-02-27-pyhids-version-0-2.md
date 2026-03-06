@@ -7,8 +7,11 @@ date: 2013-02-27T07:47:01+00:00
 tags:
   - python
   - integrity
-  - pyHIDS
+  - pyhids
   - security
+categories:
+  - Programming
+  - Security
 
 ---
 La [version 0.2 de pyHIDS][1] est disponible. Cette nouvelle version introduit

@@ -7,8 +7,11 @@ date: 2014-08-18T18:19:11+00:00
 tags:
   - python
   - heroku
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
+  - Cloud
 
 ---
 Le processus de déploiement automatique de [pyAggr3g470r][1] a été légèrement amélioré.

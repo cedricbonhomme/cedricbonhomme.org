@@ -4,12 +4,11 @@ author: Cédric Bonhomme
 type: post
 date: 2012-03-19T23:01:11+00:00
 categories:
-  - MongoDB
-  - Python
+  - Programming
 tags:
   - python
-  - MongoDB
-  - pyAggr3g470r
+  - mongodb
+  - pyaggr3g470r
 
 ---
 Depuis [l'annonce][1] du passage de [pyAggr3g470r][2] à MongoDB je n'ai pas malheureusement pas vraiment pu beaucoup avancer. Toutefois les fonctionalités de base sont déjà opérationnelles. J'utilise quotidiennement la nouvelle version tout en continuant à tenir la base de données SQLite de l'ancienne version à jour. Cela n'est maintenant plus nécessaire.

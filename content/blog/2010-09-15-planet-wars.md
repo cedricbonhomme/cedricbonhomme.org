@@ -4,12 +4,12 @@ author: Cédric Bonhomme
 type: post
 date: 2010-09-15T15:05:10+00:00
 categories:
-  - Technologie
+  - Technology
 tags:
   - ai
   - python
   - games
-  - Google
+  - google
 
 ---
 Programmez votre _bot_ et venez vous affronter au [Google AI Challenge][1].

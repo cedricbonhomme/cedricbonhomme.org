@@ -8,6 +8,10 @@ tags:
   - floss
   - freedom
   - photography
+categories:
+  - Photography
+  - Liberty
+  - FLOSS
 
 ---
 Pour ceux que ça intéresse:

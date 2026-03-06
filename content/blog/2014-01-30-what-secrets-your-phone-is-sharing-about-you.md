@@ -9,7 +9,7 @@ categories:
   - Privacy
 tags:
   - privacy
-  - surveilance
+  - surveillance
 
 ---
 [Déprimant][1].

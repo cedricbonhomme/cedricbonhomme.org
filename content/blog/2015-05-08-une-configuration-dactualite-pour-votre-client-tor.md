@@ -7,8 +7,8 @@ date: 2015-05-08T05:59:08+00:00
 categories:
   - Privacy
 tags:
-  - Privacy
-  - Tor
+  - privacy
+  - tor
 
 ---
 ```cfg

@@ -4,10 +4,14 @@ author: Cédric Bonhomme
 type: post
 date: 2011-07-16T07:52:15+00:00
 tags:
-  - Google
-  - social_network
+  - google
+  - social-network
   - web
   - privacy
+categories:
+  - Privacy
+  - Web
+  - Internet
 
 ---
 Gentil lecteur, me connaissant un peu tu dois te douter que je n'ai pas pu résister à l'appel de Google pour (au moins) tester Google Plus: <https://cedricbonhomme.org/+>.

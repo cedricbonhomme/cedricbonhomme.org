@@ -8,7 +8,7 @@ categories:
   - Network
 tags:
   - python
-  - IP-Link
+  - ip-link
   - network
   - visualization
 

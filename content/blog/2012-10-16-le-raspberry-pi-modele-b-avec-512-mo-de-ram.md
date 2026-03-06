@@ -4,14 +4,13 @@ author: Cédric Bonhomme
 type: post
 date: 2012-10-16T05:57:21+00:00
 categories:
-  - Bidouillability
-  - Hardware
+  - Technology
 tags:
   - arm
   - bidouillability
   - hackability
   - hardware
-  - Raspberry Pi
+  - raspberry-pi
 
 ---
 Le modèle B du Raspberry Pi [passe à 512 Mo de RAM][1]. Plus vite j'aurai le mien, plus vite je pourrai mamuser avec. Je vais déjà constituer une liste de choses à faire avec.

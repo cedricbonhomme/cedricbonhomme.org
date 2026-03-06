@@ -5,10 +5,10 @@ author: Cédric Bonhomme
 type: post
 date: 2013-03-18T17:40:15+00:00
 categories:
-  - Python
+  - Programming
 tags:
   - python
-  - pyAggr3g470r
+  - pyaggr3g470r
 
 ---
 Voulant tester les performances d'une structure de donnée basée sur un arbre binaire ordonné pour [pyAggr3g470r][1], je maperçois que les opérations sur les itérateurs sont drôlement plus lentes avec Python 3.2.3 qu'avec Python 2.7.3. Je le soupçonnais déjà, mais pas à ce point.

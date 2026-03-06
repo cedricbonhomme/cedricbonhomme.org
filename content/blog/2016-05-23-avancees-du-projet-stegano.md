@@ -8,6 +8,9 @@ tags:
   - python
   - stegano
   - steganography
+categories:
+  - Programming
+  - Steganography
 
 ---
 [Stegano][1], le module Python de stéganographie, a beaucoup évolué ces derniers jours. J’ai principalement été motivé par quelques commentaires de personnes. Cela faisait aussi quelque temps que je voulais mieux structurer le code.

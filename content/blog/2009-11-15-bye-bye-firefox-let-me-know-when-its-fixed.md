@@ -9,6 +9,9 @@ tags:
   - firefox
   - kde
   - konqueror
+categories:
+  - Linux
+  - Web
 
 ---
 Ça fait déjà un peu plus d'un an que jy songe: abandonner Firefox. Dans ce billet je vais évoquer les principales motivations de ce départ. Je tiens à préciser que bien entendu il s'agit uniquement de mon point de vue.

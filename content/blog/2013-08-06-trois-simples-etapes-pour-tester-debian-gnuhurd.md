@@ -6,11 +6,14 @@ type: post
 date: 2013-08-06T07:37:39+00:00
 tags:
   - debian
-  - GNU
+  - gnu
   - Hurd
   - kvm
   - qemu
   - virtualization
+categories:
+  - Linux
+  - FLOSS
 
 ---
 Quelques étapes et 15 minutes environ. C'est parti:

@@ -9,7 +9,7 @@ categories:
 tags:
   - bitcoin
   - network
-  - P2P
+  - p2p
 
 ---
 Thank you [14qLRZT5jXiWbR4kxmcwGrzXz48aJeo78X][1] !

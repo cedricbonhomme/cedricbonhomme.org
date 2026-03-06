@@ -7,6 +7,8 @@ date: 2015-07-01T20:42:37+00:00
 tags:
   - photography
   - polaroid
+categories:
+  - Photography
 
 ---
 ![Impossible_PX_680](/images/blog/2015/07/Impossible_PX_680.png)

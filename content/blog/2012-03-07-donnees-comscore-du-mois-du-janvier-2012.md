@@ -7,6 +7,9 @@ date: 2012-03-07T06:37:39+00:00
 tags:
   - android
   - google
+categories:
+  - Internet
+  - Technology
 
 ---
 [Bonne nouvelle pour Android. Moins pour Apple][1].

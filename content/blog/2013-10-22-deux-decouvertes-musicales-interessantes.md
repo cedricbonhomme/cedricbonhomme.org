@@ -7,8 +7,8 @@ date: 2013-10-22T20:17:24+00:00
 categories:
   - Music
 tags:
-  - indie pop
-  - Lorde
+  - indie-pop
+  - lorde
   - music
 
 ---

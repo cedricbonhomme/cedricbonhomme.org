@@ -8,7 +8,7 @@ categories:
   - Programming
 tags:
   - python
-  - OpenStreetMap
+  - openstreetmap
   - osm
 
 ---

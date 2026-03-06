@@ -8,8 +8,10 @@ tags:
   - archives
   - python
   - dokuwiki
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
 
 ---
 Depuis mon récent changement dhébergeur et de wiki je profite pleinement des

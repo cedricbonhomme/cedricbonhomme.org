@@ -7,6 +7,8 @@ date: 2012-04-24T20:42:53+00:00
 tags:
   - go
   - programming
+categories:
+  - Programming
 
 ---
 ![gophercolor](/images/blog/2012/04/gophercolor.png)

@@ -8,7 +8,7 @@ categories:
   - Sport
 tags:
   - karting
-  - Sport
+  - sport
 
 ---
 ![Parcours de karting](/images/blog/2013/08/karting-meisenthal-20130810.png)

@@ -6,7 +6,9 @@ author: Cédric Bonhomme
 type: post
 tags:
   - music
-  - double_bass
+  - double-bass
+categories:
+  - Music
 ---
 
 We welcome a new family member in our house. It's a baby. Just like 7 years ago.

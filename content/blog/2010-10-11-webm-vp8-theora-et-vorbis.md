@@ -6,13 +6,15 @@ type: post
 date: 2010-10-11T20:41:11+00:00
 tags:
   - ffmpeg
-  - HTML5
-  - Theora
+  - html5
+  - theora
   - video
-  - Vorbis
-  - VP8
+  - vorbis
+  - vp8
+  - web
+  - webm
+categories:
   - Web
-  - WebM
 
 ---
 L'objectif de ce billet est déclaircir un peu les choses à propos des _nouveaux_ formats

@@ -6,9 +6,9 @@ type: post
 date: 2010-06-30T18:08:09+00:00
 categories:
   - Internet
-  - Navigateurs
+  - Web
 tags:
-  - Browser
+  - browser
 
 ---
 Environ six mois après lécriture de [ce billet][1] j'ai eu envie de faire une petite comparaison des navigateurs que j'utilise le plus souvent (à savoir Firefox et Chrome). Effectivement, ces derniers temps j'utilise divers navigateurs, de plus en plus nombreux et parfois en même temps (ce qui est embêtant pour avoir un historique et des marque-pages synchronisés).

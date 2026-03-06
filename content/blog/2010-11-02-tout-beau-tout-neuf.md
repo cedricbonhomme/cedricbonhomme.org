@@ -5,8 +5,10 @@ author: Cédric Bonhomme
 type: post
 date: 2010-11-02T11:04:56+00:00
 tags:
-  - AlwaysData
+  - alwaysdata
   - blog
+categories:
+  - Blog
 
 ---
 Vous avez pu constater qu'un certain nombre de choses ont changé sur mon site hébergé chez free. Qui à terme ne sera plus utilisé (il me reste encore quelques fichiers à récupérer). Vous pouvez donc mettre à jour vos marque-pages et/ou flux. Ci-dessous un récapitulatif des changements.

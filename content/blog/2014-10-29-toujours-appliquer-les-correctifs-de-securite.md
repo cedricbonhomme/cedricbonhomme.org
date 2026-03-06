@@ -7,6 +7,8 @@ date: 2014-10-29T21:41:09+00:00
 tags:
   - drupal
   - security
+categories:
+  - Security
 
 ---
 Petit moment de fierté car le serveur dont je suis «responsable» (si on peut appeler ça comme ça) a été patché dès la mise à disposition du [correctif][1]. D'autant plus que daprès l'annonce, les sites non corrigés en moins de 7 heures doivent être considérés comme infectés.

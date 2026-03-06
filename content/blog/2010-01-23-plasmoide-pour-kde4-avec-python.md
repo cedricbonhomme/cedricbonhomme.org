@@ -7,8 +7,8 @@ date: 2010-01-23T00:51:38+00:00
 categories:
   - Linux
 tags:
-  - KDE
-  - Linux
+  - kde
+  - linux
   - python
 
 ---

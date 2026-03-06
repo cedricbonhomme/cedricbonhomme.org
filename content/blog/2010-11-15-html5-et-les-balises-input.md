@@ -7,7 +7,7 @@ categories:
   - Web
 tags:
   - html
-  - HTML5
+  - html5
   - standard
   - newspipe
 

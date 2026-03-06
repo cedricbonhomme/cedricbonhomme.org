@@ -10,7 +10,9 @@ tags:
   - mastodon
   - fosstodon
   - pixelfed
-  - social
+categories:
+  - Web
+  - Internet
 ---
 ![Screenshot of Pixelfed](/images/blog/2022/03/activitypub.png)
 

@@ -8,7 +8,7 @@ categories:
   - Music
 tags:
   - chester
-  - linkin_park
+  - linkin-park
   - music
 
 ---

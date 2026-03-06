@@ -9,6 +9,8 @@ tags:
   - gps
   - iran
   - security
+categories:
+  - Security
 
 ---
 [Un article][1] à propos des signaux GPS usurpés, très intéressant.

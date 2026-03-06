@@ -5,9 +5,12 @@ author: Cédric Bonhomme
 type: post
 date: 2009-09-30T18:07:17+00:00
 tags:
-  - KDE
-  - Privoxy
-  - Tor
+  - kde
+  - privoxy
+  - tor
+categories:
+  - Privacy
+  - Linux
 
 ---
 Aujourd'hui j'ai fais de lordre dans les configurations de mon tout petit réseau et j'ai commencé à écrire quelques articles dadministration système en général avec mon CMS favori. Il s'agit surtout de mémos, de différents trucs que j'ai testé…

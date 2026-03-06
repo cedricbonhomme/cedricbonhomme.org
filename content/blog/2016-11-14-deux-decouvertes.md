@@ -5,10 +5,12 @@ author: Cédric Bonhomme
 type: post
 date: 2016-11-14T15:48:59+00:00
 tags:
-  - Agnes_Obel
+  - agnes-obel
   - flac
   - music
-  - Qobuz
+  - qobuz
+categories:
+  - Music
 
 ---
 Cela fait quelques temps que je cherche un moyen d’écouter de la musique avec un son de

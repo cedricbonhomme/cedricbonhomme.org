@@ -5,9 +5,12 @@ author: Cédric Bonhomme
 type: post
 date: 2010-01-23T10:34:23+00:00
 tags:
-  - KDE
-  - Linux
+  - kde
+  - linux
   - python
+categories:
+  - Programming
+  - Linux
 
 ---
 ![Plasmoid KDE](/images/blog/2013/12/plasmo-gmail.png)

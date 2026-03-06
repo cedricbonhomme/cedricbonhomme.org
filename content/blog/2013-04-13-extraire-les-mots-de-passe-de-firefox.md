@@ -9,6 +9,10 @@ tags:
   - firefox
   - password
   - security
+categories:
+  - Programming
+  - Security
+  - Web
 
 ---
 ```python

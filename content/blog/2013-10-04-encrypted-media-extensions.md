@@ -10,7 +10,7 @@ tags:
   - drm
   - eff
   - w3c
-  - Web
+  - web
 
 ---
 [Mauvaise nouvelle][1]. Il semble que nous y sommes presque. Des DRM (Digital Rights Management) pour HTML5.1.  

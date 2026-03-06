@@ -7,7 +7,7 @@ categories:
   - Technology
 tags:
   - debian
-  - GNU
+  - gnu
   - Hurd
   - system
 

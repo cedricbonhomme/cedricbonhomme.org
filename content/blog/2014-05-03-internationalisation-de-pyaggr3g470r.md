@@ -7,7 +7,7 @@ categories:
   - Programming
 tags:
   - python
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
 
 ---

@@ -5,10 +5,10 @@ author: Cédric Bonhomme
 type: post
 date: 2010-09-02T14:31:40+00:00
 categories:
-  - Python
+  - Programming
 tags:
   - python
-  - pyAggr3g470r
+  - pyaggr3g470r
   - urllib2
   - newspipe
 

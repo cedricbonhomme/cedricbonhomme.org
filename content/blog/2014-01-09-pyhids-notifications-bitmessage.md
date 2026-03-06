@@ -5,12 +5,12 @@ author: Cédric Bonhomme
 type: post
 date: 2014-01-09T06:44:32+00:00
 categories:
-  - security
+  - Security
 tags:
   - bitmessage
   - python
-  - HIDS
-  - pyHIDS
+  - hids
+  - pyhids
   - security
 
 ---

@@ -5,10 +5,10 @@ type: post
 date: 2011-11-21T20:54:08+00:00
 categories:
   - Security
-  - steganography
+  - Steganography
 tags:
   - python
-  - Security
+  - security
   - steganography
 
 ---

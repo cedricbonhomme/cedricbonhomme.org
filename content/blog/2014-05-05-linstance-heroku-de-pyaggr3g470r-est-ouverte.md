@@ -6,9 +6,12 @@ type: post
 date: 2014-05-05T16:08:30+00:00
 tags:
   - python
-  - Flask
-  - Heroku
-  - pyAggr3g470r
+  - flask
+  - heroku
+  - pyaggr3g470r
+categories:
+  - Programming
+  - Cloud
 
 ---
 Entre deux coups de pioche dans le jardin, intégration d'un [captcha][1] pour

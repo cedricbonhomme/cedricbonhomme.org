@@ -6,9 +6,8 @@ type: post
 date: 2021-11-29T22:26:31+00:00
 categories:
   - Programming
-  - Python
   - Security
-  - steganography
+  - Steganography
 tags:
   - python
   - steganography

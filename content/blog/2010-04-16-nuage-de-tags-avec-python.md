@@ -6,8 +6,10 @@ type: post
 date: 2010-04-16T12:51:12+00:00
 tags:
   - python
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
 
 ---
 Rien de plus simple:

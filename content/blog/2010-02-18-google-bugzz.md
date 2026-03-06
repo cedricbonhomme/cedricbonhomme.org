@@ -9,6 +9,9 @@ tags:
   - internet
   - social
   - web
+categories:
+  - Web
+  - Internet
 
 ---
 Voyant la déferlante de plaintes contre le nouveau service Google Buzz je me pose

@@ -7,10 +7,14 @@ tags:
   - browser
   - chrome
   - firefox
-  - KDE
+  - kde
   - keyring
   - minefield
   - security
+categories:
+  - Security
+  - Linux
+  - Web
 
 ---
 ![Chrome - KDE Wallet](/images/blog/2011/02/chrome-KDEWallet.png)

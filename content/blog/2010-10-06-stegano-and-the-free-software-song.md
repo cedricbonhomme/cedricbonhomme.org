@@ -8,6 +8,10 @@ tags:
   - python
   - music
   - steganography
+categories:
+  - Programming
+  - Steganography
+  - Music
 
 ---
 ```bash

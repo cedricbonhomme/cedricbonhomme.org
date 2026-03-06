@@ -9,7 +9,7 @@ categories:
 tags:
   - bitcoin
   - currency
-  - P2P
+  - p2p
 
 ---
 Peut-être ne connaissez vous pas encore [Bitcoin][1]. Ce n'est pas une monnaie pour les dons, mais je vais utiliser Bitcoin pour cela (en plus des dons que je fais avec de largent &#8220;classique&#8221;). Il s'agit d'une monnaie décentralisée créée en 2009 par [Satoshi Nakamoto][2]. Il n'y a donc pas dautorité centrale (c'est du _Peer-to-peer_) comme avec le système bancaire classique.

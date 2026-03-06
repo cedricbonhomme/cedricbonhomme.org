@@ -6,6 +6,8 @@ date: 2015-01-05T22:01:38+00:00
 tags:
   - python
   - le-cafteur
+categories:
+  - Programming
 
 ---
 [<img loading="lazy" src="/images/blog/2015/01/dilbert-time-tracking.gif" alt="dilbert-time-tracking" width="640" height="284" class="aligncenter size-full wp-image-6886" />][1]

@@ -7,7 +7,7 @@ date: 2014-11-22T10:53:09+00:00
 categories:
   - Technology
 tags:
-  - pyAggr3g470r
+  - pyaggr3g470r
   - vagrant
   - newspipe
 

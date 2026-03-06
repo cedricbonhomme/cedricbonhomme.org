@@ -7,6 +7,8 @@ type: post
 tags:
   - cars
   - mazda
+categories:
+  - Cars
 ---
 ![Le moteur.](/images/blog/2022/02/20211228T114112.jpg)
 

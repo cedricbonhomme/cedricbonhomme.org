@@ -7,6 +7,9 @@ date: 2011-10-19T22:44:13+00:00
 tags:
   - openphoto
   - photography
+  - web
+categories:
+  - Photography
   - Web
 
 ---

@@ -6,8 +6,10 @@ type: post
 date: 2013-01-19T12:17:58+00:00
 tags:
   - news
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
 
 ---
 Dorénavant 45.668 articles de mes flux sont disponibles à [cette page][1].

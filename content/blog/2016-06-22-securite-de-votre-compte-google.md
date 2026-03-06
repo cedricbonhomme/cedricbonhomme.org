@@ -7,9 +7,9 @@ date: 2016-06-22T09:26:06+00:00
 categories:
   - Security
 tags:
-  - Authentication
-  - Google
-  - Security
+  - authentication
+  - google
+  - security
 
 ---
 L'authentification en deux étapes de Google [a été améliorée][1].

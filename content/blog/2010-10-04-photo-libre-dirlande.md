@@ -7,10 +7,14 @@ date: 2010-10-04T19:04:40+00:00
 series: ["Steganography"]
 tags:
   - python
-  - Ireland
+  - ireland
   - photography
   - steganography
   - stegano
+categories:
+  - Programming
+  - Steganography
+  - Photography
 
 ---
 Petite pause avec la stéganalyse pour tester quelque chose d'un peu différent.

@@ -6,9 +6,11 @@ type: post
 date: 2012-03-21T20:44:11+00:00
 tags:
   - python
-  - OpenStreetMap
+  - openstreetmap
   - processor
   - system
+categories:
+  - Programming
 
 ---
 ![OSM parsing](/images/blog/2012/03/osm-parsing.jpeg)

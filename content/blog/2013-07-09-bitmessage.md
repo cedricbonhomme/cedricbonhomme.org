@@ -4,7 +4,7 @@ author: Cédric Bonhomme
 type: post
 date: 2013-07-09T15:05:40+00:00
 categories:
-  - cryptography
+  - Cryptography
   - Security
 tags:
   - bitmessage

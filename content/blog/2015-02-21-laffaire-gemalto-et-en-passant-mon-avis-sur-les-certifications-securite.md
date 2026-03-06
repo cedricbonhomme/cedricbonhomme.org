@@ -8,9 +8,9 @@ categories:
   - Security
 tags:
   - bullshit
-  - GCHG
+  - gchq
   - nsa
-  - Security
+  - security
 
 ---
 De grandes entreprises [se][1] [font][2] [dérober][3] en masse des informations très

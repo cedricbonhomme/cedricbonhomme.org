@@ -6,7 +6,7 @@ date: 2010-03-14T16:21:30+00:00
 categories:
   - Photography
 tags:
-  - EOS_500D
+  - canon-eos-500d
   - photography
 
 ---

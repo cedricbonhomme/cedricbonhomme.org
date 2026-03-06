@@ -4,10 +4,11 @@ author: Cédric Bonhomme
 type: post
 date: 2012-07-23T22:13:38+00:00
 categories:
-  - Android
+  - Internet
+  - Technology
 tags:
-  - Android
-  - Google
+  - android
+  - google
   - jelly-bean
 
 ---

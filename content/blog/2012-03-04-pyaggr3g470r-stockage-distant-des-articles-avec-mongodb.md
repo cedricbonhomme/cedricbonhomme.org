@@ -4,13 +4,12 @@ author: Cédric Bonhomme
 type: post
 date: 2012-03-04T00:04:12+00:00
 categories:
-  - MongoDB
-  - Python
+  - Programming
 tags:
   - python
-  - MongoDB
+  - mongodb
   - nosql
-  - pyAggr3g470r
+  - pyaggr3g470r
   - pymongo
 
 ---

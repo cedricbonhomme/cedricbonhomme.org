@@ -8,6 +8,9 @@ tags:
   - android
   - python
   - smartphone
+categories:
+  - Programming
+  - Technology
 
 ---
 Décidément Android c'est vraiment la classe.

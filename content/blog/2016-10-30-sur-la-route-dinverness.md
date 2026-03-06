@@ -5,12 +5,12 @@ author: Cédric Bonhomme
 type: post
 date: 2016-10-29T22:32:56+00:00
 categories:
-  - photography
+  - Photography
 tags:
-  - Inverness
+  - inverness
   - Night
   - photography
-  - Scotland
+  - scotland
   - travel
 
 ---

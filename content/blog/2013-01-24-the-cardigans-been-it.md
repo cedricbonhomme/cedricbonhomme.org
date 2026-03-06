@@ -8,7 +8,7 @@ categories:
   - Music
 tags:
   - music
-  - The Cardigans
+  - the-cardigans
 
 ---
 Encore une bonne vieille chanson que j'aime.

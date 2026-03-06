@@ -5,6 +5,8 @@ type: post
 date: 2016-10-12T07:07:59+00:00
 tags:
   - sport
+categories:
+  - Sport
 
 ---
 Depuis le mois d'Août je maintiens le rythme fixé: au moins 45 minutes de sport

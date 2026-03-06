@@ -5,11 +5,14 @@ author: Cédric Bonhomme
 type: post
 date: 2014-09-07T10:43:05+00:00
 tags:
-  - GPG
-  - OTR
-  - PGP
+  - gpg
+  - otr
+  - pgp
   - privacy
   - security
+categories:
+  - Security
+  - Privacy
 
 ---
 Voici mes [nouvelles clés OTR][1].

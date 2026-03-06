@@ -7,6 +7,8 @@ date: 2014-09-15T07:26:05+00:00
 tags:
   - donation
   - liberty
+categories:
+  - Liberty
 
 ---
 Une invitation à soutenir la campagne [Présumé⋅e⋅s terroristes][1] lancée par

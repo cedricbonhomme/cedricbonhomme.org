@@ -8,6 +8,9 @@ tags:
   - privacy
   - security
   - tor
+categories:
+  - Security
+  - Privacy
 
 ---
 Très bientôt vous allez pouvoir tester le système de messagerie instantanée de Tor,

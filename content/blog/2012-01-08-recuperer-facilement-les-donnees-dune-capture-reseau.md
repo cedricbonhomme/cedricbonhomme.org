@@ -11,6 +11,9 @@ tags:
   - network
   - tcpdump
   - tcpflow
+categories:
+  - Programming
+  - Internet
 
 ---
 Suite à une discussion sur le forum de l[AFPY][1] j'ai voulu écrire un petit script dont

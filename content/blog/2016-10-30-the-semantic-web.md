@@ -5,6 +5,8 @@ type: post
 date: 2016-10-30T21:07:06+00:00
 tags:
   - programming
+categories:
+  - Programming
 
 ---
 > Ontologies and other formal definitions of data are useful, but in our experience, even simplified things like Dublin Core are rarely encountered in the wild.

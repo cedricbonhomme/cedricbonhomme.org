@@ -5,7 +5,6 @@ type: post
 date: 2013-01-24T21:14:22+00:00
 categories:
   - Programming
-  - Python
 tags:
   - python
   - openphoto

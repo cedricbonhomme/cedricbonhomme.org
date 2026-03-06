@@ -11,8 +11,8 @@ tags:
   - news
   - newspipe
   - pinboard
-  - pyAggr3g470r
-  - Web
+  - pyaggr3g470r
+  - web
 
 ---
 [Newspipe](https://www.newspipe.org) propose une nouvelle fonctionnalité:

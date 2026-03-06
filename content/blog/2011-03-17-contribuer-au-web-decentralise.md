@@ -6,6 +6,8 @@ type: post
 date: 2011-03-17T19:46:19+00:00
 tags:
   - web
+categories:
+  - Web
 
 ---
 Grâce à [La distribution][1] il est très facile dinstaller son serveur

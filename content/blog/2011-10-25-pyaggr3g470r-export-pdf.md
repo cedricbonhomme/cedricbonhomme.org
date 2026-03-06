@@ -7,8 +7,10 @@ date: 2011-10-25T08:09:29+00:00
 tags:
   - python
   - pdf
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
 
 ---
 [pyAggr3g470r][1] dispose maintenant d’un export des articles au format PDF.

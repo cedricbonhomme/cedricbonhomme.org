@@ -5,10 +5,13 @@ author: Cédric Bonhomme
 type: post
 date: 2011-02-22T22:30:11+00:00
 tags:
-  - Android
+  - android
   - python
   - gps
   - sl4a
+categories:
+  - Programming
+  - Technology
 
 ---
 Au lieu de [récupérer les données GPS d’Android en temps réel][1] via Bluetooth en

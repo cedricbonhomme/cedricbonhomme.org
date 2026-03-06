@@ -4,10 +4,12 @@ author: Cédric Bonhomme
 type: post
 date: 2011-08-27T11:01:02+00:00
 tags:
-  - HTML
-  - HTML5
+  - html
+  - html5
   - html5rocks
   - presentation
+categories:
+  - Web
 
 ---
 J'adore HTML 5 Slides, je viens juste de faire un petit test.

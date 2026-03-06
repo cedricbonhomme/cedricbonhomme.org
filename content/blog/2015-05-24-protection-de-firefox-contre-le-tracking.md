@@ -7,10 +7,10 @@ categories:
   - Privacy
   - Security
 tags:
-  - Firefox
+  - firefox
   - mozilla
-  - Privacy
-  - Security
+  - privacy
+  - security
 
 ---
 Je viens de découvrir une nouvelle option de Firefox aujourd'hui: [privacy.trackingprotection.enabled][1]. Avec cette variable fixée à `true` Firefox bloquera les _trackers_ connus (la liste est initialement basée sur la liste de [Disconnect][2]). J'en ai profité pour mettre à jour ma [liste de conseils][3].

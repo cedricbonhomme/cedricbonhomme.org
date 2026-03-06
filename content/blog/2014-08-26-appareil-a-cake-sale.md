@@ -5,11 +5,11 @@ author: Cédric Bonhomme
 type: post
 date: 2014-08-26T19:29:51+00:00
 categories:
-  - Cooking
+  - Life
 tags:
   - cake
   - cook
-  - cuisine
+  - cooking
 
 ---
 ![Appareil à cake salé](/images/blog/2014/08/IMG_20140823_134147.pngs)

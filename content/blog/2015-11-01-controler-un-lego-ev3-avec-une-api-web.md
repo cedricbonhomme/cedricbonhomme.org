@@ -10,6 +10,9 @@ tags:
   - http
   - lego
   - mindstorms
+categories:
+  - Programming
+  - Technology
 
 ---
 {{< peertube peertube.co.uk 9scYmk6ReuqHZJzuU4xvX3 >}}

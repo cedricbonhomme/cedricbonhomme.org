@@ -4,10 +4,12 @@ author: Cédric Bonhomme
 type: post
 date: 2016-12-02T06:47:13+00:00
 tags:
-  - AlwaysData
+  - alwaysdata
   - https
   - lets-encrypt
   - security
+categories:
+  - Security
 
 ---
 Cela fait maintenant plus de 6 ans que j’utilise

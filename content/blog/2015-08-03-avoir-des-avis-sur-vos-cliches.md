@@ -5,7 +5,7 @@ author: Cédric Bonhomme
 type: post
 date: 2015-08-03T21:07:46+00:00
 categories:
-  - photography
+  - Photography
 tags:
   - 500px
   - photography

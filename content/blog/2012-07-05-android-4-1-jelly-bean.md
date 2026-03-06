@@ -5,11 +5,10 @@ author: Cédric Bonhomme
 type: post
 date: 2012-07-05T06:01:12+00:00
 categories:
-  - Smartphone
   - Technology
 tags:
-  - Android
-  - Google
+  - android
+  - google
   - smartphone
 
 ---

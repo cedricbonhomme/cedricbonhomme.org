@@ -6,13 +6,12 @@ type: post
 date: 2013-04-06T17:15:33+00:00
 categories:
   - Programming
-  - Python
 tags:
   - benchmark
   - python
   - iterators
   - performance
-  - pyAggr3g470r
+  - pyaggr3g470r
 
 ---
 Bonne nouvelle, il semble que les performances de Python 3 saméliorent significativement. Nous sommes nombreux à avoir constaté un effondrement des performances surtout lors de l'utilisation ditérateurs. J'avais [évoqué ce problème][1] en comparant les temps de construction d'un arbre binaire à partir de données récupérées depuis une base MongoDB (avec pymongo). Pour mémoire le chargement de 50.563 articles dans le graphe prenait environ 0,9 secondes avec Python 2.7.3 et 12,9 secondes avec Python 3.2.3. La différence est énorme.

@@ -7,8 +7,8 @@ categories:
   - Programming
 tags:
   - python
-  - JARR
-  - pyAggr3g470r
+  - jarr
+  - pyaggr3g470r
   - newspipe
 
 ---

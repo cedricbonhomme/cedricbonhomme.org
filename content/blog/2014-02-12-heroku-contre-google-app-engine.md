@@ -7,11 +7,11 @@ categories:
   - Cloud
   - Programming
 tags:
-  - App Engine
-  - cloud-computing
+  - app-engine
+  - cloud
   - python
-  - Heroku
-  - PaaS
+  - heroku
+  - paas
 
 ---
 Pour introduire ce billet j'annonce que l'application (tout à fait inutile) [Cédric, on mange où à midi?][1] peut maintenant être déployée sur Google App Engine ([instance de test][2]) et sur Heroku ([instance de test][3]). Ceci avec le même code source et sans configurations spécifiques requises. J'ai ainsi pu faire une petite comparaison des deux principales plateformes PaaS. Pour faire court, je préfère le service Heroku.

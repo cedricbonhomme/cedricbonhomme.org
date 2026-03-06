@@ -9,7 +9,6 @@ categories:
 tags:
   - amazon
   - cloud
-  - cloud-computing
   - ec2
 
 ---

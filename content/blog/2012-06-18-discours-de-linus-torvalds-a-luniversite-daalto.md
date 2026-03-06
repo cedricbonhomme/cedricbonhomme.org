@@ -9,7 +9,7 @@ categories:
 tags:
   - aato
   - linus
-  - Linux
+  - linux
   - Millennium-Technology-Prize
   - torvalds
 

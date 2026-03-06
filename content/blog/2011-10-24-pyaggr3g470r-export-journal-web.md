@@ -7,7 +7,9 @@ date: 2011-10-24T16:33:44+00:00
 tags:
   - python
   - newspipe
-  - pyAggr3g470r
+  - pyaggr3g470r
+categories:
+  - Programming
 
 ---
 [pyAggr3g470r][1] dispose maintenant d'un export des articles sous forme de

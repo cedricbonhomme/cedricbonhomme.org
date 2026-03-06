@@ -4,12 +4,11 @@ author: Cédric Bonhomme
 type: post
 date: 2009-11-19T22:06:52+00:00
 categories:
-  - Google
-  - Technologie
-  - Vie privée
+  - Technology
+  - Privacy
 tags:
-  - Google
-  - Linux
+  - google
+  - linux
 
 ---
 Voilà l'annonce de [Chromium OS][1] est faite et j'en pense pas grand chose (de bien).

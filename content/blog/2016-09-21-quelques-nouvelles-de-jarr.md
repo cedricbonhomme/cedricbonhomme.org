@@ -6,9 +6,11 @@ type: post
 date: 2016-09-21T12:30:48+00:00
 tags:
   - python
-  - JARR
-  - pyAggr3g470r
+  - jarr
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
 
 ---
 Cela fait un petit bout de temps que je ne donne pas de nouvelles de

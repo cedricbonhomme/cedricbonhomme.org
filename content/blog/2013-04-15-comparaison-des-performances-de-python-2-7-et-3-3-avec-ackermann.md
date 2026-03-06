@@ -6,9 +6,8 @@ type: post
 date: 2013-04-14T22:14:53+00:00
 categories:
   - Programming
-  - Python
 tags:
-  - Ackermann
+  - ackermann
   - benchmark
   - python
 

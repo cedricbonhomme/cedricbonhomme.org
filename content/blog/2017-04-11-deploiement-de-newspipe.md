@@ -9,6 +9,9 @@ tags:
   - heroku
   - newspipe
   - vagrant
+categories:
+  - Programming
+  - Cloud
 
 ---
 J’ai récemment fait quelques efforts pour faciliter le déploiement de Newspipe.

@@ -7,10 +7,10 @@ categories:
   - Cloud
 tags:
   - amazon
-  - cloud-computing
+  - cloud
   - ec2
   - iaas
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
 
 ---

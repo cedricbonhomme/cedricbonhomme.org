@@ -7,6 +7,8 @@ date: 2009-12-13T09:34:47+00:00
 tags:
   - browser
   - firefox
+categories:
+  - Web
 
 ---
 Finalement l'intégration de Firefox avec KDE 4 semble être en bon train. Le projet Fedora sest attelé au problème et a déjà [de bons résultats.][1] En suivant lURL précédente on peut voir que l'intégration de KWallet est plus vue comme une _feature_. En effet, [une extension Firefox][2] permet maintenant d'usiter KWallet.

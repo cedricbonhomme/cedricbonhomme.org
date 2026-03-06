@@ -4,7 +4,7 @@ author: Cédric Bonhomme
 type: post
 date: 2013-03-20T21:30:32+00:00
 categories:
-  - steganography
+  - Steganography
 tags:
   - python
   - stegano

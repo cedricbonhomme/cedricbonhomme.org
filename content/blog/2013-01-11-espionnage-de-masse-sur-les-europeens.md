@@ -8,7 +8,7 @@ categories:
   - Privacy
 tags:
   - homeland
-  - patriot_act
+  - patriot-act
   - security
   - spy
   - usa

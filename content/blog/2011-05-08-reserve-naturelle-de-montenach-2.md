@@ -8,7 +8,7 @@ categories:
   - Photography
 tags:
   - montenach
-  - nature_reserve
+  - nature-reserve
 
 ---
 

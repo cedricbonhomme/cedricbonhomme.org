@@ -6,7 +6,7 @@ date: 2016-04-18T21:53:12+00:00
 categories:
   - Web
 tags:
-  - GitHub
+  - github
 
 ---
 Si vous souhaitez récupérer un nom d’utilisateur (ou d’organisation) GitHub, 

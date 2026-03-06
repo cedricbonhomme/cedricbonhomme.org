@@ -9,6 +9,9 @@ tags:
   - mazda
   - security
   - zoom-zoom
+categories:
+  - Security
+  - Cars
 
 ---
 En ce moment je publie un billet par jour. Et en quittant le travail j'ai promis à [biou][1] den écrire un nouveau ce soir, alors que je ne savais pas quel sujet aborder. Finalement avant même d'avoir quitté le parking, j'ai trouvé! Je vais vous parler des différentes technologies liées à la sécurité que j'ai déjà pu tester avec cette fameuse Mazda 6. Pourquoi? Simplement parce que lorsque j'ai donc quitté le parking, ma voiture sest brutalement stoppée (mais vraiment violemment). Sans que je touche à la pédale de frein. Évidemment ça fait très bizarre. On se demande quel est le problème et si on a pas déjà cassé la voiture. Finalement j'ai vu le message dalerte qui mentionnait la technologie SCBS. Ouf, c'est normal.

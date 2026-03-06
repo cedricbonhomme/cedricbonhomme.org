@@ -10,9 +10,9 @@ tags:
   - bootstrap
   - python
   - newspipe
-  - pyAggr3g470r
+  - pyaggr3g470r
   - wcag
-  - Web
+  - web
 
 ---
 ![Newspipe avec Bootstrap 5](/images/blog/2020/06/newspipe-with-bootstrap5.png)

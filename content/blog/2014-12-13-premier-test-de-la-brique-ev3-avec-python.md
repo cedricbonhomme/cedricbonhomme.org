@@ -8,6 +8,8 @@ tags:
   - python
   - ev3
   - mindstorms
+categories:
+  - Programming
 
 ---
 Voici un simple exemple de programme pour la [brique EV3][1] des Lego

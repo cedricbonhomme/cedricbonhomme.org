@@ -4,14 +4,14 @@ author: Cédric Bonhomme
 type: post
 date: 2013-02-10T08:45:01+00:00
 categories:
-  - blog
+  - Blog
   - Privacy
   - Web
 tags:
   - archives
   - diveintomark
   - infosuicide
-  - Mark_Pilgrim
+  - mark-pilgrim
 
 ---
 [Dive Into Mark][1] était un blog que j'aimais lire. Mark Pilgrim y publiait des billets intéressants et très bien écrits. Malheureusement depuis sa [disparition du Web le 4 octobre 2011][2] il est assez compliqué de retrouver les articles de son blog publiés depuis 2002. Il est possible de trouver quelques archives sur Github mais rien d’exhaustif à ma connaissance.

@@ -5,7 +5,7 @@ author: Cédric Bonhomme
 type: post
 date: 2017-06-02T19:10:51+00:00
 categories:
-  - photography
+  - Photography
 tags:
   - macro
   - montenach

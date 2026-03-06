@@ -7,6 +7,8 @@ date: 2012-01-06T10:49:10+00:00
 tags:
   - games
   - torcs
+categories:
+  - Games
 
 ---
 {{< peertube peertube.co.uk 5T6TwJwjoZP9E7QWVTfFoY >}}

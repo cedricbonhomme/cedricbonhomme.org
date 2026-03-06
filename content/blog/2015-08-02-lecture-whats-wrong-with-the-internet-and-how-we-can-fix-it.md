@@ -5,10 +5,10 @@ author: Cédric Bonhomme
 type: post
 date: 2015-08-02T21:45:20+00:00
 categories:
-  - Book
+  - Books
 tags:
-  - Internet
-  - lecture
+  - internet
+  - reading
   - network
 
 ---

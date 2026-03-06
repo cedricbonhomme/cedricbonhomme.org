@@ -6,7 +6,10 @@ date: 2010-09-27T21:51:50+00:00
 tags:
   - ai
   - python
-  - Google
+  - google
+categories:
+  - Programming
+  - Internet
 
 ---
 Quand le challenge dIA de Google prouve par la pratique que Python est supérieur et que

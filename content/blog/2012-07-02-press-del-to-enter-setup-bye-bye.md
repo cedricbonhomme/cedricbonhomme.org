@@ -4,17 +4,18 @@ author: Cédric Bonhomme
 type: post
 date: 2012-07-02T11:08:15+00:00
 categories:
-  - Computer
+  - Technology
   - Security
 tags:
   - bootloader
   - canonical
   - efi
-  - Linux
+  - linux
   - microsoft
   - SecureBoot
-  - Ubuntu
+  - ubuntu
   - uefi
+  - computer
 
 ---
 ![Award BIOS startup in 1997](/images/blog/2012/07/AwardBIOS_startup.png)

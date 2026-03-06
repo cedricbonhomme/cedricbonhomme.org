@@ -5,7 +5,9 @@ author: Cédric Bonhomme
 type: post
 date: 2009-10-20T18:30:41+00:00
 categories:
-  - Python
+  - Programming
+tags:
+  - python
 
 ---
 > My Zen teacher once told me that, when people try to do you harm, you should thank them for giving you the opportunity to forgive them.

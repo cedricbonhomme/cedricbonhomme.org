@@ -5,7 +5,7 @@ type: post
 date: 2010-10-25T19:42:57+00:00
 series: ["Steganography"]
 categories:
-  - steganography
+  - Steganography
   - Technology
 tags:
   - steganography

@@ -5,7 +5,7 @@ author: Cédric Bonhomme
 type: post
 date: 2011-10-26T20:56:47+00:00
 categories:
-  - photography
+  - Photography
 tags:
   - floss
   - liberty

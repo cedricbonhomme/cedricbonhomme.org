@@ -10,9 +10,9 @@ categories:
 tags:
   - cloud
   - python
-  - Flask
-  - Heroku
-  - PaaS
+  - flask
+  - heroku
+  - paas
 
 ---
 Depuis quelques temps je m’intéresse au service [PaaS][1] offert par [Heroku][2] (équivalent de Google App Engine). Ce service permet de déployer des applications (entre autres: node.js, Ruby, Clojure, Python et Scala) sans se soucier de ladministration du serveur (et donc une partie des problèmes de sécurité). Et cela vraiment simplement et rapidement.

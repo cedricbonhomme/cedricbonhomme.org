@@ -6,8 +6,11 @@ date: 2010-01-19T21:18:05+00:00
 tags:
   - carmageddon
   - games
-  - Linux
+  - linux
   - wine
+categories:
+  - Linux
+  - Games
 
 ---
 ![Capture du jeu Carmageddon sur Mandriva Cooker](/images/blog/2014/08/carmageddon3.png)

@@ -12,6 +12,8 @@ tags:
   - haskell
   - ocaml
   - python
+categories:
+  - Programming
 
 ---
 Un billet qui va peut-être intéresser quelqu'un et répondre à une question que

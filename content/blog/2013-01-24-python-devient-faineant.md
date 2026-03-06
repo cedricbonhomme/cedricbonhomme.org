@@ -5,10 +5,10 @@ author: Cédric Bonhomme
 type: post
 date: 2013-01-24T14:32:03+00:00
 categories:
-  - Python
+  - Programming
 tags:
   - python
-  - Programming
+  - programming
   - trick
 
 ---

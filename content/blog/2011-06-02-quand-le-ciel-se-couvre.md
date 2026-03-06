@@ -6,9 +6,12 @@ type: post
 date: 2011-06-02T13:33:32+00:00
 tags:
   - cloud
-  - cloud-computing
   - privacy
   - security
+categories:
+  - Security
+  - Privacy
+  - Cloud
 
 ---
 Ces derniers temps avec la monté en puissance du cloud computing pour le grand

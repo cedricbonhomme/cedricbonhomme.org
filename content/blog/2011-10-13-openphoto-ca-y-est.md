@@ -7,9 +7,12 @@ date: 2011-10-13T20:07:28+00:00
 tags:
   - amazon
   - cloud
-  - ES3
+  - es3
   - openphoto
   - photography
+categories:
+  - Photography
+  - Cloud
 
 ---
 Je parlais sur [ce billet][1] d'OpenPhoto. Projet bien sympathique mais que je

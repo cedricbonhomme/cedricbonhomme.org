@@ -5,7 +5,7 @@ author: Cédric Bonhomme
 type: post
 date: 2012-07-02T11:06:43+00:00
 tags:
-  - français
+  - french
   - language
 
 ---

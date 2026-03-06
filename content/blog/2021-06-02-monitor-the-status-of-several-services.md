@@ -5,12 +5,13 @@ author: Cédric Bonhomme
 type: post
 date: 2021-06-02T21:00:59+00:00
 categories:
-  - Software
+  - Technology
 tags:
   - python
   - monitoring
-  - SmallTech
+  - small-tech
   - yaml
+  - software
 
 ---
 I am working on a small side project. It is called [Guardian][1].

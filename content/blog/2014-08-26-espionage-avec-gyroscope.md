@@ -8,8 +8,8 @@ categories:
   - Security
 tags:
   - eavesdropping
-  - Privacy
-  - Security
+  - privacy
+  - security
 
 ---
 [Assez inquiétant][1]. L’espionnage devient de plus en plus accessible, moins

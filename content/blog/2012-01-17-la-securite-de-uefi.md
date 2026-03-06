@@ -8,7 +8,7 @@ categories:
   - Linux
   - Security
 tags:
-  - Linux
+  - linux
   - microsoft
   - uefi
 

@@ -6,7 +6,7 @@ type: post
 date: 2013-04-04T07:33:51+00:00
 categories:
   - Internet
-  - Python
+  - Programming
   - Web
 tags:
   - python

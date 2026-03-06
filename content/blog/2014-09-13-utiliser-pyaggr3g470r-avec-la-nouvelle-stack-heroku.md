@@ -8,8 +8,8 @@ categories:
   - Programming
 tags:
   - python
-  - Heroku
-  - pyAggr3g470r
+  - heroku
+  - pyaggr3g470r
   - newspipe
 
 ---

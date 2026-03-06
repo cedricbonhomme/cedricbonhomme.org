@@ -6,9 +6,9 @@ date: 2014-12-19T22:36:27+00:00
 categories:
   - Liberty
 tags:
-  - FBI
-  - Subterfuge
-  - surveilance
+  - fbi
+  - subterfuge
+  - surveillance
 
 ---
 [Effrayant][1]. Une pratique du FBI. Ils coupent votre connexion Internet et

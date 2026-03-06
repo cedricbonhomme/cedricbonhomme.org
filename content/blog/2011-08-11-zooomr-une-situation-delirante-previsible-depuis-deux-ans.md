@@ -5,11 +5,11 @@ author: Cédric Bonhomme
 type: post
 date: 2011-08-11T10:37:52+00:00
 categories:
-  - photography
+  - Photography
 tags:
   - dead
   - photography
-  - Zooomr
+  - zooomr
 
 ---
 chlky0001 wrote  

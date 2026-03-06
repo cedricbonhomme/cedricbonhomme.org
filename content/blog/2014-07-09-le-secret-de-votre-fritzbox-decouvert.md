@@ -5,12 +5,12 @@ author: Cédric Bonhomme
 type: post
 date: 2014-07-09T06:09:07+00:00
 categories:
-  - cryptography
+  - Cryptography
   - Security
 tags:
   - anonymity
   - hashes
-  - Security
+  - security
 
 ---
 [Ceci][1] me fait un peu penser à [cette affaire][2]. Qui peut encore croire que l'objectif de `md5` (par exemple) est de fabriquer des secrets ou de garder l'anonymat?

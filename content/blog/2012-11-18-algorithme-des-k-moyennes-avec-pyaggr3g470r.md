@@ -5,13 +5,13 @@ author: Cédric Bonhomme
 type: post
 date: 2012-11-18T18:57:27+00:00
 categories:
-  - Machine Learning
+  - Programming
 tags:
   - clustering
   - cs
   - k-means
-  - machinelearning
-  - pyAggr3g470r
+  - machine-learning
+  - pyaggr3g470r
   - newspipe
 
 ---

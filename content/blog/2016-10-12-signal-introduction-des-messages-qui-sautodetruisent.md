@@ -7,6 +7,8 @@ date: 2016-10-12T06:11:10+00:00
 tags:
   - privacy
   - signal
+categories:
+  - Privacy
 
 ---
 Signal est décidément mon application préférée pour l’envoie de messages cours.

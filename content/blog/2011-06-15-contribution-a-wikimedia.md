@@ -5,10 +5,13 @@ author: Cédric Bonhomme
 type: post
 date: 2011-06-15T05:49:50+00:00
 tags:
-  - Google
+  - google
   - paris
   - photography
   - wikipedia
+categories:
+  - Photography
+  - Internet
 
 ---
 En testant la [nouvelle fonctionalité][1] de recherche dimages de

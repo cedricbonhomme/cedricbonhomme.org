@@ -8,7 +8,7 @@ categories:
   - Liberty
 tags:
   - donation
-  - GnuPG
+  - gpg
   - liberty
   - security
 

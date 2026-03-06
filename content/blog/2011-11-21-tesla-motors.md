@@ -7,8 +7,12 @@ date: 2011-11-21T20:53:05+00:00
 tags:
   - android
   - cars
-  - Linux
+  - linux
   - tesla
+categories:
+  - Linux
+  - Cars
+  - Technology
 
 ---
 Après le smartphone Android, après la tablette Android, [la voiture][1]?

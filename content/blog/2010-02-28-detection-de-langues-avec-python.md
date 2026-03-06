@@ -5,11 +5,11 @@ author: Cédric Bonhomme
 type: post
 date: 2010-02-28T17:01:44+00:00
 categories:
-  - Python
+  - Programming
 tags:
   - python
   - language
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
   - soundex
 

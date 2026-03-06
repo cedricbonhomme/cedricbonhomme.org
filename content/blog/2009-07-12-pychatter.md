@@ -4,8 +4,10 @@ author: Cédric Bonhomme
 type: post
 date: 2009-07-12T19:03:54+00:00
 tags:
-  - pyChatter
+  - pychatter
   - python
+categories:
+  - Programming
 
 ---
 Afin de rentabiliser le temps que je perds tout les jours dans le train pour aller

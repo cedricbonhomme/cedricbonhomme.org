@@ -9,9 +9,9 @@ categories:
 tags:
   - changelog
   - python
-  - Heroku
+  - heroku
   - postmark
-  - pyAggr3g470r
+  - pyaggr3g470r
 
 ---
 Le changelog est court pour [cette version][1]:

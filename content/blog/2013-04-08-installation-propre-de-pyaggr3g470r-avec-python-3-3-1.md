@@ -4,13 +4,13 @@ author: Cédric Bonhomme
 type: post
 date: 2013-04-08T08:03:49+00:00
 categories:
-  - Python
+  - Programming
 tags:
   - python
   - distribute
-  - GNU/Linux
+  - gnu-linux
   - pip
-  - pyAggr3g470r
+  - pyaggr3g470r
 
 ---
 Le script ci-dessous permet dinstaller [pyAggr3g470r][1] avec [Python][2] 3.3.1 et [pip][3] de la manière la plus propre possible. Il faudra juste penser à avoir déjà installé [MongoDB][4] sur votre distribution GNU/Linux.

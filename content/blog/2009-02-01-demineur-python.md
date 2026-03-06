@@ -7,6 +7,9 @@ date: 2009-02-01T20:47:23+00:00
 tags:
   - game
   - python
+categories:
+  - Programming
+  - Games
 
 ---
 Avez vous déjà joué au démineur avec un pingouin ?

@@ -6,8 +6,11 @@ date: 2015-05-12T05:49:23+00:00
 tags:
   - firewall
   - iptables
-  - Security
+  - security
   - systemd
+categories:
+  - Security
+  - Linux
 
 ---
 L'arrivée de [systemd][1] change un tas de choses dans nos habitudes.

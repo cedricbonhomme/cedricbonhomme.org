@@ -7,8 +7,10 @@ date: 2013-01-29T22:34:54+00:00
 tags:
   - guess-language
   - language-detection
-  - pyAggr3g470r
+  - pyaggr3g470r
   - python
+categories:
+  - Programming
 
 ---
 ![pyaggr3g470r détection de languages](/images/blog/2013/01/pyaggr3g470r-languages.png)

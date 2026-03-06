@@ -7,8 +7,11 @@ tags:
   - amazon
   - cloud
   - ec2
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
+  - Cloud
 
 ---
 Tu veux tester une version de [pyAggr3g470r][1] avec près de 40.000 articles

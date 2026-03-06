@@ -8,7 +8,7 @@ categories:
 tags:
   - python
   - learning
-  - Minecraft
+  - minecraft
 
 ---
 Voici un [nouveau livre][1] pour appendre Python avec Minecraft. Je trouve ça vraiment super comme idée. Par contre, il faut avoir préalablement acheté le jeu. Il serait bien de plutôt pouvoir utiliser [Minetest][2].

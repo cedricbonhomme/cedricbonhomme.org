@@ -5,10 +5,9 @@ type: post
 date: 2013-01-24T21:25:40+00:00
 categories:
   - Programming
-  - Python
 tags:
   - python
-  - good_practices
+  - good-practices
 
 ---
 Je suis daccord avec tout ce qui est dit [ici][1].

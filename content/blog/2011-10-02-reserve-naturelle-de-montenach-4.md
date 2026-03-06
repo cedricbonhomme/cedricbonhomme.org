@@ -8,7 +8,7 @@ categories:
   - Photography
   - Web
 tags:
-  - nature_reserve
+  - nature-reserve
   - photography
   - zooomr
 

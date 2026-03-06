@@ -5,12 +5,12 @@ type: post
 date: 2014-04-09T21:12:36+00:00
 categories:
   - Cloud
-  - Python
+  - Programming
 tags:
-  - cloud-computing
+  - cloud
   - python
-  - Heroku
-  - pyAggr3g470r
+  - heroku
+  - pyaggr3g470r
 
 ---
 [pyAggr3g470r][1] est dorénavant déployable sur Heroku. Évidemment, il est toujours possible de l'utiliser sur un serveur traditionnel.

@@ -5,7 +5,7 @@ type: post
 date: 2012-10-17T06:28:36+00:00
 categories:
   - Security
-  - steganography
+  - Steganography
 tags:
   - stegano
   - steganography

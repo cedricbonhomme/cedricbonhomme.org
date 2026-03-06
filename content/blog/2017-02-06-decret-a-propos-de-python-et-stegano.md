@@ -7,6 +7,8 @@ date: 2017-02-06T10:45:33+00:00
 tags:
   - python
   - stegano
+categories:
+  - Programming
 
 ---
 ![Trumps decree on Python](/images/blog/2017/02/Trump_decree_on_Python.png)

@@ -6,11 +6,11 @@ type: post
 date: 2012-02-04T08:43:20+00:00
 categories:
   - Security
-  - Visualization
+  - Technology
 tags:
   - bezier
   - python
-  - IP-Link
+  - ip-link
   - visualization
 
 ---

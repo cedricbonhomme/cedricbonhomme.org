@@ -7,11 +7,11 @@ date: 2014-09-17T00:42:02+00:00
 categories:
   - Security
 tags:
-  - FinFisher
+  - finfisher
   - privacy
   - security
   - surveillance
-  - WikiLeaks
+  - wikileaks
 
 ---
 [WikiLeaks met à notre disposition][1] la suite d'espionnage de FinFisher ainsi que des données très intéressantes. FinFisher, une société opérant depuis lAllemagne, a en effet été victime d'un [piratage][2] en Août dernier. Les pauvres.

@@ -5,7 +5,7 @@ author: Cédric Bonhomme
 type: post
 date: 2011-02-10T16:38:33+00:00
 categories:
-  - Python
+  - Programming
 tags:
   - python
 

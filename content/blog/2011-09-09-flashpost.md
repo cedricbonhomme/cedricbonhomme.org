@@ -8,6 +8,8 @@ tags:
   - flashmob
   - music
   - video
+categories:
+  - Music
 
 ---
 Depuis que j'ai regardé [cette vidéo][1] j'ai commencé une

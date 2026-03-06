@@ -5,10 +5,10 @@ author: Cédric Bonhomme
 type: post
 date: 2014-10-27T23:00:39+00:00
 categories:
-  - photography
+  - Photography
 tags:
   - photography
-  - Scotland
+  - scotland
 
 ---
 ![St Andrews Castle](/images/blog/2014/10/St_Andrews_Castle.jpg)

@@ -5,15 +5,16 @@ author: Cédric Bonhomme
 type: post
 date: 2013-10-04T16:30:37+00:00
 categories:
-  - Computer
+  - Technology
   - Liberty
   - Security
 tags:
-  - Internet
+  - internet
   - neutrality
   - power
   - schneier
-  - Security
+  - security
+  - computer
 
 ---
 Une autre [bonne présentation][1] de Bruce Schneier.

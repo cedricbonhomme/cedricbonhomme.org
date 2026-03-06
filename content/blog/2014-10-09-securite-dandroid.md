@@ -7,8 +7,8 @@ date: 2014-10-09T21:46:48+00:00
 categories:
   - Security
 tags:
-  - Android
-  - iOS
+  - android
+  - ios
   - privacy
   - security
 

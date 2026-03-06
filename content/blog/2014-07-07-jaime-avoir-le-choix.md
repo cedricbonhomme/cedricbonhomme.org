@@ -6,8 +6,10 @@ type: post
 date: 2014-07-07T19:55:29+00:00
 tags:
   - python
-  - pyAggr3g470r
+  - pyaggr3g470r
   - newspipe
+categories:
+  - Programming
 
 ---
 Et donc je le donne aux utilisateurs de pyAggr3g470r, comme la liberté.

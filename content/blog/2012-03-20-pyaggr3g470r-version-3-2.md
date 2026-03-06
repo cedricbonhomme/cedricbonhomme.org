@@ -5,12 +5,11 @@ author: Cédric Bonhomme
 type: post
 date: 2012-03-20T21:18:22+00:00
 categories:
-  - MongoDB
-  - Python
+  - Programming
 tags:
   - python
-  - MongoDB
-  - pyAggr3g470r
+  - mongodb
+  - pyaggr3g470r
   - newspipe
 
 ---

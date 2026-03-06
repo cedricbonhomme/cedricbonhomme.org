@@ -9,6 +9,9 @@ tags:
   - html
   - paravirtualization
   - xen
+categories:
+  - Programming
+  - Web
 
 ---
 Quelques changements ces derniers temps. Différentes intéressantes activités.
