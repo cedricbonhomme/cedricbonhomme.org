@@ -4,6 +4,8 @@ slug: hello-world
 author: Cédric Bonhomme
 type: post
 date: 2008-10-17T19:23:26+00:00
+categories: ["Sport"]
+tags: ["blog"]
 
 ---
 Bienvenue dans mon nouveau blog !

@@ -4,7 +4,7 @@ slug: running-my-first-half-marathon
 author: Cédric Bonhomme
 type: post
 date: 2026-02-20
-categories: ["Blog"]
+categories: ["Sport"]
 tags: ["sport", "running", "marathon", "health"]
 ---
 
