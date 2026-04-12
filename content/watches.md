@@ -7,16 +7,19 @@ toc = true
 +++
 
 A small collection built over the years — from childhood Flik Flaks to Swiss automatics.
+Listed roughly from newest to oldest.
 
 
-## Swatch - Mission to Earthphase
+## Swatch – Mission to Earthphase
 
+This watch combines an Earth phase and a Moon phase indicator on the same dial. It beautifully shows both the blue planet and the lunar cycle, blending cosmic perspective with detailed artistic design. Despite being a quartz watch, I really like it.
 
 | Spec      | Value                      |
 | --------- | ---------------------- |
 | Reference | SO33M700               |
 | Movement  | Quartz                 |
 | Purchase year | 2026               |
+| Purchase price | 315 €             |
 
 
 ## Tissot – Chemin des Tourelles
@@ -26,13 +29,14 @@ A small collection built over the years — from childhood Flik Flaks to Swiss a
     alt="Tissot – Chemin des Tourelles"
     caption="Tissot – Chemin des Tourelles" >}}
 
-My favorite watch. Elegant, reliable, and beautifully made.
+My favorite watch. Elegant, reliable, and beautifully finished.
 
-| Spec      | Value                      |
-| --------- | -------------------------- |
-| Reference | T099.407.11.048.00         |
-| Movement  | Powermatic 80 (automatic)  |
-| Purchase year | 2022               |
+| Spec           | Value                     |
+| -------------- | ------------------------- |
+| Reference      | T099.407.11.048.00        |
+| Movement       | Powermatic 80 (automatic) |
+| Purchase year  | 2022                      |
+| Purchase price | 905 €                     |
 
 
 ## Swatch – Sistem51 Lake
@@ -42,22 +46,23 @@ My favorite watch. Elegant, reliable, and beautifully made.
     alt="Swatch – Sistem51 Lake"
     caption="Swatch – Sistem51 Lake" >}}
 
-My first mechanical watch. I bought it in 2020 and still enjoy its unique design and affordable innovation.
+My first mechanical watch. Bought in 2020, I still enjoy its unique design and affordable innovation.
 
-| Spec      | Value                  |
-| --------- | ---------------------- |
-| Reference | YIS420                 |
-| Movement  | Sistem51 (automatic)   |
-| Purchase year | 2020               |
+| Spec          | Value                |
+| ------------- | -------------------- |
+| Reference     | YIS420               |
+| Movement      | Sistem51 (automatic) |
+| Purchase year | 2020                 |
 
 
 ## Fossil FS4682
 
-No picture yet. Honestly, not my favorite — a bit bulky and not very refined.
+No picture yet. Honestly not my favorite — a bit bulky and not very refined.
 
 | Spec      | Value  |
 | --------- | ------ |
 | Reference | FS4682 |
+| Movement  | Quartz |
 
 
 ## Festina – Chronograph F14 OS60
@@ -67,11 +72,14 @@ No picture yet. Honestly, not my favorite — a bit bulky and not very refined.
     alt="Festina – Chronograph F14 OS60"
     caption="Festina – Chronograph F14 OS60" >}}
 
-A solid, sporty chronograph. Nothing fancy, but reliable.
+A solid, sporty chronograph. Nothing fancy, but reliable and sturdy.
 
-| Spec      | Value     |
-| --------- | --------- |
-| Reference | F14 OS60  |
+| Spec           | Value    |
+| -------------- | -------- |
+| Reference      | F14 OS60 |
+| Movement       | Quartz   |
+| Purchase year  | 2004     |
+| Purchase price | 90 €     |
 
 
 ## Flik Flak – My Children’s First Timepieces
@@ -82,3 +90,4 @@ A solid, sporty chronograph. Nothing fancy, but reliable.
     caption="Flik Flak – For the Next Generation" >}}
 
 Bright, fun, and educational — perfect for learning to tell time.
+These are not mine, but my children's first watches. I keep them here for sentimental value.
