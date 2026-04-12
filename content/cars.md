@@ -6,20 +6,26 @@ author = "Cédric Bonhomme"
 toc = true
 +++
 
-## Tesla Model Y – 2023 Long Range
+A look back at the cars I've owned — from a hand-me-down Rover to a Tesla.
+Listed from newest to oldest.
+
+
+## Tesla – Model Y 2023 Long Range
 
 {{< image src="/images/cars/tesla-y.jpg"
     width="50%"
     alt="Tesla Model Y"
     caption="Tesla Model Y" >}}
 
-|                    |                    |
+"I bought this before we knew Elon was crazy". Actually a nice car.
+
+| Detail             | Value              |
 | ------------------ | ------------------ |
 | First registration | 2023-08-11         |
 | Ownership          | 2023-08-11 – present |
 | Purchase price     | 52,050.00 €       |
 
-### Specifications
+
 
 | Spec             | Value                             |
 | ---------------- | --------------------------------- |
@@ -34,7 +40,7 @@ toc = true
 | Autopilot        | Yes                              |
 
 
-## Mazda 6 SKYACTIV-D 2.2 175
+## Mazda – 6 SKYACTIV-D 2.2 175
 
 {{< image src="/images/cars/mazda6_20140731_144225.jpg"
     width="50%"
@@ -43,13 +49,12 @@ toc = true
 
 The best car I’ve ever owned.
 
-|                    |                              |
+| Detail             | Value                        |
 | ------------------ | ---------------------------- |
 | First registration | 2013-02-19                   |
 | Ownership          | 2014-07-29 – 2023-08-17     |
 | Purchase price     | 26,000 €                    |
 
-### Specifications
 
 | Spec               | Value                          |
 | ------------------ | ------------------------------ |
@@ -64,15 +69,14 @@ The best car I’ve ever owned.
 | Weight             | 1,578 kg                      |
 
 
-## Mazda 6 2.0 MZR CD 120
+## Mazda – 6 2.0 MZR CD 120
 
-|                    |                              |
+| Detail             | Value                        |
 | ------------------ | ---------------------------- |
 | First registration | 2007-12-27                   |
 | Ownership          | 2011-01-14 – 2014-07-21     |
 | Purchase price     | 12,500 €                    |
 
-### Specifications
 
 | Spec               | Value                        |
 | ------------------ | ---------------------------- |
@@ -85,11 +89,11 @@ The best car I’ve ever owned.
 | Dimensions (L×W×H) | 4,745 × 1,781 × 1,440 mm   |
 
 
-## Peugeot 106
+## Peugeot – 106
 
 The first car I actually purchased myself.
 
-|                    |                    |
+| Detail             | Value              |
 | ------------------ | ------------------ |
 | Year of release    | 1996               |
 | First registration | 1996-02-19         |
@@ -98,7 +102,6 @@ The first car I actually purchased myself.
 | License plate      | AX-602-BW         |
 | Purchase price     | 3,500 €           |
 
-### Specifications
 
 | Spec           | Value   |
 | -------------- | ------- |
@@ -109,17 +112,15 @@ The first car I actually purchased myself.
 | Body           | 5-door  |
 
 
-## Rover 111 Chelsea
+## Rover – 111 Chelsea
 
 My very first car — handed down from my parents.
 
-|                 |             |
+| Detail          | Value       |
 | --------------- | ----------- |
 | Year of release | 1997        |
 | Ownership       | 2002 – 2005 |
 | Purchase price  | 0 €        |
-
-### Specifications
 
 | Spec           | Value  |
 | -------------- | ------ |

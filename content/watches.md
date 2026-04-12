@@ -24,10 +24,12 @@ This watch combines an Earth phase and a Moon phase indicator on the same dial. 
 
 ## Tissot – Chemin des Tourelles
 
-{{< image src="https://pxscdn.com/public/m/_v2/1646/2f76a232a-f08599/y1rpcc5w3SA0/0wjLxelBaoJbZUTa0KKNgPWNYt8sR1DCEG16vWEL.jpg"
+<div style="display: flex; gap: 1rem;">
+{{< image src="/images/watches/Tissot-Chemin-des-Tourelles-01.jpg"
     width="50%"
     alt="Tissot – Chemin des Tourelles"
     caption="Tissot – Chemin des Tourelles" >}}
+</div>
 
 My favorite watch. Elegant, reliable, and beautifully finished.
 
@@ -36,15 +38,22 @@ My favorite watch. Elegant, reliable, and beautifully finished.
 | Reference      | T099.407.11.048.00        |
 | Movement       | Powermatic 80 (automatic) |
 | Purchase year  | 2022                      |
-| Purchase price | 905 €                     |
+| Purchase price | 945 €                     |
 
 
 ## Swatch – Sistem51 Lake
 
-{{< image src="https://pixelfed.social/storage/m/d6eeff88aa0c9af7fd5f87cd6431a14d929d049b/7255f45f4d71984a9fef61c4db1bb3326604357c/OjNIJ00p44zkkDPvAJD7O6VveyF3RhO4yM4O6grj.jpeg"
-    width="50%"
+<div style="display: flex; gap: 1rem;">
+{{< image src="/images/watches/Swatch-Sistem51-Lake-01.jpg"
+    width="100%"
     alt="Swatch – Sistem51 Lake"
     caption="Swatch – Sistem51 Lake" >}}
+
+{{< image src="/images/watches/Swatch-Sistem51-Lake-02.jpg"
+    width="100%"
+    alt="Swatch – Sistem51 Lake"
+    caption="Swatch – Sistem51 Lake" >}}
+</div>
 
 My first mechanical watch. Bought in 2020, I still enjoy its unique design and affordable innovation.
 
