@@ -13,7 +13,7 @@ Listed from newest to oldest.
 ## Tesla – Model Y 2023 Long Range
 
 {{< image src="/images/cars/tesla-y.jpg"
-    width="50%"
+    width="25%"
     alt="Tesla Model Y"
     caption="Tesla Model Y" >}}
 
@@ -43,7 +43,7 @@ Listed from newest to oldest.
 ## Mazda – 6 SKYACTIV-D 2.2 175
 
 {{< image src="/images/cars/mazda6_20140731_144225.jpg"
-    width="50%"
+    width="25%"
     alt="Mazda 6 SKYACTIV-D 2.2 175"
     caption="Mazda 6 SKYACTIV-D 2.2 175" >}}
 
