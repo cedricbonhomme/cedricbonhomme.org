@@ -12,6 +12,11 @@ Listed roughly from newest to oldest.
 
 ## Swatch – Mission to Earthphase
 
+{{< image src="/images/watches/Swatch-MoonSwatch-Mission-to-Earthphase.jpg"
+    width="25%"
+    alt="Swatch – Mission to Earthphase"
+    caption="Swatch – Mission to Earthphase" >}}
+
 This watch combines an Earth phase and a Moon phase indicator on the same dial. It beautifully shows both the blue planet and the lunar cycle, blending cosmic perspective with detailed artistic design. Despite being a quartz watch, I really like it.
 
 | Spec      | Value                      |
@@ -19,7 +24,7 @@ This watch combines an Earth phase and a Moon phase indicator on the same dial. 
 | Reference | SO33M700               |
 | Movement  | Quartz                 |
 | Purchase year | 2026               |
-| Purchase price | 315 €             |
+| Purchase price | 330 €             |
 
 
 ## Tissot – Chemin des Tourelles
