@@ -1,7 +1,7 @@
 +++
 title = "Watches"
 description = "A glimpse into my personal watch collection."
-date = "2026-04-12"
+date = "2026-04-18"
 author = "Cédric Bonhomme"
 toc = true
 +++
@@ -13,7 +13,7 @@ Listed roughly from newest to oldest.
 ## Swatch – Mission to Earthphase
 
 {{< image src="/images/watches/Swatch-MoonSwatch-Mission-to-Earthphase.jpg"
-    width="25%"
+    width="33%"
     alt="Swatch – Mission to Earthphase"
     caption="Swatch – Mission to Earthphase" >}}
 
@@ -31,7 +31,7 @@ This watch combines an Earth phase and a Moon phase indicator on the same dial. 
 
 <div style="display: flex; gap: 1rem;">
 {{< image src="/images/watches/Tissot-Chemin-des-Tourelles-01.jpg"
-    width="25%"
+    width="33%"
     alt="Tissot – Chemin des Tourelles"
     caption="Tissot – Chemin des Tourelles" >}}
 </div>
@@ -50,12 +50,12 @@ My favorite watch. Elegant, reliable, and beautifully finished.
 
 <div style="display: flex; gap: 1rem;">
 {{< image src="/images/watches/Swatch-Sistem51-Lake-01.jpg"
-    width="25%"
+    width="33%"
     alt="Swatch – Sistem51 Lake"
     caption="Swatch – Sistem51 Lake" >}}
 
 {{< image src="/images/watches/Swatch-Sistem51-Lake-02.jpg"
-    width="25%"
+    width="33%"
     alt="Swatch – Sistem51 Lake"
     caption="Swatch – Sistem51 Lake" >}}
 </div>
@@ -84,7 +84,7 @@ No picture yet. Honestly not my favorite — a bit bulky and not very refined.
 ## Festina – Chronograph F14 OS60
 
 {{< image src="https://pixelfed.social/storage/m/d6eeff88aa0c9af7fd5f87cd6431a14d929d049b/7255f45f4d71984a9fef61c4db1bb3326604357c/oyDEybZVqs7spctwAVVFmIrH9P4Hg8yLDKZPipBX.jpeg"
-    width="25%"
+    width="33%"
     alt="Festina – Chronograph F14 OS60"
     caption="Festina – Chronograph F14 OS60" >}}
 
@@ -101,7 +101,7 @@ A solid, sporty chronograph. Nothing fancy, but reliable and sturdy.
 ## Flik Flak – My Children’s First Timepieces
 
 {{< image src="https://pxscdn.com/public/m/_v2/1646/0fca8ea69-e1c06b/vHDZgy3EsIEV/IYxn3s9p8WgWwciQMzwwmpfSTFPjOXA9D4gDVCSA.jpg"
-    width="25%"
+    width="33%"
     alt="Flik Flak Watches"
     caption="Flik Flak – For the Next Generation" >}}
 
