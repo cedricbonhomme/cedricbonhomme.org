@@ -12,7 +12,7 @@ My articles on [arXiv](https://arxiv.org/a/bonhomme_c_1.html), see also [ORCID](
 
 ### 2026
 
-- Cédric Bonhomme, Alexandre Dulaunoy, “**Forecasting Vulnerability Sightings Under Data Scarcity: Modeling Sparse and Bursty Cyber Threat Signals**”,  in the *[FIRST Cyber Threat Intelligence Conference 2026](https://www.first.org/conference/firstcti26)*, Munich, Germany. [[EasyChair](https://easychair.org/publications/preprint/dRz5)]
+- Cédric Bonhomme, Alexandre Dulaunoy, “**Forecasting Vulnerability Sightings Under Data Scarcity: Modeling Sparse and Bursty Cyber Threat Signals**”,  in the *[FIRST Cyber Threat Intelligence Conference 2026](https://www.first.org/conference/firstcti26)*, Munich, Germany. [[arXiv](https://arxiv.org/abs/2604.16038)]
 
 
 ### 2025
