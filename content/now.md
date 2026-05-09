@@ -1,48 +1,49 @@
 +++
 title = "Now"
 description = "What I am doing now"
-date = "2026-02-07"
+date = "2026-05-09"
 author = "Cédric Bonhomme"
 +++
 
-Here's what I'm doing now (page updated February 7, 2026).  
-This page is inspired by [a good idea from Derek Sivers](https://nownownow.com/about).
+A snapshot of what I'm focused on right now (last updated May 9, 2026).  
+Inspired by [Derek Sivers' "now" page idea](https://nownownow.com/about).
 
 
 ## Life
 
-I'm 41 — not doing too badly.
+I'm almost 42 — and doing pretty well.
 
-I'm exercising more and can now comfortably run 15 km. You can connect with
-[me on Strava](https://www.strava.com/athletes/cedricbonhomme).
+Running has become a real habit: I can comfortably cover 15 km now, and you can follow my
+outings [on Strava](https://www.strava.com/athletes/cedricbonhomme).
 
-I'm gardening and spending more time outdoors — it helps clear my mind.
+I'm spending more time in the garden and outdoors in general — it helps clear my mind.
 
-I'm considering giving up alcohol. I haven't had a drop since November 9, 2025; I'm a moderate
-drinker, but I think it's time to stop.
+I'm also stepping away from alcohol. I haven't had a drop since November 9, 2025 — I was
+only a moderate drinker, but it felt like the right time to stop.
 
-I've decided to take part in the ING Marathon — the half-marathon, actually.
-Wish me luck.
+I've signed up for the ING Marathon — the half-marathon, actually. Wish me luck —
+it's only a week away!
 
 
 ## Work
 
-I still love my job: it's exciting, diverse, and brings me into contact with many people. I learn
-something new every day.
+I still love my job — it's exciting, varied, and brings me into contact with many
+interesting people. I learn something new every day.
 
-I'm working on various open-source projects, mainly
+On the open-source front, my time goes mostly into
 [Vulnerability-Lookup](https://github.com/vulnerability-lookup/vulnerability-lookup) and
-[Newspipe](https://github.com/cedricbonhomme/newspipe). You should check out Vulnerability-Lookup.
+[Newspipe](https://github.com/cedricbonhomme/newspipe). You should really check out
+Vulnerability-Lookup.
 
-I'm learning AI and forecasting models.
+I'm digging into AI and forecasting models on the side.
 
-I'm trying to write more papers and attend more conferences.
+I'm also trying to write more papers and attend more conferences.
 
 
 ## Music
 
-I'm enjoying playing the piano and working on more classical pieces. I'm listening to more classical
-music these days and would like to attend more performances.
+The piano keeps me happy. I'm working through more classical pieces and listening to more
+classical music in general — and I'd like to attend more live performances.
 
-My daughter has played double bass for four years, and my son just started electric guitar — he
-loves classical music.
+Music runs in the family: my daughter has played double bass for four years, and my son
+has just started electric guitar — though his taste runs firmly toward classical.

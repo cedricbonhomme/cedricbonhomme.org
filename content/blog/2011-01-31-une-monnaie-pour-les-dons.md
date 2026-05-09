@@ -27,4 +27,4 @@ Mon adresse est sur [cette page][6]. Ce n'est pas un appel à dons. J'en ai déj
  [3]: http://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.3.19/bitcoin-0.3.19-linux.tar.gz/download
  [4]: http://en.wikipedia.org/wiki/Elliptic_curve_cryptography
  [5]: https://en.bitcoin.it/wiki/Main_Page
- [6]: http://wiki.cedricbonhomme.org/doku.php/projects
+ [6]: https://www.cedricbonhomme.org/software

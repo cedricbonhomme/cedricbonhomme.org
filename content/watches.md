@@ -19,7 +19,7 @@ Listed roughly from newest to oldest.
 
 This watch combines an Earth phase and a Moon phase indicator on the same dial. It beautifully shows both the blue planet and the lunar cycle, blending cosmic perspective with detailed artistic design. Despite being a quartz watch, I really like it.
 
-| Spec      | Value                      |
+| Spec      | Value                  |
 | --------- | ---------------------- |
 | Reference | SO33M700               |
 | Movement  | Quartz                 |

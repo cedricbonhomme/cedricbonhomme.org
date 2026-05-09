@@ -1,7 +1,7 @@
 +++
 title = "Publications"
 description = "Publications"
-date = "2025-07-21"
+date = "2026-04-23"
 tags = ["articles", "publications"]
 aliases = ["articles"]
 author = "Cédric Bonhomme"

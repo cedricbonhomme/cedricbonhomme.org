@@ -27,15 +27,15 @@ Listed from newest to oldest.
 
 
 
-| Spec             | Value                             |
-| ---------------- | --------------------------------- |
+| Spec             | Value                            |
+| ---------------- | -------------------------------- |
 | Range            | 533 km (WLTP)                    |
 | Top speed        | 217 km/h                         |
 | 0–100 km/h       | 5.0 sec                          |
 | Tax horsepower   | 15                               |
 | Seating          | 5                                |
 | Exterior         | Pearl White Multi-Coat (PPSW)    |
-| Interior         | Black and White Premium           |
+| Interior         | Black and White Premium          |
 | Wheels           | 19" Gemini                       |
 | Autopilot        | Yes                              |
 

@@ -1,40 +1,44 @@
 +++
 title = "Contact"
 description = "Contact me"
-date = "2025-05-30"
+date = "2026-05-09"
 author = "Cédric Bonhomme"
 +++
 
+I really enjoy hearing from people, so feel free to reach out. One small ask:
+if your message is a question or bug report about one of my projects, please use
+the project's issue tracker rather than contacting me directly. Handling support
+personally takes more time than I can afford, and trackers keep things organized
+and visible to other users.
+
+
 ## Email
 
-My email address is: cedric@cedricbonhomme.org
+You can reach me at [cedric@cedricbonhomme.org](mailto:cedric@cedricbonhomme.org).
 
-[My OpenPGP key](/files/cedric_bonhomme.asc) has the fingerprint:
+If you'd like to encrypt your message, here is [my OpenPGP key](/files/cedric_bonhomme.asc).
+Fingerprint:
 
 ```text
 55F5 D60E EFCA 3591 0089 18E7 A1CB 94DE 57B7 A70D
 ```
 
-I really enjoy hearing from people. However, if you have a question or issue
-related to one of my projects, please use the dedicated issue tracker instead
-of reaching out to me directly. Handling support requests personally takes more
-time than I can afford — the tracker helps keep things organized and manageable.
+
+## Instant messaging
+
+[Matrix](https://matrix.org): `@cedric:matrix.circl.lu`
 
 
 ## IRC
 
-'cedric' on Libera.Chat, usually in #python, #python-fr and some other channels.
+`cedric` on [Libera.Chat](https://libera.chat) — usually in `#python`,
+`#python-fr`, and a few other channels.
 
 
-## Instant messaging
+## Elsewhere
 
-You can contact me via [Matrix](https://matrix.org): @cedric:matrix.circl.lu
+You can also follow me on [Mastodon](https://fosstodon.org/@cedric) or
+subscribe to the [blog's RSS feed](/blog/index.xml).
 
-
-## … or just follow
-
-You can follow me using [Mastodon](https://fosstodon.org/@cedric), or
-[RSS](/blog/index.xml). 
-
-I might not reply to social media DMs and eventually via IRC (unless you get my
-attention).
+I don't always reply to social-media DMs, and IRC pings may need a nudge
+to catch my attention.

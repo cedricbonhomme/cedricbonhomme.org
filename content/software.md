@@ -1,83 +1,93 @@
 +++
 title = "Software"
 description = "Some notable projects"
-date = "2025-07-21"
+date = "2026-05-09"
 aliases = ["projects"]
 author = "Cédric Bonhomme"
 +++
 
-You can find on this page some notable projects to which I contributed.
+I have been writing and contributing to free and open-source software for many years.
+Below is a non-exhaustive selection of projects I have built or actively maintain —
+mostly in security, with a few detours into web tools, games, and other curiosities.
 
-If you wish and if you like one of these projects, you can donate via
-[GitHub](https://github.com/sponsors/cedricbonhomme),
-[Liberapay](https://liberapay.com/cedricbonhomme), or Bitcoin to this address:  
+If any of these projects are useful to you, you can support my work via
+[GitHub Sponsors](https://github.com/sponsors/cedricbonhomme),
+[Liberapay](https://liberapay.com/cedricbonhomme), or Bitcoin at this address:  
 [bc1q56u6sj7cvlwu58v5lemljcvkh7v2gc3tv8mj0e](bitcoin:BC1Q56U6SJ7CVLWU58V5LEMLJCVKH7V2GC3TV8MJ0E?label=Open%20Source%20projects)
 
-Thank you ! (my own [donations](/donations))
+Thank you! (See also the projects I [donate](/donations) to myself.)
+
+
+## Current focus
+
+The two projects I dedicate most of my open-source time to:
+
+- [**Vulnerability-Lookup**](https://github.com/vulnerability-lookup/vulnerability-lookup):
+  unifies multi-source vulnerability data and streamlines Coordinated Vulnerability
+  Disclosure workflows.
+- [**Newspipe**](https://github.com/cedricbonhomme/newspipe): a self-hostable,
+  web-based news aggregator and reader.
 
 
 ## Security
 
-- [Vulnerability-Lookup](https://github.com/vulnerability-lookup/vulnerability-lookup):
-  Unifies multi-source vulnerability data and streamlines Coordinated Vulnerability Disclosure workflows.
-- [Stegano](https://github.com/cedricbonhomme/Stegano): a pure Python Steganography module.
-- [Guardian](https://github.com/cedricbonhomme/guardian): monitor the status of a set of services.
-- [pyHIDS](https://github.com/cedricbonhomme/pyHIDS): a simple HIDS for verifying the integrity of a system.
-
-  
-## Communications and Internet
-
-- [Newspipe](https://github.com/cedricbonhomme/newspipe): a web-based news aggregator and reader.
-- [Freshermeat](https://github.com/cedricbonhomme/freshermeat): an open source software directory and release tracker.
-- [Grenouille](https://github.com/cedricbonhomme/Grenouille): an online service for weather data.
+- [Stegano](https://github.com/cedricbonhomme/Stegano): a pure-Python steganography
+  module.
+- [pyHIDS](https://github.com/cedricbonhomme/pyHIDS): a simple host-based intrusion
+  detection system for verifying the integrity of a system.
+- [Guardian](https://github.com/cedricbonhomme/guardian): a small tool to monitor
+  the status of a set of services.
 
 
-## Visualization
+## Web & Internet
 
-- [IP-Link](https://github.com/cedricbonhomme/IP-Link): the goal of IP-Link is to see
-  the relationships between different IP from network traffic capture.
+- [Freshermeat](https://github.com/cedricbonhomme/freshermeat): an open-source
+  software directory and release tracker.
+- [Grenouille](https://github.com/cedricbonhomme/Grenouille): an online service
+  for weather data.
 
 
-## Robotic
+## Visualization & robotics
 
-- [EV3WebController](https://github.com/cedricbonhomme/EV3WebController): provides a
-  Web interface in order to control the motors of the EV3 robot.
+- [IP-Link](https://github.com/cedricbonhomme/IP-Link): visualizes relationships
+  between IPs from network traffic captures.
+- [EV3WebController](https://github.com/cedricbonhomme/EV3WebController): a web
+  interface to control the motors of the EV3 robot.
 
 
 ## Games
 
 - [Jack Says](https://globalgamejam.org/2015/games/jack-says): a web-based
-  multiplayer game. It's a "Simon Says"-like (Jacques a dit in french) in which
-  you need to follow the instruction given by Jack;
-- [Minesweeper 3K](https://sr.ht/~cedric/minesweeper-3k) is an original
-  implementation of the classic game of mines;
-- [pacman game server](https://hg.sr.ht/~cedric/pacman-game-server).
+  multiplayer "Simon Says"-style game (*Jacques a dit* in French) in which
+  you follow the instructions given by Jack.
+- [Minesweeper 3K](https://sr.ht/~cedric/minesweeper-3k): an original
+  implementation of the classic Minesweeper game.
+- [Pacman game server](https://hg.sr.ht/~cedric/pacman-game-server).
 
 
 ## Humanitarian
 
-The [Open Shelter Database](https://github.com/rodekruis/shelter-database) aims
-at creating a platform to collect and share with the widest possible audience,
-key information on humanitarian shelters, including the contacts of the
-organizations behind them.
-
-Developed for the Netherlands Red Cross.
+The [Open Shelter Database](https://github.com/rodekruis/shelter-database) is a
+platform that collects and shares — with the widest possible audience — key
+information on humanitarian shelters, including the contacts of the
+organizations behind them. Developed for the Netherlands Red Cross.
 
 
-## Various contributions
- 
-- packages published [on PyPi](https://pypi.org/user/cedricbonhomme).
-- a [crossword generator](https://git.sr.ht/~cedric/crossword-generator) written in Ocaml.
-- [Iterated Function Systems](https://github.com/cedricbonhomme/iterated-function-systems) with OCaml.
+## Other projects & contributions
+
 - [MONARC](https://github.com/monarc-project): an Optimised Risk Assessment Methodology.
-- [MOSP](https://github.com/NC3-LU/MOSP): a user friendly platform for creating,
-  editing and sharing JSON objects.
-- [PRIMO](http://siis.cse.psu.edu/primo).
-- [pyChatter](https://hg.sr.ht/~cedric/pychatter): an instant messaging software
-  written in Python. The architecture of pyChatter is based on the
-  [SPADE](https://github.com/javipalanca/spade) MAS platform.
-- [Trovebox](https://github.com/photo/frontend).
-- [Balloon](https://hg.sr.ht/~cedric/balloon): an alternative to DropBox with
-  file version control. It is based on Mercurial.
+- [MOSP](https://github.com/monarc-project/MOSP): a user-friendly platform for
+  creating, editing, and sharing JSON objects.
 - [Anatole](https://github.com/lxndrblz/anatole): the Hugo theme of this website.
-
+- [Iterated Function Systems](https://github.com/cedricbonhomme/iterated-function-systems):
+  an exploration of IFS in OCaml.
+- [Crossword generator](https://git.sr.ht/~cedric/crossword-generator): a small
+  crossword generator written in OCaml.
+- [pyChatter](https://hg.sr.ht/~cedric/pychatter): an instant messaging
+  application written in Python, built on the
+  [SPADE](https://github.com/javipalanca/spade) multi-agent platform.
+- [Balloon](https://hg.sr.ht/~cedric/balloon): a Mercurial-based alternative
+  to Dropbox with file version control.
+- [PRIMO](http://siis.cse.psu.edu/primo).
+- [Trovebox](https://github.com/photo/frontend).
+- Various Python packages [on PyPI](https://pypi.org/user/cedricbonhomme).

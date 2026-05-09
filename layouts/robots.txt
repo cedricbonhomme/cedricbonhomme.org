@@ -8,7 +8,7 @@
 # - Marketing or SEO crawlers
 # - Bots which are too agressive by default. This is subjective, if you annoy
 #   our sysadmins you'll be blocked.
-# - AI bots (ChatGPT, Bard, etc.)
+# - Aggressive AI bots
 #
 # Reach out to cedric@cedricbonhomme.org if you have questions.
 

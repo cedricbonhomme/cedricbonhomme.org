@@ -1,0 +1,28 @@
+# Cédric Bonhomme
+
+> Personal site of Cédric Bonhomme, a computer scientist working in information
+> security as part of a Computer Emergency Response Team (CERT). The site
+> collects blog posts, open-source projects, academic publications, and
+> personal notes. Writing focuses mostly on computer security, privacy, and
+> free/open-source software, with occasional detours into photography, music,
+> and running.
+
+## Core pages
+
+- [About](https://www.cedricbonhomme.org/about/): background, role at the CERT, interests, and a link to my resume.
+- [Now](https://www.cedricbonhomme.org/now/): a regularly-updated snapshot of what I am currently focused on (life, work, music).
+- [Software](https://www.cedricbonhomme.org/software/): notable open-source projects I built or maintain — including Vulnerability-Lookup and Newspipe.
+- [Publications](https://www.cedricbonhomme.org/publications/): academic papers and conference contributions.
+- [Blog](https://www.cedricbonhomme.org/blog/): posts on security, project releases, and personal notes.
+- [Contact](https://www.cedricbonhomme.org/contact/): email (with OpenPGP fingerprint), Matrix, IRC, Mastodon, and RSS.
+
+## Feeds
+
+- [Blog RSS](https://www.cedricbonhomme.org/blog/index.xml): full-content RSS feed of all blog posts.
+- [Sitemap (XML)](https://www.cedricbonhomme.org/sitemap.xml): canonical XML sitemap.
+
+## Optional
+
+- [Photography](https://www.cedricbonhomme.org/photography/): selected photos and notes.
+- [Blogroll](https://www.cedricbonhomme.org/blogroll/): blogs and people I read.
+- [Donations](https://www.cedricbonhomme.org/donations/): open-source projects I support financially.
