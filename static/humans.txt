@@ -1,0 +1,21 @@
+/* TEAM */
+
+    Author:   Cédric Bonhomme
+    Contact:  cedric@cedricbonhomme.org
+    Site:     https://www.cedricbonhomme.org
+    Mastodon: @cedric@fosstodon.org
+    GitHub:   @cedricbonhomme
+
+
+/* THANKS */
+
+    Theme:     Anatole by Alexander Bilz — https://github.com/lxndrblz/anatole
+    Generator: Hugo — https://gohugo.io
+
+
+/* SITE */
+
+    Last update: 2026/05/09
+    Standards:   HTML5, CSS3, RSS
+    Language:    English
+    Source:      https://github.com/cedricbonhomme/cedricbonhomme.org
