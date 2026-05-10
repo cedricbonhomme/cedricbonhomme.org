@@ -18,8 +18,7 @@ outings [on Strava](https://www.strava.com/athletes/cedricbonhomme).
 
 I'm spending more time in the garden and outdoors in general — it helps clear my mind.
 
-I'm also stepping away from alcohol. I haven't had a drop since November 9, 2025 — I was
-only a moderate drinker, but it felt like the right time to stop.
+I'm mostly alcohol-free these days — just the occasional drink at special occasions. Simple as that!
 
 I've signed up for the ING Marathon — the half-marathon, actually. Wish me luck —
 it's only a week away!
