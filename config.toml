@@ -122,13 +122,6 @@ identifier = "now"
 url = "/now/"
 
 [[menu.main]]
-name = "Random stuff"
-parent = "more"
-weight = 200
-identifier = "random"
-url = "/random/"
-
-[[menu.main]]
 name = "Sitemap"
 parent = "more"
 weight = 200
