@@ -22,7 +22,7 @@ OCaml program that draws fractals with
 changed since 2010. I have a long standing affection for both OCaml and
 fractals: I even published a
 [small work about fractals](https://scholar.google.fr/scholar?oi=bibs&cluster=90579809364779260&hl=en)
-back in 2008. So when I recently got my hands on Claude Fable, Anthropic's
+back in 2008. So when I recently got my hands on Claude Fable 5, Anthropic's
 new model, I thought this dusty little project would make a perfect
 playground. Not to fix bugs or refactor code, but to challenge its
 creativity: could it invent *new* IFS fractals?
@@ -156,4 +156,4 @@ impossible before bending it into something achievable.
 Everything is on GitHub:
 [https://github.com/cedricbonhomme/iterated-function-systems](https://github.com/cedricbonhomme/iterated-function-systems).
 If you have OCaml installed, `draw lace 300000;;` is a nice way to spend
-thirty seconds.
+a couple of seconds.
