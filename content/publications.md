@@ -1,7 +1,7 @@
 +++
 title = "Publications"
 description = "Publications"
-date = "2026-04-23"
+date = "2026-07-28"
 tags = ["articles", "publications"]
 aliases = ["articles"]
 author = "Cédric Bonhomme"
@@ -11,6 +11,8 @@ My articles on [arXiv](https://arxiv.org/a/bonhomme_c_1.html), see also [ORCID](
 
 
 ### 2026
+
+- Cédric Bonhomme, “**Building New IFS Attractors: a Working Vocabulary of Affine Maps**”, July 2026. [[Paper](/files/publications/2026/Building-New-IFS-Attractors_a-Working-Vocabulary-of-Affine-Maps.pdf)]
 
 - Cédric Bonhomme, Alexandre Dulaunoy, “**Modeling Sparse and Bursty Vulnerability Sightings: Forecasting Under Data Constraints**”,  in the *[FIRST Cyber Threat Intelligence Conference 2026](https://www.first.org/conference/firstcti26)*, Munich, Germany. [[arXiv](https://arxiv.org/abs/2604.16038)]
 
