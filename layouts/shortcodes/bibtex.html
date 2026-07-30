@@ -1,0 +1,16 @@
+{{/*
+  Renders a collapsible BibTeX entry.
+
+  Example usage:
+
+  {{< bibtex >}}
+  @misc{key,
+        title={...},
+        author={...},
+  }
+  {{< /bibtex >}}
+*/}}
+<details class="bibtex">
+  <summary>BibTeX</summary>
+  <pre><code>{{ trim .Inner "\n" }}</code></pre>
+</details>

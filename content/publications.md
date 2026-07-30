@@ -13,6 +13,17 @@ My articles on [arXiv](https://arxiv.org/a/bonhomme_c_1.html), see also [ORCID](
 ### 2026
 
 - Cédric Bonhomme, Alexandre Dulaunoy, “**Mapping CVEs to MITRE ATT&CK Techniques: A Curated Gold-Set Classifier and the Limits of LLM-Assisted Label Expansion**”, July 2026. [[arXiv](https://arxiv.org/abs/2607.25572)]
+  {{< bibtex >}}
+@misc{bonhomme2026mappingcvesmitreattck,
+      title={Mapping CVEs to MITRE ATT&CK Techniques: A Curated Gold-Set Classifier and the Limits of LLM-Assisted Label Expansion},
+      author={Cédric Bonhomme and Alexandre Dulaunoy},
+      year={2026},
+      eprint={2607.25572},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2607.25572},
+}
+  {{< /bibtex >}}
 
 - Cédric Bonhomme, “**Building New IFS Attractors: a Working Vocabulary of Affine Maps**”, July 2026. [[Paper](/files/publications/2026/Building-New-IFS-Attractors_a-Working-Vocabulary-of-Affine-Maps.pdf)]
 
