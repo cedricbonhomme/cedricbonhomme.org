@@ -28,11 +28,33 @@ My articles on [arXiv](https://arxiv.org/a/bonhomme_c_1.html), see also [ORCID](
 - Cédric Bonhomme, “**Building New IFS Attractors: a Working Vocabulary of Affine Maps**”, July 2026. [[Paper](/files/publications/2026/Building-New-IFS-Attractors_a-Working-Vocabulary-of-Affine-Maps.pdf)]
 
 - Cédric Bonhomme, Alexandre Dulaunoy, “**Modeling Sparse and Bursty Vulnerability Sightings: Forecasting Under Data Constraints**”,  in the *[FIRST Cyber Threat Intelligence Conference 2026](https://www.first.org/conference/firstcti26)*, Munich, Germany. [[arXiv](https://arxiv.org/abs/2604.16038)]
+  {{< bibtex >}}
+@misc{bonhomme2026modelingsparseburstyvulnerability,
+      title={Modeling Sparse and Bursty Vulnerability Sightings: Forecasting Under Data Constraints},
+      author={Cedric Bonhomme and Alexandre Dulaunoy},
+      year={2026},
+      eprint={2604.16038},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2604.16038},
+}
+  {{< /bibtex >}}
 
 
 ### 2025
 
 - Cédric Bonhomme, Alexandre Dulaunoy, “**VLAI: A RoBERTa-Based Model for Automated Vulnerability Severity Classification**”, preprint for the *[25V4C-TC: 2025 Vulnerability Forecasting Technical Colloquium](https://www.first.org/events/colloquia/vuln4cast25)*, Darwin College, Cambridge, UK, September 25–26, 2025. [[arXiv](https://arxiv.org/abs/2507.03607)] [[Hugging Face](https://huggingface.co/papers/2507.03607)]
+  {{< bibtex >}}
+@misc{bonhomme2025vlairobertabasedmodelautomated,
+      title={VLAI: A RoBERTa-Based Model for Automated Vulnerability Severity Classification},
+      author={Cédric Bonhomme and Alexandre Dulaunoy},
+      year={2025},
+      eprint={2507.03607},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2507.03607},
+}
+  {{< /bibtex >}}
 
 - Cédric Bonhomme, Alexandre Dulaunoy, “**Scoring Vulnerabilities by Leveraging Activity Data from the Fediverse**”, in the *[FIRST Cyber Threat Intelligence Conference 2025](https://www.first.org/conference/firstcti25)*, {{< fixedtime `22th April 2025` `Correlation between CSAF and CVEs` `20250422T1330` >}}, Berlin, Germany. [[Paper](/files/publications/2025/FIRST-CTI-Berlin_Scoring-vulnerabilities-by-leveraging-activity-data-from-the-Fediverse.pdf)] [[Presentation](/files/publications/2025/FIRST-CTI-Berlin_Scoring-vulnerabilities-by-leveraging-activity-data-from-the-Fediverse_presentation.pdf)]
 
