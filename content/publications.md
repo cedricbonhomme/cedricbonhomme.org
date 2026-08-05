@@ -113,3 +113,18 @@ My articles on [arXiv](https://arxiv.org/a/bonhomme_c_1.html), see also [ORCID](
 - P. Schmitt, C. Bonhomme, B. Gâteau, “**Easy Programming of Agent-Based Electronic Institution with UTOPIA**”, in *10th International Conference on New Technologies of Distributed Systems (NOTERE 2010)*, Tozeur, Tunisia, May 31 – June 2, 2010. [[IEEE Xplore](https://ieeexplore.ieee.org/document/5536694)]
 
 - C. Feltus, D. Khadraoui, C. Bonhomme, “**Electric Blackout Prevention: Toward a Computer-Mediated Weather Alert Broadcasting Solution**”, in *International Conference on Society and Information Technologies (ICSIT 2010)*, Orlando, 2010, pp. 45–50. [[IIIS](http://www.iiis.org/CDs2010/CD2010IMC/ICSIT_2010/index.asp?id=0&area=1)] [[Paper](/files/publications/2010/2010-ICSIT_Electric-Blackout-Prevention_Feltus-Khadraoui-Bonhomme.pdf)]
+
+
+### 2008
+
+- Cédric Bonhomme, Jean-Charles Bettinger, “**Les paysages fractals**”, Université Paul-Verlaine de Metz, Metz, France, 2008. [[ResearchGate](https://www.researchgate.net/publication/233946291_Les_paysages_fractals)]
+  {{< bibtex >}}
+@misc{bonhomme2008paysagesfractals,
+      title = {Les paysages fractals},
+      author = {Bonhomme, Cédric and Bettinger, Jean-Charles},
+      year = {2008},
+      url = {https://www.researchgate.net/publication/233946291_Les_paysages_fractals},
+      note = {Université Paul-Verlaine de Metz, Metz, France},
+      language = {fr}
+}
+  {{< /bibtex >}}
