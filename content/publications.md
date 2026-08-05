@@ -117,13 +117,13 @@ My articles on [arXiv](https://arxiv.org/a/bonhomme_c_1.html), see also [ORCID](
 
 ### 2008
 
-- Cédric Bonhomme, Jean-Charles Bettinger, “**Les paysages fractals**”, Université Paul-Verlaine de Metz, Metz, France, 2008. [[ResearchGate](https://www.researchgate.net/publication/233946291_Les_paysages_fractals)]
+- Cédric Bonhomme, Jean-Charles Bettinger, “**Les paysages fractals**”, Université Paul-Verlaine de Metz, Metz, France, 2008. [[Paper](/files/publications/2008/Les-paysages-fractals.pdf)] [[Presentation](/files/publications/2008/Les-paysages-fractals_presentation.pdf)] [[ResearchGate](https://www.researchgate.net/publication/233946291_Les_paysages_fractals)]
   {{< bibtex >}}
 @misc{bonhomme2008paysagesfractals,
       title = {Les paysages fractals},
       author = {Bonhomme, Cédric and Bettinger, Jean-Charles},
       year = {2008},
-      url = {https://www.researchgate.net/publication/233946291_Les_paysages_fractals},
+      url = {https://www.cedricbonhomme.org/files/publications/2008/Les-paysages-fractals.pdf},
       note = {Université Paul-Verlaine de Metz, Metz, France},
       language = {fr}
 }
