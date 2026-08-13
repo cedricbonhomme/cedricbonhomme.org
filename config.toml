@@ -148,7 +148,7 @@ url = "https://github.com/cedricbonhomme"
 [[params.socialIcons]]
 icon = "fab fa-google-scholar"
 title = "Publications on Google Scholar"
-url = "https://scholar.google.fr/citations?user=V34x_oUAAAAJ"
+url = "https://scholar.google.com/citations?hl=en&user=V34x_oUAAAAJ&view_op=list_works&sortby=pubdate"
 
 [[params.socialIcons]]
 icon = "fab fa-orcid"
