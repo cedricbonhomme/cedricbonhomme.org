@@ -40,6 +40,19 @@ My articles on [arXiv](https://arxiv.org/a/bonhomme_c_1.html), see also [ORCID](
 }
   {{< /bibtex >}}
 
+- Cédric Bonhomme, Alexandre Dulaunoy, “**Borrowing Strength Across Vulnerabilities: Hierarchical and Type-Aware Forecasting of Sparse Sightings**”, 8 June 2026. [[Paper](/files/publications/2026/borrowing-strength-sightings.pdf)] [[Zenodo](https://doi.org/10.5281/zenodo.22023078)]
+  {{< bibtex >}}
+@misc{bonhomme_2026_22023078,
+  author       = {Bonhomme, C{\'e}dric and Dulaunoy, Alexandre},
+  title        = {Borrowing Strength Across Vulnerabilities: Hierarchical and Type-Aware Forecasting of Sparse Sightings},
+  month        = {June},
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.22023078},
+  url          = {https://doi.org/10.5281/zenodo.22023078},
+}
+  {{< /bibtex >}}
+
 - Cédric Bonhomme, Alexandre Dulaunoy, “**Modeling Sparse and Bursty Vulnerability Sightings: Forecasting Under Data Constraints**”,  in the *[FIRST Cyber Threat Intelligence Conference 2026](https://www.first.org/conference/firstcti26)*, Munich, Germany. [[arXiv](https://arxiv.org/abs/2604.16038)]
   {{< bibtex >}}
 @misc{bonhomme2026modelingsparseburstyvulnerability,
