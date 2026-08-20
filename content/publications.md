@@ -40,7 +40,7 @@ My articles on [arXiv](https://arxiv.org/a/bonhomme_c_1.html), see also [ORCID](
 }
   {{< /bibtex >}}
 
-- Cédric Bonhomme, Alexandre Dulaunoy, “**Borrowing Strength Across Vulnerabilities: Hierarchical and Type-Aware Forecasting of Sparse Sightings**”, 8 June 2026. [[Paper](/files/publications/2026/borrowing-strength-sightings.pdf)] [[Zenodo](https://doi.org/10.5281/zenodo.22023078)]
+- Cédric Bonhomme, Alexandre Dulaunoy, “**Borrowing Strength Across Vulnerabilities: Hierarchical and Type-Aware Forecasting of Sparse Sightings**”, 8 June 2026. [[Paper](/files/publications/2026/borrowing-strength-sightings.pdf)] [[Zenodo](https://doi.org/10.5281/zenodo.22023077)]
   {{< bibtex >}}
 @misc{bonhomme_2026_22023078,
   author       = {Bonhomme, C{\'e}dric and Dulaunoy, Alexandre},
@@ -48,8 +48,8 @@ My articles on [arXiv](https://arxiv.org/a/bonhomme_c_1.html), see also [ORCID](
   month        = {June},
   year         = 2026,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.22023078},
-  url          = {https://doi.org/10.5281/zenodo.22023078},
+  doi          = {10.5281/zenodo.22023077},
+  url          = {https://doi.org/10.5281/zenodo.22023077},
 }
   {{< /bibtex >}}
 
