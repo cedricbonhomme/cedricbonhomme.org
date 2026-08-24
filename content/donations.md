@@ -1,7 +1,7 @@
 +++
 title = "Donations"
 description = "My donations"
-date = "2025-08-25"
+date = "2026-08-24"
 author = "Cédric Bonhomme"
 aliases = ["social-impact"]
 +++
@@ -47,5 +47,7 @@ the projects I rely on and to show gratitude to the developers who generously do
 
 ## Journalism
 
-- 404 Media - $100 in 2025
+- 404 Media
+  - $100 in 2025
+  - $100 im 2026
 
