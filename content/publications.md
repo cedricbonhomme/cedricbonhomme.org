@@ -1,7 +1,7 @@
 +++
 title = "Publications"
 description = "Publications"
-date = "2026-07-28"
+date = "2026-09-14"
 tags = ["articles", "publications"]
 aliases = ["articles"]
 author = "Cédric Bonhomme"
@@ -11,6 +11,17 @@ My articles on [arXiv](https://arxiv.org/a/bonhomme_c_1.html), see also [ORCID](
 
 
 ### 2026
+
+- Laura Bernardy, Cédric Bonhomme, Aurélien Thirion, Alexandre Dulaunoy, Jordan Samhi, Tegawendé F. Bissyandé, Jacques Klein, “**SoK: Ten Years of Dark Jargon Detection and Interpretation from an NLP Perspective**”, in the *[ACSAC 2026 – 42nd IEEE Annual Computer Security Applications Conference](https://www.acsac.org/2026/)*, Los Angeles, California, USA.
+  {{< bibtex >}}
+@inproceedings{bernardy2026sokdarkjargon,
+      title={SoK: Ten Years of Dark Jargon Detection and Interpretation from an NLP Perspective},
+      author={Laura Bernardy and Cédric Bonhomme and Aurélien Thirion and Alexandre Dulaunoy and Jordan Samhi and Tegawendé F. Bissyandé and Jacques Klein},
+      booktitle={Proceedings of the 42nd IEEE Annual Computer Security Applications Conference (ACSAC 2026)},
+      address={Los Angeles, California, USA},
+      year={2026},
+}
+  {{< /bibtex >}}
 
 - Cédric Bonhomme, Alexandre Dulaunoy, “**Mapping CVEs to MITRE ATT&CK Techniques: A Curated Gold-Set Classifier and the Limits of LLM-Assisted Label Expansion**”, July 2026. [[arXiv](https://arxiv.org/abs/2607.25572)]
   {{< bibtex >}}
