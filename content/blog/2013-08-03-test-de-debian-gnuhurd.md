@@ -2,6 +2,8 @@
 title: Test de Debian GNU/Hurd
 author: Cédric Bonhomme
 type: post
+aliases:
+  - /2013/08/03/test-de-debian-gnu/hurd/
 date: 2013-08-03T09:09:10+00:00
 categories:
   - Technology

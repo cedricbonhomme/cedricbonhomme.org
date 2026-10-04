@@ -20,14 +20,14 @@ les maths connaissait RSA. Elle disposait tout naturellement d'une clé publique
 
 Bob utilisa donc la clé publique d'Alice pour protéger son message:
 
-```math
+```text
 secret = message˄b mod n
 ```
 
 Une fois le message réceptionné par Alice (IP par transporteurs aviaires),
 elle utilisa la clé privée afin de découvrir le message:
 
-```math
+```text
 message = secret˄a mod n
 ```
 
@@ -37,7 +37,7 @@ Une des premières choses à faire était de trouver (à la main et avec le test
 primalité de Miller-Rabin) deux très grands nombres premiers ```p``` et ```q```
 tels que:
 
-```math
+```text
 (1)   Φ(n) = (p - 1) * (q - 1), l'indicateur d'Euler
 (2)   n = p * q
 ```
@@ -46,7 +46,7 @@ tels que:
 
 Nous avons également:
 
-```math
+```text
 (3)   a = b˄-1 mod Φ(n)
 ```
 
@@ -56,7 +56,7 @@ arithmétique modulaire de terminale. Le bon vieux temps.)
 
 Ensuite nous devons trouver un entier ```b``` tel que:
 
-```math
+```text
 pgcd(b, Φ) = 1
 ```
 

@@ -1,13 +1,23 @@
 <head>
   <meta charset="utf-8" />
+  {{- $authorName := "" -}}
+  {{- with .Site.Params.author -}}
+    {{- if reflect.IsMap . -}}
+      {{- with .name -}}
+        {{- $authorName = . -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $authorName = . -}}
+    {{- end -}}
+  {{- end -}}
   <title>
     {{ if (eq .Site.Params.reversepagetitle true) }}
       {{ with .Title }}
         {{ . }} |
       {{ end }}
-      {{- .Site.Params.author -}}
+      {{- $authorName -}}
     {{ else }}
-      {{- .Site.Params.author -}}{{ with .Title }}
+      {{- $authorName -}}{{ with .Title }}
         |
         {{ . }}
       {{ end }}
@@ -19,7 +29,7 @@
   <!-- Meta -->
   {{- hugo.Generator -}}
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
-  <meta name="author" content="{{ .Site.Params.author }}" />
+  <meta name="author" content="{{ $authorName }}" />
   <meta
     name="description"
     content="{{ if .Params.description }}
@@ -39,9 +49,10 @@
     <meta name="fediverse:creator" content="@cedric@fosstodon.org" />
   {{- end }}
 
+
   <!-- CSS -->
   {{ $contentRatio := or site.Params.contentratio 0.6 -}}
-  {{ $languageDirection := or site.Language.LanguageDirection "ltr" -}}
+  {{ $languageDirection := or site.Language.Direction "ltr" -}}
   {{ $vars := dict
     "text_direction" $languageDirection
     "content_ratio" (printf "%f%%" (mul $contentRatio 100))
@@ -50,9 +61,9 @@
     "sidebar_ratio_wide" (printf "%f%%" (mul 0.8 (mul (sub 1.0 $contentRatio) 100)))
   -}}
   {{ $options := dict
-    "transpiler" "libsass"
+    "transpiler" "dartsass"
     "vars" $vars
-    "targetPath" (printf "css/anatole%s.css" (cond (eq site.Language.LanguageDirection "") "" (printf ".%s" site.Language.LanguageDirection)))
+    "targetPath" (printf "css/anatole%s.css" (cond (eq site.Language.Direction "") "" (printf ".%s" site.Language.Direction)))
   -}}
   {{ with resources.Get "scss/main.scss" -}}
     {{ if hugo.IsProduction -}}
@@ -260,4 +271,11 @@
 
   <!-- Schema.org-->
   {{ partial "schema.html" . }}
+
+
+  <!-- KaTeX-->
+  {{ $noop := .WordCount }}
+  {{ if .Page.Store.Get "hasMath" }}
+    {{ partial "katex.html" . }}
+  {{ end }}
 </head>

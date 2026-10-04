@@ -1,9 +1,9 @@
 baseURL = "https://www.cedricbonhomme.org"
-languageCode = "en-US"
+locale = "en-US"
 canonifyURLs = false
 
-# theme as git submodule
-theme = "anatole"
+# theme as Hugo module (see https://github.com/lxndrblz/anatole/wiki)
+theme = "github.com/lxndrblz/anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true

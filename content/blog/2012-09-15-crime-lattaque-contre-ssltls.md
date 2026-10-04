@@ -2,6 +2,8 @@
 title: CRIME, l’attaque contre SSL/TLS
 author: Cédric Bonhomme
 type: post
+aliases:
+  - /2012/09/15/crime-lattaque-contre-ssl/tls/
 date: 2012-09-15T06:26:32+00:00
 categories:
   - Security
