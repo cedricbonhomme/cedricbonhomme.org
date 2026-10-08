@@ -4,6 +4,11 @@
   height: 200px;
 }
 
+/* Font Awesome 7 makes icons fixed-width by default; restore natural width */
+.sidebar__list-item i {
+  --fa-width: auto;
+}
+
 /* Sitemap table */
 .sitemap-table table {
   width: 100%;
