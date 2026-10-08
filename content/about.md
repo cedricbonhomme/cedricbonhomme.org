@@ -34,9 +34,13 @@ See [my “contact” page](/contact).
 
 ## Colophon
 
-Enough about me. Let's talk about this website.
-The source code is available in a
-[Git repository](https://github.com/cedricbonhomme/cedricbonhomme.org).
+Enough about me. A few words about this website.
 
-This site is built with [Hugo](https://gohugo.io) with the theme
-[Anatole](https://github.com/lxndrblz/anatole).
+It is built with [Hugo](https://gohugo.io), using the
+[Anatole](https://github.com/lxndrblz/anatole) theme, and its source code
+lives in a [public Git repository](https://github.com/cedricbonhomme/cedricbonhomme.org).
+
+Publishing is kept simple: the generated pages are copied to the server with
+[rsync](https://github.com/cedricbonhomme/cedricbonhomme.org#deploying), and
+[feed2toot](https://gitlab.com/chaica/feed2toot) then picks up each new article
+and announces it on my [Fosstodon profile](https://fosstodon.org/@cedric).
