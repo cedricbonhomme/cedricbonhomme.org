@@ -89,3 +89,13 @@
   margin-top: 12px;
   font-size: 1.4rem;
 }
+
+/* LibraryThing logo in the sidebar, coloured like the Font Awesome icons */
+.icon-librarything {
+  display: inline-block;
+  width: 0.79em; /* glyph aspect ratio, 25.34 / 32 */
+  height: 1em;
+  vertical-align: -0.125em;
+  background-color: currentColor;
+  mask: url("/images/icons/librarything.svg") no-repeat center / contain;
+}

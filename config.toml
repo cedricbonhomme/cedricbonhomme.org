@@ -167,7 +167,7 @@ title = "Photos on PixelFed"
 url = "https://pixelfed.social/cedric"
 
 [[params.socialIcons]]
-icon = "fas fa-book-reader"
+icon = "icon-librarything"
 title = "Books on LibraryThing"
 url = "https://www.librarything.com/profile/cedricbonhomme"
 
