@@ -162,7 +162,7 @@ title = "Posts on Mastodon"
 url = "https://fosstodon.org/@cedric"
 
 [[params.socialIcons]]
-icon = "fa fa-camera-retro"
+icon = "fab fa-pixelfed"
 title = "Photos on PixelFed"
 url = "https://pixelfed.social/cedric"
 
