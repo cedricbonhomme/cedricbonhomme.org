@@ -1,5 +1,8 @@
 SHELL := /bin/bash
 
+REMOTE      ?= cedric@ssh-cedric.alwaysdata.net
+REMOTE_PATH ?= www/website/
+
 # target: all - Default target. Does nothing.
 all:
 	@echo "Hello $(LOGNAME), nothing to do by default."
@@ -12,15 +15,18 @@ test:
 	hugo server
 
 build:
-	hugo
+	hugo --cleanDestinationDir
 
 compress:
 	tar -czf public.tar.gz public/
 
-deploy:
-	cd www/
-	tar -xzf public.tar.gz
-	rm -Rf website ; mv public website
+# target: deploy - Build the site and sync it to AlwaysData with rsync.
+deploy: build
+	rsync -avz --delete --delay-updates public/ $(REMOTE):$(REMOTE_PATH)
+
+# target: deploy-dry-run - Show what deploy would change, without changing anything.
+deploy-dry-run: build
+	rsync -avzn --delete public/ $(REMOTE):$(REMOTE_PATH)
 
 clean:
 	rm -Rf public/ 2>/dev/null

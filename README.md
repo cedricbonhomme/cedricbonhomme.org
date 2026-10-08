@@ -20,6 +20,22 @@ hugo server       # preview locally
 hugo              # build into public/
 ```
 
+## Deploying
+
+The site is hosted on [AlwaysData](https://www.alwaysdata.com). `make deploy`
+rebuilds it and copies `public/` to `www/website/` on the hosting account over
+SSH with rsync. Only changed files are sent, files removed from the build are
+deleted on the server, and the new files are moved into place at the end of
+the transfer so the site is never left half-updated.
+
+```bash
+make deploy-dry-run   # list what would change, without touching the server
+make deploy           # build and publish
+```
+
+The destination can be overridden, e.g. `make deploy REMOTE_PATH=www/test/`.
+Posts marked `draft: true` are not built, so they are never published.
+
 ## Announcing new articles on Mastodon
 
 New blog posts are automatically announced on
