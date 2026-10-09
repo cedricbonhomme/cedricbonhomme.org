@@ -18,4 +18,5 @@ Most of these photos are under
 license. Feel free to use them.
 
 I rarely post-process my photos; I prefer them Straight Out of the Camera (SOOC).
+I also don't use generative AI, neither to create nor to alter my photos.
 
