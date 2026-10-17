@@ -7,7 +7,18 @@ aliases = ["articles"]
 author = "Cédric Bonhomme"
 +++
 
-My articles on [arXiv](https://arxiv.org/a/bonhomme_c_1.html), see also [ORCID](https://orcid.org/0009-0003-7679-0109).
+This page lists my research papers and talks, from the most recent to the oldest.
+
+My early work (2008–2012) focused on multi-agent systems and the protection of
+critical infrastructures. More recently, my research has turned to vulnerability
+management: Coordinated Vulnerability Disclosure, severity classification with
+language models, and forecasting vulnerability sightings.
+A few papers stray further, into fractals and iterated function systems.
+
+Most of my recent articles are available on [arXiv](https://arxiv.org/a/bonhomme_c_1.html).
+My publications are also listed on
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=V34x_oUAAAAJ&view_op=list_works&sortby=pubdate)
+and [ORCID](https://orcid.org/0009-0003-7679-0109).
 
 
 ### 2026

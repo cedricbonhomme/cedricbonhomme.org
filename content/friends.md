@@ -50,11 +50,13 @@ chronologically.
 - Ange Albertini
 - Sascha Rommelfangen
 - Gérard Wagener
+- Jacob Torrey
 - Christian Studer
 - Sami Mokaddem
 - Andras Iklody
 - Déborah Servili
 - Michael Hamm
+- Gina Plat
 - Aurélien Thirion
 - Jean-Louis Huynen
 - Jérôme Lombardi
@@ -63,6 +65,7 @@ chronologically.
 - Vanessa Naretto
 - David Cruciani
 - Jean Linis-Dinco
+- Eireann Leverett
 - Quentin Jerome
 - Léa Ulusan
 

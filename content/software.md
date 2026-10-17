@@ -7,15 +7,20 @@ author = "Cédric Bonhomme"
 +++
 
 I have been writing and contributing to free and open-source software for many years.
-Below is a non-exhaustive selection of projects I have built or actively maintain —
+Below is a non-exhaustive selection of projects I have built or actively maintain,
 mostly in security, with a few detours into web tools, games, and other curiosities.
 
-If any of these projects are useful to you, you can support my work via
+Most of them are hosted on [GitHub](https://github.com/cedricbonhomme),
+although I am gradually moving towards more
+ethical alternatives such as [SourceHut](https://sr.ht/~cedric). The move is slow
+because my main concern is losing potential contributors, and most open-source
+developers are on GitHub.
+
+If you find any of these projects useful, you can support my work via
 [GitHub Sponsors](https://github.com/sponsors/cedricbonhomme),
 [Liberapay](https://liberapay.com/cedricbonhomme), or Bitcoin at this address:  
-[bc1q56u6sj7cvlwu58v5lemljcvkh7v2gc3tv8mj0e](bitcoin:BC1Q56U6SJ7CVLWU58V5LEMLJCVKH7V2GC3TV8MJ0E?label=Open%20Source%20projects)
-
-Thank you! (See also the projects I [donate](/donations) to myself.)
+[bc1q56u6sj7cvlwu58v5lemljcvkh7v2gc3tv8mj0e](bitcoin:BC1Q56U6SJ7CVLWU58V5LEMLJCVKH7V2GC3TV8MJ0E?label=Open%20Source%20projects)  
+Thank you! In turn, I [donate](/donations) to projects I rely on myself.
 
 
 ## Current focus
