@@ -8,14 +8,24 @@
   >
     <div class="archive__heading">{{ .Title }}</div>
     {{ $terms := .Pages.ByTitle }}
-    {{ if eq .Data.Plural "series" }}
+    {{ if eq .Kind "term" }}
+      {{/* A single term lists posts: series read in order, others newest first. */}}
+      {{ $terms = .Pages.ByDate.Reverse }}
+      {{ if eq .Data.Plural "series" }}
+        {{ $terms = .Pages.ByDate }}
+      {{ end }}
+    {{ else if eq .Data.Plural "series" }}
       {{ $terms = .Pages.ByDate.Reverse }}
     {{ end }}
     {{ range $terms }}
       <ul class="archive__list">
         <li class="archive__list-item">
           <a class="archive__list-title" href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
-          <div class="archive__list-date">{{ len .Pages }} {{ cond (eq (len .Pages) 1) "post" "posts" }}</div>
+          {{ if eq $.Kind "term" }}
+            <div class="archive__list-date">{{ .Date.Format "Jan 2, 2006" }}</div>
+          {{ else }}
+            <div class="archive__list-date">{{ len .Pages }} {{ cond (eq (len .Pages) 1) "post" "posts" }}</div>
+          {{ end }}
         </li>
       </ul>
     {{ end }}
