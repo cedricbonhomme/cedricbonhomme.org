@@ -6,6 +6,7 @@ type: post
 date: 2026-02-20
 categories: ["Sport"]
 tags: ["sport", "running", "marathon", "health"]
+series: ["Back to Running"]
 ---
 
 Dear happy readers and runners,

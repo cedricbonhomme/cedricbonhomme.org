@@ -9,6 +9,7 @@ categories:
 tags:
   - home
 
+series: ["Building the House"]
 ---
 Un nouveau projet débute. Pour une fois cela na pas grand chose à voir avec de
 l'informatique et c'est tout de même quelque chose que j'attends depuis de très

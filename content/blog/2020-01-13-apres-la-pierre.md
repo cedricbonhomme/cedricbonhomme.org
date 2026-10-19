@@ -9,6 +9,7 @@ categories:
 tags:
   - home
 
+series: ["Building the House"]
 ---
 {{< peertube peertube.co.uk hqPeGWjJ2kSr45YDcrt3w6 >}}
 

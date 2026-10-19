@@ -9,6 +9,7 @@ categories:
 tags:
   - home
 
+series: ["Building the House"]
 ---
 Le sous-sol ainsi que la dalle du rez-de-chaussé sont maintenant terminés.
 Il reste encore quelques petites choses à faire, comme par exemple l’étanchéité

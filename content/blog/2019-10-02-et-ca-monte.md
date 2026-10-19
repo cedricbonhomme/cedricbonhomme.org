@@ -9,6 +9,7 @@ categories:
 tags:
   - home
 
+series: ["Building the House"]
 ---
 Pour l'instant je ne tiens pas vraiment ma promesse de vous tenir au courant de
 notre

@@ -99,3 +99,8 @@
   background-color: currentColor;
   mask: url("/images/icons/librarything.svg") no-repeat center / contain;
 }
+
+/* Intro text above the blog archive, links coloured like those in posts */
+.archive__intro a {
+  color: #6086b4;
+}

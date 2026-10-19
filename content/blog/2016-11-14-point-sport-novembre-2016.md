@@ -9,6 +9,7 @@ tags:
 categories:
   - Sport
 
+series: ["Back to Running"]
 ---
 Je tiens toujours l’objectif que je me suis fixé au mois d’août.
 En gros, faire de l’exercice cinq fois par semaine. Ce n’est pas toujours

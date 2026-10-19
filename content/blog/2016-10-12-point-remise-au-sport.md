@@ -8,6 +8,7 @@ tags:
 categories:
   - Sport
 
+series: ["Back to Running"]
 ---
 Depuis le mois d'Août je maintiens le rythme fixé: au moins 45 minutes de sport
 par jour. Ceci, 5 fois par semaine. Surtout du vélo elliptique, aussi de la

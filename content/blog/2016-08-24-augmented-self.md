@@ -11,6 +11,7 @@ tags:
   - quantified-self
   - sport
 
+series: ["Back to Running"]
 ---
 J’ai toujours eu du mal à me mettre vraiment au sport. Les fidèles lecteurs de
 ce blog le savent. J’arrive même à envier les personnes qui ont besoin de courir

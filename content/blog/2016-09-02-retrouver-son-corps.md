@@ -10,6 +10,7 @@ tags:
   - quantified-self
   - sport
 
+series: ["Back to Running"]
 ---
 
 Suite à ce <a href="https://www.cedricbonhomme.org/2016/08/24/augmented-self/">précédent billet</a>, voici mon plan pour être plus en forme.
