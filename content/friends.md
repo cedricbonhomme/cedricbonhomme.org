@@ -1,7 +1,7 @@
 +++
 title = "Friends from memory"
 description = "Friends from memory"
-date = "2025-05-13"
+date = "2025-10-12"
 author = "Cédric Bonhomme"
 +++
 
@@ -74,4 +74,4 @@ remember you off the top of my head.
 
 If you find this some day when Googling your name, [drop me an email](/contact).
 
-Last edited: 2025-05-13
+Last edited: 2025-10-12
