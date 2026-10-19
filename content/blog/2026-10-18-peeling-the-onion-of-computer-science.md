@@ -4,7 +4,6 @@ slug: peeling-the-onion-of-computer-science
 author: Cédric Bonhomme
 type: post
 date: 2026-10-18
-draft: true
 categories: ["Science"]
 tags: ["computer-science", "mathematics", "logic", "history", "ai", "critical-thinking"]
 series: ["Thinking for Ourselves"]
