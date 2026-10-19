@@ -6,6 +6,7 @@ type: post
 date: 2026-10-10
 categories: ["Life"]
 tags: ["ai", "education", "critical-thinking", "reading", "mathematics", "lifestyle"]
+series: ["Thinking for Ourselves"]
 ---
 
 I am trying to slow down. Not to do less, but to do things properly and give them the time they need. To keep my curiosity, this need I have to understand how things work. To keep my own judgement. It sounds simple. It isn't, because everything around us pushes the other way, and generative AI pushes hardest. So this post is about that pressure, about what it does to the next generations, and about the one thing it cannot replace: the pleasure of doing difficult work yourself, in your own way. The work some people now call boring.
