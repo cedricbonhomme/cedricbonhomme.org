@@ -8,13 +8,7 @@
   >
     <div class="archive__heading">{{ .Title }}</div>
     {{ $terms := .Pages.ByTitle }}
-    {{ if eq .Kind "term" }}
-      {{/* A single term lists posts: series read in order, others newest first. */}}
-      {{ $terms = .Pages.ByDate.Reverse }}
-      {{ if eq .Data.Plural "series" }}
-        {{ $terms = .Pages.ByDate }}
-      {{ end }}
-    {{ else if eq .Data.Plural "series" }}
+    {{ if or (eq .Kind "term") (eq .Data.Plural "series") }}
       {{ $terms = .Pages.ByDate.Reverse }}
     {{ end }}
     {{ range $terms }}
