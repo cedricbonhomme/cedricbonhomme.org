@@ -17,8 +17,8 @@ because my main concern is losing potential contributors, and most open-source
 developers are on GitHub.
 
 If you find any of these projects useful, you can support my work via
-[GitHub Sponsors](https://github.com/sponsors/cedricbonhomme),
-[Liberapay](https://liberapay.com/cedricbonhomme), or Bitcoin at this address:  
+[Liberapay](https://liberapay.com/cedricbonhomme),
+[GitHub Sponsors](https://github.com/sponsors/cedricbonhomme), or Bitcoin at this address:  
 [bc1q56u6sj7cvlwu58v5lemljcvkh7v2gc3tv8mj0e](bitcoin:BC1Q56U6SJ7CVLWU58V5LEMLJCVKH7V2GC3TV8MJ0E?label=Open%20Source%20projects)  
 Thank you! In turn, I [donate](/donations) to projects I rely on myself.
 
@@ -30,8 +30,8 @@ The two projects I dedicate most of my open-source time to:
 - [**Vulnerability-Lookup**](https://github.com/vulnerability-lookup/vulnerability-lookup):
   unifies multi-source vulnerability data and streamlines Coordinated Vulnerability
   Disclosure workflows.
-- [**Newspipe**](https://sr.ht/~cedric/newspipe): a self-hostable,
-  web-based news aggregator and reader.
+- [**Newspipe**](https://sr.ht/~cedric/newspipe): a self-hosted web news aggregator — own your feeds,
+  your data, and your reading.
 
 
 ## Security
