@@ -42,3 +42,7 @@ Disallow: /
 User-agent: MJ12bot
 Disallow: /
 
+User-agent: *
+Allow: /
+
+Sitemap: {{ "sitemap.xml" | absURL }}

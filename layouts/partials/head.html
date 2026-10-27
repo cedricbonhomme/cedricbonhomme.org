@@ -155,6 +155,10 @@
   <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.Params.favicon | relURL }}favicon-16x16.png" />
 
   <link rel="canonical" href="{{ .Permalink }}" />
+  {{- /* Tag pages listing only a few posts are thin content: keep them crawlable but out of the index. */}}
+  {{- if and (eq .Kind "term") (eq .Data.Plural "tags") (lt (len .Pages) (or site.Params.tagIndexThreshold 3)) }}
+    <meta name="robots" content="noindex, follow" />
+  {{- end }}
   <!-- License -->
   {{- with .Site.Params.license -}}
     <link rel="license" href="{{ . }}" />

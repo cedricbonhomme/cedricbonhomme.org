@@ -45,6 +45,7 @@ rssLimit = 20
   numberOfRelatedPosts = 3
   customCss = ["css/custom.css"]
   images = ["/images/profile-picture.jpg"]
+  tagIndexThreshold = 3 # tag pages with fewer posts get noindex and are left out of the sitemap
 
 [related]
   includeNewer = true
