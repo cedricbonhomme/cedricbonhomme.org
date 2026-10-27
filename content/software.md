@@ -30,7 +30,7 @@ The two projects I dedicate most of my open-source time to:
 - [**Vulnerability-Lookup**](https://github.com/vulnerability-lookup/vulnerability-lookup):
   unifies multi-source vulnerability data and streamlines Coordinated Vulnerability
   Disclosure workflows.
-- [**Newspipe**](https://github.com/cedricbonhomme/newspipe): a self-hostable,
+- [**Newspipe**](https://sr.ht/~cedric/newspipe): a self-hostable,
   web-based news aggregator and reader.
 
 
@@ -48,7 +48,7 @@ The two projects I dedicate most of my open-source time to:
 
 ## Fractals & mathematics
 
-- [Iterated Function Systems](https://github.com/cedricbonhomme/iterated-function-systems):
+- [Iterated Function Systems](https://git.sr.ht/~cedric/iterated-function-systems):
   an exploration of IFS fractals in OCaml, rendering attractors with the chaos
   game. It accompanies my paper
   [*Building New IFS Attractors: a Working Vocabulary of Affine Maps*](https://zenodo.org/doi/10.5281/zenodo.21804778)
