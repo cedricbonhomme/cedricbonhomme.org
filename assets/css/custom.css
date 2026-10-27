@@ -100,6 +100,16 @@
   mask: url("/images/icons/librarything.svg") no-repeat center / contain;
 }
 
+/* SourceHut logo in the sidebar, coloured like the Font Awesome icons */
+.icon-sourcehut {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+  background-color: currentColor;
+  mask: url("/images/icons/sourcehut.svg") no-repeat center / contain;
+}
+
 /* Intro text above the blog archive, links coloured like those in posts */
 .archive__intro a {
   color: #6086b4;
