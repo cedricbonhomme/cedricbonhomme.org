@@ -1,5 +1,6 @@
 ---
 title: Sybil attack
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-12-26T23:24:34+00:00

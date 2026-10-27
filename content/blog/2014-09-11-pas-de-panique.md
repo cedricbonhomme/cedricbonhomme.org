@@ -1,5 +1,6 @@
 ---
 title: Pas de panique
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-09-11T15:42:59+00:00

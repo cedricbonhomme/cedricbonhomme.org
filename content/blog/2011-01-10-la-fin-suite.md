@@ -1,5 +1,6 @@
 ---
 title: La fin (suite)
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-01-10T16:32:17+00:00

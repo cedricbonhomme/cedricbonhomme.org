@@ -1,5 +1,6 @@
 ---
 title: Webian Shell
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-06-07T06:06:42+00:00

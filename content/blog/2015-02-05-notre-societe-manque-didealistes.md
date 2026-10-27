@@ -1,5 +1,6 @@
 ---
 title: Notre société manque d’idéalistes
+lang: fr
 slug: notre-societe-manque-didealistes
 author: Cédric Bonhomme
 type: post

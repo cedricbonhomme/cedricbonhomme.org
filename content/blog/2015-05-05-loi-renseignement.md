@@ -1,5 +1,6 @@
 ---
 title: Loi renseignement
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2015-05-05T21:48:36+00:00

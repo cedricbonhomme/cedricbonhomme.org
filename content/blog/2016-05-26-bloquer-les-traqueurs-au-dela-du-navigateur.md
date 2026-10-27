@@ -1,5 +1,6 @@
 ---
 title: Bloquer les traqueurs au-delà du navigateur
+lang: fr
 slug: bloquer-les-traqueurs-au-dela-du-navigateur
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Un ordinateur solaire
+lang: fr
 slug: un-ordinateur-solaire
 author: Cédric Bonhomme
 type: post

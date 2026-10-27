@@ -1,5 +1,6 @@
 ---
 title: Client Oauth Python pour l’API OpenPhoto
+lang: fr
 slug: client-oauth-python-pour-lapi-openphoto
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Navigateurs
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2009-11-21T11:50:18+00:00

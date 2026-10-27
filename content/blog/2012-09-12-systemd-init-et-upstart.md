@@ -1,5 +1,6 @@
 ---
 title: systemd, init et upstart
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-09-12T06:14:09+00:00

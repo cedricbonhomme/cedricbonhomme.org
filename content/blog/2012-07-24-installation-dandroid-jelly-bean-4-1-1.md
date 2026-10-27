@@ -1,5 +1,6 @@
 ---
 title: Installation d’Android Jelly Bean 4.1.1
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-07-23T22:13:38+00:00

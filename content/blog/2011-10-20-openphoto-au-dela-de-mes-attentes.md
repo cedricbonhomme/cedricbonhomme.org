@@ -1,5 +1,6 @@
 ---
 title: OpenPhoto, au-delà de mes attentes!
+lang: fr
 slug: openphoto-au-dela-de-mes-attentes
 author: Cédric Bonhomme
 type: post

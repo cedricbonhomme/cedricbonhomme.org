@@ -1,5 +1,6 @@
 ---
 title: Point remise au sport
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2016-10-12T07:07:59+00:00

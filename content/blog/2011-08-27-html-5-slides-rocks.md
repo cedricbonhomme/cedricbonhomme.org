@@ -1,5 +1,6 @@
 ---
 title: HTML 5 Slides Rocks
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-08-27T11:01:02+00:00

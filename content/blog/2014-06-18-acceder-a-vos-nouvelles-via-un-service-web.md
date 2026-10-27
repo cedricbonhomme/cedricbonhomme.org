@@ -1,5 +1,6 @@
 ---
 title: Accéder à vos nouvelles via un service Web
+lang: fr
 slug: acceder-a-vos-nouvelles-via-un-service-web
 author: Cédric Bonhomme
 type: post

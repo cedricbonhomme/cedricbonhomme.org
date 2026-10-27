@@ -1,5 +1,6 @@
 ---
 title: Intégration de Firefox à KDE 4
+lang: fr
 slug: integration-de-firefox-a-kde-4
 author: Cédric Bonhomme
 type: post

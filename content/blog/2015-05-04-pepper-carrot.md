@@ -1,5 +1,6 @@
 ---
 title: 'Pepper & Carrot'
+lang: fr
 slug: pepper-carrot
 author: Cédric Bonhomme
 type: post

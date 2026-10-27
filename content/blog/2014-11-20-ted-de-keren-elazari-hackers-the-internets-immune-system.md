@@ -1,5 +1,6 @@
 ---
 title: 'TED de Keren Elazari: Hackers: the Internet’s immune system'
+lang: fr
 slug: ted-de-keren-elazari-hackers-the-internets-immune-system
 author: Cédric Bonhomme
 type: post

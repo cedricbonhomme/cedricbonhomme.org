@@ -1,5 +1,6 @@
 ---
 title: Plateforme météorologique
+lang: fr
 slug: plateforme-meteorologique
 author: Cédric Bonhomme
 type: post

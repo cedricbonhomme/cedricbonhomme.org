@@ -1,5 +1,6 @@
 ---
 title: 'GPS, Android & Python'
+lang: fr
 slug: gps-android-python
 author: Cédric Bonhomme
 type: post

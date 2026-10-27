@@ -1,5 +1,6 @@
 ---
 title: pyAggr3g470r – Notification par mail
+lang: fr
 slug: pyaggr3g470r-notification-par-mail
 author: Cédric Bonhomme
 type: post

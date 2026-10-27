@@ -1,5 +1,6 @@
 ---
 title: Confiance envers les CA
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-03-23T17:01:37+00:00

@@ -1,5 +1,6 @@
 ---
 title: Le nerd dans la société
+lang: fr
 slug: le-nerd-dans-la-societe
 author: Cédric Bonhomme
 type: post

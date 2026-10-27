@@ -1,5 +1,6 @@
 ---
 title: 'pyAggr3g470r & Diaspora'
+lang: fr
 slug: pyaggr3g470r-diaspora
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: pyAggr3g470r dans les nuages
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-09-20T06:10:37+00:00

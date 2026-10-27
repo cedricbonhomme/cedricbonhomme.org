@@ -1,5 +1,6 @@
 ---
 title: Wikileaking
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-09-02T11:40:11+00:00

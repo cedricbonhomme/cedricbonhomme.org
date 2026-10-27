@@ -1,5 +1,6 @@
 ---
 title: Module de manipulation d’URL de Python 3
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-01-24T21:14:22+00:00

@@ -1,5 +1,6 @@
 ---
 title: Le Raspberry Pi modèle B avec 512 Mo de RAM
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-10-16T05:57:21+00:00

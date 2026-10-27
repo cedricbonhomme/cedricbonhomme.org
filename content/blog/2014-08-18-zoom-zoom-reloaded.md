@@ -1,5 +1,6 @@
 ---
 title: Zoom-Zoom reloaded
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-08-18T20:29:02+00:00

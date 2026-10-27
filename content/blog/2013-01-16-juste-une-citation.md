@@ -1,5 +1,6 @@
 ---
 title: Juste une citation
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-01-16T21:21:32+00:00

@@ -1,5 +1,6 @@
 ---
 title: Vérification de signature GPG sur GitHub
+lang: fr
 slug: verification-de-signature-gpg-sur-github
 author: Cédric Bonhomme
 type: post

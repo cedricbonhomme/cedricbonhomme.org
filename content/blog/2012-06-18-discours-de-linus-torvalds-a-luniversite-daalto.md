@@ -1,5 +1,6 @@
 ---
 title: Discours de Linus Torvalds à l’université d’Aalto
+lang: fr
 slug: discours-de-linus-torvalds-a-luniversite-daalto
 author: Cédric Bonhomme
 type: post

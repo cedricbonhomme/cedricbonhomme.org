@@ -1,5 +1,6 @@
 ---
 title: Comment encore avoir un semblant de vie privée sur le Web
+lang: fr
 slug: comment-encore-avoir-un-semblant-de-vie-privee-sur-le-web
 type: post
 date: 2014-02-26T18:06:21+00:00

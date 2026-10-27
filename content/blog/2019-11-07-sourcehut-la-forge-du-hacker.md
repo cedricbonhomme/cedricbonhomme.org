@@ -1,5 +1,6 @@
 ---
 title: sourcehut – la forge du hacker
+lang: fr
 slug: sourcehut-la-forge-du-hacker
 author: Cédric Bonhomme
 type: post

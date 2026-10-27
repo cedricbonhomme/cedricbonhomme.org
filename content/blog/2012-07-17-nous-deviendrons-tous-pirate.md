@@ -1,5 +1,6 @@
 ---
 title: Nous deviendrons tous pirate
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-07-17T06:31:44+00:00

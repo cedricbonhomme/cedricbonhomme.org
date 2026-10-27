@@ -1,5 +1,6 @@
 ---
 title: Performances de Haskell et C
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-01-21T20:39:04+00:00

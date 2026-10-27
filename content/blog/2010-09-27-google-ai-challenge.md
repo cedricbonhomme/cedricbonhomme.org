@@ -1,5 +1,6 @@
 ---
 title: Google AI Challenge
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2010-09-27T21:51:50+00:00

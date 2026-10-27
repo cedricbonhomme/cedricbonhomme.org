@@ -1,5 +1,6 @@
 ---
 title: Vie privée sur le Web
+lang: fr
 slug: vie-privee-sur-le-web
 author: Cédric Bonhomme
 type: post

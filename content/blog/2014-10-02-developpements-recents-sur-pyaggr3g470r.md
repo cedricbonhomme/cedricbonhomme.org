@@ -1,5 +1,6 @@
 ---
 title: Développements récents sur pyAggr3g470r
+lang: fr
 slug: developpements-recents-sur-pyaggr3g470r
 author: Cédric Bonhomme
 type: post

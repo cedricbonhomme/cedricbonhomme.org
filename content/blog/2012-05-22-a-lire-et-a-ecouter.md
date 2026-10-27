@@ -1,5 +1,6 @@
 ---
 title: À lire et à écouter
+lang: fr
 slug: a-lire-et-a-ecouter
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: La citation du jour…
+lang: fr
 slug: la-citation-du-jour
 author: Cédric Bonhomme
 type: post

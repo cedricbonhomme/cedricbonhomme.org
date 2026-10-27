@@ -1,5 +1,6 @@
 ---
 title: Refonte de pyAggr3g470r
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-11-01T21:00:56+00:00

@@ -1,5 +1,6 @@
 ---
 title: Retrouver son corps
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2016-09-02T08:53:50+00:00

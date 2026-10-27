@@ -1,5 +1,6 @@
 ---
 title: Python devient fainéant
+lang: fr
 slug: python-devient-faineant
 author: Cédric Bonhomme
 type: post

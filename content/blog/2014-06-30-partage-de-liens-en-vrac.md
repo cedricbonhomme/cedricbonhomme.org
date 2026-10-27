@@ -1,5 +1,6 @@
 ---
 title: Partage de liens en vrac
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-06-30T17:11:07+00:00

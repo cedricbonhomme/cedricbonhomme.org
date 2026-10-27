@@ -1,5 +1,6 @@
 ---
 title: Discours de Bruce Schneier sur le pouvoir et la sécurité
+lang: fr
 slug: discours-de-bruce-schneier-sur-le-pouvoir-et-la-securite
 author: Cédric Bonhomme
 type: post

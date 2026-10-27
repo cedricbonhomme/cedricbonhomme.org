@@ -1,5 +1,6 @@
 ---
 title: 'Article "When EC2 Hardware Changes Underneath You…"'
+lang: fr
 slug: article-when-ec2-hardware-changes-underneath-you
 author: Cédric Bonhomme
 type: post

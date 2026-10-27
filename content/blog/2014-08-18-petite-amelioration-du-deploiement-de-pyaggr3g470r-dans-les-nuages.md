@@ -1,5 +1,6 @@
 ---
 title: Petite amélioration du déploiement de pyAggr3g470r dans les nuages
+lang: fr
 slug: petite-amelioration-du-deploiement-de-pyaggr3g470r-dans-les-nuages
 author: Cédric Bonhomme
 type: post

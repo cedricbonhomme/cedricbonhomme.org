@@ -1,5 +1,6 @@
 ---
 title: Astuce pour Firefox
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-08-21T06:04:57+00:00

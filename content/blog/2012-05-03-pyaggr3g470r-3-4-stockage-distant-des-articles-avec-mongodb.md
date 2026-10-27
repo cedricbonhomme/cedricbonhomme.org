@@ -1,5 +1,6 @@
 ---
 title: 'pyAggr3g470r 3.4: stockage distant des articles avec MongoDB'
+lang: fr
 slug: pyaggr3g470r-3-4-stockage-distant-des-articles-avec-mongodb
 author: Cédric Bonhomme
 type: post

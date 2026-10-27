@@ -1,5 +1,6 @@
 ---
 title: PlayOnLinux
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2008-12-23T22:03:10+00:00

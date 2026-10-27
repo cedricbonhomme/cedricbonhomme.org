@@ -1,5 +1,6 @@
 ---
 title: Just Another RSS Reader
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2015-12-09T06:08:27+00:00

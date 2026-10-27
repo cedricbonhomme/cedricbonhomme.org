@@ -1,5 +1,6 @@
 ---
 title: "Bye bye Firefox! let me know when it's fixed"
+lang: fr
 slug: bye-bye-firefox-let-me-know-when-its-fixed
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Réponse d’ESR à Hollywood
+lang: fr
 slug: reponse-desr-a-hollywood
 author: Cédric Bonhomme
 type: post

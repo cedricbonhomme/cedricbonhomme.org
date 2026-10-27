@@ -1,5 +1,6 @@
 ---
 title: Une première augmentation de prix pour la Tesla
+lang: fr
 slug: une-premiere-augmentation-de-prix-pour-la-tesla
 author: Cédric Bonhomme
 type: post

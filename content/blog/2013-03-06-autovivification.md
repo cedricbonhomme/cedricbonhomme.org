@@ -1,5 +1,6 @@
 ---
 title: Autovivification
+lang: fr
 slug: autovivification
 author: Cédric Bonhomme
 type: post

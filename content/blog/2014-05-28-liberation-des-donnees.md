@@ -1,5 +1,6 @@
 ---
 title: Libération des données
+lang: fr
 slug: liberation-des-donnees
 author: Cédric Bonhomme
 type: post

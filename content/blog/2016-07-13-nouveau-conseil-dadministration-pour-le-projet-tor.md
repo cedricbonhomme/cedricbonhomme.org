@@ -1,5 +1,6 @@
 ---
 title: Nouveau conseil d’administration pour le projet Tor
+lang: fr
 slug: nouveau-conseil-dadministration-pour-le-projet-tor
 author: Cédric Bonhomme
 type: post

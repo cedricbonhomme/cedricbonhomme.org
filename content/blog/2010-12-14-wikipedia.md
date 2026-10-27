@@ -1,5 +1,6 @@
 ---
 title: Wikipedia
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2010-12-14T11:51:26+00:00

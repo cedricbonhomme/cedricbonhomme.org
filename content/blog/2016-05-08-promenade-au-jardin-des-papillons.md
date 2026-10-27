@@ -1,5 +1,6 @@
 ---
 title: Promenade au jardin des papillons
+lang: fr
 slug: promenade-au-jardin-des-papillons
 author: Cédric Bonhomme
 type: post

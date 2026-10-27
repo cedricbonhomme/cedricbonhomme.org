@@ -1,5 +1,6 @@
 ---
 title: Scripter vos personnalisations de Firefox
+lang: fr
 slug: scripter-vos-personnalisations-de-firefox
 author: Cédric Bonhomme
 type: post

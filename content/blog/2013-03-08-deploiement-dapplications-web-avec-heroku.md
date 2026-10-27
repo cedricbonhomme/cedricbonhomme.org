@@ -1,5 +1,6 @@
 ---
 title: Déploiement d’applications Web avec Heroku
+lang: fr
 slug: deploiement-dapplications-web-avec-heroku
 author: Cédric Bonhomme
 type: post

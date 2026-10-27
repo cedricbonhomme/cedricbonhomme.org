@@ -1,5 +1,6 @@
 ---
 title: Utiliser Tor de manière transparente
+lang: fr
 slug: utiliser-tor-de-maniere-transparente
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Quelques notes sur Python
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2010-12-14T21:32:28+00:00

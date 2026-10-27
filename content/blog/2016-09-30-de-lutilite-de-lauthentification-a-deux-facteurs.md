@@ -1,5 +1,6 @@
 ---
 title: De l’utilité de l’authentification à deux facteurs
+lang: fr
 slug: de-lutilite-de-lauthentification-a-deux-facteurs
 author: Cédric Bonhomme
 type: post

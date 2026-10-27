@@ -1,5 +1,6 @@
 ---
 title: En fait il avait déjà gagné
+lang: fr
 slug: en-fait-il-avait-deja-gagne
 author: Cédric Bonhomme
 type: post

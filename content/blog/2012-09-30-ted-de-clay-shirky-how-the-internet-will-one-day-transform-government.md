@@ -1,5 +1,6 @@
 ---
 title: 'TED de Clay Shirky: How the Internet will (one day) transform government'
+lang: fr
 slug: ted-de-clay-shirky-how-the-internet-will-one-day-transform-government
 author: Cédric Bonhomme
 type: post

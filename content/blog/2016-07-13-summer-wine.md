@@ -1,5 +1,6 @@
 ---
 title: Summer Wine
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2016-07-13T19:13:10+00:00

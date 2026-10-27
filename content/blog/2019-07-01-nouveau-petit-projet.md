@@ -1,5 +1,6 @@
 ---
 title: Nouveau petit projet
+lang: fr
 slug: nouveau-petit-projet
 author: Cédric Bonhomme
 type: post

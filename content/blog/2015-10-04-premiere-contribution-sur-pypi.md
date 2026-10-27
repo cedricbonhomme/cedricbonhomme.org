@@ -1,5 +1,6 @@
 ---
 title: Première contribution sur PyPI
+lang: fr
 slug: premiere-contribution-sur-pypi
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Un joli dessin
+lang: fr
 slug: un-joli-dessin
 author: Cédric Bonhomme
 type: post

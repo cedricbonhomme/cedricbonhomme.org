@@ -1,5 +1,6 @@
 ---
 title: Ce que je pense de ce que pense Stallman sur le Cloud Computing
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-01-12T11:12:15+00:00

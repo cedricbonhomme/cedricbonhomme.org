@@ -1,5 +1,6 @@
 ---
 title: 'pyAggr3g470r: version 3.2'
+lang: fr
 slug: pyaggr3g470r-version-3-2
 author: Cédric Bonhomme
 type: post

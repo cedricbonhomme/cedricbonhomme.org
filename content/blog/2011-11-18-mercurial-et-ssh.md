@@ -1,5 +1,6 @@
 ---
 title: Mercurial et SSH
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-11-18T19:48:11+00:00

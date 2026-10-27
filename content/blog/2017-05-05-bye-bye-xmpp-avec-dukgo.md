@@ -1,5 +1,6 @@
 ---
 title: Bye bye xmpp avec dukgo
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2017-05-05T21:17:03+00:00

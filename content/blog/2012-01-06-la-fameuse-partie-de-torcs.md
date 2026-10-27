@@ -1,5 +1,6 @@
 ---
 title: La fameuse partie de TORCS
+lang: fr
 slug: la-fameuse-partie-de-torcs
 author: Cédric Bonhomme
 type: post

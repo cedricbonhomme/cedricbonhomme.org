@@ -1,5 +1,6 @@
 ---
 title: Stéganalyse de la méthode LSB
+lang: fr
 slug: steganalyse-de-la-methode-lsb
 author: Cédric Bonhomme
 type: post

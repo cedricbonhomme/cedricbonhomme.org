@@ -1,5 +1,6 @@
 ---
 title: Balloon prend de la hauteur
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-10-09T18:32:31+00:00

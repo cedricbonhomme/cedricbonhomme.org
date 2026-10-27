@@ -1,5 +1,6 @@
 ---
 title: OsmOpenPhoto (2)
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-07-24T10:22:57+00:00

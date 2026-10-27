@@ -1,5 +1,6 @@
 ---
 title: Nouveau thème pour le blog
+lang: fr
 slug: nouveau-theme-pour-le-blog
 author: Cédric Bonhomme
 type: post

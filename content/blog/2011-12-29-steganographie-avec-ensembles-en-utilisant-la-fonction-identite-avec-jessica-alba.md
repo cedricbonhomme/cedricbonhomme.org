@@ -1,5 +1,6 @@
 ---
 title: Stéganographie avec ensembles en utilisant la fonction identité
+lang: fr
 slug: steganographie-avec-ensembles-en-utilisant-la-fonction-identite
 author: Cédric Bonhomme
 type: post

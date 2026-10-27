@@ -1,5 +1,6 @@
 ---
 title: Utilisation de l’interface Python d’OpenCV
+lang: fr
 slug: utilisation-de-linterface-python-dopencv
 author: Cédric Bonhomme
 type: post

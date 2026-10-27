@@ -1,5 +1,6 @@
 ---
 title: Python en tête
+lang: fr
 slug: python-en-tete
 date: 2022-03-16T22:31:52+01:00
 author: Cédric Bonhomme

@@ -1,5 +1,6 @@
 ---
 title: Lorde – Team
+lang: fr
 slug: lorde-tean
 author: Cédric Bonhomme
 type: post

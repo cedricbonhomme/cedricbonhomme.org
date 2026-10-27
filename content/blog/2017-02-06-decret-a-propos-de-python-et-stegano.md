@@ -1,5 +1,6 @@
 ---
 title: Décret à propos de Python et Stegano
+lang: fr
 slug: decret-a-propos-de-python-et-stegano
 author: Cédric Bonhomme
 type: post

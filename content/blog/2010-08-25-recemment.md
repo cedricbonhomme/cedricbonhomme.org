@@ -1,5 +1,6 @@
 ---
 title: Récemment
+lang: fr
 slug: recemment
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: The Art of Python Programming
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-04-16T20:53:25+00:00

@@ -1,5 +1,6 @@
 ---
 title: Encore une astuce GitHub
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2016-04-18T21:53:12+00:00

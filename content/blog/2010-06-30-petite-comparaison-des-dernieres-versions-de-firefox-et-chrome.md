@@ -1,5 +1,6 @@
 ---
 title: Petite comparaison des dernières versions de Firefox et Chrome
+lang: fr
 slug: petite-comparaison-des-dernieres-versions-de-firefox-et-chrome
 author: Cédric Bonhomme
 type: post

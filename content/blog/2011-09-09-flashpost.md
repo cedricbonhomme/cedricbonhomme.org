@@ -1,5 +1,6 @@
 ---
 title: flashpost
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-09-09T09:07:19+00:00

@@ -1,5 +1,6 @@
 ---
 title: BIOS protection
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-05-21T20:42:23+00:00

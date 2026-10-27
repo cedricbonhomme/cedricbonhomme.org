@@ -1,5 +1,6 @@
 ---
 title: Fear this winter
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2015-12-29T15:43:13+00:00

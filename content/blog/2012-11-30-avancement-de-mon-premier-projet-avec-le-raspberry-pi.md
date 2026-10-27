@@ -1,5 +1,6 @@
 ---
 title: Avancement de mon premier projet avec le Raspberry Pi
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-11-30T21:18:05+00:00

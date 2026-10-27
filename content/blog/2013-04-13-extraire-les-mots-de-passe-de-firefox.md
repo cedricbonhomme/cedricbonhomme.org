@@ -1,5 +1,6 @@
 ---
 title: Extraire les mots de passe de Firefox
+lang: fr
 slug: extraire-les-mots-de-passe-de-firefox
 author: Cédric Bonhomme
 type: post

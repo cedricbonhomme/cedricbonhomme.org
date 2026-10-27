@@ -1,5 +1,6 @@
 ---
 title: Infosuicide de Mark Pilgrim
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-10-05T20:22:06+00:00

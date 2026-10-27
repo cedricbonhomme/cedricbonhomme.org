@@ -1,5 +1,6 @@
 ---
 title: Déploiement simplifié de pyAggr3g470r
+lang: fr
 slug: deploiement-simplifie-de-pyaggr3g470r
 author: Cédric Bonhomme
 type: post

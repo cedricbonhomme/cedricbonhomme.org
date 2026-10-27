@@ -1,5 +1,6 @@
 ---
 title: Liquidambar styraciflua – 4 jours après
+lang: fr
 slug: liquidambar-styraciflua-4-jours-apres
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Erreurs URL
+lang: fr
 slug: erreurs-url
 author: Cédric Bonhomme
 type: post

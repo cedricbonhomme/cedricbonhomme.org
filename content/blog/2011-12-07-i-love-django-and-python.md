@@ -1,5 +1,6 @@
 ---
 title: “The Web framework for perfectionists with deadlines”
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-12-07T22:27:58+00:00

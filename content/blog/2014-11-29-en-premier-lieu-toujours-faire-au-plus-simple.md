@@ -1,5 +1,6 @@
 ---
 title: En premier lieu toujours faire au plus simple
+lang: fr
 slug: en-premier-lieu-toujours-faire-au-plus-simple
 author: Cédric Bonhomme
 type: post

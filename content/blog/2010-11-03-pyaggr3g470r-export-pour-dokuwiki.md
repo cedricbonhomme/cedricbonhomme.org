@@ -1,5 +1,6 @@
 ---
 title: pyAggr3g470r – Export pour DokuWiki
+lang: fr
 slug: pyaggr3g470r-export-pour-dokuwiki
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Linkin Park – Rolling In The Deep
+lang: fr
 slug: linkin-park-rolling-in-the-deep
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Stanford crypto class
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-12-13T21:18:41+00:00

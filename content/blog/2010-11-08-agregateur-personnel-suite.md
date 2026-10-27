@@ -1,5 +1,6 @@
 ---
 title: Agrégateur personnel (suite)
+lang: fr
 slug: agregateur-personnel-suite
 author: Cédric Bonhomme
 type: post

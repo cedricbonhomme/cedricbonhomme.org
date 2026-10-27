@@ -1,5 +1,6 @@
 ---
 title: Tesla Motors
+lang: fr
 slug: tesla-motors
 author: Cédric Bonhomme
 type: post

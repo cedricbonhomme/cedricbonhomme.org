@@ -1,5 +1,6 @@
 ---
 title: Point sport – novembre 2016
+lang: fr
 slug: point-sport-novembre-2016
 author: Cédric Bonhomme
 type: post

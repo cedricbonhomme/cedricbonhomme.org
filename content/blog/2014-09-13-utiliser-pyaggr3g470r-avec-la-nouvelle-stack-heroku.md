@@ -1,5 +1,6 @@
 ---
 title: Utiliser pyAggr3g470r avec la nouvelle stack Heroku
+lang: fr
 slug: utiliser-pyaggr3g470r-avec-la-nouvelle-stack-heroku
 author: Cédric Bonhomme
 type: post

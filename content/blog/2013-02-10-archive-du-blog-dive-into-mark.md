@@ -1,5 +1,6 @@
 ---
 title: Archive du blog Dive Into Mark
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-02-10T08:45:01+00:00

@@ -1,5 +1,6 @@
 ---
 title: L’informatique pour tous
+lang: fr
 slug: linformatique-pour-tous
 author: Cédric Bonhomme
 type: post

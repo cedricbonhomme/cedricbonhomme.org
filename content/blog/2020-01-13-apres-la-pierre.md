@@ -1,5 +1,6 @@
 ---
 title: Après la pierre
+lang: fr
 slug: apres-la-pierre
 author: Cédric Bonhomme
 type: post

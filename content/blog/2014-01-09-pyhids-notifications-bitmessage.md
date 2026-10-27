@@ -1,5 +1,6 @@
 ---
 title: 'pyHIDS: notifications Bitmessage'
+lang: fr
 slug: pyhids-notifications-bitmessage
 author: Cédric Bonhomme
 type: post

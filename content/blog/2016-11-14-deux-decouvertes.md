@@ -1,5 +1,6 @@
 ---
 title: Deux découvertes
+lang: fr
 slug: deux-decouvertes
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Contribution à la liste des prénoms
+lang: fr
 slug: contribution-a-la-liste-des-prenoms
 author: Cédric Bonhomme
 type: post

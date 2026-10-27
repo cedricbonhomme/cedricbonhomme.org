@@ -1,5 +1,6 @@
 ---
 title: Protection de Firefox contre le tracking
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2015-05-24T13:12:48+00:00

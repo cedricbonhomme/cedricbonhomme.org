@@ -1,5 +1,6 @@
 ---
 title: Naviguer sur le Web avec un minimum d’anonymat
+lang: fr
 slug: naviguer-sur-le-web-avec-un-minimum-danonymat
 author: Cédric Bonhomme
 type: post

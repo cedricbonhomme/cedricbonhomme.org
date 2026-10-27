@@ -1,5 +1,6 @@
 ---
 title: L’affaire Gemalto et en passant mon avis sur les certifications sécurité
+lang: fr
 slug: laffaire-gemalto-et-en-passant-mon-avis-sur-les-certifications-securite
 author: Cédric Bonhomme
 type: post

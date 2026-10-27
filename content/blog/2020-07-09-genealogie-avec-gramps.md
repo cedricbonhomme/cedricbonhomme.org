@@ -1,5 +1,6 @@
 ---
 title: Généalogie avec Gramps
+lang: fr
 slug: genealogie-avec-gramps
 author: Cédric Bonhomme
 type: post

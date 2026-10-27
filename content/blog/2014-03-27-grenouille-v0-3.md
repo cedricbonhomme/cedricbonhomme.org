@@ -1,5 +1,6 @@
 ---
 title: 'Grenouille: v0.3'
+lang: fr
 slug: grenouille-v0-3
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Nouvelles à propos d’OpenPhoto
+lang: fr
 slug: nouvelles-a-propos-dopenphoto
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: 'C, Python & Ocaml ou les plaisirs simples de la vie'
+lang: fr
 slug: perhaps_the_three_most_beautiful_programming_languages​​
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Éviter les faux signaux GPS
+lang: fr
 slug: eviter-les-faux-signaux-gps
 author: Cédric Bonhomme
 type: post

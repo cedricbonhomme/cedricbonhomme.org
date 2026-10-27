@@ -1,5 +1,6 @@
 ---
 title: 'Lecture: «What’s Wrong With the Internet and How We Can Fix It»'
+lang: fr
 slug: lecture-whats-wrong-with-the-internet-and-how-we-can-fix-it
 author: Cédric Bonhomme
 type: post

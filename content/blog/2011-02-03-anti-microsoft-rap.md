@@ -1,5 +1,6 @@
 ---
 title: Anti-Microsoft rap
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-02-03T11:28:04+00:00

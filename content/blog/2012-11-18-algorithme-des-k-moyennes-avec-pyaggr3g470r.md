@@ -1,5 +1,6 @@
 ---
 title: Algorithme des k-moyennes avec pyAggr3g470r
+lang: fr
 slug: algorithme-des-k-moyennes-avec-pyaggr3g470r
 author: Cédric Bonhomme
 type: post

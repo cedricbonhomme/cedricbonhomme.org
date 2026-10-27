@@ -1,5 +1,6 @@
 ---
 title: Heptacodium miconioides
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2017-04-12T19:07:19+00:00

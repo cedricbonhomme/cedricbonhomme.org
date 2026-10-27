@@ -1,5 +1,6 @@
 ---
 title: Encore un mot de passe en moins à retenir
+lang: fr
 slug: encore-un-mot-de-passe-en-moins-a-retenir
 author: Cédric Bonhomme
 type: post

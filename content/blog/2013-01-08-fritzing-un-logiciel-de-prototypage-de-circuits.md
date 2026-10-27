@@ -1,5 +1,6 @@
 ---
 title: 'Fritzing: un logiciel de prototypage de circuits'
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-01-08T13:29:22+00:00

@@ -1,5 +1,6 @@
 ---
 title: La magie de Python
+lang: fr
 slug: la-magie-de-python
 author: Cédric Bonhomme
 type: post

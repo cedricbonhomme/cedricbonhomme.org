@@ -1,5 +1,6 @@
 ---
 title: Coldplay – Every Teardrop Is a Waterfall
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-02-05T21:05:10+00:00

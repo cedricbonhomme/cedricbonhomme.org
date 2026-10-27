@@ -1,5 +1,6 @@
 ---
 title: A gentle introduction to Steganography
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-10-17T06:28:36+00:00

@@ -1,5 +1,6 @@
 ---
 title: Contribution à Wikimedia
+lang: fr
 slug: contribution-a-wikimedia
 author: Cédric Bonhomme
 type: post

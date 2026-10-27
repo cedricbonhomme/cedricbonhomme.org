@@ -1,5 +1,6 @@
 ---
 title: L’effet Streisand
+lang: fr
 slug: leffet-streisand
 author: Cédric Bonhomme
 type: post

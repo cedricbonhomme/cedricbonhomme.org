@@ -1,5 +1,6 @@
 ---
 title: Sécurité contre vie privée
+lang: fr
 slug: securite-contre-vie-privee
 author: Cédric Bonhomme
 type: post

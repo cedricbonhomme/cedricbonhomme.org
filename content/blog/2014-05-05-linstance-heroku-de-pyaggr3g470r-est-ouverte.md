@@ -1,5 +1,6 @@
 ---
 title: L’instance Heroku de pyAggr3g470r est ouverte
+lang: fr
 slug: linstance-heroku-de-pyaggr3g470r-est-ouverte
 author: Cédric Bonhomme
 type: post

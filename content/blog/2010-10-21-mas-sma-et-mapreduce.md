@@ -1,5 +1,6 @@
 ---
 title: MAS (SMA) et MapReduce
+lang: fr
 slug: mas-sma-et-mapreduce
 author: Cédric Bonhomme
 type: post

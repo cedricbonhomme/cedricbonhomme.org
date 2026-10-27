@@ -1,5 +1,6 @@
 ---
 title: JavaScript, quand il le faut…
+lang: fr
 slug: javascript-quand-il-le-faut
 author: Cédric Bonhomme
 type: post

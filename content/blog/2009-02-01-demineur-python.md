@@ -1,5 +1,6 @@
 ---
 title: Démineur Python
+lang: fr
 slug: demineur-python
 author: Cédric Bonhomme
 type: post

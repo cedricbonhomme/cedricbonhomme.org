@@ -1,5 +1,6 @@
 ---
 title: Un peu de code et encore un peu plus d’améliorations
+lang: fr
 slug: un-peu-de-code-et-encore-un-peu-plus-dameliorations
 author: Cédric Bonhomme
 type: post

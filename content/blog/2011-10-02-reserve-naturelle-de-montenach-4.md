@@ -1,5 +1,6 @@
 ---
 title: 'Réserve naturelle de Montenach #4'
+lang: fr
 slug: reserve-naturelle-de-montenach-4
 author: Cédric Bonhomme
 type: post

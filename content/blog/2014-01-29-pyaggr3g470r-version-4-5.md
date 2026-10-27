@@ -1,5 +1,6 @@
 ---
 title: 'pyAggr3g470r: version 4.5'
+lang: fr
 slug: pyaggr3g470r-4-5
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Batman – dark knight rises
+lang: fr
 slug: batman-dark-knight-rises
 author: Cédric Bonhomme
 type: post

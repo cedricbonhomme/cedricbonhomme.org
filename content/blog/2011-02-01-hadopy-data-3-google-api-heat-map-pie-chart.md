@@ -1,5 +1,6 @@
 ---
 title: 'HadoPy-Data #3 – Google API, heat map, pie chart'
+lang: fr
 slug: hadopy-data-3-google-api-heat-map-pie-chart
 author: Cédric Bonhomme
 type: post

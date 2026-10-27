@@ -1,5 +1,6 @@
 ---
 title: Simple Art of Steganography
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2010-10-25T19:42:57+00:00

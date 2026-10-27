@@ -1,5 +1,6 @@
 ---
 title: Installation de Python
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2016-09-20T10:30:11+00:00

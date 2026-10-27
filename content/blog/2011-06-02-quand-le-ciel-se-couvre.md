@@ -1,5 +1,6 @@
 ---
 title: Quand le ciel se couvre
+lang: fr
 slug: quand-le-ciel-se-couvre
 author: Cédric Bonhomme
 type: post

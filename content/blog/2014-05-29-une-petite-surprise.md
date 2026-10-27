@@ -1,5 +1,6 @@
 ---
 title: Une petite surprise
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-05-29T18:07:54+00:00

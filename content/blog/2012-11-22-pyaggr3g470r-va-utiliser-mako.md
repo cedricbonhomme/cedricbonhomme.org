@@ -1,5 +1,6 @@
 ---
 title: pyAggr3g470r va utiliser Mako
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-11-22T22:36:20+00:00

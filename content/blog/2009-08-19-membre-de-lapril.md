@@ -1,5 +1,6 @@
 ---
 title: "Membre de l'April"
+lang: fr
 slug: membre-de-lapril
 author: Cédric Bonhomme
 type: post

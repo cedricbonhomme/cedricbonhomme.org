@@ -1,5 +1,6 @@
 ---
 title: Kindle MatchBook
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2015-12-19T21:40:16+00:00

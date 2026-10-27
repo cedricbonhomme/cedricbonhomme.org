@@ -1,5 +1,6 @@
 ---
 title: Et ça monte
+lang: fr
 slug: et-ca-monte
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Ransomware as a Service
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2015-05-28T20:50:21+00:00

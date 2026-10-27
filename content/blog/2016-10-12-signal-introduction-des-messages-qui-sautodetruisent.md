@@ -1,5 +1,6 @@
 ---
 title: Signal – introduction des messages qui s’autodétruisent
+lang: fr
 slug: signal-introduction-des-messages-qui-sautodetruisent
 author: Cédric Bonhomme
 type: post

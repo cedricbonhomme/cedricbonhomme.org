@@ -1,5 +1,6 @@
 ---
 title: Quelques notes sur Chromium OS
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2010-12-06T22:22:15+00:00

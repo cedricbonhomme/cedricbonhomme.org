@@ -1,5 +1,6 @@
 ---
 title: Cours de cryptographie de l’université de Stanford
+lang: fr
 slug: cours-de-cryptographie-de-luniversite-de-stanford
 author: Cédric Bonhomme
 type: post

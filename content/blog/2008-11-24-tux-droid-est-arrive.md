@@ -1,5 +1,6 @@
 ---
 title: Tux Droid est arrivé !
+lang: fr
 slug: tux-droid-est-arrive
 author: Cédric Bonhomme
 type: post

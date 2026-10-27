@@ -1,5 +1,6 @@
 ---
 title: Google Bu(g|zz)
+lang: fr
 slug: google-bugzz
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Sécurité de la pile graphique
+lang: fr
 slug: securite-de-la-pile-graphique
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: pyAggr3g470r – Évolutions de l’interface
+lang: fr
 slug: pyaggr3g470r-evolutions-de-linterface
 author: Cédric Bonhomme
 type: post

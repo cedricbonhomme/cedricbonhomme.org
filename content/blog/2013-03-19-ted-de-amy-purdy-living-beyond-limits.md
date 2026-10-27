@@ -1,5 +1,6 @@
 ---
 title: 'TED de Amy Purdy: Living Beyond Limits'
+lang: fr
 slug: ted-de-amy-purdy-living-beyond-limits
 author: Cédric Bonhomme
 type: post

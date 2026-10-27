@@ -1,5 +1,6 @@
 ---
 title: Une histoire d’arithmétique modulaire
+lang: fr
 slug: une-histoire-darithmetique-modulaire
 author: Cédric Bonhomme
 type: post

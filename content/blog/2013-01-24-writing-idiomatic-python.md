@@ -1,5 +1,6 @@
 ---
 title: Writing Idiomatic Python
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-01-24T21:25:40+00:00

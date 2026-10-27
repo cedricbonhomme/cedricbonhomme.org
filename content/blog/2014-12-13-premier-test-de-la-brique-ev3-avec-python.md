@@ -1,5 +1,6 @@
 ---
 title: Premier test de la brique EV3 avec Python
+lang: fr
 slug: premier-test-de-la-brique-ev3-avec-python
 author: Cédric Bonhomme
 type: post

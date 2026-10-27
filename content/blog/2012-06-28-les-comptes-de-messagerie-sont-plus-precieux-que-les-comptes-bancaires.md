@@ -1,5 +1,6 @@
 ---
 title: Les comptes de messagerie sont plus précieux que les comptes bancaires
+lang: fr
 slug: les-comptes-de-messagerie-sont-plus-precieux-que-les-comptes-bancaires
 author: Cédric Bonhomme
 type: post

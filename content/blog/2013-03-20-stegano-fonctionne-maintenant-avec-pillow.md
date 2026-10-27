@@ -1,5 +1,6 @@
 ---
 title: Stegano fonctionne maintenant avec Pillow
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-03-20T21:30:32+00:00

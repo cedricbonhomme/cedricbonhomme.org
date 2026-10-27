@@ -1,5 +1,6 @@
 ---
 title: Détection de langues avec Python
+lang: fr
 slug: detection-de-langues-avec-python
 author: Cédric Bonhomme
 type: post

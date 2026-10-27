@@ -1,5 +1,6 @@
 ---
 title: Gestion de mots de passe
+lang: fr
 slug: gestion-de-mots-de-passe
 author: Cédric Bonhomme
 type: post

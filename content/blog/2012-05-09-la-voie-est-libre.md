@@ -1,5 +1,6 @@
 ---
 title: La voie est libre
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-05-08T22:39:09+00:00

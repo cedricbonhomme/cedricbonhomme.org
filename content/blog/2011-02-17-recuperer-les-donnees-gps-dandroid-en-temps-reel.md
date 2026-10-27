@@ -1,5 +1,6 @@
 ---
 title: Récupérer les données GPS d’Android en temps réel
+lang: fr
 slug: recuperer-les-donnees-gps-dandroid-en-temps-reel
 author: Cédric Bonhomme
 type: post

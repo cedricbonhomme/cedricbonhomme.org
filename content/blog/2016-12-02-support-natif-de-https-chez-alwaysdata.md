@@ -1,5 +1,6 @@
 ---
 title: Support natif de HTTPS chez AlwaysData
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2016-12-02T06:47:13+00:00

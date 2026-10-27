@@ -1,5 +1,6 @@
 ---
 title: Zoom-Zoom bobo
+lang: fr
 slug: zoom-zoom-bobo
 author: Cédric Bonhomme
 type: post

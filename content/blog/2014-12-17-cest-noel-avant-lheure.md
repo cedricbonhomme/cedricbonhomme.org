@@ -1,5 +1,6 @@
 ---
 title: C’est Noël avant l’heure
+lang: fr
 slug: cest-noel-avant-lheure
 author: Cédric Bonhomme
 type: post

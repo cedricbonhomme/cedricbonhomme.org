@@ -1,5 +1,6 @@
 ---
 title: Le Web, “sécurisé” et libre
+lang: fr
 slug: le-web-securise-et-libre
 author: Cédric Bonhomme
 type: post

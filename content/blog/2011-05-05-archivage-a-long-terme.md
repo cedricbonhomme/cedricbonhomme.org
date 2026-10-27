@@ -1,5 +1,6 @@
 ---
 title: Archivage à long terme
+lang: fr
 slug: archivage-a-long-terme
 author: Cédric Bonhomme
 type: post

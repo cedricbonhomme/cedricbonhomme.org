@@ -1,5 +1,6 @@
 ---
 title: Une petite alternative à Google Latitude
+lang: fr
 slug: une-petite-alternative-a-google-latitude
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: La grande archive de nouvelles mise à jour
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-06-20T06:19:39+00:00

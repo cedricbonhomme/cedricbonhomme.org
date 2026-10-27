@@ -1,5 +1,6 @@
 ---
 title: Planifier des tâches sur Heroku
+lang: fr
 slug: planifier-des-taches-sur-heroku
 author: Cédric Bonhomme
 type: post

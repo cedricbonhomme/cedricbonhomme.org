@@ -1,5 +1,6 @@
 ---
 title: '[Zoom-Zoom] Sécurité'
+lang: fr
 slug: zoom-zoom-securite
 author: Cédric Bonhomme
 type: post

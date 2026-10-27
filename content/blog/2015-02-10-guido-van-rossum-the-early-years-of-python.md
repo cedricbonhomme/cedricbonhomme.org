@@ -1,5 +1,6 @@
 ---
 title: 'Guido van Rossum: The Early Years of Python'
+lang: fr
 slug: guido-van-rossum-the-early-years-of-python
 author: Cédric Bonhomme
 type: post

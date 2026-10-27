@@ -1,5 +1,6 @@
 ---
 title: Installation propre de pyAggr3g470r avec Python 3.3.1
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-04-08T08:03:49+00:00

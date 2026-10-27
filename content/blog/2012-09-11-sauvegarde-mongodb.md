@@ -1,5 +1,6 @@
 ---
 title: Sauvegarde MongoDB
+lang: fr
 slug: sauvegarde-mongodb
 author: Cédric Bonhomme
 type: post

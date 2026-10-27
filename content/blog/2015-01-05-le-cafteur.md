@@ -1,5 +1,6 @@
 ---
 title: Le cafteur
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2015-01-05T22:01:38+00:00

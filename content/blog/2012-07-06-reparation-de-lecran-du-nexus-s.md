@@ -1,5 +1,6 @@
 ---
 title: Réparation de l’écran du Nexus S
+lang: fr
 slug: reparation-de-lecran-du-nexus-s
 author: Cédric Bonhomme
 type: post

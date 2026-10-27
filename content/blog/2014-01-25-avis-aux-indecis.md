@@ -1,5 +1,6 @@
 ---
 title: Avis aux indécis
+lang: fr
 slug: avis-aux-indecis
 author: Cédric Bonhomme
 type: post

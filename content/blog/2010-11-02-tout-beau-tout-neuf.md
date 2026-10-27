@@ -1,5 +1,6 @@
 ---
 title: Tout beau, tout neuf
+lang: fr
 slug: tout-beau-tout-neuf
 author: Cédric Bonhomme
 type: post

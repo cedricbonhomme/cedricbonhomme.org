@@ -1,5 +1,6 @@
 ---
 title: Livre “Data Structures and Algorithms with Object-Oriented Design Patterns in Python“
+lang: fr
 slug: livre-data-structures-and-algorithms-with-object-oriented-design-patterns-in-python
 author: Cédric Bonhomme
 type: post

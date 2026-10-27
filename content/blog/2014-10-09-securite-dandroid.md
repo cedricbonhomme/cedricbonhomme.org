@@ -1,5 +1,6 @@
 ---
 title: Sécurité d’Android
+lang: fr
 slug: securite-dandroid
 author: Cédric Bonhomme
 type: post

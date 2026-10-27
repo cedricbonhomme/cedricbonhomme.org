@@ -1,5 +1,6 @@
 ---
 title: Zooomr versus Flickr
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2010-05-22T08:05:37+00:00

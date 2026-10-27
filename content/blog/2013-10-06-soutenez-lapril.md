@@ -1,5 +1,6 @@
 ---
 title: Soutenez l’April
+lang: fr
 slug: soutenez-lapril
 author: Cédric Bonhomme
 type: post

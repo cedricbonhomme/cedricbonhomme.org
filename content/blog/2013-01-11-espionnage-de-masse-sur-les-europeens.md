@@ -1,5 +1,6 @@
 ---
 title: Espionnage de masse sur les Européens
+lang: fr
 slug: espionnage-de-masse-sur-les-europeens
 author: Cédric Bonhomme
 type: post

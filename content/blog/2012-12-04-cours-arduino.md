@@ -1,5 +1,6 @@
 ---
 title: Cours Arduino
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-12-04T20:14:25+00:00

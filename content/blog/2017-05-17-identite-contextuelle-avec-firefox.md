@@ -1,5 +1,6 @@
 ---
 title: Identité contextuelle avec Firefox
+lang: fr
 slug: identite-contextuelle-avec-firefox
 author: Cédric Bonhomme
 type: post

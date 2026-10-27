@@ -1,5 +1,6 @@
 ---
 title: Sacrée surprise!
+lang: fr
 slug: sacree-surprise
 author: Cédric Bonhomme
 type: post

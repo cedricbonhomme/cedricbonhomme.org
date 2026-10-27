@@ -1,5 +1,6 @@
 ---
 title: 'HadoPy-Data #2'
+lang: fr
 slug: hadopy-data-2
 author: Cédric Bonhomme
 type: post

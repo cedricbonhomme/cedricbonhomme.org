@@ -1,5 +1,6 @@
 ---
 title: OpenPhoto
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-09-02T15:41:08+00:00

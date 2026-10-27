@@ -1,5 +1,6 @@
 ---
 title: pyAggr3g470r – export journal Web
+lang: fr
 slug: pyaggr3g470r-export-journal-web
 author: Cédric Bonhomme
 type: post

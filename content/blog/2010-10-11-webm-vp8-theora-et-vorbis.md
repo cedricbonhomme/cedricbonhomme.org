@@ -1,5 +1,6 @@
 ---
 title: WebM, VP8, Theora et Vorbis
+lang: fr
 slug: webm-vp8-theora-et-vorbis
 author: Cédric Bonhomme
 type: post

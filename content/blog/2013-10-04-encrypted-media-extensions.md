@@ -1,5 +1,6 @@
 ---
 title: Encrypted Media Extensions
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-10-04T18:47:55+00:00

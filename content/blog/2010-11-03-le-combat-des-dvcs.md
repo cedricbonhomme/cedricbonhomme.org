@@ -1,5 +1,6 @@
 ---
 title: Le combat des DVCS
+lang: fr
 slug: le-combat-des-dvcs
 author: Cédric Bonhomme
 type: post

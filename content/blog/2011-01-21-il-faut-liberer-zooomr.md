@@ -1,5 +1,6 @@
 ---
 title: Il faut libérer Zooomr
+lang: fr
 slug: il-faut-liberer-zooomr
 author: Cédric Bonhomme
 type: post

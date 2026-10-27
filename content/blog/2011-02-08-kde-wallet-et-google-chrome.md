@@ -1,5 +1,6 @@
 ---
 title: KDE Wallet et Google Chrome
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-02-08T07:19:40+00:00

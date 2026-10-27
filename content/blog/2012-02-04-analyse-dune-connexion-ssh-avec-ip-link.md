@@ -1,5 +1,6 @@
 ---
 title: Analyse d’une connexion SSH avec IP-Link
+lang: fr
 slug: analyse-dune-connexion-ssh-avec-ip-link
 author: Cédric Bonhomme
 type: post

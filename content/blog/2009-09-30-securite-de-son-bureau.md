@@ -1,5 +1,6 @@
 ---
 title: Sécurité de son bureau
+lang: fr
 slug: securite-de-son-bureau
 author: Cédric Bonhomme
 type: post

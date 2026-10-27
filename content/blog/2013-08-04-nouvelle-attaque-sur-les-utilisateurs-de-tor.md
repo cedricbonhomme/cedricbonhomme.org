@@ -1,5 +1,6 @@
 ---
 title: Nouvelle attaque sur les utilisateurs de Tor
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-08-04T08:35:05+00:00

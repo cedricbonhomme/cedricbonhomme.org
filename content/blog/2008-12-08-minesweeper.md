@@ -1,5 +1,6 @@
 ---
 title: Minesweeper
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2008-12-08T20:21:14+00:00

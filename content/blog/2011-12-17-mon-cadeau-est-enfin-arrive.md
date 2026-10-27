@@ -1,5 +1,6 @@
 ---
 title: Mon cadeau est (enfin) arrivé
+lang: fr
 slug: mon-cadeau-est-enfin-arrive
 author: Cédric Bonhomme
 type: post

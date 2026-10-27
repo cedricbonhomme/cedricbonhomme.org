@@ -1,5 +1,6 @@
 ---
 title: Android 4.1 ~ Jelly Bean
+lang: fr
 slug: android-4-1-jelly-bean
 author: Cédric Bonhomme
 type: post

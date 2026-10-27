@@ -1,5 +1,6 @@
 ---
 title: Sécurité et virtualisation (architectures Intel)
+lang: fr
 slug: securite-et-virtualisation-architectures-intel
 author: Cédric Bonhomme
 type: post

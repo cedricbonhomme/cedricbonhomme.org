@@ -1,5 +1,6 @@
 ---
 title: OpenPhoto, ça y est!
+lang: fr
 slug: openphoto-ca-y-est
 author: Cédric Bonhomme
 type: post

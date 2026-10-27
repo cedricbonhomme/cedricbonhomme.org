@@ -1,5 +1,6 @@
 ---
 title: La “sécurité” de UEFI
+lang: fr
 slug: la-securite-de-uefi
 author: Cédric Bonhomme
 type: post

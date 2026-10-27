@@ -1,5 +1,6 @@
 ---
 title: Vous pouvez utiliser WebM tranquillement
+lang: fr
 slug: vous-pouvez-utiliser-webm-tranquillement
 author: Cédric Bonhomme
 type: post

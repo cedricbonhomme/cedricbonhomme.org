@@ -1,5 +1,6 @@
 ---
 title: Quelques benchmarks avec Ackermann
+lang: fr
 slug: quelques-benchmarks-avec-ackermann
 author: Cédric Bonhomme
 type: post

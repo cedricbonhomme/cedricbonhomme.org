@@ -1,5 +1,6 @@
 ---
 title: “Press DEL to enter SETUP”, bye bye?
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-07-02T11:08:15+00:00

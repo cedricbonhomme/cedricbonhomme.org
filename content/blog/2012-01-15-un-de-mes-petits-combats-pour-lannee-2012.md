@@ -1,5 +1,6 @@
 ---
 title: Un de mes petits combats pour l’année 2012
+lang: fr
 slug: un-de-mes-petits-combats-pour-lannee-2012
 author: Cédric Bonhomme
 type: post

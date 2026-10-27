@@ -1,5 +1,6 @@
 ---
 title: Comment bien prendre l’avion
+lang: fr
 slug: comment-bien-prendre-lavion
 author: Cédric Bonhomme
 type: post

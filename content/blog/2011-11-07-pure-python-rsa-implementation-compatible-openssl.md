@@ -1,5 +1,6 @@
 ---
 title: Pure Python RSA implementation compatible OpenSSL
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-11-07T22:14:15+00:00

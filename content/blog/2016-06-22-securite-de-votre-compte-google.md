@@ -1,5 +1,6 @@
 ---
 title: Sécurité de votre compte Google
+lang: fr
 slug: securite-de-votre-compte-google
 author: Cédric Bonhomme
 type: post

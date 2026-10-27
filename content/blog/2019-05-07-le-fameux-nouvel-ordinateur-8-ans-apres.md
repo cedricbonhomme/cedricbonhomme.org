@@ -1,5 +1,6 @@
 ---
 title: Le fameux nouvel ordinateur, 8 ans après
+lang: fr
 slug: le-fameux-nouvel-ordinateur-8-ans-apres
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Linux dans l’automobile
+lang: fr
 slug: linux-dans-lautomobile
 author: Cédric Bonhomme
 type: post

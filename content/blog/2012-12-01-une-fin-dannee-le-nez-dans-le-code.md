@@ -1,5 +1,6 @@
 ---
 title: Une fin d’année le nez dans le code
+lang: fr
 slug: une-fin-dannee-le-nez-dans-le-code
 author: Cédric Bonhomme
 type: post

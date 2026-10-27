@@ -1,5 +1,6 @@
 ---
 title: «Le chiffrement est utilisé par les terroristes»
+lang: fr
 slug: le-chiffrement-est-utilise-par-les-terroristes
 author: Cédric Bonhomme
 type: post

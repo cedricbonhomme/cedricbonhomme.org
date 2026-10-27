@@ -1,5 +1,6 @@
 ---
 title: Magnifique session KDE
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2009-10-13T21:58:07+00:00

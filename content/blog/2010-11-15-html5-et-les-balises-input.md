@@ -1,5 +1,6 @@
 ---
 title: HTML5 et les balises input
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2010-11-15T17:21:39+00:00

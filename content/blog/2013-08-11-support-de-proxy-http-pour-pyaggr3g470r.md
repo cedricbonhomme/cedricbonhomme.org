@@ -1,5 +1,6 @@
 ---
 title: Support de proxy HTTP pour pyAggr3g470r
+lang: fr
 slug: support-de-proxy-http-pour-pyaggr3g470r
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Au revoir EC2
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-09-28T17:44:01+00:00

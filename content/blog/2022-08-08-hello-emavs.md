@@ -1,5 +1,6 @@
 ---
 title: École de Musique Associative du Val Sierckois
+lang: fr
 slug: ecole-de-musique-associative-du-val-sierckois
 author: Cédric Bonhomme
 type: post

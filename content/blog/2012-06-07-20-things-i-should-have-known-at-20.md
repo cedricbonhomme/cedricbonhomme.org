@@ -1,5 +1,6 @@
 ---
 title: 20 Things I Should Have Known at 20
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-06-07T16:01:22+00:00

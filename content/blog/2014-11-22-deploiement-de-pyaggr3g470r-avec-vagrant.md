@@ -1,5 +1,6 @@
 ---
 title: Déploiement de pyAggr3g470r avec Vagrant
+lang: fr
 slug: deploiement-de-pyaggr3g470r-avec-vagrant
 author: Cédric Bonhomme
 type: post

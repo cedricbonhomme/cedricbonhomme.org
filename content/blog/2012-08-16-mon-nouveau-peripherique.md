@@ -1,5 +1,6 @@
 ---
 title: Mon nouveau périphérique
+lang: fr
 slug: mon-nouveau-peripherique
 author: Cédric Bonhomme
 type: post

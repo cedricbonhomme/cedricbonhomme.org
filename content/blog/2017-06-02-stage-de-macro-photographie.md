@@ -1,5 +1,6 @@
 ---
 title: Stage de macro-photographie
+lang: fr
 slug: stage-de-macro-photographie
 author: Cédric Bonhomme
 type: post

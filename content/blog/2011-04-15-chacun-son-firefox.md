@@ -1,5 +1,6 @@
 ---
 title: Chacun son Firefox
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-04-15T05:21:23+00:00

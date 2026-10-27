@@ -1,5 +1,6 @@
 ---
 title: Données comScore de Mai 2011
+lang: fr
 slug: donnees-comscore-de-mai-2011
 author: Cédric Bonhomme
 type: post

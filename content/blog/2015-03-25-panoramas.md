@@ -1,5 +1,6 @@
 ---
 title: Panoramas
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2015-03-25T17:49:13+00:00

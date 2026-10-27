@@ -1,5 +1,6 @@
 ---
 title: RAW, DNG, PNG ou JPEG
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-06-19T20:39:54+00:00

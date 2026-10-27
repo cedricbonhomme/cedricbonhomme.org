@@ -1,5 +1,6 @@
 ---
 title: Répartition de longueurs focales
+lang: fr
 slug: repartition-de-longueurs-focales
 author: Cédric Bonhomme
 type: post

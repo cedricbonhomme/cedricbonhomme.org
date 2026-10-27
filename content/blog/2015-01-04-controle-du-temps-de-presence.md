@@ -1,5 +1,6 @@
 ---
 title: Contrôle du temps de présence
+lang: fr
 slug: controle-du-temps-de-presence
 author: Cédric Bonhomme
 type: post

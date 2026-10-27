@@ -1,5 +1,6 @@
 ---
 title: La nouvelle vague arrive
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2009-09-30T22:00:06+00:00

@@ -1,5 +1,6 @@
 ---
 title: 'Grenouille: vers une première version'
+lang: fr
 slug: grenouille-vers-une-premiere-version
 author: Cédric Bonhomme
 type: post

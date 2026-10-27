@@ -1,5 +1,6 @@
 ---
 title: Une nouvelle fonctionnalité pour Newspipe
+lang: fr
 slug: une-nouvelle-fonctionnalite-pour-newspipe
 author: Cédric Bonhomme
 type: post

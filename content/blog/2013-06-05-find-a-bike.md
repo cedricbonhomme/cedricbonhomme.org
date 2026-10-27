@@ -1,5 +1,6 @@
 ---
 title: Find a Bike
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-06-05T05:47:23+00:00

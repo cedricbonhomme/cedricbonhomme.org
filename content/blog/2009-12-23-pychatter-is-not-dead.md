@@ -1,5 +1,6 @@
 ---
 title: 'pyChatter [is not dead]'
+lang: fr
 slug: pychatter-is-not-dead
 author: Cédric Bonhomme
 type: post

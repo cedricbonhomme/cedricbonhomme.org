@@ -1,5 +1,6 @@
 ---
 title: Données comScore du mois du Janvier 2012
+lang: fr
 slug: donnees-comscore-du-mois-du-janvier-2012
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: AMA avec Edward Snowden, Laura Poitras et Glenn Greenwald
+lang: fr
 slug: ama-avec-edward-snowden-laura-poitras-et-glenn-greenwald
 author: Cédric Bonhomme
 type: post

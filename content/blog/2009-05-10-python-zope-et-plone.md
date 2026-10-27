@@ -1,5 +1,6 @@
 ---
 title: Python, Zope et Plone
+lang: fr
 slug: python-zope-et-plone
 author: Cédric Bonhomme
 type: post

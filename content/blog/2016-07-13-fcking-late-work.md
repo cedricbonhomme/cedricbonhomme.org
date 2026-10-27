@@ -1,5 +1,6 @@
 ---
 title: 'F*cking late work!'
+lang: fr
 slug: fucking-late-work
 author: Cédric Bonhomme
 type: post

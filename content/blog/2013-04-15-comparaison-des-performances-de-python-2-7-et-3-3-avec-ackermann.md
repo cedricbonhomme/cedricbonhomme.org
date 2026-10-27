@@ -1,5 +1,6 @@
 ---
 title: Comparaison des performances de Python 2.7 et 3.3 avec Ackermann
+lang: fr
 slug: comparaison-des-performances-de-python-2-7-et-3-3-avec-ackermann
 author: Cédric Bonhomme
 type: post

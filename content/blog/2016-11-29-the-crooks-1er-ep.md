@@ -1,5 +1,6 @@
 ---
 title: The Crooks – 1er EP
+lang: fr
 slug: the-crooks-1er-ep
 author: Cédric Bonhomme
 type: post

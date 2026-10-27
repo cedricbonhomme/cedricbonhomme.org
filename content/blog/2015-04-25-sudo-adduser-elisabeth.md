@@ -1,5 +1,6 @@
 ---
 title: sudo adduser Élisabeth
+lang: fr
 slug: sudo-adduser-elisabeth
 author: Cédric Bonhomme
 type: post

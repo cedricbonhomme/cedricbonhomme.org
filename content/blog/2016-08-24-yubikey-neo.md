@@ -1,5 +1,6 @@
 ---
 title: Yubikey Neo
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2016-08-24T06:20:38+00:00

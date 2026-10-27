@@ -1,5 +1,6 @@
 ---
 title: Collusion
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-06-07T07:40:15+00:00

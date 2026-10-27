@@ -1,5 +1,6 @@
 ---
 title: Le sapin de Noël 2015
+lang: fr
 slug: le-sapin-de-noel-2015
 author: Cédric Bonhomme
 type: post

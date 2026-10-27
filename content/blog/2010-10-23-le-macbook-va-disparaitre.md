@@ -1,5 +1,6 @@
 ---
 title: Le MacBook va disparaître
+lang: fr
 slug: le-macbook-va-disparaitre
 author: Cédric Bonhomme
 type: post

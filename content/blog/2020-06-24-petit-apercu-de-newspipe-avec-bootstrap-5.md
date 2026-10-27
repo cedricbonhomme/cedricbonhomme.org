@@ -1,5 +1,6 @@
 ---
 title: Petit aperçu de Newspipe avec Bootstrap 5
+lang: fr
 slug: petit-apercu-de-newspipe-avec-bootstrap-5
 author: Cédric Bonhomme
 type: post

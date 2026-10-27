@@ -1,5 +1,6 @@
 ---
 title: 'TED de Bruce Schneier: The Battle for Power on the Internet'
+lang: fr
 slug: ted-de-bruce-schneier-the-battle-for-power-on-the-internet
 author: Cédric Bonhomme
 type: post

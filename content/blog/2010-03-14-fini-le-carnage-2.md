@@ -1,5 +1,6 @@
 ---
 title: Fini le carnage
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2010-03-14T16:21:30+00:00

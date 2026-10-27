@@ -1,5 +1,6 @@
 ---
 title: Augmented self
+lang: fr
 slug: augmented-self
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: pyAggr3g470r 5.1 – Changelog
+lang: fr
 slug: pyaggr3g470r-5-1-changelog
 author: Cédric Bonhomme
 type: post

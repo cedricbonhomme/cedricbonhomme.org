@@ -1,5 +1,6 @@
 ---
 title: Contribuer au Web decentralisé
+lang: fr
 slug: contribuer-au-web-decentralise
 author: Cédric Bonhomme
 type: post

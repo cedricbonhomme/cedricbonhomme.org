@@ -1,5 +1,6 @@
 ---
 title: Dive Into Python 3
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2009-02-02T20:01:32+00:00

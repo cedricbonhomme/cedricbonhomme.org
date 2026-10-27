@@ -1,5 +1,6 @@
 ---
 title: Planet Wars
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2010-09-15T15:05:10+00:00

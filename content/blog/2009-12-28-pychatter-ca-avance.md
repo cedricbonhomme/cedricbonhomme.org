@@ -1,5 +1,6 @@
 ---
 title: pyChatter, ça avance !
+lang: fr
 slug: pychatter-ca-avance
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Projets – Quelques nouvelles
+lang: fr
 slug: projets-quelques-nouvelles
 author: Cédric Bonhomme
 type: post

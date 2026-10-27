@@ -1,5 +1,6 @@
 ---
 title: Nuage de tags avec Python
+lang: fr
 slug: nuage-de-tags-avec-python
 author: Cédric Bonhomme
 type: post

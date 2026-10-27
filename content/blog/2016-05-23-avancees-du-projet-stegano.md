@@ -1,5 +1,6 @@
 ---
 title: Avancées du projet Stegano
+lang: fr
 slug: avancees-du-projet-stegano
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Séquence d’entiers A000217
+lang: fr
 slug: sequence-dentiers-a000217
 author: Cédric Bonhomme
 type: post

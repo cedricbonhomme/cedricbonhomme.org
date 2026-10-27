@@ -1,5 +1,6 @@
 ---
 title: Nouvelle version de pyAggr3g470r
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-04-14T18:42:13+00:00

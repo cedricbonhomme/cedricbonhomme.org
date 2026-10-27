@@ -1,5 +1,6 @@
 ---
 title: Des nouvelles du projet JARR
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2016-02-08T22:30:26+00:00

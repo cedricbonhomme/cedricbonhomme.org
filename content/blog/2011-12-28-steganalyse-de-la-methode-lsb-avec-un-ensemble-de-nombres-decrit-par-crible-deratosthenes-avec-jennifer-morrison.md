@@ -1,5 +1,6 @@
 ---
 title: Stéganalyse de la méthode LSB (avec un ensemble de nombres décrit par crible d’Eratosthenes)
+lang: fr
 slug: steganalyse-de-la-methode-lsb-avec-un-ensemble-de-nombres-decrit-par-crible-deratosthenes
 author: Cédric Bonhomme
 type: post

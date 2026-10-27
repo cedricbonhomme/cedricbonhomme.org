@@ -1,5 +1,6 @@
 ---
 title: Promenade au jardin des traces
+lang: fr
 slug: promenade-au-jardin-des-traces
 author: Cédric Bonhomme
 type: post

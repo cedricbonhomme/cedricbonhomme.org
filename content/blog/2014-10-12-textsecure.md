@@ -1,5 +1,6 @@
 ---
 title: TextSecure
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-10-12T21:12:06+00:00

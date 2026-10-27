@@ -1,5 +1,6 @@
 ---
 title: Quelques nouvelles de JARR
+lang: fr
 slug: quelques-nouvelles-de-jarr
 author: Cédric Bonhomme
 type: post

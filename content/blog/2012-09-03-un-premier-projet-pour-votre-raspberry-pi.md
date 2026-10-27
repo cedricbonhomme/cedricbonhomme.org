@@ -1,5 +1,6 @@
 ---
 title: Un premier projet pour votre Raspberry Pi
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-09-03T08:45:21+00:00

@@ -1,5 +1,6 @@
 ---
 title: 'Quelques notes sur Diaspora #1'
+lang: fr
 slug: quelques-notes-sur-diaspora-1
 author: Cédric Bonhomme
 type: post

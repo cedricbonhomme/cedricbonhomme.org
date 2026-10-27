@@ -1,5 +1,6 @@
 ---
 title: Deux nouveaux plasmoïdes
+lang: fr
 slug: deux-nouveaux-plasmoides
 author: Cédric Bonhomme
 type: post

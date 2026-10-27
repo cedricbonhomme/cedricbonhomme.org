@@ -1,5 +1,6 @@
 ---
 title: «What Secrets Your Phone Is Sharing About You»
+lang: fr
 slug: what-secrets-your-phone-is-sharing-about-you
 author: Cédric Bonhomme
 type: post

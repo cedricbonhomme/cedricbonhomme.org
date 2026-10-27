@@ -1,5 +1,6 @@
 ---
 title: "Zoom-Zoom Resurrection"
+lang: fr
 slug: zoom-zoom-resurrection
 date: 2022-02-17T10:07:52+01:00
 author: Cédric Bonhomme

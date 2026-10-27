@@ -1,5 +1,6 @@
 ---
 title: Plasmoïde pour KDE4 avec Python
+lang: fr
 slug: plasmoide-pour-kde4-avec-python
 author: Cédric Bonhomme
 type: post

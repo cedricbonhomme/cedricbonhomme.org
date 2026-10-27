@@ -1,5 +1,6 @@
 ---
 title: Influences des langages de programmation
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-01-22T09:49:44+00:00

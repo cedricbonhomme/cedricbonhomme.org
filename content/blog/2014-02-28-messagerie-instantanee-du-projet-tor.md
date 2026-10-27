@@ -1,5 +1,6 @@
 ---
 title: Messagerie instantanée du projet Tor
+lang: fr
 slug: messagerie-instantanee-du-projet-tor
 author: Cédric Bonhomme
 type: post

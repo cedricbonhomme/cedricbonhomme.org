@@ -1,5 +1,6 @@
 ---
 title: pyChatter
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2009-07-12T19:03:54+00:00

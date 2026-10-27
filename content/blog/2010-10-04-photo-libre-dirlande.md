@@ -1,5 +1,6 @@
 ---
 title: Photo libre d’Irlande
+lang: fr
 slug: photo-libre-dirlande
 author: Cédric Bonhomme
 type: post

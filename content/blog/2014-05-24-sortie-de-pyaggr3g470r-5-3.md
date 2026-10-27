@@ -1,5 +1,6 @@
 ---
 title: Sortie de pyAggr3g470r 5.3
+lang: fr
 slug: sortie-de-pyaggr3g470r-5-3
 author: Cédric Bonhomme
 type: post

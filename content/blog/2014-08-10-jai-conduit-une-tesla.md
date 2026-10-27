@@ -1,5 +1,6 @@
 ---
 title: J’ai conduit une Tesla
+lang: fr
 slug: jai-conduit-une-tesla
 author: Cédric Bonhomme
 type: post

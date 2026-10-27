@@ -1,5 +1,6 @@
 ---
 title: 'LinuxCon & CloudOpen North America 2013'
+lang: fr
 slug: linuxcon-cloudopen-north-america-2013
 author: Cédric Bonhomme
 type: post

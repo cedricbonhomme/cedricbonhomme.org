@@ -1,5 +1,6 @@
 ---
 title: Toujours appliquer les correctifs de sécurité
+lang: fr
 slug: toujours-appliquer-les-correctifs-de-securite
 author: Cédric Bonhomme
 type: post

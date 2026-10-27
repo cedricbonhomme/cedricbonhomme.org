@@ -1,5 +1,6 @@
 ---
 title: «The Impossible Project», nouveau test
+lang: fr
 slug: the-impossible-project-nouveau-test
 author: Cédric Bonhomme
 type: post

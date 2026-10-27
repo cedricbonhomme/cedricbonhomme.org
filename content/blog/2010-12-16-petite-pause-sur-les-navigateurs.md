@@ -1,5 +1,6 @@
 ---
 title: Petite pause sur les navigateurs
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2010-12-16T15:13:08+00:00

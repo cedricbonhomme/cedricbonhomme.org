@@ -1,5 +1,6 @@
 ---
 title: Une nouvelle vue pour pyAggr3g470r
+lang: fr
 slug: une-nouvelle-vue-pour-pyaggr3g470r
 author: Cédric Bonhomme
 type: post

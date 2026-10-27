@@ -1,5 +1,6 @@
 ---
 title: Honeycomb
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-04-10T14:20:47+00:00

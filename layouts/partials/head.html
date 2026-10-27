@@ -11,19 +11,11 @@
     {{- end -}}
   {{- end -}}
   <title>
-    {{ if (eq .Site.Params.reversepagetitle true) }}
-      {{ with .Title }}
-        {{ . }} |
-      {{ end }}
-      {{- $authorName -}}
-    {{ else }}
-      {{- $authorName -}}{{ with .Title }}
-        |
-        {{ . }}
-      {{ end }}
-
-    {{ end }}
-
+    {{- if or .IsHome (not .Title) -}}
+      {{ $authorName }}
+    {{- else -}}
+      {{ .Title }} | {{ $authorName }}
+    {{- end -}}
   </title>
 
   <!-- Meta -->
@@ -32,11 +24,7 @@
   <meta name="author" content="{{ $authorName }}" />
   <meta
     name="description"
-    content="{{ if .Params.description }}
-      {{- .Params.description -}}
-    {{ else }}
-      {{- .Site.Params.description -}}
-    {{ end }}"
+    content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary | plainify | truncate 160 }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}"
   />
   {{ if .Params.redirectUrl }}
     <meta http-equiv="refresh" content="1; url={{ .Params.redirectUrl }}" />

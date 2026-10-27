@@ -1,5 +1,6 @@
 ---
 title: Google Inbox
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-11-05T17:19:22+00:00

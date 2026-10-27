@@ -1,5 +1,6 @@
 ---
 title: 'pyHIDS: Alertes IRC'
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-06-13T16:16:48+00:00

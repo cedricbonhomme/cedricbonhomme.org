@@ -1,5 +1,6 @@
 ---
 title: L’envolée de Python
+lang: fr
 slug: lenvolee-de-python
 author: Cédric Bonhomme
 type: post

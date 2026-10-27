@@ -1,5 +1,6 @@
 ---
 title: 'La chasse aux œufs (et chocolats) est ouverte'
+lang: fr
 slug: la-chasse-aux-oeufs-et-chocolats-est-ouverte
 author: Cédric Bonhomme
 type: post

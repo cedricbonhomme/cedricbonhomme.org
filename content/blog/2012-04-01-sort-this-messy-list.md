@@ -1,5 +1,6 @@
 ---
 title: Sort this messy list
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-04-01T15:53:31+00:00

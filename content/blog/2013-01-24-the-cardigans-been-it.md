@@ -1,5 +1,6 @@
 ---
 title: The Cardigans – Been It
+lang: fr
 slug: the-cardigans-been-it
 author: Cédric Bonhomme
 type: post

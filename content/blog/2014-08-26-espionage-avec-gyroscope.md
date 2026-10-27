@@ -1,5 +1,6 @@
 ---
 title: Espionage avec gyroscope
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-08-26T19:36:55+00:00

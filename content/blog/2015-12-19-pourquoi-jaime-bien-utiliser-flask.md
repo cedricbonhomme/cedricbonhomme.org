@@ -1,5 +1,6 @@
 ---
 title: Pourquoi j’aime bien utiliser Flask
+lang: fr
 slug: pourquoi-jaime-bien-utiliser-flask
 author: Cédric Bonhomme
 type: post

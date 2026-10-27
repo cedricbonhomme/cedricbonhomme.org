@@ -1,5 +1,6 @@
 ---
 title: “Leap second”
+lang: fr
 slug: leap-second
 author: Cédric Bonhomme
 type: post

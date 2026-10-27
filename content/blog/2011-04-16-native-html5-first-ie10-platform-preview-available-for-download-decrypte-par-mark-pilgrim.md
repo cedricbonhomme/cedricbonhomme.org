@@ -1,5 +1,6 @@
 ---
 title: '“Native HTML5: First IE10 Platform Preview Available for Download” décrypté par Mark Pilgrim'
+lang: fr
 slug: native-html5-first-ie10-platform-preview-available-for-download-decrypte-par-mark-pilgri
 author: Cédric Bonhomme
 type: post

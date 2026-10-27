@@ -1,5 +1,6 @@
 ---
 title: Hello World
+lang: fr
 slug: hello-world
 author: Cédric Bonhomme
 type: post

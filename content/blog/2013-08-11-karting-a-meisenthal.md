@@ -1,5 +1,6 @@
 ---
 title: Karting à Meisenthal
+lang: fr
 slug: karting-a-meisenthal
 author: Cédric Bonhomme
 type: post

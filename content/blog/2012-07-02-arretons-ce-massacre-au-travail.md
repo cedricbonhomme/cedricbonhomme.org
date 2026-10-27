@@ -1,5 +1,6 @@
 ---
 title: Arrêtons ce massacre au travail
+lang: fr
 slug: arretons-ce-massacre-au-travail
 author: Cédric Bonhomme
 type: post

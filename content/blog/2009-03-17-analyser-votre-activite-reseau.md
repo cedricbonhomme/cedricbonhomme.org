@@ -1,5 +1,6 @@
 ---
 title: Analyser votre activité réseau
+lang: fr
 slug: analyser-votre-activite-reseau
 author: Cédric Bonhomme
 type: post

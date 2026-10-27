@@ -1,5 +1,6 @@
 ---
 title: some_things_to_do
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2010-03-18T12:05:10+00:00

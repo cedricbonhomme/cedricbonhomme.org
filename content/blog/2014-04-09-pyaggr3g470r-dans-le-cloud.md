@@ -1,5 +1,6 @@
 ---
 title: pyAggr3g470r dans le cloud
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-04-09T21:12:36+00:00

@@ -1,5 +1,6 @@
 ---
 title: Le secret de votre FRITZ!Box découvert
+lang: fr
 slug: le-secret-de-votre-fritzbox-decouvert
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Sauvegarder les données de valeurs
+lang: fr
 slug: sauvegarder-les-donnees-de-valeurs
 author: Cédric Bonhomme
 type: post

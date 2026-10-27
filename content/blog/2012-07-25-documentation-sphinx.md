@@ -1,5 +1,6 @@
 ---
 title: Documentation Sphinx
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-07-25T15:34:23+00:00

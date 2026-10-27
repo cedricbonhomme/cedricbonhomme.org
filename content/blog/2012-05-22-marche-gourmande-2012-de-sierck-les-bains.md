@@ -1,5 +1,6 @@
 ---
 title: Marche Gourmande 2012 de Sierck-Les-Bains
+lang: fr
 slug: marche-gourmande-2012-de-sierck-les-bains
 author: Cédric Bonhomme
 type: post

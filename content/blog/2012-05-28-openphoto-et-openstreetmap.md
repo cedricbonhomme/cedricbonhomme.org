@@ -1,5 +1,6 @@
 ---
 title: OpenPhoto et OpenStreetMap
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-05-28T16:23:00+00:00

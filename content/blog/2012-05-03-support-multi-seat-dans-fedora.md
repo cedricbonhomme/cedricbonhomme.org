@@ -1,5 +1,6 @@
 ---
 title: Support Multi-Seat dans Fedora
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-05-03T06:04:22+00:00

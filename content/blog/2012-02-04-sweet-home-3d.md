@@ -1,5 +1,6 @@
 ---
 title: Sweet Home 3D
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-02-04T13:55:32+00:00

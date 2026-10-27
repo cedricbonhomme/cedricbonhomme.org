@@ -1,5 +1,6 @@
 ---
 title: Pour votre sécurité, vous n’aurez plus de libertés
+lang: fr
 slug: pour-votre-securite-vous-naurez-plus-de-libertes
 author: Cédric Bonhomme
 type: post

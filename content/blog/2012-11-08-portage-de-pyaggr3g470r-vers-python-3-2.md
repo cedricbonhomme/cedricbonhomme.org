@@ -1,5 +1,6 @@
 ---
 title: Portage de pyAggr3g470r vers Python 3.2
+lang: fr
 slug: portage-de-pyaggr3g470r-vers-python-3-2
 author: Cédric Bonhomme
 type: post

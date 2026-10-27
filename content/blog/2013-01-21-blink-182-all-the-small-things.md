@@ -1,5 +1,6 @@
 ---
 title: Blink-182 – All The Small Things
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-01-21T21:01:59+00:00

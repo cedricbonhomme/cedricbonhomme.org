@@ -1,5 +1,6 @@
 ---
 title: Trois simples étapes pour tester Debian GNU/Hurd
+lang: fr
 slug: trois-simples-etapes-pour-tester-debian-gnuhurd
 author: Cédric Bonhomme
 type: post

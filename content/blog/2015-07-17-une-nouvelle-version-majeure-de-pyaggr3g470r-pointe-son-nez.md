@@ -1,5 +1,6 @@
 ---
 title: Une nouvelle version majeure de pyAggr3g470r pointe son nez
+lang: fr
 slug: une-nouvelle-version-majeure-de-pyaggr3g470r-pointe-son-nez
 author: Cédric Bonhomme
 type: post

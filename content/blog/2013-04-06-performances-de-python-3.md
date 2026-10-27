@@ -1,5 +1,6 @@
 ---
 title: 'Performances de Python 3.*'
+lang: fr
 slug: performances-de-python-3
 author: Cédric Bonhomme
 type: post

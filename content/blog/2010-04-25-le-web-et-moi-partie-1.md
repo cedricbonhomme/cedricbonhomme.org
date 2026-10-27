@@ -1,5 +1,6 @@
 ---
 title: Le Web et moi (partie 1)
+lang: fr
 slug: le-web-et-moi-partie-1
 author: Cédric Bonhomme
 type: post

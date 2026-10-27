@@ -1,5 +1,6 @@
 ---
 title: 'pyAggr3g470r: recherche avec un index'
+lang: fr
 slug: pyaggr3g470r-recherche-avec-un-index
 author: Cédric Bonhomme
 type: post

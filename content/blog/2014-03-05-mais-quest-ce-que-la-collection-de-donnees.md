@@ -1,5 +1,6 @@
 ---
 title: Mais qu’est-ce que la collection de données?
+lang: fr
 slug: mais-quest-ce-que-la-collection-de-donnees
 author: Cédric Bonhomme
 type: post

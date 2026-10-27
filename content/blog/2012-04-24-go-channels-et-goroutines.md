@@ -1,5 +1,6 @@
 ---
 title: 'Go: Channels et Goroutines'
+lang: fr
 slug: go-channels-et-goroutines
 author: Cédric Bonhomme
 type: post

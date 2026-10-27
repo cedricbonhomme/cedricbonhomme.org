@@ -1,5 +1,6 @@
 ---
 title: Récupérer facilement les données d’une capture réseau
+lang: fr
 slug: recuperer-facilement-les-donnees-dune-capture-reseau
 author: Cédric Bonhomme
 type: post

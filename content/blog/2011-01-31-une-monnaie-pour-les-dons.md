@@ -1,5 +1,6 @@
 ---
 title: Une monnaie pour les dons
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-01-30T23:02:08+00:00

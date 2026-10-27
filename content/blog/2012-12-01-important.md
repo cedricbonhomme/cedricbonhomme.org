@@ -1,5 +1,6 @@
 ---
 title: Important
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-12-01T11:07:59+00:00

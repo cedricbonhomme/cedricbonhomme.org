@@ -1,5 +1,6 @@
 ---
 title: Why Political Liberty Depends on Software Freedom More Than Ever
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-05-26T16:34:15+00:00

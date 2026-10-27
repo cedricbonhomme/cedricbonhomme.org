@@ -1,5 +1,6 @@
 ---
 title: 'RFC 6901: Pointeur JSON'
+lang: fr
 slug: rfc-6901-pointeur-json
 author: Cédric Bonhomme
 type: post

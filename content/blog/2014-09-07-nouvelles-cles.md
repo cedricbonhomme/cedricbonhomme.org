@@ -1,5 +1,6 @@
 ---
 title: Nouvelles clés
+lang: fr
 slug: nouvelles-cles
 author: Cédric Bonhomme
 type: post

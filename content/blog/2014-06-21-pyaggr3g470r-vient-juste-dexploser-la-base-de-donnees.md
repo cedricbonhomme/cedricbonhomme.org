@@ -1,5 +1,6 @@
 ---
 title: pyAggr3g470r vient juste d’exploser la base de données
+lang: fr
 slug: pyaggr3g470r-vient-juste-dexploser-la-base-de-donnees
 author: Cédric Bonhomme
 type: post

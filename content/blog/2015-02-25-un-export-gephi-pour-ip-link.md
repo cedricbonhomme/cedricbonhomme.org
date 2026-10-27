@@ -1,5 +1,6 @@
 ---
 title: Un export Gephi pour IP-Link
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2015-02-24T23:14:18+00:00

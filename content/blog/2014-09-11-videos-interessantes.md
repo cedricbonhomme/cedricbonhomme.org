@@ -1,5 +1,6 @@
 ---
 title: Vidéos intéressantes
+lang: fr
 slug: videos-interessantes
 author: Cédric Bonhomme
 type: post

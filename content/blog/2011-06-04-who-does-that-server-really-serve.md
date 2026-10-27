@@ -1,5 +1,6 @@
 ---
 title: “Who does that server really serve?”
+lang: fr
 slug: who-does-that-server-really-serve
 author: Cédric Bonhomme
 type: post

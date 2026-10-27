@@ -1,5 +1,6 @@
 ---
 title: Récupérez les données envoyées par votre téléphone Android
+lang: fr
 slug: recuperez-les-donnees-envoyees-par-votre-telephone-android
 author: Cédric Bonhomme
 type: post

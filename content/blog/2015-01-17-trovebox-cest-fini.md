@@ -1,5 +1,6 @@
 ---
 title: Trovebox, c’est fini
+lang: fr
 slug: trovebox-cest-fini
 author: Cédric Bonhomme
 type: post

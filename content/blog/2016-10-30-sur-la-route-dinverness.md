@@ -1,5 +1,6 @@
 ---
 title: Sur la route d’Inverness
+lang: fr
 slug: sur-la-route-dinverness
 author: Cédric Bonhomme
 type: post

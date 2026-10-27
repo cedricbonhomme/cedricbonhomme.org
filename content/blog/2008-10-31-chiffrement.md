@@ -1,5 +1,6 @@
 ---
 title: Chiffrement
+lang: fr
 slug: chiffrement
 author: Cédric
 type: post

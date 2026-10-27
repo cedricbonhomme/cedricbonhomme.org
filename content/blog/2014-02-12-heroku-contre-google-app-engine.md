@@ -1,5 +1,6 @@
 ---
 title: Heroku contre Google App Engine
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-02-12T18:34:41+00:00

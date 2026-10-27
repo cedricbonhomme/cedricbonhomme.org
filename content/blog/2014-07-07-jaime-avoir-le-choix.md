@@ -1,5 +1,6 @@
 ---
 title: J’aime avoir le choix
+lang: fr
 slug: jaime-avoir-le-choix
 author: Cédric Bonhomme
 type: post

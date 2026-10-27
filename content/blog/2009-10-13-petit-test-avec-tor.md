@@ -1,5 +1,6 @@
 ---
 title: Petit test avec Tor
+lang: fr
 slug: petit-test-avec-tor
 author: Cédric Bonhomme
 type: post

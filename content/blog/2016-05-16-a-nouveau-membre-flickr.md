@@ -1,5 +1,6 @@
 ---
 title: À nouveau membre Flickr
+lang: fr
 slug: a-nouveau-membre-flickr
 author: Cédric Bonhomme
 type: post

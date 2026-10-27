@@ -1,5 +1,6 @@
 ---
 title: J’apprends Haskell et Go
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-05-22T21:38:07+00:00

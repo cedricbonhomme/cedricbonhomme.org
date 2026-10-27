@@ -1,5 +1,6 @@
 ---
 title: 'Zooomr: Une situation délirante prévisible depuis deux ans'
+lang: fr
 slug: zooomr-une-situation-delirante-previsible-depuis-deux-ans
 author: Cédric Bonhomme
 type: post

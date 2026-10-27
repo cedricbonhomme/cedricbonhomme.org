@@ -1,5 +1,6 @@
 ---
 title: Diaspora – Télécharger mon XML
+lang: fr
 slug: diaspora-telecharger-mon-xml
 author: Cédric Bonhomme
 type: post

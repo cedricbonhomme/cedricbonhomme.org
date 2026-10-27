@@ -1,5 +1,6 @@
 ---
 title: Warriors of the Net
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2010-01-22T13:28:13+00:00

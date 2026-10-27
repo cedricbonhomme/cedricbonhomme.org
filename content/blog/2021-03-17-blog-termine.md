@@ -1,5 +1,6 @@
 ---
 title: Blog terminé
+lang: fr
 slug: blog-termine
 author: Cédric Bonhomme
 type: post

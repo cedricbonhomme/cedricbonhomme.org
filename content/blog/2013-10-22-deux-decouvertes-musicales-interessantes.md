@@ -1,5 +1,6 @@
 ---
 title: Deux découvertes musicales intéressantes
+lang: fr
 slug: deux-decouvertes-musicales-interessantes
 author: Cédric Bonhomme
 type: post

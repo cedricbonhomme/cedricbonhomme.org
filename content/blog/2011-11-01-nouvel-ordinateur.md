@@ -1,5 +1,6 @@
 ---
 title: Nouvel ordinateur
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-11-01T08:37:37+00:00

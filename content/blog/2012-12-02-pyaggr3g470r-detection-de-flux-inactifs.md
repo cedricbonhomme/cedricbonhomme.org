@@ -1,5 +1,6 @@
 ---
 title: 'pyAggr3g470r: détection de flux inactifs'
+lang: fr
 slug: pyaggr3g470r-detection-de-flux-inactifs
 author: Cédric Bonhomme
 type: post

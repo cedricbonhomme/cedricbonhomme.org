@@ -1,5 +1,6 @@
 ---
 title: Learn programming by visualizing code execution
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-10-02T21:18:15+00:00

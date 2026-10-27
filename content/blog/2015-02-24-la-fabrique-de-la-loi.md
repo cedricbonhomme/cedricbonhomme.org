@@ -1,5 +1,6 @@
 ---
 title: La fabrique de la loi
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2015-02-24T18:33:49+00:00

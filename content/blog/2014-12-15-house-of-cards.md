@@ -1,5 +1,6 @@
 ---
 title: House Of Cards
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-12-15T19:02:14+00:00

@@ -1,5 +1,6 @@
 ---
 title: Une nouvelle façon de déployer pyAggr3g470r
+lang: fr
 slug: une-nouvelle-facon-de-deployer-pyaggr3g470r
 author: Cédric Bonhomme
 type: post

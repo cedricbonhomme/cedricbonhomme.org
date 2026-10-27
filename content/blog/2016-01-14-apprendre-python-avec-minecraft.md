@@ -1,5 +1,6 @@
 ---
 title: Apprendre Python avec Minecraft
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2016-01-14T22:10:03+00:00

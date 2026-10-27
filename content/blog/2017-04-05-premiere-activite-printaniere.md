@@ -1,5 +1,6 @@
 ---
 title: Première activité printanière
+lang: fr
 slug: premiere-activite-printaniere
 author: Cédric Bonhomme
 type: post

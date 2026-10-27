@@ -1,5 +1,6 @@
 ---
 title: Liquidambar styraciflua
+lang: fr
 slug: liquidambar-styraciflua
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Photos d’Écosse
+lang: fr
 slug: photos-decosse
 author: Cédric Bonhomme
 type: post

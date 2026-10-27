@@ -1,5 +1,6 @@
 ---
 title: Ce fameux Nexus 6
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-10-29T21:48:38+00:00

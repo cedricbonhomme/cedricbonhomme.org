@@ -1,5 +1,6 @@
 ---
 title: Pontiac Bloc Métal 41
+lang: fr
 slug: pontiac-bloc-metal-41
 author: Cédric Bonhomme
 type: post

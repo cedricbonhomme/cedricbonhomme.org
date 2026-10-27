@@ -1,5 +1,6 @@
 ---
 title: À propos du multiprocessing
+lang: fr
 slug: a-propos-du-multiprocessing
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Organisation et archivage des souvenirs
+lang: fr
 slug: organisation-et-archivage-des-souvenirs
 author: Cédric Bonhomme
 type: post

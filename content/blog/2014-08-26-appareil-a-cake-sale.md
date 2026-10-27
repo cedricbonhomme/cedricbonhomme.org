@@ -1,5 +1,6 @@
 ---
 title: Appareil à cake salé
+lang: fr
 slug: appareil-a-cake-sale
 author: Cédric Bonhomme
 type: post

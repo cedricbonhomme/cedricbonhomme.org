@@ -1,5 +1,6 @@
 ---
 title: Gérer son identité avec Namecoin
+lang: fr
 slug: gerer-son-identite-avec-namecoin
 author: Cédric Bonhomme
 type: post

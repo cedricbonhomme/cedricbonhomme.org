@@ -1,5 +1,6 @@
 ---
 title: Chromium OS
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2009-11-19T22:06:52+00:00

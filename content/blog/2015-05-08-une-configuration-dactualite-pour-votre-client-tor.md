@@ -1,5 +1,6 @@
 ---
 title: Une configuration d’actualité pour votre client Tor
+lang: fr
 slug: une-configuration-dactualite-pour-votre-client-tor
 author: Cédric Bonhomme
 type: post

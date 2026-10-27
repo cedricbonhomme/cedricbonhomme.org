@@ -1,5 +1,6 @@
 ---
 title: Contributions récentes au logiciel libre
+lang: fr
 slug: contributions-recentes-au-logiciel-libre
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Test de Debian GNU/Hurd
+lang: fr
 author: Cédric Bonhomme
 type: post
 aliases:

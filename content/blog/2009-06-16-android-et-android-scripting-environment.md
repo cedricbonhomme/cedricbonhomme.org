@@ -1,5 +1,6 @@
 ---
 title: Android et Android Scripting Environment
+lang: fr
 slug: android-et-android-scripting-environment
 author: Cédric Bonhomme
 type: post

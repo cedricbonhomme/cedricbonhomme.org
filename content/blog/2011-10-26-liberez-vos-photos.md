@@ -1,5 +1,6 @@
 ---
 title: Libérez vos photos
+lang: fr
 slug: liberez-vos-photos
 author: Cédric Bonhomme
 type: post

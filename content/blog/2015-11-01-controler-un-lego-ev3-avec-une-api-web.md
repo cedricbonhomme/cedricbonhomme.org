@@ -1,5 +1,6 @@
 ---
 title: Contrôler un Lego EV3 avec une API Web
+lang: fr
 slug: controler-un-lego-ev3-avec-une-api-web
 author: Cédric Bonhomme
 type: post

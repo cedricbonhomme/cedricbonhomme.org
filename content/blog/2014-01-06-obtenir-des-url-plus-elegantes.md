@@ -1,5 +1,6 @@
 ---
 title: Obtenir des URL plus élégantes
+lang: fr
 slug: obtenir-des-url-plus-elegantes
 author: Cédric Bonhomme
 type: post

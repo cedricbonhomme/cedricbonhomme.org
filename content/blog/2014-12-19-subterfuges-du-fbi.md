@@ -1,5 +1,6 @@
 ---
 title: Subterfuges du FBI
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-12-19T22:36:27+00:00

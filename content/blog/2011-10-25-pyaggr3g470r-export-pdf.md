@@ -1,5 +1,6 @@
 ---
 title: pyAggr3g470r – export PDF
+lang: fr
 slug: pyaggr3g470r-export-pdf
 author: Cédric Bonhomme
 type: post

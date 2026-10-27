@@ -1,5 +1,6 @@
 ---
 title: 'Itérateurs: Python 2.7 vs Python 3.2'
+lang: fr
 slug: iterateurs-python-2-7-vs-python-3-2
 author: Cédric Bonhomme
 type: post

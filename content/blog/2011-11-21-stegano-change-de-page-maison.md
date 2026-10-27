@@ -1,5 +1,6 @@
 ---
 title: Stegano change de page maison
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-11-21T20:54:08+00:00

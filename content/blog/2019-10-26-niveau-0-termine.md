@@ -1,5 +1,6 @@
 ---
 title: Niveau 0 terminé
+lang: fr
 slug: niveau-0-termine
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Git a gagné, et on le savait déjà
+lang: fr
 skug: git-a-gagne-et-on-le-savait-deja
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Apprentissage Arduino
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-12-26T11:13:34+00:00

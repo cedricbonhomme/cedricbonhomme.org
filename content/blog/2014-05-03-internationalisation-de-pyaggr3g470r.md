@@ -1,5 +1,6 @@
 ---
 title: Internationalisation de pyAggr3g470r
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2014-05-03T12:06:39+00:00

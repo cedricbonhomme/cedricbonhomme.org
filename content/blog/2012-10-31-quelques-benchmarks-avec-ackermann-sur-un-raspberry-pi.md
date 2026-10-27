@@ -1,5 +1,6 @@
 ---
 title: Quelques benchmarks avec Ackermann sur un Raspberry Pi
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-10-31T22:51:09+00:00

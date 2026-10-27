@@ -1,5 +1,6 @@
 ---
 title: Stéganographie avec ensembles
+lang: fr
 slug: steganographie-avec-ensembles
 author: Cédric Bonhomme
 type: post

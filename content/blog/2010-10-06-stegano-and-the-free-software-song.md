@@ -1,5 +1,6 @@
 ---
 title: Stegano and the Free Software Song
+lang: fr
 slug: stegano-and-the-free-software-song
 author: Cédric Bonhomme
 type: post

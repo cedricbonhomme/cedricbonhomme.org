@@ -1,5 +1,6 @@
 ---
 title: CRIME, l’attaque contre SSL/TLS
+lang: fr
 author: Cédric Bonhomme
 type: post
 aliases:

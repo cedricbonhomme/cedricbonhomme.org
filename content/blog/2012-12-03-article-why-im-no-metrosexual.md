@@ -1,5 +1,6 @@
 ---
 title: Article Why I’m No Metrosexual
+lang: fr
 slug: article-why-im-no-metrosexual
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Version 6.3 de pyAggr3g470r
+lang: fr
 slug: version-6-3-de-pyaggr3g470r
 author: Cédric Bonhomme
 type: post

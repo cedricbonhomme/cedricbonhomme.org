@@ -1,5 +1,6 @@
 ---
 title: Déploiement de Newspipe
+lang: fr
 slug: deploiement-de-newspipe
 author: Cédric Bonhomme
 type: post

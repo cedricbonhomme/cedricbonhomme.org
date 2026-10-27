@@ -1,5 +1,6 @@
 ---
 title: Export MongoDB
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-02-03T16:51:47+00:00

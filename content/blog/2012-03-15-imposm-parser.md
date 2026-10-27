@@ -1,5 +1,6 @@
 ---
 title: imposm.parser
+lang: fr
 slug: imposm-parser
 author: Cédric Bonhomme
 type: post

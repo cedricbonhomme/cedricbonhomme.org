@@ -1,5 +1,6 @@
 ---
 title: 'pyHIDS: version 0.2'
+lang: fr
 slug: pyhids-version-0-2
 author: Cédric Bonhomme
 type: post

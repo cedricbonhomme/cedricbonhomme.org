@@ -1,5 +1,6 @@
 ---
 title: pyAggr3g470r 0.6 – Changelog
+lang: fr
 slug: pyaggr3g470r-0-6-changelog
 author: Cédric Bonhomme
 type: post

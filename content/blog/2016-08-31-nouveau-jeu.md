@@ -1,5 +1,6 @@
 ---
 title: Nouveau jeu
+lang: fr
 slug: nouveau-jeu
 author: Cédric Bonhomme
 type: post

@@ -1,5 +1,6 @@
 ---
 title: Des Bucks dans ton Wallet?
+lang: fr
 slug: des-bucks-dans-ton-wallet
 author: Cédric Bonhomme
 type: post

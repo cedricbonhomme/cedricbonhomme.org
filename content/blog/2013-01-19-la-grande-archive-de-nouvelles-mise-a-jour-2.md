@@ -1,5 +1,6 @@
 ---
 title: La grande archive de nouvelles mise à jour (2)
+lang: fr
 slug: la-grande-archive-de-nouvelles-mise-a-jour-2
 author: Cédric Bonhomme
 type: post

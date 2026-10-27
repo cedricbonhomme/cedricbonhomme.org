@@ -1,5 +1,6 @@
 ---
 title: Programme de gestion de Photos
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2010-03-27T13:31:25+00:00

@@ -1,5 +1,6 @@
 ---
 title: Garbage – Only Happy When It Rains
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2013-01-24T21:27:47+00:00

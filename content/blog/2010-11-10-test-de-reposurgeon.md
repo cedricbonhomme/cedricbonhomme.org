@@ -1,5 +1,6 @@
 ---
 title: Test de reposurgeon
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2010-11-10T22:48:26+00:00

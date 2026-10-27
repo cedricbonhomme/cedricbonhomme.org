@@ -1,5 +1,6 @@
 ---
 title: Avoir des avis sur vos clichés
+lang: fr
 slug: avoir-des-avis-sur-vos-cliches
 author: Cédric Bonhomme
 type: post

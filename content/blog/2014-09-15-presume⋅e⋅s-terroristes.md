@@ -1,5 +1,6 @@
 ---
 title: Présumé⋅e⋅s terroristes
+lang: fr
 slug: presume-e-s-terroristes
 author: Cédric Bonhomme
 type: post

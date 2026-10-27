@@ -1,5 +1,6 @@
 ---
 title: 'pyAggr3g470r: détection de langue'
+lang: fr
 slug: pyaggr3g470r-detection-de-langue
 author: Cédric Bonhomme
 type: post

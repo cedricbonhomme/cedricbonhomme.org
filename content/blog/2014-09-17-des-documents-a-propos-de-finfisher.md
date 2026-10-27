@@ -1,5 +1,6 @@
 ---
 title: Des documents à propos de FinFisher
+lang: fr
 slug: des-documents-a-propos-de-finfisher
 author: Cédric Bonhomme
 type: post

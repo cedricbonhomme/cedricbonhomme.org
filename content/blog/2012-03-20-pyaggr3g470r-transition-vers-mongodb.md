@@ -1,5 +1,6 @@
 ---
 title: 'pyAggr3g470r: transition vers MongoDB'
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2012-03-19T23:01:11+00:00

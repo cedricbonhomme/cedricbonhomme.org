@@ -1,5 +1,6 @@
 ---
 title: pyAggr3g470r – Démonstration
+lang: fr
 slug: pyaggr3g470r-demonstration
 author: Cédric Bonhomme
 type: post

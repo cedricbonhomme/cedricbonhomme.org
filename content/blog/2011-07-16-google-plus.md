@@ -1,5 +1,6 @@
 ---
 title: Google Plus
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2011-07-16T07:52:15+00:00

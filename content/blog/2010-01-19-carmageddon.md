@@ -1,5 +1,6 @@
 ---
 title: Carmageddon
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2010-01-19T21:18:05+00:00

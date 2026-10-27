@@ -1,5 +1,6 @@
 ---
 title: pyAggr3g470r 0.8 – Changelog
+lang: fr
 author: Cédric Bonhomme
 type: post
 date: 2010-02-24T21:33:26+00:00

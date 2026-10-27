@@ -1,5 +1,6 @@
 ---
 title: Des changements notables pour l’interface de pyAggr3g470r
+lang: fr
 slug: des-changements-notables-pour-linterface-de-pyaggr3g470r
 author: Cédric Bonhomme
 type: post
