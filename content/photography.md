@@ -1,15 +1,15 @@
 +++
 title = "Photography"
 description = "Photography"
-date = "2025-05-30"
+date = "2026-10-30"
 author = "Cédric Bonhomme"
 +++
 
 Photography has always held a special place in my heart, ever since I can remember.
 Feel free to explore some of my photos shared across different platforms:
 
-- [Flickr](https://www.flickr.com/photos/cedricbonhomme)
 - [PixelFed](https://pixelfed.social/cedric)
+- [Flickr](https://www.flickr.com/photos/cedricbonhomme)
 - [my personal gallery](https://photos.cedricbonhomme.org)
 - [500px](https://500px.com/cedricbonhomme)
 
