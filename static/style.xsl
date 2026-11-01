@@ -116,7 +116,7 @@
           <p><strong>Welcome!</strong> This is my web feed (RSS/Atom).</p>
           <p>You can <strong>subscribe</strong> by copying the URL from your browser's address bar into your favorite newsreader.</p>
           <p>New to feeds? Visit <a href="https://aboutfeeds.com">About Feeds</a> to learn how it works.</p>
-          <p>Looking for a self-hosted newsreader? Try <a href="https://github.com/cedricbonhomme/newspipe" target="_blank">Newspipe</a>.</p>
+          <p>Looking for a self-hosted newsreader? Try <a href="https://sr.ht/~cedric/newspipe" target="_blank">Newspipe</a>.</p>
         </nav>
 
         <div class="container">
