@@ -16,6 +16,14 @@ test:
 
 build:
 	hugo --cleanDestinationDir
+	$(MAKE) feeds-html
+
+# target: feeds-html - Pre-render styled feeds to HTML for browsers without XSLT (see static/.htaccess).
+feeds-html:
+	@command -v xsltproc >/dev/null || { echo "xsltproc is required (apt install xsltproc)"; exit 1; }
+	@grep -rl --include=index.xml 'xml-stylesheet' public/ | while read -r f; do \
+		xsltproc --nonet static/style.xsl "$$f" > "$$f.html" || exit 1; \
+	done
 
 compress:
 	tar -czf public.tar.gz public/

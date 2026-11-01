@@ -20,6 +20,30 @@ hugo server       # preview locally
 hugo              # build into public/
 ```
 
+`make build` also pre-renders the styled feeds (see below), which requires
+`xsltproc` (`apt install xsltproc` on Debian).
+
+## Styled feeds
+
+The RSS feeds reference `static/style.xsl`, so browsers display them as a
+readable page instead of raw XML. Chromium is removing client-side XSLT
+support, so the feeds are also rendered server-side: `make build` (via
+`make feeds-html`) runs `xsltproc` with `style.xsl` on every styled
+`index.xml` and writes the result next to it as `index.xml.html`.
+
+`static/.htaccess` then does content negotiation: a request for a feed whose
+`Accept` header starts with `text/html` (a browser opening the URL) is served
+the pre-rendered HTML, while feed readers keep receiving the XML. Responses
+carry `Vary: Accept` so caches keep the two apart. To check after deploying:
+
+```bash
+curl -sI -H 'Accept: text/html' https://www.cedricbonhomme.org/blog/index.xml | grep -i content-type   # text/html
+curl -sI https://www.cedricbonhomme.org/blog/index.xml | grep -i content-type                          # XML
+```
+
+`style.xsl` must stay XSLT 1.0, the only version supported by browsers and
+libxslt.
+
 ## Deploying
 
 The site is hosted on [AlwaysData](https://www.alwaysdata.com). `make deploy`

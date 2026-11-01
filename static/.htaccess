@@ -1,0 +1,16 @@
+# Chromium is removing client-side XSLT, so feeds styled with style.xsl no
+# longer render there. `make build` pre-renders each feed with xsltproc into
+# a sibling `index.xml.html`; browsers (whose Accept header starts with
+# text/html) get that page, while feed readers keep receiving the raw XML.
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTP_ACCEPT} ^text/html
+  RewriteCond %{REQUEST_FILENAME}.html -f
+  RewriteRule ^(.+\.xml)$ $1.html [L]
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.xml(\.html)?$">
+    Header append Vary Accept
+  </FilesMatch>
+</IfModule>
