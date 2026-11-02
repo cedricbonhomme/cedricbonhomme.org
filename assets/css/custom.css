@@ -119,3 +119,9 @@
 .footer__item.webring {
   white-space: nowrap;
 }
+
+/* Webrings on their own line, tucked under the copyright line */
+.footer__webrings {
+  margin-top: -0.5em;
+  flex-wrap: wrap; /* on narrow screens, one ring per line rather than overflowing */
+}

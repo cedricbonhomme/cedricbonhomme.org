@@ -8,7 +8,7 @@
     {{- $authorName = . -}}
   {{- end -}}
 {{- end -}}
-{{- /* Copied from the Anatole theme; only change: webring navigation (params.webrings) after the footer menu. */ -}}
+{{- /* Copied from the Anatole theme; only change: webring navigation (params.webrings) on its own line below the footer menu. */ -}}
 <footer class="footer footer__{{ .footerClassModifier }}">
   <ul
     class="footer__list {{ with .context.Site.Params.doNotLoadAnimations }}
@@ -40,7 +40,10 @@
         </a>
       </li>
     {{ end }}
-    {{ with .context.Site.Params.webrings }}
+  </ul>
+  {{ with .context.Site.Params.webrings }}
+  <ul class="footer__list footer__webrings">
+    {{ with . }}
       {{ with .fediring }}
         <li class="footer__item webring">
           <a class="link" href="https://fediring.net/previous?host={{ . }}" title="Previous site in the Fediring" aria-label="Previous site in the Fediring">←</a>
@@ -57,6 +60,7 @@
       {{ end }}
     {{ end }}
   </ul>
+  {{ end }}
 </footer>
 {{- partial "medium-zoom.html" .context -}}
 {{- if (hasPrefix .context.Site.Config.Services.GoogleAnalytics.ID "G-") -}}
