@@ -17,12 +17,12 @@
       {{ if .IsHome }}
         <div class="sidebar__introduction-title">
           <h1>
-            <a class="p-name u-url u-uid" rel="me" href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Title }}</a>
+            <a class="p-name u-url u-uid" href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Title }}</a>
           </h1>
         </div>
       {{ else }}
         <div class="sidebar__introduction-title">
-          <a class="p-name u-url u-uid" rel="me" href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Title }}</a>
+          <a class="p-name u-url u-uid" href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Title }}</a>
         </div>
       {{ end }}
       <div class="sidebar__introduction-description">
