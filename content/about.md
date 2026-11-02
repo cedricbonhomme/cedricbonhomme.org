@@ -44,3 +44,9 @@ Publishing is kept simple: the generated pages are copied to the server with
 [rsync](https://rsync.samba.org/), and
 [feed2toot](https://gitlab.com/chaica/feed2toot) then picks up each new article
 and announces it on my [Fosstodon profile](https://fosstodon.org/@cedric).
+
+This site is also part of two webrings, a small piece of the old web that is
+making a comeback: the [Fediring](https://fediring.net), for personal websites
+of people on the Fediverse, and the [IndieWeb Webring](https://xn--sr8hvo.ws).
+The arrows at the bottom of each page lead to the neighbouring sites — go and
+explore!
