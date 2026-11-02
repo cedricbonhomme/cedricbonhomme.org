@@ -48,6 +48,11 @@ rssLimit = 20
   images = ["/images/profile-picture.jpg"]
   tagIndexThreshold = 3 # tag pages with fewer posts get noindex and are left out of the sitemap
 
+  # Webring navigation in the footer (layouts/partials/footer.html); an empty value hides that ring.
+  [params.webrings]
+    fediring = "www.cedricbonhomme.org" # host as registered with https://fediring.net
+    indieweb = "" # emoji ID from the dashboard at https://xn--sr8hvo.ws after signing in
+
 [related]
   includeNewer = true
   threshold = 80

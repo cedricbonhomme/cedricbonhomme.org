@@ -114,3 +114,8 @@
 .archive__intro a {
   color: #6086b4;
 }
+
+/* Webring navigation in the footer: keep each ring's ← name → on one line */
+.footer__item.webring {
+  white-space: nowrap;
+}

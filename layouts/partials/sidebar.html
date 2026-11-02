@@ -6,9 +6,10 @@
       animated fadeInDown
     {{ end }}"
   >
-    <div class="sidebar__introduction">
+    {{- /* h-card microformat: identity for the IndieWeb Webring and other IndieWeb tools. */ -}}
+    <div class="sidebar__introduction h-card">
       <img
-        class="sidebar__introduction-profileimage"
+        class="sidebar__introduction-profileimage u-photo"
         src="{{ .Site.Params.profilePicture | relURL }}"
         {{ with .Site.Params.profilePictureLarge }}data-zoom-src="{{ . | relURL }}"{{ end }}
         alt="profile picture"
@@ -16,16 +17,16 @@
       {{ if .IsHome }}
         <div class="sidebar__introduction-title">
           <h1>
-            <a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Title }}</a>
+            <a class="p-name u-url u-uid" rel="me" href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Title }}</a>
           </h1>
         </div>
       {{ else }}
         <div class="sidebar__introduction-title">
-          <a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Title }}</a>
+          <a class="p-name u-url u-uid" rel="me" href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Title }}</a>
         </div>
       {{ end }}
       <div class="sidebar__introduction-description">
-        <p>{{ replace .Site.Params.description "\n" "<br />" | safeHTML }}</p>
+        <p class="p-note">{{ replace .Site.Params.description "\n" "<br />" | safeHTML }}</p>
       </div>
     </div>
     <ul class="sidebar__list">
