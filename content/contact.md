@@ -31,8 +31,14 @@ Fingerprint:
 
 ## IRC
 
-`cedric` on [Libera.Chat](https://libera.chat) — usually in `#python`,
-`#python-fr`, and a few other channels.
+I'm `cedric` on [Libera.Chat](https://libera.chat). You'll usually find me in:
+
+- `#indieweb` and `#indieweb-cafe` for general conversation;
+- `#python`, `#python-fr` and `#ocaml` for language-specific discussions;
+
+and a handful of other channels.
+
+IRC pings may need a nudge to catch my attention.
 
 
 ## Elsewhere
@@ -40,5 +46,4 @@ Fingerprint:
 You can also follow me on [Mastodon](https://fosstodon.org/@cedric) or
 subscribe to the [blog's RSS feed](/blog/index.xml).
 
-I don't always reply to social-media DMs, and IRC pings may need a nudge
-to catch my attention.
+I don't always reply to social-media DMs.
