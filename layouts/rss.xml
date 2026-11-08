@@ -53,6 +53,14 @@
       <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
       <guid>{{ .Permalink }}</guid>
+      {{- /* First three tags in CamelCase: feed2toot turns them into Mastodon hashtags, which break on hyphens. */}}
+      {{- $spelling := dict "ai" "AI" "ai-act" "AIAct" "rss" "RSS" "xslt" "XSLT" "ocaml" "OCaml" "github" "GitHub" "sourcehut" "SourceHut" "ifs" "IFS" "cra" "CRA" "sbom" "SBOM" "llm" "LLM" "hugo" "Hugo" }}
+      {{- with .Params.tags }}
+      {{- range first 3 . }}
+      {{- $tag := string . }}
+      <category>{{ with index $spelling $tag }}{{ . }}{{ else }}{{ replace (title (replace $tag "-" " ")) " " "" }}{{ end }}</category>
+      {{- end }}
+      {{- end }}
       <description>{{ .Content | transform.XMLEscape | safeHTML }}</description>
     </item>
     {{- end }}
