@@ -144,8 +144,8 @@
 
   <link rel="canonical" href="{{ .Permalink }}" />
   {{- /* Email as a rel=me identity, for signing in to the IndieWeb Webring via IndieLogin. */}}
-  {{- if .IsHome }}
-    <link rel="me" href="mailto:cedric@cedricbonhomme.org" />
+  {{- if and .IsHome .Site.Params.email }}
+    <link rel="me" href="mailto:{{ .Site.Params.email }}" />
   {{- end }}
   {{- /* Tag pages listing only a few posts are thin content: keep them crawlable but out of the index. */}}
   {{- if and (eq .Kind "term") (eq .Data.Plural "tags") (lt (len .Pages) (or site.Params.tagIndexThreshold 3)) }}
@@ -161,6 +161,8 @@
   {{ with .OutputFormats.Get "rss" -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
   {{ end -}}
+  {{- /* Blogroll autodiscovery for feed readers and blogroll tools (file linked from content/blogroll.md). */}}
+  <link rel="blogroll" type="text/xml" href="{{ "files/blogroll.opml" | relURL }}" title="Blogroll" />
 
 
   <!-- JavaScript -->

@@ -29,6 +29,7 @@ rssLimit = 20
 [params]
   title = "Cédric Bonhomme"
   author = "Cédric Bonhomme"
+  email = "cedric@cedricbonhomme.org" # rel=me identity (head.html) and "Reply by email" on posts (single.html)
   description = "A computer scientist, intensely interested in computer security and privacy."
   profilePicture = "images/profile-picture.jpg"
   profilePictureLarge = "images/profile-picture-large.jpg"
