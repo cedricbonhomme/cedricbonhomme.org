@@ -1,7 +1,7 @@
 +++
 title = "Publications"
 description = "Publications"
-date = "2026-09-14"
+date = "2026-11-18"
 tags = ["articles", "publications"]
 aliases = ["articles"]
 author = "Cédric Bonhomme"
@@ -31,6 +31,19 @@ and [ORCID](https://orcid.org/0009-0003-7679-0109).
       booktitle={Proceedings of the 42nd IEEE Annual Computer Security Applications Conference (ACSAC 2026)},
       address={Los Angeles, California, USA},
       year={2026},
+}
+  {{< /bibtex >}}
+
+- Cédric Bonhomme, Alexandre Dulaunoy, “**Exploited Before It Was Fixed? Vulnerability Timelines from Open, Machine-Readable Evidence**”, November 2026. [[arXiv](https://arxiv.org/abs/2611.22479)]
+  {{< bibtex >}}
+@misc{bonhomme2026exploitedfixedvulnerabilitytimelines,
+      title={Exploited Before It Was Fixed? Vulnerability Timelines from Open, Machine-Readable Evidence},
+      author={Cédric Bonhomme and Alexandre Dulaunoy},
+      year={2026},
+      eprint={2611.22479},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2611.22479},
 }
   {{< /bibtex >}}
 
