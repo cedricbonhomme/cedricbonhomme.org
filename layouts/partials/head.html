@@ -159,7 +159,9 @@
 
   <!-- RSS -->
   {{ with .OutputFormats.Get "rss" -}}
-    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
+    {{- $feedTitle := $.Site.Title }}
+    {{- if eq $.Section "disclosures" }}{{ $feedTitle = printf "Vulnerability disclosures – %s" $.Site.Title }}{{ end }}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .RelPermalink $feedTitle | safeHTML }}
   {{ end -}}
   {{- /* Blogroll autodiscovery for feed readers and blogroll tools (file linked from content/blogroll.md). */}}
   <link rel="blogroll" type="text/xml" href="{{ "files/blogroll.opml" | relURL }}" title="Blogroll" />

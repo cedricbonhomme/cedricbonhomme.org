@@ -1,0 +1,23 @@
+{{- /* HTML body of an advisory in the disclosures RSS feed: key facts, description, write-up. */ -}}
+{{- $gcve := partial "gcve/record.html" . -}}
+{{- $cna := $gcve.record.containers.cna -}}
+<p><strong>{{ $gcve.id }}</strong>{{ with $cna.title }} – {{ . }}{{ end }}</p>
+<ul>
+  <li>Severity: {{ partial "gcve/severity.html" $cna }}</li>
+  {{- range $cna.problemTypes }}{{ range .descriptions }}
+  <li>Weakness: {{ .description }}</li>
+  {{- end }}{{ end }}
+  {{- range $cna.affected }}
+  <li>Affected: {{ .product }}
+    {{- range .versions }}
+      {{- if and (eq .version "0") (or .lessThan .lessThanOrEqual) }}, all versions{{ else }}, {{ .version }}{{ end }}
+      {{- with .lessThan }} before {{ . }}{{ end }}{{ with .lessThanOrEqual }} up to {{ . }}{{ end }}
+    {{- end }}</li>
+  {{- end }}
+  <li>Reported by: {{ partial "gcve/reporters.html" $cna }}</li>
+</ul>
+{{- range $cna.descriptions }}{{ if hasPrefix .lang "en" }}
+<p>{{ .value }}</p>
+{{- end }}{{ end }}
+{{ .Content }}
+<p><a href="{{ .Permalink }}">Advisory</a> · <a href="{{ $gcve.file.Permalink }}">record.json</a></p>

@@ -1,0 +1,45 @@
+{{- /*
+  RSS feed of the GCVE advisories of this GNA (the section's RSS output),
+  styled in browsers by style.xsl like the blog feed. Only advisories are
+  listed: the policy page is not one (see partials/gcve/pages.html).
+*/ -}}
+{{- $pages := partial "gcve/pages.html" . -}}
+{{- $author := printf "%s (%s)" site.Params.email site.Params.author -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{- printf "<?xml-stylesheet href=%q type=\"text/xsl\"?>" ("style.xsl" | relLangURL) | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ .Title }} – GNA {{ site.Params.gnaId }} – {{ site.Title }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>{{ .Description }}</description>
+    <generator>Hugo</generator>
+    <language>{{ site.Language.Locale }}</language>
+    <managingEditor>{{ $author }}</managingEditor>
+    <webMaster>{{ $author }}</webMaster>{{ with .Site.Copyright }}
+    <copyright>{{ replace . "{{ YEAR }}" (now.Format "2006") }}</copyright>{{ end }}{{ with $pages }}
+    <lastBuildDate>{{ (index .ByLastmod.Reverse 0).Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+    {{- with .OutputFormats.Get "RSS" }}
+    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{- end }}
+    {{- range $pages }}
+    {{- $gcve := partial "gcve/record.html" . }}
+    {{- $cna := $gcve.record.containers.cna }}
+    <item>
+      <title>{{ $gcve.id }}{{ with $cna.title }} – {{ . }}{{ end }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      <author>{{ $author }}</author>
+      <guid isPermaLink="false">{{ $gcve.id }}</guid>
+      {{- /* Mastodon-friendly categories, as in the blog feed: no hyphens. */}}
+      <category>GCVE</category>
+      {{- range first 1 $cna.affected }}
+      <category>{{ replace (title .product) " " "" }}</category>
+      {{- end }}
+      {{- range first 1 $cna.problemTypes }}{{ range first 1 .descriptions }}{{ with .cweId }}
+      <category>{{ replace . "-" "" }}</category>
+      {{- end }}{{ end }}{{ end }}
+      <description>{{ partial "gcve/feed-item.html" . | transform.XMLEscape | safeHTML }}</description>
+    </item>
+    {{- end }}
+  </channel>
+</rss>
