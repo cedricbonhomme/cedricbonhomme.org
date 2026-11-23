@@ -1,0 +1,2 @@
+{{- /* Published advisories, newest first: the source of every GCVE feed. */ -}}
+{{- return (where site.RegularPages "Section" "disclosures").ByDate.Reverse -}}

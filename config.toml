@@ -47,6 +47,7 @@ rssLimit = 20
   numberOfRelatedPosts = 3
   customCss = ["css/custom.css"]
   images = ["/images/profile-picture.jpg"]
+  gnaId = 2015 # GCVE Numbering Authority ID (https://gcve.eu), used by content/disclosures/
   tagIndexThreshold = 3 # tag pages with fewer posts get noindex and are left out of the sitemap
 
   # Webring navigation in the footer (layouts/partials/footer.html); an empty/false value hides that ring.
@@ -142,9 +143,30 @@ url = "/sitemap/"
   blog = '/:year/:month/:day/:slug/'
 
 [outputs]
-  home = ["HTML"]
+  home = ["HTML", "GCVEPublication", "GCVEDump"] # GCVE feeds of GNA 2015, see content/disclosures/
   section = ["HTML", "RSS"]  # This applies to all sections like blog, software, etc.
   page = ["HTML"]
+
+# GCVE-BCP-03 publication feeds, built from the advisories in content/disclosures/.
+# Consumers append fixed paths to the directory's gcve_pull_api (the site root):
+#   /api/gcve/publication   JSON array (served from publication.json, see static/.htaccess)
+#   /dumps/gna-2015.ndjson  one record per line
+[mediaTypes."application/x-ndjson"]
+  suffixes = ["ndjson"]
+
+[outputFormats.GCVEPublication]
+  mediaType = "application/json"
+  baseName = "publication"
+  path = "api/gcve"
+  isPlainText = true
+  notAlternative = true
+
+[outputFormats.GCVEDump]
+  mediaType = "application/x-ndjson"
+  baseName = "gna-2015"
+  path = "dumps"
+  isPlainText = true
+  notAlternative = true
 
 
 ## Social links
@@ -193,3 +215,9 @@ url = "https://www.linkedin.com/in/cedricbonhomme"
 icon = "fas fa-rss"
 title = "News via RSS"
 url = "https://www.cedricbonhomme.org/blog/index.xml"
+
+# `hugo server` ignores static/.htaccess: mirror its GCVE rewrite for local testing.
+[[server.redirects]]
+  from = "/api/gcve/publication{,/}"
+  to = "/api/gcve/publication.json"
+  status = 200

@@ -1,0 +1,37 @@
+{{- /*
+  The GCVE record (CVE 5 + x_gcve, GCVE-BCP-05) of an advisory page bundle,
+  read from its record.json and checked against what Vulnerability-Lookup's
+  gcve_vl feeder requires. Any problem fails the build instead of publishing
+  a record peers would skip.
+*/ -}}
+{{- $page := . -}}
+{{- $file := $page.Resources.Get "record.json" -}}
+{{- if not $file -}}
+  {{- errorf "GCVE: %s has no record.json" $page.File.Path -}}
+{{- end -}}
+{{- $record := $file | transform.Unmarshal -}}
+{{- $meta := $record.cveMetadata -}}
+{{- if not $meta -}}
+  {{- errorf "GCVE: %s: missing cveMetadata" $file.Name -}}
+{{- end -}}
+{{- $id := "" -}}
+{{- range $record.containers.cna.x_gcve -}}
+  {{- if eq .recordType "advisory" -}}{{- $id = .vulnId -}}{{- end -}}
+{{- end -}}
+{{- $expected := printf "GCVE-%v-" site.Params.gnaId -}}
+{{- if not (strings.HasPrefix $id $expected) -}}
+  {{- errorf "GCVE: %s: containers.cna.x_gcve advisory vulnId %q must start with %s" $page.File.Path $id $expected -}}
+{{- end -}}
+{{- with $meta.vulnId -}}
+  {{- if ne . $id -}}{{- errorf "GCVE: %s: cveMetadata.vulnId %q disagrees with x_gcve %q" $page.File.Path . $id -}}{{- end -}}
+{{- end -}}
+{{- if ne (lower $id) (lower $page.File.ContentBaseName) -}}
+  {{- errorf "GCVE: %s: bundle directory must be named %s" $page.File.Path (lower $id) -}}
+{{- end -}}
+{{- if not (in (slice "PUBLISHED" "REJECTED" "RESERVED") $meta.state) -}}
+  {{- errorf "GCVE: %s: cveMetadata.state must be PUBLISHED, REJECTED or RESERVED" $page.File.Path -}}
+{{- end -}}
+{{- if not (or $meta.dateUpdated $meta.datePublished $meta.dateReserved) -}}
+  {{- errorf "GCVE: %s: cveMetadata needs dateUpdated, datePublished or dateReserved" $page.File.Path -}}
+{{- end -}}
+{{- return dict "id" $id "record" $record "file" $file -}}

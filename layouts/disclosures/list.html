@@ -1,0 +1,30 @@
+{{ define "main" }}
+  <div class="post {{ with .Site.Params.doNotLoadAnimations }}.{{ else }}animated fadeInDown{{ end }}">
+    <div class="post__content">
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+      {{ with .Pages.ByDate.Reverse }}
+        <table class="gcve-table">
+          <thead>
+            <tr><th>Identifier</th><th>Title</th><th>Severity</th><th>Reported by</th><th>Published</th></tr>
+          </thead>
+          <tbody>
+            {{ range . }}
+              {{ $gcve := partial "gcve/record.html" . }}
+              {{ $cna := $gcve.record.containers.cna }}
+              <tr>
+                <td><a href="{{ .RelPermalink }}"><code>{{ $gcve.id }}</code></a></td>
+                <td>{{ with $cna.title }}{{ . }}{{ else }}{{ $.Title }}{{ end }}</td>
+                <td>{{ partial "gcve/severity.html" $cna }}</td>
+                <td>{{ partial "gcve/reporters.html" $cna }}</td>
+                <td><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time></td>
+              </tr>
+            {{ end }}
+          </tbody>
+        </table>
+      {{ else }}
+        <p><em>No advisory published yet.</em></p>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

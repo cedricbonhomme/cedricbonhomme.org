@@ -1,0 +1,4 @@
+{{- /* GCVE-BCP-03 static dump /dumps/gna-<id>.ndjson: one record per line. */ -}}
+{{- range partial "gcve/pages.html" . -}}
+{{ (partial "gcve/record.html" .).record | jsonify }}
+{{ end -}}

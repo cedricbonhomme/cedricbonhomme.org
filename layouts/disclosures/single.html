@@ -1,0 +1,67 @@
+{{ define "main" }}
+  {{ $gcve := partial "gcve/record.html" . }}
+  {{ $cna := $gcve.record.containers.cna }}
+  {{ $meta := $gcve.record.cveMetadata }}
+  <div class="post {{ with .Site.Params.doNotLoadAnimations }}.{{ else }}animated fadeInDown{{ end }}">
+    <div class="post__content">
+      <h1>{{ $gcve.id }}</h1>
+      {{ with $cna.title }}<p class="gcve-title">{{ . }}</p>{{ end }}
+
+      <table class="gcve-table">
+        <tbody>
+          <tr><th>State</th><td>{{ $meta.state }}</td></tr>
+          {{ with $meta.datePublished }}<tr><th>Published</th><td><time datetime="{{ . }}">{{ time.Format "2006-01-02" . }}</time></td></tr>{{ end }}
+          {{ with $meta.dateUpdated }}<tr><th>Updated</th><td><time datetime="{{ . }}">{{ time.Format "2006-01-02" . }}</time></td></tr>{{ end }}
+          <tr><th>Severity</th><td>{{ partial "gcve/severity.html" $cna }}</td></tr>
+          {{ range $cna.metrics }}{{ with .cvssV4_0 }}<tr><th>Vector</th><td><code>{{ .vectorString }}</code></td></tr>{{ end }}{{ with .cvssV3_1 }}<tr><th>Vector</th><td><code>{{ .vectorString }}</code></td></tr>{{ end }}{{ end }}
+          {{ range $cna.problemTypes }}{{ range .descriptions }}
+            <tr><th>Weakness</th><td>{{ with .cweId }}<a href="https://cwe.mitre.org/data/definitions/{{ strings.TrimPrefix "CWE-" . }}.html">{{ . }}</a>{{ end }} {{ strings.TrimPrefix (printf "%s " (.cweId | default "")) .description }}</td></tr>
+          {{ end }}{{ end }}
+          {{ with $meta.cveId }}<tr><th>CVE</th><td><a href="https://www.cve.org/CVERecord?id={{ . }}">{{ . }}</a></td></tr>{{ end }}
+        </tbody>
+      </table>
+
+      {{ range $cna.descriptions }}{{ if hasPrefix .lang "en" }}<p>{{ .value }}</p>{{ end }}{{ end }}
+
+      {{ with $cna.affected }}
+        <h2>Affected products</h2>
+        <ul>
+          {{ range . }}
+            <li>
+              <strong>{{ .vendor }} {{ .product }}</strong>
+              {{ with .versions }}
+                <ul>
+                  {{ range . }}
+                    <li>{{ .status }}: {{ .version }}{{ with .lessThan }} to before {{ . }}{{ end }}{{ with .lessThanOrEqual }} to {{ . }}{{ end }}</li>
+                  {{ end }}
+                </ul>
+              {{ end }}
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+
+      {{ with .Content }}
+        <h2>Details</h2>
+        {{ . }}
+      {{ end }}
+
+      {{ with $cna.credits }}
+        <h2>Credits</h2>
+        <ul>{{ range . }}<li>{{ .value }}{{ with .type }} ({{ . }}){{ end }}</li>{{ end }}</ul>
+      {{ end }}
+
+      {{ with $cna.references }}
+        <h2>References</h2>
+        <ul>{{ range . }}<li><a href="{{ .url }}">{{ .url }}</a>{{ with .tags }} <small>{{ delimit . ", " }}</small>{{ end }}</li>{{ end }}</ul>
+      {{ end }}
+
+      <p>
+        Machine-readable record (CVE 5, GCVE-BCP-05):
+        <a href="{{ $gcve.file.RelPermalink }}" type="application/json">record.json</a> ·
+        <a href="https://vulnerability.circl.lu/vuln/{{ lower $gcve.id }}">Vulnerability-Lookup</a> ·
+        <a href="{{ .Parent.RelPermalink }}">All disclosures</a>
+      </p>
+    </div>
+  </div>
+{{ end }}

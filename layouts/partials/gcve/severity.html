@@ -1,0 +1,12 @@
+{{- /* First CVSS score of a CNA container, newest CVSS version first, as "5.1 MEDIUM (4.0)". */ -}}
+{{- $out := "" -}}
+{{- range $key := slice "cvssV4_0" "cvssV3_1" "cvssV3_0" "cvssV2_0" -}}
+  {{- range $.metrics -}}
+    {{- with index . $key -}}
+      {{- if not $out -}}
+        {{- $out = printf "%v %s (CVSS %s)" .baseScore (.baseSeverity | default "") .version -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $out | default "–" -}}

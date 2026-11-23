@@ -1,0 +1,10 @@
+{{- /*
+  GCVE-BCP-03 /api/gcve/publication: every advisory of this GNA, newest first.
+  Static, so the filters of BCP-03 (page, per_page, since...) are ignored and
+  the whole list is returned whatever the query string.
+*/ -}}
+{{- $records := slice -}}
+{{- range partial "gcve/pages.html" . -}}
+  {{- $records = $records | append (partial "gcve/record.html" .).record -}}
+{{- end -}}
+{{- $records | jsonify -}}

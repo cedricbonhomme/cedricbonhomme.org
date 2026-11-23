@@ -1,0 +1,8 @@
+{{- /* Who reported the issue: the "finder" and "reporter" credits of a CNA container, comma separated. */ -}}
+{{- $names := slice -}}
+{{- range .credits -}}
+  {{- if in (slice "finder" "reporter") .type -}}
+    {{- $names = $names | append .value -}}
+  {{- end -}}
+{{- end -}}
+{{- delimit ($names | uniq) ", " | default "–" -}}
