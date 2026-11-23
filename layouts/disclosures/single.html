@@ -32,7 +32,11 @@
               {{ with .versions }}
                 <ul>
                   {{ range . }}
-                    <li>{{ .status }}: {{ .version }}{{ with .lessThan }} to before {{ . }}{{ end }}{{ with .lessThanOrEqual }} to {{ . }}{{ end }}</li>
+                    <li>{{ .status }}:
+                      {{- if and (eq .version "0") (or .lessThan .lessThanOrEqual) }} all versions
+                      {{- else }} {{ .version }}{{ end }}
+                      {{- with .lessThan }} before {{ . }}{{ end }}
+                      {{- with .lessThanOrEqual }} up to {{ . }}{{ end }}</li>
                   {{ end }}
                 </ul>
               {{ end }}
