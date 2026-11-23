@@ -30,17 +30,13 @@ To report a vulnerability, see [security.txt](/.well-known/security.txt).
 
 The two projects I dedicate most of my open-source time to:
 
-- [**Vulnerability-Lookup**](https://github.com/vulnerability-lookup/vulnerability-lookup):
-  unifies multi-source vulnerability data and streamlines Coordinated Vulnerability
-  Disclosure workflows.
 - [**Newspipe**](https://sr.ht/~cedric/newspipe): a self-hosted web news aggregator — own your feeds,
   your data, and your reading.
+- [**Stegano**](https://github.com/cedricbonhomme/Stegano): a pure-Python steganography module.
 
 
 ## Security
 
-- [Stegano](https://github.com/cedricbonhomme/Stegano): a pure-Python steganography
-  module.
 - [pyHIDS](https://github.com/cedricbonhomme/pyHIDS): a simple host-based intrusion
   detection system for verifying the integrity of a system.
 - [IP-Link](https://github.com/cedricbonhomme/IP-Link): visualizes relationships
@@ -90,10 +86,6 @@ The two projects I dedicate most of my open-source time to:
 
 ## Other projects & contributions
 
-- [MONARC](https://github.com/monarc-project): an Optimised Risk Assessment Methodology.
-- [MOSP](https://github.com/monarc-project/MOSP): a user-friendly platform for
-  creating, editing, and sharing JSON objects.
-- [Anatole](https://github.com/lxndrblz/anatole): the Hugo theme of this website.
 - [EV3WebController](https://github.com/cedricbonhomme/EV3WebController): a web
   interface to control the motors of the EV3 robot.
 - [pyChatter](https://hg.sr.ht/~cedric/pychatter): an instant messaging
@@ -101,9 +93,4 @@ The two projects I dedicate most of my open-source time to:
   [SPADE](https://github.com/javipalanca/spade) multi-agent platform.
 - [Balloon](https://hg.sr.ht/~cedric/balloon): a Mercurial-based alternative
   to Dropbox with file version control.
-- [PRIMO](https://web.archive.org/web/20190807221818/http://siis.cse.psu.edu/primo/):
-  a research tool for probabilistic modeling of inter-component communication
-  in Android applications.
-- [Trovebox](https://github.com/photo/frontend): an open-source photo sharing
-  and hosting platform (formerly OpenPhoto), now discontinued.
 - Various Python packages [on PyPI](https://pypi.org/user/cedricbonhomme).
