@@ -1,0 +1,42 @@
+# GCVE-BCP-06 conformance of GNA 2015: the facts declared by content/disclosures/policy.md.
+# layouts/home.gcveconformance.json adds what the build can compute from the
+# advisories and writes /api/gcve/conformance.json. Keep both files in sync
+# when the policy changes.
+
+gcve_bcp_version = "BCP-06-1.1"
+license = "CC0-1.0"
+
+[governance]
+  has_security_contact = true
+  security_contact_type = "email"
+  security_contact_pgp_available = true
+  operator_publicly_identified = true
+  scope_defined = true
+  conflict_of_interest_statement = true
+
+[disclosure_process]
+  operational_model = "vendor_authority"
+  publication_visibility = "public"
+  disclosure_model = "cvd"
+  supports_embargo_process = true
+  embargo_policy_public = true
+  human_review_required = true
+  automated_allocation = false
+  review_sla_days = 14 # "Confirm or dispute the issue, and share a plan" in the policy
+
+[allocation_quality]
+  identifier_reuse_detected = false
+  identifier_reassignment_detected = false
+  uses_permalinks = true
+  has_vendor_acknowledgement = true # advisories are issued by the maintainer (vendor authority)
+
+[interoperability]
+  provides_machine_readable_feed = true
+  feed_format = ["json", "ndjson"]
+  schema_version_declared = true
+  uses_openvex = false
+  uses_ossf_schema = false
+
+[synchronization]
+  provides_sync_endpoint = true
+  sync_protocol_version = "BCP-03-1.6"

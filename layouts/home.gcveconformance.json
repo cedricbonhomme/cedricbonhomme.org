@@ -1,0 +1,74 @@
+{{- /*
+  GCVE-BCP-06 conformance JSON of this GNA: the declared facts of
+  data/gcve_conformance.toml, plus what the build measures on the advisories.
+  Rebuilt on every deploy, so "last_updated" is the build date; deploy at least
+  every 90 days. Values only a remote evaluator can measure (reference HTTP
+  ratios, sync uptime and latency, last successful sync, score) are null.
+*/ -}}
+{{- $c := site.Data.gcve_conformance -}}
+{{- $policy := site.GetPage "/disclosures/policy" -}}
+{{- if not $policy -}}{{- errorf "GCVE conformance: content/disclosures/policy.md is missing" -}}{{- end -}}
+
+{{- $count := 0 -}}
+{{- $descLength := 0 -}}
+{{- $fields := 0 -}}
+{{- $allCwe := true -}}
+{{- $allCvss := true -}}
+{{- $anyCwe := false -}}
+{{- $anyCvss := false -}}
+{{- range partial "gcve/pages.html" . -}}
+  {{- $cna := (partial "gcve/record.html" .).record.containers.cna -}}
+  {{- $count = add $count 1 -}}
+  {{- $fields = add $fields (len $cna) -}}
+  {{- range first 1 (where $cna.descriptions "lang" "in" (slice "en" "en-US" "en-GB")) -}}
+    {{- $descLength = add $descLength (strings.RuneCount .value) -}}
+  {{- end -}}
+  {{- $cwe := false -}}
+  {{- range $cna.problemTypes -}}{{- range .descriptions -}}{{- if .cweId -}}{{- $cwe = true -}}{{- end -}}{{- end -}}{{- end -}}
+  {{- $cvss := false -}}
+  {{- range $cna.metrics -}}
+    {{- range $k, $_ := . -}}{{- if strings.HasPrefix $k "cvss" -}}{{- $cvss = true -}}{{- end -}}{{- end -}}
+  {{- end -}}
+  {{- $allCwe = and $allCwe $cwe -}}{{- $anyCwe = or $anyCwe $cwe -}}
+  {{- $allCvss = and $allCvss $cvss -}}{{- $anyCvss = or $anyCvss $cvss -}}
+{{- end -}}
+{{- $hasCwe := and $anyCwe $allCwe -}}
+{{- $hasCvss := and $anyCvss $allCvss -}}
+
+{{- $doc := dict
+  "gcve_bcp_version" $c.gcve_bcp_version
+  "gna_id" (string site.Params.gnaId)
+  "last_updated" (now.UTC.Format "2006-01-02")
+  "version" (now.UTC.Format "2006.01.02")
+  "license" $c.license
+  "advisory_count" $count
+  "governance" (merge $c.governance (dict
+    "has_public_disclosure_policy" true
+    "disclosure_policy_url" $policy.Permalink
+    "disclosure_policy_last_updated" ($policy.Lastmod.Format "2006-01-02")
+  ))
+  "disclosure_process" (merge $c.disclosure_process (dict
+    "average_embargo_duration_days" nil
+  ))
+  "allocation_quality" (merge $c.allocation_quality (dict
+    "reference_http_200_ratio" nil
+    "reference_http_404_ratio" nil
+    "average_description_length" (cond (gt $count 0) (div $descLength (math.Max $count 1) | int) nil)
+    "has_cwe_classification" $hasCwe
+    "has_cvss_score" $hasCvss
+    "has_epss_score" false
+    "average_fields_per_record" (cond (gt $count 0) (div $fields (math.Max $count 1) | int) nil)
+  ))
+  "interoperability" (merge $c.interoperability (dict
+    "uses_cwe" $hasCwe
+    "uses_cvss" $hasCvss
+  ))
+  "synchronization" (merge $c.synchronization (dict
+    "sync_endpoint_url" (absURL "api/gcve/publication")
+    "static_dump_url" (absURL (printf "dumps/gna-%v.ndjson" site.Params.gnaId))
+    "last_successful_sync" nil
+    "sync_uptime_ratio_30d" nil
+    "average_sync_latency_seconds" nil
+  ))
+-}}
+{{- $doc | jsonify (dict "indent" "  ") -}}

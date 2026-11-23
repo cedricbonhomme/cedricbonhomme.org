@@ -23,7 +23,7 @@ AddType application/x-ndjson .ndjson
   RewriteRule ^api/gcve/publication/?$ api/gcve/publication.json [L,T=application/json]
 </IfModule>
 <IfModule mod_headers.c>
-  <FilesMatch "^(publication\.json|gna-[0-9]+\.ndjson|record\.json)$">
+  <FilesMatch "^(publication\.json|conformance\.json|gna-[0-9]+\.ndjson|record\.json)$">
     Header set Access-Control-Allow-Origin "*"
   </FilesMatch>
 </IfModule>

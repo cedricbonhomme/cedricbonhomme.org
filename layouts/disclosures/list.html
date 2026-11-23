@@ -3,7 +3,7 @@
     <div class="post__content">
       <h1>{{ .Title }}</h1>
       {{ .Content }}
-      {{ with .Pages.ByDate.Reverse }}
+      {{ with partial "gcve/pages.html" . }}
         <table class="gcve-table">
           <thead>
             <tr><th>Identifier</th><th>Title</th><th>Severity</th><th>Reported by</th><th>Published</th></tr>

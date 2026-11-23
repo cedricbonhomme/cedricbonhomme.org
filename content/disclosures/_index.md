@@ -13,5 +13,7 @@ They are also published in machine-readable form, following
 [`/api/gcve/publication`](/api/gcve/publication) (JSON) and
 [`/dumps/gna-2015.ndjson`](/dumps/gna-2015.ndjson) (NDJSON). Any
 [Vulnerability-Lookup](https://vulnerability.circl.lu) instance synchronises them.
+The [GCVE-BCP-06](https://gcve.eu/bcp/gcve-bcp-06/) conformance of this GNA is
+described in [`/api/gcve/conformance.json`](/api/gcve/conformance.json).
 
-To report a vulnerability, see [security.txt](/.well-known/security.txt).
+To report a vulnerability, see the [disclosure policy](/disclosures/policy/).

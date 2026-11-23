@@ -143,7 +143,7 @@ url = "/sitemap/"
   blog = '/:year/:month/:day/:slug/'
 
 [outputs]
-  home = ["HTML", "GCVEPublication", "GCVEDump"] # GCVE feeds of GNA 2015, see content/disclosures/
+  home = ["HTML", "GCVEPublication", "GCVEDump", "GCVEConformance"] # GCVE feeds of GNA 2015, see content/disclosures/
   section = ["HTML", "RSS"]  # This applies to all sections like blog, software, etc.
   page = ["HTML"]
 
@@ -157,6 +157,13 @@ url = "/sitemap/"
 [outputFormats.GCVEPublication]
   mediaType = "application/json"
   baseName = "publication"
+  path = "api/gcve"
+  isPlainText = true
+  notAlternative = true
+
+[outputFormats.GCVEConformance] # GCVE-BCP-06 /api/gcve/conformance.json, see data/gcve_conformance.toml
+  mediaType = "application/json"
+  baseName = "conformance"
   path = "api/gcve"
   isPlainText = true
   notAlternative = true
