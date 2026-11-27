@@ -43,7 +43,7 @@ To adopt the practice, a project adds a section to its `CONTRIBUTING.md`, a few
 rules to its `AGENTS.md`, and two boxes to its pull request template. The site has
 [the texts ready to copy](https://www.saywhichai.org/good-practice.html). The same
 commitments also exist as a short, versioned
-[charter](https://github.com/cedricbonhomme/ai-disclosure/blob/main/AI_CHARTER.md)
+[charter](https://github.com/cedricbonhomme/SayWhichAI/blob/main/AI_CHARTER.md)
 that a project can adopt by name.
 
 ## What it looks like
@@ -68,7 +68,7 @@ pages rank nobody.
 
 The list of projects is a showcase, not a registry, and it will stay short. The
 tool that builds the pages is
-[free software](https://github.com/cedricbonhomme/ai-disclosure), so anyone can run
+[free software](https://github.com/cedricbonhomme/SayWhichAI), so anyone can run
 it on their own projects.
 
 ## Not every project chooses this
